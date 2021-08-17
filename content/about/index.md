@@ -11,6 +11,8 @@ hits:
   <span id="Allow_me_to_introduce_myself">Allow me to introduce myself.</span>
 </h2>
 
+My name is Antoine Beauchamp. I am a 40-ish years old software developer living north of Montreal, Canada. I love documenting and publishing projects that I do so that others may benefit from it. If you have similar projects that you worked on or simply wants to share yours, <a title="Contact" href="http://www.end2endzone.com/contact/" target="_blank">please get in touch</a>!
+
 <h3 style="text-align: justify;">
   <span id="My_story">[My story]</span>
 </h3>
