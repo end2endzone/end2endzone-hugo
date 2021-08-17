@@ -1,0 +1,202 @@
+---
+title: SoftTimers – A collection of software timers to easily compute elapsed time since an event occurred
+author: end2end
+type: post
+date: 2016-06-10T20:14:19+00:00
+url: /softtimers-a-collection-of-software-timers-to-easily-compute-elapsed-time-since-an-event-occured/
+featured_image: /wp-content/uploads/2016/06/Arduino-SoftTimers-library-672x378.jpg
+Snippet Title:
+  - Downloadable content
+Snippet:
+  - |
+    <p>Downloads available in this article:</p>
+    <div style="margin-bottom: 18px">
+    <p class="nomarginbottom">Library:</p>
+    <ul class="fa-ul">
+    <li><a href="/download/2089/"><i class="fa-li fa fa-download" style="position: inherit;"></i>[download id="2089" template="title"]</a></li>
+    </ul>
+    </div>
+    <div style="margin-bottom: 18px">
+    <p class="nomarginbottom">Examples:</p>
+    <ul class="fa-ul">
+    <li><a href="/download/2109/"><i class="fa-li fa fa-download" style="position: inherit;"></i>[download id="2109" template="title"]</a></li>
+    <li><a href="/download/2105/"><i class="fa-li fa fa-download" style="position: inherit;"></i>[download id="2105" template="title"]</a></li>
+    <li><a href="/download/2107/"><i class="fa-li fa fa-download" style="position: inherit;"></i>[download id="2107" template="title"]</a></li>
+    <li><a href="/download/2111/"><i class="fa-li fa fa-download" style="position: inherit;"></i>[download id="2111" template="title"]</a></li>
+    </ul>
+    </div>
+hits:
+  - 826
+categories:
+  - Development
+tags:
+  - arduino
+  - arduino library
+  - c++
+  - english
+  - open source
+
+---
+# <span id="Introduction">Introduction</span>
+
+The following article is about my simplest library that I wrote for the arduino: _SoftTimers_. The _SoftTimers_ arduino library allows one to properly time multiple events and know when each &#8220;timer&#8221; expires meaning that an action is required.<!--more-->
+
+Skip to the [download section][1] for quick download.
+
+When I first learned programming the arduino, I learned the &#8220;_hello world_&#8221; of the arduino: turning a LED on and off.  As expected, I used <code class="prettycode">delay()</code> to define how long the LED should be on and off.
+
+However, this approach is bad since it break the &#8220;realtime&#8221; property of the software to react to other event. If I want to make the LED instantly turn off when pressing a button, I had to wait for the delay to complete before processing the button. (I know you could use interrupts and update with LED pin within the interrupt but that is out of scope for now.)
+
+Another issue is extensibility. Making 3 LEDs blink at different time interval is much harder with delays. How about 40 LEDs? Impossible?
+
+This is where SoftTimers arduino library becomes helpful.
+
+# <span id="Purpose">Purpose</span>
+
+The SoftTimers allows one to properly time multiple events and know when each &#8220;timer&#8221; expires meaning that an action is required. In this example above, a SoftTimer expires when it is time to toggle an LED.
+
+SoftTimers also provide the elapsed time since an event occurred. In case of an interruption, the elapsed time can be used as debugging information. It can also be used as a countdown information displayed to the user.
+
+The library regroups basic timer functionalities into a single class. The usual way to get the same functionality is to create multiple variables for each single timer. This way is hard to maintain when you need multiple timers are required to run at the same time.
+
+SoftTimer classes are designed to be keep &#8220;simple & stupid&#8221;. No software interrupts. Non-blocking. Each timer must be polled within the loop() to know their status.
+
+# <span id="Library_features">Library features</span>
+
+Here is a list of all library features:
+
+<li style="text-align: justify;">
+  Provides the non-blocking equivalent to blocking <code class="prettycode">delay()</code> function.
+</li>
+<li style="text-align: justify;">
+  Each timers encapsulate its own expiration (timeout) time.
+</li>
+<li style="text-align: justify;">
+  Provides elapsed time, remaining time and progress (in percentage) APIs.
+</li>
+<li style="text-align: justify;">
+  Supports milliseconds, microseconds or any other arbitrary time with external time counting function.
+</li>
+<li style="text-align: justify;">
+  Provides expiration loop count API (as if timer never expire and automatically <code class="prettycode">reset()</code>) to easily implement toggling, and time based state machines.
+</li>
+<li style="text-align: justify;">
+  Automatically handles <code class="prettycode">micros()</code> an <code class="prettycode">millis()</code> overflows / wrap around special cases.
+</li>
+
+# <span id="Usage">Usage</span>
+
+## <span id="Basic_Usage">Basic Usage</span>
+
+Call <code class="prettycode">setTimeOutTime()</code> to setup the non-blocking SoftTimer then call <code class="prettycode">reset()</code> to restart the internal counter.
+
+Within the <code class="prettycode">loop()</code>, use <code class="prettycode">hasTimedOut()</code> to know if the timer has expired.
+
+At any moment, call <code class="prettycode">getElapsedTime()</code> to get the absolute elapsed time since the last <code class="prettycode">reset()</code>.
+
+## <span id="Fade_a_LED">Fade a LED</span>
+
+Fading a LED like [arduino&#8217;s Built-in Fade Example][2] is trivial using SoftTimers. The library helps in defining the constant speed at which the LED will fade by defining the total length of the process and by easily mapping the timer &#8220;progress&#8221; to the amount of fade (PWM) used with the output pin. All of this in a non-blocking manner.
+
+The following example increases the intensity of a LED from OFF to ON in 1 second and then decreases the intensity of the LED back to OFF in 1 second.
+
+<span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>
+
+Click the following to download the example below:  
+(download 
+	<a class="download-link" title="Version 1.2.219" href="http://www.end2endzone.com/download/2109/" rel="nofollow"> Fade a LED example.ino</a>)
+
+<pre class="lang:c++ decode:true" title="Fade a LED example.ino" data-url="http://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-FadeLed-demo.ino">http://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-FadeLed-demo.ino</pre>
+
+## <span id="Countdown_or_Elapsed_time">Countdown or Elapsed time</span>
+
+Any program that need to display a countdown or compute the elapsed time between two events can also benefit from SoftTimers.
+
+The following example runs a countdown of 5 seconds and then turns a LED on.
+
+<span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>
+
+Click the following to download the example below:  
+(download 
+	<a class="download-link" title="Version 1.2.219" href="http://www.end2endzone.com/download/2105/" rel="nofollow"> Countdown example.ino</a>)
+
+<pre class="lang:default decode:true" title="Countdown example.ino" data-url="http://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-Countdown-demo.ino">http://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-Countdown-demo.ino</pre>
+
+## <span id="Timedrepetitive_cycles">Timed repetitive cycles</span>
+
+SoftTimer library also help reducing repetitive timed cycles to their simplest non-blocking form. SoftTimer library automatically computes current cycle index. Any toggling or cycle scenarios can be implemented with very few lines of code.
+
+The following example implements a system where a single HIGH pin must be cycled every second within multiple pins as defined by the following loop:
+
+<li style="text-align: justify;">
+  set pin 8, 9 and 13 to LOW, LOW and HIGH respectively and then wait 1 second.
+</li>
+<li style="text-align: justify;">
+  set pin 8, 9 and 13 to HIGH, LOW and LOW respectively and then wait 1 second.
+</li>
+<li style="text-align: justify;">
+  set pin 8, 9 and 13 to LOW, HIGH and LOW respectively and then wait 1 second.
+</li>
+<li style="text-align: justify;">
+  repeat the cycle forever&#8230;
+</li>
+
+<span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>
+
+Click the following to download the example below:  
+(download 
+	<a class="download-link" title="Version 1.2.219" href="http://www.end2endzone.com/download/2107/" rel="nofollow"> Cycle a High pin example.ino</a>)
+
+<pre class="lang:c++ decode:true" title="Cycle a High pin example.ino" data-url="http://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-CycleHighPin-demo.ino">http://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-CycleHighPin-demo.ino</pre>
+
+## <span id="Timed_restrictedstate_machines">Timed restricted state machines</span>
+
+SoftTimer library allows one to make an easy abstraction of time when dealing with timed restricted state machines.
+
+The following example implement an hypothetical state machine where each state has a maximum duration:
+
+<li style="text-align: justify;">
+  State #1 &#8211; IDLE (1000 ms)
+</li>
+<li style="text-align: justify;">
+  State #2 &#8211; LISTENING (200 ms)
+</li>
+<li style="text-align: justify;">
+  State #3 &#8211; SYNCHRONIZING (500 ms)
+</li>
+<li style="text-align: justify;">
+  State #4 &#8211; UPDATING (300 ms)
+</li>
+<li style="text-align: justify;">
+  State #1 &#8230;.
+</li>
+
+<span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>
+
+Click the following to download the example below:  
+(download 
+	<a class="download-link" title="Version 1.2.219" href="http://www.end2endzone.com/download/2111/" rel="nofollow"> State Machine example.ino</a>)
+
+<pre class="lang:c++ decode:true" title="State Machine example.ino" data-url="http://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-StateMachine-demo.ino">http://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-StateMachine-demo.ino</pre>
+
+# <span id="License">License</span>
+
+This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details.
+
+You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+**DISCLAIMER:**  
+This software is furnished &#8220;as is&#8221;, without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+
+# <span id="Download">Download</span>
+
+You can download the SoftTimers arduino library by clicking on the following link:  
+
+
+
+		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/2089/" rel="nofollow"> Download &ldquo;SoftTimers arduino library v1.1.219&rdquo; <small>SoftTimers-v1.1.219.zip &ndash; Downloaded 426 times &ndash; 41 KB</small> </a>
+
+ [1]: #Download
+ [2]: https://www.arduino.cc/en/Tutorial/Fade
