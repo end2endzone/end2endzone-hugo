@@ -1,0 +1,179 @@
+/* 
+CSS Selector cheat sheet:
+   article       --> Select the <article> tag
+   .post         --> Select all tags with the 'post' class assigned.
+   #site-sidebar --> Select the tag that has the id 'site-sidebar'.
+*/
+
+
+
+
+/* Select by tag name */
+body {
+  background: RGB(14,36,38); /* dark green grey */
+}
+
+
+
+/* Colors of hyperlinks */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .content a {
+  color: RGB(93,182,34);
+}
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+  color: white;
+}
+
+
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+  color: #999;
+}
+
+
+
+/* Define the color of the top menu header */
+#site-header {
+  color: white;
+  /*background: RGB(76,148,28); */ /* lighter green */
+  /*background: RGB(60,115,20); */ /* a bit darker */
+  background: RGB(45,90,15); /* dark-dark-green */
+}
+.nav {
+  /*color: white;*/
+}
+
+
+
+/* Define the web site's title color */
+#site-intro header h1 {
+    color: RGB(76,148,28);
+}
+
+
+
+/* Learn more button in sidebar */
+input[type=submit], input[type=reset], input[type=button], .button {
+  background-color: transparent;
+  border: 1px solid rgba(161,161,161,1.0);
+  color: white;
+}
+
+
+
+/* Forms */
+input, select, textarea {
+  background: rgba(161,161,161,7%);
+  border: 1px solid rgba(161,161,161,1.0);
+}
+
+
+
+/* Define all the sidebars with black background. Select by id */
+#site-intro, #site-sidebar, #site-footer, .mini-post {
+  color: white;
+  background: black;
+}
+#site-footer {
+  margin: 0 0 0 0;
+  padding-top: 6em;
+  padding-bottom: 6em;
+}
+#mini-bio p {
+  opacity: 1.00;
+}
+
+
+
+/* Define post background to dark grey */
+article, .post {
+  color: white;
+  background: RGB(46,52,54); /* darker grey */
+}
+
+
+
+/* When paragraph should be displayed as warning notes */
+.pleasenote {
+  text-align: justify;
+  background: RGB(253,160,47);
+  border: 1px solid;
+  border-color: #000000;
+  display: table;
+  padding: 10px;
+  border-radius: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  color: black !important;
+}
+.pleasenote * {
+  text-align: justify;
+  padding: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: black !important;
+}
+.pleasenote a {
+  color: white !important;
+}
+.pleasenote a:hover {
+  color: white !important;
+}
+
+
+
+/* Custom definition for EXIF display */
+.exif_table {
+	border-spacing: 0;
+	border-collapse: collapse;
+	width: 1px;
+	border-color: rgba(46, 52, 54, 0) !important;
+}
+.exif_attr {
+	padding: 0;
+	white-space: nowrap;
+	color: #999999;
+	border-color: rgba(46, 52, 54, 0) !important;
+}
+.exif_value {
+	padding: 0;
+	white-space: nowrap;
+	text-align: right;
+	font-weight: bold;
+	color: white;
+	border-color: rgba(46, 52, 54, 0) !important;
+}
+
+
+
+.postedit {
+  color: #fff;
+  text-shadow: none;
+  border: 2px solid;
+  border-color: RGB(73, 182, 39);
+  background: RGB(41,71,48);
+  display: block;
+  padding: 10px;
+  border-radius: 3px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 20px;
+}
+.postedit a {
+  color: #5db622;
+  text-decoration: underline;
+}
+.postedit a:hover {
+  color: #5db622;
+  text-decoration: underline;
+}
+
+
+
+.pleasenote2 {
+  padding:2px;
+  border: 1px solid;
+  background: url(http://www.free-icons-download.net/images/warning-icon-52425.png) no-repeat 10px 50%;
+  padding-left: 50px;
+}
