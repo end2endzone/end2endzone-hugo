@@ -13,6 +13,20 @@ disableLanguages        = []
 [markup.goldmark.renderer]
   unsafe                = true
 
+# https://gohugo.io/getting-started/configuration-markup#highlight
+[markup.highlight]
+  anchorLineNos = false
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ''
+  lineAnchors = ''
+  lineNoStart = 1
+  lineNos = true
+  lineNumbersInTable = true
+  noClasses = true
+  style = 'monokai'
+  tabWidth = 2
+  
 [module]
   [module.hugoVersion]
   extended              = true
