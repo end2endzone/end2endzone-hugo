@@ -1,33 +1,56 @@
 /* 
 CSS Selector cheat sheet:
-   article       --> Select the <article> tag
-   .post         --> Select all tags with the 'post' class assigned.
-   #site-sidebar --> Select the tag that has the id 'site-sidebar'.
+   article       --> Select by tag name: all <article> tags
+   .post         --> Select by class: all tags with the 'post' class assigned.
+   #site-sidebar --> Select by id: all tags that has the id 'site-sidebar'.
 */
-
 
 
 
 /* Select by tag name */
 body {
-  background: RGB(14,36,38); /* dark green grey */
+  background: RGB(14,36,38); /* really-dark green grey */
 }
 
 
 
 /* Colors of hyperlinks */
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .content a {
-  color: RGB(93,182,34);
+#site-intro a,
+#site-sidebar a,
+#site-footer a,
+article a {
+  color: RGB(93,182,34); /* end2endzone's hyperlinks green */
 }
-h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+#site-intro a:hover,
+#site-sidebar a:hover,
+#site-footer a:hover,
+article a:hover {
+  color: #00ff00; /* end2endzone's pure green when mouse over */
+}
+
+#site-sidebar #categories header a {
+  color: #999; /* headers color */
+}
+#site-sidebar #categories header a:hover {
   color: white;
+  opacity: 1.0;
+}
+
+#site-intro .socnet-icons a,
+#site-footer .socnet-icons a {
+  color: white;
+}
+#site-intro .socnet-icons a:hover,
+#site-footer .socnet-icons a:hover {
+  color: white;
+  opacity: 1.0;
 }
 
 
 
 /* Headers */
 h1, h2, h3, h4, h5, h6 {
-  color: #999;
+  color: #999; /* headers color */
 }
 
 
@@ -47,24 +70,58 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Define the web site's title color */
 #site-intro header h1 {
-    color: RGB(76,148,28);
+  color: RGB(76,148,28);
 }
 
 
 
 /* Learn more button in sidebar */
-input[type=submit], input[type=reset], input[type=button], .button {
+input[type=submit], input[type=reset], input[type=button], .button,
+input[type=submit]:hover, input[type=button]:hover, .button:hover {
   background-color: transparent;
   border: 1px solid rgba(161,161,161,1.0);
-  color: white;
+  color: white!important; /* the original hugo-future-imperfect-slim theme css has a !important */
 }
 
 
 
-/* Forms */
-input, select, textarea {
-  background: rgba(161,161,161,7%);
-  border: 1px solid rgba(161,161,161,1.0);
+/* Forms - override the green-ish selection color */
+input:hover, select:hover, textarea:hover,
+input:focus, select:focus, textarea:focus {
+  border-color: white;
+}
+
+
+
+/* Change default selection color from #2eb8ac */
+::selection, ::hover {
+  background: #fdd19d; /* really light orange */
+}
+
+
+
+/* Tables */
+table {
+  background: black; /* space between space is the table background */
+  color: black;
+  border: 0; /* border around the whole table */
+}
+table thead {
+  font-weight: bold;
+  background: RGB(253,160,47); /* orange-like */
+}
+table tbody {
+  font-weight: normal;
+  background: white;
+}
+table>tbody>tr>td:first-child {
+  font-weight: normal; /* disable first row in bold in theme */
+}
+table>tbody>tr:nth-child(even) {
+  background-color: #e8e8e8;
+}
+table tbody tr:hover {
+  background: #fdd19d; /* really light orange */
 }
 
 
@@ -96,29 +153,28 @@ article, .post {
 /* When paragraph should be displayed as warning notes */
 .pleasenote {
   text-align: justify;
-  background: RGB(253,160,47);
-  border: 1px solid;
-  border-color: #000000;
-  display: table;
+  background: RGB(253,160,47); /* orange-like */
+  border: 3px solid;
+  border-color: lightgrey;
   padding: 10px;
   border-radius: 5px;
   margin-left: 20px;
   margin-right: 20px;
   margin-bottom: 20px;
-  color: black !important;
+  color: black;
 }
 .pleasenote * {
   text-align: justify;
   padding: 0px;
   margin-top: 0px;
   margin-bottom: 0px;
-  color: black !important;
+  color: black;
 }
 .pleasenote a {
-  color: white !important;
+  color: white;
 }
 .pleasenote a:hover {
-  color: white !important;
+  color: white;
 }
 
 
@@ -128,13 +184,13 @@ article, .post {
 	border-spacing: 0;
 	border-collapse: collapse;
 	width: 1px;
-	border-color: rgba(46, 52, 54, 0) !important;
+	border-color: rgba(46, 52, 54, 0);
 }
 .exif_attr {
 	padding: 0;
 	white-space: nowrap;
 	color: #999999;
-	border-color: rgba(46, 52, 54, 0) !important;
+	border-color: rgba(46, 52, 54, 0);
 }
 .exif_value {
 	padding: 0;
@@ -142,7 +198,7 @@ article, .post {
 	text-align: right;
 	font-weight: bold;
 	color: white;
-	border-color: rgba(46, 52, 54, 0) !important;
+	border-color: rgba(46, 52, 54, 0);
 }
 
 
@@ -150,7 +206,7 @@ article, .post {
 .postedit {
   color: #fff;
   text-shadow: none;
-  border: 2px solid;
+  border: 3px solid;
   border-color: RGB(73, 182, 39);
   background: RGB(41,71,48);
   display: block;
@@ -161,11 +217,11 @@ article, .post {
   margin-bottom: 20px;
 }
 .postedit a {
-  color: #5db622;
+  color: RGB(93,182,34); /* end2endzone's hyperlinks green */
   text-decoration: underline;
 }
 .postedit a:hover {
-  color: #5db622;
+  color: #00ff00; /* end2endzone's pure green when mouse over */
   text-decoration: underline;
 }
 
