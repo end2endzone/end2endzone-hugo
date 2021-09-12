@@ -74,16 +74,16 @@ It&#8217;s main features are:
 You can download DNS-343 Monitor by clicking on the following links:
 
 <li style="text-align: justify;">
-  <a class="download-link" title="Version 1.1.33" href="http://www.end2endzone.com/download/675/" rel="nofollow"> DNS-343 Monitor v1.1.33 (win32 portable) (110 downloads) </a>
+  <a class="download-link" title="Version 1.1.33" href="http://www.end2endzone.com/download/675/" rel="nofollow"> DNS-343 Monitor v1.1.33 (win32 portable) (111 downloads) </a>
 </li>
 <li style="text-align: justify;">
-  <a class="download-link" title="Version 1.1.33" href="http://www.end2endzone.com/download/672/" rel="nofollow"> DNS-343 Monitor v1.1.33 (win32 Setup) (124 downloads) </a>
+  <a class="download-link" title="Version 1.1.33" href="http://www.end2endzone.com/download/672/" rel="nofollow"> DNS-343 Monitor v1.1.33 (win32 Setup) (126 downloads) </a>
 </li>
 <li style="text-align: justify;">
-  <a class="download-link" title="Version 1.1.33" href="http://www.end2endzone.com/download/670/" rel="nofollow"> DNS-343 Monitor v1.1.33 (x64 portable) (121 downloads) </a>
+  <a class="download-link" title="Version 1.1.33" href="http://www.end2endzone.com/download/670/" rel="nofollow"> DNS-343 Monitor v1.1.33 (x64 portable) (122 downloads) </a>
 </li>
 <li style="text-align: justify;">
-  <a class="download-link" title="Version 1.1.33" href="http://www.end2endzone.com/download/666/" rel="nofollow"> DNS-343 Monitor v1.1.33 (x64 Setup) (111 downloads) </a>
+  <a class="download-link" title="Version 1.1.33" href="http://www.end2endzone.com/download/666/" rel="nofollow"> DNS-343 Monitor v1.1.33 (x64 Setup) (113 downloads) </a>
 </li>
 
 # <span id="Compatible_with"><span style="line-height: 1.5;">Compatible with</span></span>

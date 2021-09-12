@@ -6,7 +6,7 @@ date: 2015-04-04T06:19:02+00:00
 url: /deballage-du-avistar-elite-46-un-video-timelapse/
 featured_image: /wp-content/uploads/2015/04/Great-Planes-Avistar-Elite-Unboxing-featured-image-672x378.jpg
 hits:
-  - 98
+  - 100
 english_post_id:
   - 858
 Snippet Title:

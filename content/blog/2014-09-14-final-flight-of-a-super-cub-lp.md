@@ -6,7 +6,7 @@ date: 2014-09-15T00:27:05+00:00
 url: /final-flight-of-a-super-cub-lp/
 featured_image: /wp-content/uploads/2014/09/DSC034641-672x504.jpg
 hits:
-  - 298
+  - 299
 categories:
   - Model Aeronautics
 tags:

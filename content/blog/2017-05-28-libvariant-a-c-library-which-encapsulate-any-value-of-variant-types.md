@@ -19,7 +19,7 @@ Snippet:
         </div>
         
 hits:
-  - 267
+  - 276
 categories:
   - Development
 tags:
@@ -202,6 +202,6 @@ This software is furnished &#8220;as is&#8221;, without technical support, and w
 You can download the libVariant library by clicking on the following link:
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/2328/" rel="nofollow"> Download &ldquo;libVariant-v2.0.114.zip&rdquo; <small>libVariant-v2.0.114.zip &ndash; Downloaded 515 times &ndash; 99 KB</small> </a>
+		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/2328/" rel="nofollow"> Download &ldquo;libVariant-v2.0.114.zip&rdquo; <small>libVariant-v2.0.114.zip &ndash; Downloaded 526 times &ndash; 99 KB</small> </a>
 
  [1]: #Download

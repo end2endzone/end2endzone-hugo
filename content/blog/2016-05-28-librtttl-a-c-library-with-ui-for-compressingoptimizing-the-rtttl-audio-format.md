@@ -6,7 +6,7 @@ date: 2016-05-28T15:18:35+00:00
 url: /librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/
 featured_image: /wp-content/uploads/2016/05/libRtttl-cplusplus-library-672x378.jpg
 hits:
-  - 304
+  - 307
 Snippet Title:
   - Downloadable content
 Snippet:
@@ -326,19 +326,19 @@ This software is furnished &#8220;as is&#8221;, without technical support, and w
 You can download the libRTTTL library / rtttlOptimizer by clicking on the following links:
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/2035/" rel="nofollow"> Download &ldquo;rtttlOptimizer v1.2.195 Source Code&rdquo; <small>rtttlOptimizer-v1.2.195-src.zip &ndash; Downloaded 338 times &ndash; 186 KB</small> </a>
+		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/2035/" rel="nofollow"> Download &ldquo;rtttlOptimizer v1.2.195 Source Code&rdquo; <small>rtttlOptimizer-v1.2.195-src.zip &ndash; Downloaded 343 times &ndash; 186 KB</small> </a>
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1863/" rel="nofollow"> Download &ldquo;rtttlOptimizer v1.2.195 win32 portable&rdquo; <small>rtttlOptimizer-v1.2.195-win32-portable.zip &ndash; Downloaded 346 times &ndash; 720 KB</small> </a>
+		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1863/" rel="nofollow"> Download &ldquo;rtttlOptimizer v1.2.195 win32 portable&rdquo; <small>rtttlOptimizer-v1.2.195-win32-portable.zip &ndash; Downloaded 350 times &ndash; 720 KB</small> </a>
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1861/" rel="nofollow"> Download &ldquo;rtttlOptimizer v1.2.195 win32 Setup&rdquo; <small>rtttlOptimizer-v1.2.195-win32-Setup.exe &ndash; Downloaded 447 times &ndash; 834 KB</small> </a>
+		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1861/" rel="nofollow"> Download &ldquo;rtttlOptimizer v1.2.195 win32 Setup&rdquo; <small>rtttlOptimizer-v1.2.195-win32-Setup.exe &ndash; Downloaded 453 times &ndash; 834 KB</small> </a>
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1859/" rel="nofollow"> Download &ldquo;rtttlOptimizer v1.2.195 x64 portable&rdquo; <small>rtttlOptimizer-v1.2.195-x64-portable.zip &ndash; Downloaded 347 times &ndash; 847 KB</small> </a>
+		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1859/" rel="nofollow"> Download &ldquo;rtttlOptimizer v1.2.195 x64 portable&rdquo; <small>rtttlOptimizer-v1.2.195-x64-portable.zip &ndash; Downloaded 350 times &ndash; 847 KB</small> </a>
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1857/" rel="nofollow"> Download &ldquo;rtttlOptimizer v1.2.195 x64 Setup&rdquo; <small>rtttlOptimizer-v1.2.195-x64-Setup.exe &ndash; Downloaded 477 times &ndash; 969 KB</small> </a>
+		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1857/" rel="nofollow"> Download &ldquo;rtttlOptimizer v1.2.195 x64 Setup&rdquo; <small>rtttlOptimizer-v1.2.195-x64-Setup.exe &ndash; Downloaded 482 times &ndash; 969 KB</small> </a>
 
  [1]: #Download
  [2]: /nonblockingrtttl-a-non-blocking-arduino-library-for-playing-rtttl-melodies/#Quick_recall_of_the_RTTTL_format

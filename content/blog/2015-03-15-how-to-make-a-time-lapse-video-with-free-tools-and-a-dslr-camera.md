@@ -6,7 +6,7 @@ date: 2015-03-15T19:50:02+00:00
 url: /how-to-make-a-time-lapse-video-with-free-tools-and-a-dslr-camera/
 featured_image: /wp-content/uploads/2015/02/How-to-make-a-time-lapse-video-with-free-tools-and-a-DSLR-camera-672x378.jpg
 hits:
-  - 2681
+  - 2694
 categories:
   - Photography
 tags:

@@ -6,7 +6,7 @@ date: 2017-06-25T16:02:08+00:00
 url: /libargvcodec-a-c-library-which-properly-encode-and-decode-command-line-arguments/
 featured_image: /wp-content/uploads/2017/06/libArgvCodec-cplusplus-library-672x378.jpg
 hits:
-  - 243
+  - 249
 Snippet Title:
   - Downloadable content
 Snippet:
@@ -127,9 +127,9 @@ You can download the libArgvCodec library by clicking on the following link:
 
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/2480/" rel="nofollow"> Download &ldquo;libArgvCodec v1.0.104 (source code)&rdquo; <small>libArgvCodec-x86-v1.0.104-src.zip &ndash; Downloaded 510 times &ndash; 99 KB</small> </a>
+		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/2480/" rel="nofollow"> Download &ldquo;libArgvCodec v1.0.104 (source code)&rdquo; <small>libArgvCodec-x86-v1.0.104-src.zip &ndash; Downloaded 526 times &ndash; 99 KB</small> </a>
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/2482/" rel="nofollow"> Download &ldquo;libArgvCodec v1.0.104 binaries (vs2008, x86, portable)&rdquo; <small>libArgvCodec-x86-v1.0.104-portable.zip &ndash; Downloaded 505 times &ndash; 204 KB</small> </a>
+		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/2482/" rel="nofollow"> Download &ldquo;libArgvCodec v1.0.104 binaries (vs2008, x86, portable)&rdquo; <small>libArgvCodec-x86-v1.0.104-portable.zip &ndash; Downloaded 518 times &ndash; 204 KB</small> </a>
 
  [1]: #Download

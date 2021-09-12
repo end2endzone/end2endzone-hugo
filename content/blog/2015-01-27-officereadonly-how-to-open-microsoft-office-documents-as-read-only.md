@@ -69,16 +69,16 @@ OfficeReadOnly also helps developers by keeping the file intact! Since OfficeRea
 You can download OfficeReadOnly by clicking on the following links:
 
 <li style="text-align: justify;">
-  <a class="download-link" title="Version 1.2.40" href="http://www.end2endzone.com/download/628/" rel="nofollow"> Office Read Only v1.2.40 (win32 portable) (129 downloads) </a>
+  <a class="download-link" title="Version 1.2.40" href="http://www.end2endzone.com/download/628/" rel="nofollow"> Office Read Only v1.2.40 (win32 portable) (132 downloads) </a>
 </li>
 <li style="text-align: justify;">
-  <a class="download-link" title="Version 1.2.40" href="http://www.end2endzone.com/download/625/" rel="nofollow"> Office Read Only v1.2.40 (win32 Setup) (114 downloads) </a>
+  <a class="download-link" title="Version 1.2.40" href="http://www.end2endzone.com/download/625/" rel="nofollow"> Office Read Only v1.2.40 (win32 Setup) (117 downloads) </a>
 </li>
 <li style="text-align: justify;">
-  <a class="download-link" title="Version 1.2.40" href="http://www.end2endzone.com/download/620/" rel="nofollow"> Office Read Only v1.2.40 (x64 portable) (134 downloads) </a>
+  <a class="download-link" title="Version 1.2.40" href="http://www.end2endzone.com/download/620/" rel="nofollow"> Office Read Only v1.2.40 (x64 portable) (137 downloads) </a>
 </li>
 <li style="text-align: justify;">
-  <a class="download-link" title="Version 1.2.40" href="http://www.end2endzone.com/download/618/" rel="nofollow"> Office Read Only v1.2.40 (x64 Setup) (157 downloads) </a>
+  <a class="download-link" title="Version 1.2.40" href="http://www.end2endzone.com/download/618/" rel="nofollow"> Office Read Only v1.2.40 (x64 Setup) (161 downloads) </a>
 </li>
 
 # <span id="Compatible_with"><span style="line-height: 1.5;">Compatible with</span></span>

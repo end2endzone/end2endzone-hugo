@@ -26,7 +26,7 @@ Snippet:
     </ul>
     </div>
 hits:
-  - 826
+  - 827
 categories:
   - Development
 tags:
@@ -196,7 +196,7 @@ You can download the SoftTimers arduino library by clicking on the following li
 
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/2089/" rel="nofollow"> Download &ldquo;SoftTimers arduino library v1.1.219&rdquo; <small>SoftTimers-v1.1.219.zip &ndash; Downloaded 426 times &ndash; 41 KB</small> </a>
+		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/2089/" rel="nofollow"> Download &ldquo;SoftTimers arduino library v1.1.219&rdquo; <small>SoftTimers-v1.1.219.zip &ndash; Downloaded 430 times &ndash; 41 KB</small> </a>
 
  [1]: #Download
  [2]: https://www.arduino.cc/en/Tutorial/Fade

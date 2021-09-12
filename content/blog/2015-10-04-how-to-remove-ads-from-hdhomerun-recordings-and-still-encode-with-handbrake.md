@@ -6,7 +6,7 @@ date: 2015-10-04T20:41:01+00:00
 url: /how-to-remove-ads-from-hdhomerun-recordings-and-still-encode-with-handbrake/
 featured_image: /wp-content/uploads/2015/10/Remove-ads-from-HDHomerun-recording-featured-image-672x378.jpg
 hits:
-  - 3860
+  - 3885
 categories:
   - Other
 tags:

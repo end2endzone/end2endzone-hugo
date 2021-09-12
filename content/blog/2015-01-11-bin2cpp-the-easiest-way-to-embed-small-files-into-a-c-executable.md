@@ -6,7 +6,7 @@ date: 2015-01-12T03:56:17+00:00
 url: /bin2cpp-the-easiest-way-to-embed-small-files-into-a-c-executable/
 featured_image: /wp-content/uploads/2015/01/bin2cpp-featured-image-672x378.png
 hits:
-  - 211
+  - 213
 categories:
   - Development
 tags:

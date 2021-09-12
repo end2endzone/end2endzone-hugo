@@ -6,7 +6,7 @@ date: 2016-03-26T20:47:29+00:00
 url: /mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/
 featured_image: /wp-content/uploads/2016/03/Mapping-RC-Transmitter-PWM-signal-to-actual-transmitter-values-672x378.jpg
 hits:
-  - 2769
+  - 2780
 Snippet Title:
   - Downloadable content
 Snippet:
@@ -258,7 +258,7 @@ Here is the final arduino code that allowed raw data capture to extract average 
 <pre class="lang:default decode:true " title="RC Transmitter PWM Reader (*.ino)" data-url="http://www.end2endzone.com/wp-content/uploads/2016/02/RcPwmReader-v95.ino">sample</pre>
 
 Download the arduino source code: 
-	<a class="download-link" title="Version 1.1" href="http://www.end2endzone.com/download/1582/" rel="nofollow"> RC Transmitter PWM Reader (*.ino) (275 downloads) </a>.
+	<a class="download-link" title="Version 1.1" href="http://www.end2endzone.com/download/1582/" rel="nofollow"> RC Transmitter PWM Reader (*.ino) (278 downloads) </a>.
 
 # <span id="Benchmark_results">Benchmark results</span>
 
@@ -288,7 +288,7 @@ The following section show the results of all my data capture sessions. Each dev
 
 ## <span id="Spektrum_DX9_Tx_Orange_R620X_Rx">Spektrum DX9 Tx & Orange R620X Rx</span>
 
-<div id='gallery-17' class='gallery galleryid-1357 gallery-columns-3 gallery-size-thumbnail gallery1'>
+<div id='gallery-8' class='gallery galleryid-1357 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
       <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg" title="Spektrum DX9 9-ch RC Tx" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx-150x150.jpg" width="150" height="150" alt="Spektrum DX9 9-ch RC Tx" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg" rel="nolightbox" target="_blank">250x250</a></span>
@@ -2309,11 +2309,11 @@ The following polynomial function offers the best performance to compute the _
 </p>
 
 Download the 
-	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/1618/" rel="nofollow"> Spektrum DX9 Tx & Orange R620X Rx (398 downloads) </a> full data capture.
+	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/1618/" rel="nofollow"> Spektrum DX9 Tx & Orange R620X Rx (402 downloads) </a> full data capture.
 
 ## <span id="Spektrum_DX9_Tx_Spektrum_AR8000_Rx">Spektrum DX9 Tx & Spektrum AR8000 Rx</span>
 
-<div id='gallery-18' class='gallery galleryid-1357 gallery-columns-3 gallery-size-thumbnail gallery1'>
+<div id='gallery-9' class='gallery galleryid-1357 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
       <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg" title="Spektrum DX9 9-ch RC Tx" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx-150x150.jpg" width="150" height="150" alt="Spektrum DX9 9-ch RC Tx" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg" rel="nolightbox" target="_blank">250x250</a></span>
@@ -4337,11 +4337,11 @@ The following polynomial function offers the best performance to compute the Spe
 </p>
 
 Download the 
-	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/1620/" rel="nofollow"> Spektrum DX9 Tx & Spektrum AR8000 Rx (363 downloads) </a> full data capture.
+	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/1620/" rel="nofollow"> Spektrum DX9 Tx & Spektrum AR8000 Rx (365 downloads) </a> full data capture.
 
 ## <span id="Tactic_TTX600_Tx_Tactic_TR624_Rx">Tactic TTX600 Tx & Tactic TR624 Rx</span>
 
-<div id='gallery-19' class='gallery galleryid-1357 gallery-columns-3 gallery-size-thumbnail gallery1'>
+<div id='gallery-10' class='gallery galleryid-1357 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
       <a href="http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg" title="Tactic TTX600 6-ch Tx.jpg" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx-150x150.jpg" width="150" height="150" alt="Tactic TTX600 6-ch Tx.jpg" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg" rel="nolightbox" target="_blank">250x250</a></span>
@@ -6080,11 +6080,11 @@ Channel 2 :
 </p>
 
 Download the 
-	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/1614/" rel="nofollow"> Tactic TTX600 Tx & Tactic TR624 Rx (386 downloads) </a> full data capture.
+	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/1614/" rel="nofollow"> Tactic TTX600 Tx & Tactic TR624 Rx (390 downloads) </a> full data capture.
 
 ## <span id="CCPM_Servo_Tester">CCPM Servo Tester</span>
 
-<div id='gallery-20' class='gallery galleryid-1357 gallery-columns-3 gallery-size-thumbnail gallery1'>
+<div id='gallery-11' class='gallery galleryid-1357 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
       <a href="http://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg" title="CCPM Servo Tester" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester-150x150.jpg" width="150" height="150" alt="CCPM Servo Tester" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg" rel="nolightbox" target="_blank">250x250</a></span>
@@ -6618,7 +6618,7 @@ The following polynomial function offers the best performance to compute the _CC
 </p>
 
 Download the 
-	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/1616/" rel="nofollow"> CCPM Servo Tester (380 downloads) </a> full data capture.
+	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/1616/" rel="nofollow"> CCPM Servo Tester (384 downloads) </a> full data capture.
 
  [1]: https://en.wikipedia.org/wiki/Pulse-width_modulation
  [2]: https://en.wikipedia.org/wiki/Servo_%28radio_control%29

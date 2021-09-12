@@ -6,7 +6,7 @@ date: 2014-12-03T02:00:59+00:00
 url: /diy-remote-trigger-shutter-release-cable-for-your-canon-dslr-camera/
 featured_image: /wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera-672x378.jpg
 hits:
-  - 5296
+  - 5336
 categories:
   - Photography
 tags:
@@ -84,11 +84,11 @@ The project box is used for the switches. It can be anything as long as you can 
 <div id='gallery-4' class='gallery galleryid-489 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" title="A soldering iron" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998-150x113.jpg" width="150" height="113" alt="IMG_8998" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" rel="nolightbox" target="_blank">768x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" rel="nolightbox" target="_blank">960x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" rel="nolightbox" target="_blank">960x720</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" title="A multimeter" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001-150x113.jpg" width="150" height="113" alt="IMG_9001" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" rel="nolightbox" target="_blank">768x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" rel="nolightbox" target="_blank">960x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" rel="nolightbox" target="_blank">960x720</a></span>
     </dt>
     
-    <dd class="gallery-caption" id="caption523">
-      <span class="imagecaption">A soldering iron</span><br /> <span class="imagedescription">A soldering iron</span><br />
+    <dd class="gallery-caption" id="caption524">
+      <span class="imagecaption">A multimeter</span><br /> <span class="imagedescription">A multimeter</span><br />
     </dd>
   </dl>
   
@@ -104,25 +104,15 @@ The project box is used for the switches. It can be anything as long as you can 
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" title="A multimeter" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001-150x113.jpg" width="150" height="113" alt="IMG_9001" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" rel="nolightbox" target="_blank">768x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" rel="nolightbox" target="_blank">960x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" rel="nolightbox" target="_blank">960x720</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" title="2.5 mm male stereo plug" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766-150x84.jpg" width="150" height="84" alt="IMG_8766" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" rel="nolightbox" target="_blank">768x432</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766-1024x576.jpg" rel="nolightbox" target="_blank">1024x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" rel="nolightbox" target="_blank">1280x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" rel="nolightbox" target="_blank">1280x720</a></span>
     </dt>
     
-    <dd class="gallery-caption" id="caption524">
-      <span class="imagecaption">A multimeter</span><br /> <span class="imagedescription">A multimeter</span><br />
+    <dd class="gallery-caption" id="caption521">
+      <span class="imagecaption">2.5 mm male stereo plug</span><br /> <span class="imagedescription">2.5 mm male stereo plug</span><br />
     </dd>
   </dl>
   
   <br style="clear: both" />
-  
-  <dl class="gallery-item">
-    <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" title="A third hand" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996-150x113.jpg" width="150" height="113" alt="IMG_8996" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" rel="nolightbox" target="_blank">768x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" rel="nolightbox" target="_blank">960x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" rel="nolightbox" target="_blank">960x720</a></span>
-    </dt>
-    
-    <dd class="gallery-caption" id="caption522">
-      <span class="imagecaption">A third hand</span><br /> <span class="imagedescription">A third hand</span><br />
-    </dd>
-  </dl>
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
@@ -136,11 +126,21 @@ The project box is used for the switches. It can be anything as long as you can 
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" title="2.5 mm male stereo plug" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766-150x84.jpg" width="150" height="84" alt="IMG_8766" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" rel="nolightbox" target="_blank">768x432</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766-1024x576.jpg" rel="nolightbox" target="_blank">1024x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" rel="nolightbox" target="_blank">1280x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" rel="nolightbox" target="_blank">1280x720</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" title="A third hand" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996-150x113.jpg" width="150" height="113" alt="IMG_8996" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" rel="nolightbox" target="_blank">768x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" rel="nolightbox" target="_blank">960x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" rel="nolightbox" target="_blank">960x720</a></span>
     </dt>
     
-    <dd class="gallery-caption" id="caption521">
-      <span class="imagecaption">2.5 mm male stereo plug</span><br /> <span class="imagedescription">2.5 mm male stereo plug</span><br />
+    <dd class="gallery-caption" id="caption522">
+      <span class="imagecaption">A third hand</span><br /> <span class="imagedescription">A third hand</span><br />
+    </dd>
+  </dl>
+  
+  <dl class="gallery-item">
+    <dt class="gallery-icon">
+      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" title="A soldering iron" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998-150x113.jpg" width="150" height="113" alt="IMG_8998" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" rel="nolightbox" target="_blank">768x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" rel="nolightbox" target="_blank">960x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" rel="nolightbox" target="_blank">960x720</a></span>
+    </dt>
+    
+    <dd class="gallery-caption" id="caption523">
+      <span class="imagecaption">A soldering iron</span><br /> <span class="imagedescription">A soldering iron</span><br />
     </dd>
   </dl>
   

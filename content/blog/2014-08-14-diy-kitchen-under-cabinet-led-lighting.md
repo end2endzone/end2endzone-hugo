@@ -6,7 +6,7 @@ date: 2014-08-14T17:30:40+00:00
 url: /diy-kitchen-under-cabinet-led-lighting/
 featured_image: /wp-content/uploads/2014/08/IMG_6846-672x448.jpg
 hits:
-  - 1091
+  - 1095
 french_post_id:
   - 820
 Snippet Title:

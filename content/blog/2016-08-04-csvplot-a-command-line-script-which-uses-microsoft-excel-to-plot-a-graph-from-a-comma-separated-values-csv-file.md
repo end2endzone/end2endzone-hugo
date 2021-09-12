@@ -6,7 +6,7 @@ date: 2016-08-04T17:30:03+00:00
 url: /csvplot-a-command-line-script-which-uses-microsoft-excel-to-plot-a-graph-from-a-comma-separated-values-csv-file/
 featured_image: /wp-content/uploads/2016/07/csvplot.CarEngineModel-672x379.png
 hits:
-  - 3440
+  - 3476
 categories:
   - Development
 tags:

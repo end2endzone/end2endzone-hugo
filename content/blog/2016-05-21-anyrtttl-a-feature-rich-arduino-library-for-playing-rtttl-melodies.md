@@ -28,7 +28,7 @@ Snippet:
         </div>
         
 hits:
-  - 1277
+  - 1282
 categories:
   - Development
 tags:
@@ -121,7 +121,7 @@ Anytime one can call <code class="prettycode">anyrtttl::stop()</code> to stop pl
 
 The following demo show how to use the library in non-blocking mode:  
 (download 
-	<a class="download-link" title="Version 2.0" href="http://www.end2endzone.com/download/1977/" rel="nofollow"> AnyRtttl v2.0 Non-Blocking example (748 downloads) </a>)
+	<a class="download-link" title="Version 2.0" href="http://www.end2endzone.com/download/1977/" rel="nofollow"> AnyRtttl v2.0 Non-Blocking example (751 downloads) </a>)
 
 <pre class="lang:c++ decode:true" title="AnyRtttl v2.0 Non-Blocking example" data-url="http://www.end2endzone.com/wp-content/uploads/2016/05/AnyRtttl-v2.0-NonBlocking-example.ino">sample</pre>
 
@@ -135,7 +135,7 @@ Use the <code class="prettycode">anyrtttl::blocking::play16Bits()</code> API fo
 
 The following demo show how to use the library with 16-bits per note binary RTTTL:  
 (download 
-	<a class="download-link" title="Version 2.0" href="http://www.end2endzone.com/download/1981/" rel="nofollow"> AnyRtttl v2.0 Play 16 bits example (701 downloads) </a>)
+	<a class="download-link" title="Version 2.0" href="http://www.end2endzone.com/download/1981/" rel="nofollow"> AnyRtttl v2.0 Play 16 bits example (704 downloads) </a>)
 
 <pre class="lang:c++ decode:true" title="AnyRtttl v2.0 Play 16 bits example" data-url="http://www.end2endzone.com/wp-content/uploads/2016/05/AnyRtttl-v2.0-Play-16-bits-example.ino">sample</pre>
 
@@ -156,7 +156,7 @@ Use the <code class="prettycode">anyrtttl::blocking::play10Bits()</code> API fo
 
 The following demo show how to use the library with 10-bits per note binary RTTTL:  
 (download 
-	<a class="download-link" title="Version 2.0" href="http://www.end2endzone.com/download/1979/" rel="nofollow"> AnyRtttl v2.0 Play 10 bits example (654 downloads) </a>)
+	<a class="download-link" title="Version 2.0" href="http://www.end2endzone.com/download/1979/" rel="nofollow"> AnyRtttl v2.0 Play 10 bits example (658 downloads) </a>)
 
 <pre class="lang:c++ decode:true" title="AnyRtttl v2.0 Play 10 bits example" data-url="http://www.end2endzone.com/wp-content/uploads/2016/05/AnyRtttl-v2.0-Play-10-bits-example.ino">sample</pre>
 
@@ -203,7 +203,7 @@ Use the <code class="prettycode">anyrtttl::blocking::play()</code> API for &#82
 
 The following demo show how to use the library with custom functions:  
 (download 
-	<a class="download-link" title="Version 2.0" href="http://www.end2endzone.com/download/1983/" rel="nofollow"> AnyRtttl v2.0 RTTTL 2 code example (655 downloads) </a>)
+	<a class="download-link" title="Version 2.0" href="http://www.end2endzone.com/download/1983/" rel="nofollow"> AnyRtttl v2.0 RTTTL 2 code example (657 downloads) </a>)
 
 <pre class="lang:c++ decode:true" title="AnyRtttl v2.0 RTTTL 2 code example" data-url="http://www.end2endzone.com/wp-content/uploads/2016/05/AnyRtttl-v2.0-Rtttl-2-Code-example.ino">sample</pre>
 
@@ -284,7 +284,7 @@ This software is furnished &#8220;as is&#8221;, without technical support, and w
 You can download the AnyRtttl library by clicking on the following link:
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1988/" rel="nofollow"> Download &ldquo;AnyRtttl v2.1.229 arduino library&rdquo; <small>AnyRtttl-v2.1.229.zip &ndash; Downloaded 567 times &ndash; 54 KB</small> </a>
+		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1988/" rel="nofollow"> Download &ldquo;AnyRtttl v2.1.229 arduino library&rdquo; <small>AnyRtttl-v2.1.229.zip &ndash; Downloaded 571 times &ndash; 54 KB</small> </a>
 
  [1]: #Download
  [2]: /nonblockingrtttl-a-non-blocking-arduino-library-for-playing-rtttl-melodies/#Quick_recall_of_the_RTTTL_format

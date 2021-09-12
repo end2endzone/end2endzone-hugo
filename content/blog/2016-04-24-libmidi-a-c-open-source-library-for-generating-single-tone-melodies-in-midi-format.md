@@ -17,7 +17,7 @@ Snippet:
     </ul>
     </div>
 hits:
-  - 807
+  - 808
 categories:
   - Development
 tags:
@@ -134,7 +134,7 @@ This software is furnished &#8220;as is&#8221;, without technical support, and w
 You can download the libMIDI library by clicking on the following link:
 
   * 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1893/" rel="nofollow"> Download &ldquo;libMIDI-v1.0.0.40.zip&rdquo; <small>libMIDI-v1.0.0.40.zip &ndash; Downloaded 429 times &ndash; 43 KB</small> </a>
+		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1893/" rel="nofollow"> Download &ldquo;libMIDI-v1.0.0.40.zip&rdquo; <small>libMIDI-v1.0.0.40.zip &ndash; Downloaded 433 times &ndash; 43 KB</small> </a>
 
  [1]: #Download
  [2]: http://msdn.microsoft.com/en-ca/library/windows/desktop/ms679277(v=vs.85).aspx

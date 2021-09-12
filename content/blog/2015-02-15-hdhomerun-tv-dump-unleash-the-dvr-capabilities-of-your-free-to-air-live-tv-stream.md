@@ -6,7 +6,7 @@ date: 2015-02-16T02:24:14+00:00
 url: /hdhomerun-tv-dump-unleash-the-dvr-capabilities-of-your-free-to-air-live-tv-stream/
 featured_image: /wp-content/uploads/2015/02/HDHomeRun-TV-Dump-672x378.jpg
 hits:
-  - 680
+  - 681
 categories:
   - Development
 tags:
@@ -36,7 +36,7 @@ _HDHomeRun TV Dump_ should also work with devices that supports the  MPEG4/H.26
 
 # <span id="Screenshots"><span style="line-height: 1.5;">Screenshots</span></span>
 
-<div id='gallery-7' class='gallery galleryid-707 gallery-columns-3 gallery-size-thumbnail gallery1'>
+<div id='gallery-5' class='gallery galleryid-707 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
       <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-scan-completed.png" title="HDHomeRun Tv Dump - Main Window with Scan" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-scan-completed-150x132.png" width="150" height="132" alt="HDHomeRun Tv Dump - Main Window scan completed" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-scan-completed.png" rel="nolightbox" target="_blank">295x260</a></span>
@@ -139,16 +139,16 @@ _HDHomeRun TV Dump_ should also work with devices that supports the  MPEG4/H.26
 You can download _HDHomeRun TV Dump_ by clicking on the following link:
 
 <li style="text-align: justify;">
-  <a class="download-link" title="Version 1.2.79" href="http://www.end2endzone.com/download/744/" rel="nofollow"> HDHomeRun TV Dump v1.2.79 (x64 portable) (207 downloads) </a>
+  <a class="download-link" title="Version 1.2.79" href="http://www.end2endzone.com/download/744/" rel="nofollow"> HDHomeRun TV Dump v1.2.79 (x64 portable) (208 downloads) </a>
 </li>
 <li style="text-align: justify;">
-  <a class="download-link" title="Version 1.2.79" href="http://www.end2endzone.com/download/746/" rel="nofollow"> HDHomeRun TV Dump v1.2.79 (x64 setup) (195 downloads) </a>
+  <a class="download-link" title="Version 1.2.79" href="http://www.end2endzone.com/download/746/" rel="nofollow"> HDHomeRun TV Dump v1.2.79 (x64 setup) (196 downloads) </a>
 </li>
 <li style="text-align: justify;">
-  <a class="download-link" title="Version 1.2.79" href="http://www.end2endzone.com/download/748/" rel="nofollow"> HDHomeRun TV Dump v1.2.79 (win32 portable) (157 downloads) </a>
+  <a class="download-link" title="Version 1.2.79" href="http://www.end2endzone.com/download/748/" rel="nofollow"> HDHomeRun TV Dump v1.2.79 (win32 portable) (158 downloads) </a>
 </li>
 <li style="text-align: justify;">
-  <a class="download-link" title="Version 1.2.79" href="http://www.end2endzone.com/download/750/" rel="nofollow"> HDHomeRun TV Dump v1.2.79 (win32 setup) (178 downloads) </a>
+  <a class="download-link" title="Version 1.2.79" href="http://www.end2endzone.com/download/750/" rel="nofollow"> HDHomeRun TV Dump v1.2.79 (win32 setup) (181 downloads) </a>
 </li>
 
 # <span id="Hardware_Software_Requirements"><span style="line-height: 1.5;">Hardware & Software Requirements</span></span>

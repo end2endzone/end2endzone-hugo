@@ -10,7 +10,7 @@ Snippet Title:
 Snippet:
   - '[exif id="1150"]'
 hits:
-  - 44
+  - 46
 categories:
   - Photography
 tags:

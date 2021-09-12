@@ -25,7 +25,7 @@ Snippet:
         </div>
         
 hits:
-  - 1604
+  - 1609
 categories:
   - Development
   - Model Aeronautics
@@ -135,7 +135,7 @@ receiver_throttle_handler_setup(RECEIVER_THROTTLE_IN_PIN);</pre>
 
 The following demo show how to use the library:  
 (download the 
-	<a class="download-link" title="Version 1.1.203" href="http://www.end2endzone.com/download/1794/" rel="nofollow"> RcReceiverSignal v1.1.203 LedUpdate demo.ino (567 downloads) </a>)
+	<a class="download-link" title="Version 1.1.203" href="http://www.end2endzone.com/download/1794/" rel="nofollow"> RcReceiverSignal v1.1.203 LedUpdate demo.ino (572 downloads) </a>)
 
 <pre class="lang:default decode:true" title="RcReceiverSignal v1.1.203 LedUpdate.ino" data-url="http://www.end2endzone.com/wp-content/uploads/2016/03/RcReceiverSignal-v1.1.203-LedUpdate.ino">http://www.end2endzone.com/wp-content/uploads/2016/03/RcReceiverSignal-v1.1.203-LedUpdate.ino</pre>
 
@@ -155,7 +155,7 @@ This software is furnished &#8220;as is&#8221;, without technical support, and w
 You can download the RcReceiverSignal arduino library by clicking on the following link:
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1792/" rel="nofollow"> Download &ldquo;RcReceiverSignal arduino library v1.1.203&rdquo; <small>RcReceiverSignal-v1.1.203.zip &ndash; Downloaded 660 times &ndash; 59 KB</small> </a>
+		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1792/" rel="nofollow"> Download &ldquo;RcReceiverSignal arduino library v1.1.203&rdquo; <small>RcReceiverSignal-v1.1.203.zip &ndash; Downloaded 664 times &ndash; 59 KB</small> </a>
 
  [1]: /mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/ "Edit “Mapping RC Transmitter PWM signal to actual transmitter values”"
  [2]: #Download

@@ -6,7 +6,7 @@ date: 2021-03-14T19:40:03+00:00
 url: /pidvr-record-over-the-air-tv-on-a-raspberry-pi-4/
 featured_image: /wp-content/uploads/2021/03/PiDVR-Record-over-the-air-TV-on-a-Raspberry-Pi-4-672x378.jpg
 hits:
-  - 115
+  - 173
 categories:
   - Other
 tags:

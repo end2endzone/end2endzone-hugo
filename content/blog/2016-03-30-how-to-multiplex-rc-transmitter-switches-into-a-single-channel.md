@@ -6,7 +6,7 @@ date: 2016-03-30T17:15:24+00:00
 url: /how-to-multiplex-rc-transmitter-switches-into-a-single-channel/
 featured_image: /wp-content/uploads/2016/03/How-to-multiplex-RC-Transmitter-switches-into-a-single-channel-672x378.jpg
 hits:
-  - 382
+  - 386
 Snippet Title:
   - Downloadable content
 Snippet:
@@ -2331,7 +2331,7 @@ _How can I control more than one device using a single channel_.<!--more-->
 </table> Use the 
 
 
-	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/1486/" rel="nofollow"> Cheat Sheet for Multiplexing four 2-position switches (298 downloads) </a> for calculating all block offset when multiplexing four 2-position switches. 
+	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/1486/" rel="nofollow"> Cheat Sheet for Multiplexing four 2-position switches (301 downloads) </a> for calculating all block offset when multiplexing four 2-position switches. 
 
 ### <span id="Three_2-position_and_one_3-position_switches">Three 2-position and one 3-position switches</span> The following table shows the signal range and the middle of the effective area for each block. It is calculated using a block size of 10 steps and a dead zone of 2 steps which makes the effective block size to 6 steps: 
 
@@ -4570,7 +4570,7 @@ _How can I control more than one device using a single channel_.<!--more-->
 </table> Use the 
 
 
-	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/1482/" rel="nofollow"> Cheat Sheet for Multiplexing three 2-position and one 3-position switches (326 downloads) </a> for calculating all block offset when multiplexing three 2-position switches and one 3-position switch. 
+	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/1482/" rel="nofollow"> Cheat Sheet for Multiplexing three 2-position and one 3-position switches (331 downloads) </a> for calculating all block offset when multiplexing three 2-position switches and one 3-position switch. 
 
 ### <span id="Three_3-position_switches">Three 3-position switches</span> The following table shows the signal range and the middle of the effective area for each block. Again, it is calculated using a block size of 10 steps and a dead zone of 2 steps which makes the effective block size to 6 steps: 
 
@@ -6573,7 +6573,7 @@ _How can I control more than one device using a single channel_.<!--more-->
 </table> Use the 
 
 
-	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/1484/" rel="nofollow"> Cheat Sheet for Multiplexing three 3-position switches (334 downloads) </a> for calculating all block offset when multiplexing three 3-position switches. 
+	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/1484/" rel="nofollow"> Cheat Sheet for Multiplexing three 3-position switches (339 downloads) </a> for calculating all block offset when multiplexing three 3-position switches. 
 
 ## <span id="Decoding">Decoding</span> Decoding the switches configuration is relatively easy: First identify the block number matching the signal&#8217;s value using a sequence of &#8220;
 
@@ -6593,7 +6593,7 @@ _if_&#8221; statements. Then, update switches state based on the currently selec
 
 ### <span id="Sample_data">Sample data</span>
 
-<div id='gallery-21' class='gallery galleryid-1249 gallery-columns-3 gallery-size-thumbnail gallery1'>
+<div id='gallery-12' class='gallery galleryid-1249 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
       <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-4x-2-position-switches-Data-Capture-Sample.png" title="Demultiplexing four 2-position switches : Sample data" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-4x-2-position-switches-Data-Capture-Sample-150x141.png" width="150" height="141" alt="Demultiplexing four 2-position switches : Sample data" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-4x-2-position-switches-Data-Capture-Sample.png" rel="nolightbox" target="_blank">559x527</a></span>
@@ -7504,7 +7504,7 @@ _if_&#8221; statements. Then, update switches state based on the currently selec
 </table> Use the 
 
 
-	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/1510/" rel="nofollow"> Cheat Sheet for Multiplexing an Analog Knob with a 2-position and a 3-position switch (305 downloads) </a> for calculating all block offset when multiplexing an analog value with a 2-position and a 3-position switch. 
+	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/1510/" rel="nofollow"> Cheat Sheet for Multiplexing an Analog Knob with a 2-position and a 3-position switch (309 downloads) </a> for calculating all block offset when multiplexing an analog value with a 2-position and a 3-position switch. 
 
 ## <span id="Decoding-2">Decoding</span> Decoding an analog value with switches configuration is different: First identify the block number matching the signal&#8217;s value using a sequence of &#8220;if&#8221; statements. Then 
 
@@ -7520,7 +7520,7 @@ _if_&#8221; statements. Then, update switches state based on the currently selec
 
 ### <span id="Sample_data-2">Sample data</span>
 
-<div id='gallery-22' class='gallery galleryid-1249 gallery-columns-3 gallery-size-thumbnail gallery1'>
+<div id='gallery-13' class='gallery galleryid-1249 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
       <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-Analog-Knob-with-1x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample.png" title="Demultiplexing an analog knob with a 2-Position and a 3-Position switch : Sample data" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-Analog-Knob-with-1x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample-146x150.png" width="146" height="150" alt="Demultiplexing an analog knob with a 2-Position and a 3-Position switch : Sample data" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-Analog-Knob-with-1x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample.png" rel="nolightbox" target="_blank">498x510</a></span>

@@ -6,7 +6,7 @@ date: 2016-01-28T17:44:31+00:00
 url: /demystifying-rc-transmitter-mixing/
 featured_image: /wp-content/uploads/2016/01/Demystifying-RC-Transmitter-Mixing-672x378.jpg
 hits:
-  - 10038
+  - 10147
 Snippet Title:
   - Downloadable content
 Snippet:

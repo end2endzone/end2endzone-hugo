@@ -180,7 +180,7 @@ The same concept applies to all numeric array.
 
 The following demo show how to use the library:  
 (download the 
-	<a class="download-link" title="Version 1.0.70" href="http://www.end2endzone.com/download/1691/" rel="nofollow"> BitReader v1.0.70 benchmark demo.ino (593 downloads) </a>)
+	<a class="download-link" title="Version 1.0.70" href="http://www.end2endzone.com/download/1691/" rel="nofollow"> BitReader v1.0.70 benchmark demo.ino (596 downloads) </a>)
 
 <pre class="lang:default decode:true " title="BitReader v1.0.70 benchmark demo.ino" data-url="http://www.end2endzone.com/wp-content/uploads/2016/03/BitReader-v1.0.70-benchmark-demo.ino">sample</pre>
 
@@ -200,7 +200,7 @@ This software is furnished &#8220;as is&#8221;, without technical support, and w
 You can download the BitReader arduino library by clicking on the following link:
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1688/" rel="nofollow"> Download &ldquo;BitReader v1.1.110 arduino library&rdquo; <small>BitReader-v1.1.110.zip &ndash; Downloaded 400 times &ndash; 10 KB</small> </a>
+		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1688/" rel="nofollow"> Download &ldquo;BitReader v1.1.110 arduino library&rdquo; <small>BitReader-v1.1.110.zip &ndash; Downloaded 404 times &ndash; 10 KB</small> </a>
 
  [1]: #Download
  [2]: http://en.cppreference.com/w/cpp/language/bit_field

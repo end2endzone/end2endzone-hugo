@@ -23,7 +23,7 @@ Snippet:
         </div>
         
 hits:
-  - 1986
+  - 2008
 categories:
   - Development
 tags:
@@ -299,6 +299,6 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
               
               <p>
                 <p>
-                  <a class="aligncenter download-button" href="http://www.end2endzone.com/download/2339/" rel="nofollow"> Download &ldquo;MsWordListInstalledFont.bas&rdquo; <small>MsWordListInstalledFont.bas &ndash; Downloaded 1061 times &ndash; 3 KB</small> </a>
+                  <a class="aligncenter download-button" href="http://www.end2endzone.com/download/2339/" rel="nofollow"> Download &ldquo;MsWordListInstalledFont.bas&rdquo; <small>MsWordListInstalledFont.bas &ndash; Downloaded 1068 times &ndash; 3 KB</small> </a>
                 </p>
               </p>

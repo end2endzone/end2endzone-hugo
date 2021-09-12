@@ -6,7 +6,7 @@ date: 2016-10-27T16:48:23+00:00
 url: /diy-lost-plane-alarm-finder-and-10-watts-led-visual-aids-for-easy-orientation/
 featured_image: /wp-content/uploads/2016/10/Arduino-Quadcopter-Controler-featured-672x378.jpg
 hits:
-  - 840
+  - 845
 Snippet Title:
   - Downloadable content
 Snippet:

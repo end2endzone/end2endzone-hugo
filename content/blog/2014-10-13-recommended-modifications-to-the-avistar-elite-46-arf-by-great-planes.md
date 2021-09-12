@@ -6,7 +6,7 @@ date: 2014-10-13T15:03:21+00:00
 url: /recommended-modifications-to-the-avistar-elite-46-arf-by-great-planes/
 featured_image: /wp-content/uploads/2014/10/DSC00129-672x378.jpg
 hits:
-  - 2520
+  - 2525
 categories:
   - Model Aeronautics
 tags:

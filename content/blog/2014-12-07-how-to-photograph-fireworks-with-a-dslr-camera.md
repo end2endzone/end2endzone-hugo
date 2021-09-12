@@ -6,7 +6,7 @@ date: 2014-12-07T06:49:09+00:00
 url: /how-to-photograph-fireworks-with-a-dslr-camera/
 featured_image: /wp-content/uploads/2014/11/How-to-photograph-fireworks-with-a-DSLR-camera-featured-672x378.jpg
 hits:
-  - 361
+  - 368
 categories:
   - Photography
 tags:
@@ -26,7 +26,7 @@ In this article, I will guide you to make the most stunning photography of firew
 
 That kind of event do not occurs pretty often. Roughly 1 or 2 times a year during summer depending where you live. That is why I have written this guide: so that next time you get outside hunting a firework display, you will be well documented and prepared for most situations.
 
-In Québec, we have 2 holidays that are good opportunities to shoot fireworks which are Canada Day (Memorial Day), and St. Jean Baptiste Day. If you live near Montreal, you have access to the L&#8217;international des feux Loto-Québec  (<s>http://www.laronde.com/larondeen/linternational-des-feux/overview</s>, previously <s>http://internationaldesfeuxloto-quebec.com/en/</s>) festival which is prefect for making spectacular photos.
+In Québec, we have 2 holidays that are good opportunities to shoot fireworks which are Canada Day (Memorial Day), and St. Jean Baptiste Day. If you live near Montreal, you have access to the L&#8217;international des feux Loto-Québec &nbsp;(<s>http://www.laronde.com/larondeen/linternational-des-feux/overview</s>, previously <s>http://internationaldesfeuxloto-quebec.com/en/</s>) festival which is prefect for making spectacular photos.
 
 Keep up reading and be ready.
 
@@ -68,7 +68,7 @@ A remote trigger is also mandatory. You must have a remote trigger and there is 
 
 However, when you are shooting fireworks, it is pretty hard to know when the burst will explode which mean you won&#8217;t be able to accurately predict when you have to start the delay. The length of each burst is also unpredictable which means that you can&#8217;t use &#8220;Shutter speed priority&#8221; to automatically close the shutter. You will have to physically press/release a button to close the shutter.
 
-If you do not own a remote trigger, you could make one yourself. Here is a simple guide that I have written that could help you making your own remote trigger: [<span style="line-height: 1.5;">DIY Remote trigger shutter release cable for your Canon DSLR camera</span>][3]
+If you do not own a remote trigger, you could make one yourself. Here is a simple guide that I have written that could help you making your own remote trigger:&nbsp;[<span style="line-height: 1.5;">DIY Remote trigger shutter release cable for your Canon DSLR camera</span>][3]
 
 A remote trigger is the only way to open the shutter on time (just before a firework pops) and close the shutter before another firework burst.
 
@@ -204,7 +204,7 @@ The only mode that can be used for photographing fireworks is the manual mode. A
   </p>
 </div>
 
-Since you are capturing images over a perfect black background, noise can quickly become an issue. It will also be really perceptible. It will be easy to distinguish noise on dark areas so it is best to use a low ISO setting to reduce noise as much as possible.
+Since you are capturing images over a perfect black background, noise can quickly become an issue. It will also be really perceptible.&nbsp;It will be easy to distinguish noise on dark areas so it is best to use a low ISO setting to reduce noise as much as possible.
 
 ISO 100 is the recommended value to use.
 
@@ -220,7 +220,7 @@ In case your picture are underexposed, do not increase ISO to 200 but instead us
   </p>
 </div>
 
-The fireworks are bright enough in the sky to let you use a narrow aperture (higher f number). During your shooting session you will need to set the aperture in the range of f8 to f16. You can safely set your aperture to f11 at the beginning of the show and adjust as needed.
+The fireworks are bright enough in the sky to let you use a narrow aperture&nbsp;(higher f number). During your shooting session you will need to set the aperture in the range of f8 to f16. You can safely set your aperture to f11 at the beginning of the show and adjust as needed.
 
 ## <span id="Set_camera_to_Bulb_mode"><span style="line-height: 1.5;">Set camera to Bulb mode</span></span>
 
@@ -244,7 +244,7 @@ Most cameras now have a BULB mode. Bulb mode is a perfect candidate for this tas
 
 This mode is usually found at the end of your shutter speed range (slowest shutter speed). You can activate it by increasing the shutter speed higher/longer than 30 seconds. On many DSLR camera, the knob controls the shutter speed in manual mode so rolling it will increase the shutter speed and will usually get you to activate bulb mode.
 
-## <span id="Turn_off_ImagestabilizationIS"><span style="line-height: 1.5;">Turn off Image </span><span style="line-height: 36px;">stabilization</span><span style="line-height: 1.5;"> (IS)</span></span>
+## <span id="Turn_off_ImagenbspstabilizationnbspIS"><span style="line-height: 1.5;">Turn off Image&nbsp;</span><span style="line-height: 36px;">stabilization</span><span style="line-height: 1.5;">&nbsp;(IS)</span></span>
 
 <div id="attachment_560" style="width: 510px" class="wp-caption alignnone">
   <img aria-describedby="caption-attachment-560" loading="lazy" class="wp-image-560 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg" alt="Image Stabilizer Turned off" width="500" height="281" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg 500w, http://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off-300x169.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
@@ -254,7 +254,7 @@ This mode is usually found at the end of your shutter speed range (slowest shutt
   </p>
 </div>
 
-<span style="line-height: 1.5;"><span style="line-height: 1.5;">Since you are using a tripod, turn off Image Stabilization (IS, Vibration Reduction on Nikon). Tripod and IS is always bad combination and you don&#8217;t need it. Leaving it on probably does more harm than good. IS mechanism works by feeling the vibration the lens from your hands and creates a counter &#8220;vibration&#8221; to reduce the effect on the final image. It is better to switch off IS to prevent your lens stabilization mechanism from trying to stabilize a stabilized image which would result in image vibration (camera shake).</span></span>
+<span style="line-height: 1.5;"><span style="line-height: 1.5;">Since you are using a tripod, turn off Image Stabilization (IS, Vibration Reduction on&nbsp;Nikon). Tripod and IS is always bad combination and you don&#8217;t need it. Leaving it on probably does more harm than good. IS mechanism works by feeling the vibration the lens from your hands and creates a counter &#8220;vibration&#8221; to reduce the effect on the final image. It is better to switch off IS to prevent your lens stabilization mechanism from trying to stabilize a stabilized image which would result in image vibration (camera shake).</span></span>
 
 Some lens can successfully detect the use of a tripod and prevent adding more vibration to the equation but in doubt, just leave it off.
 
@@ -358,83 +358,47 @@ Take your time.
 Here are the final results of my firework images:  
 Enjoy!
 
-<div id='gallery-5' class='gallery galleryid-483 gallery-columns-3 gallery-size-thumbnail gallery1'>
-  <dl class="gallery-item">
-    <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework05-IMG_8539_e2ez-1620x1080.jpg" title="Purple Medley" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/11/firework05-IMG_8539_e2ez-150x100.jpg" width="150" height="100" alt="Purple Medley" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework05-IMG_8539_e2ez.jpg" rel="nolightbox" target="_blank">2048x1365</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework05-IMG_8539_e2ez-1620x1080.jpg" rel="nolightbox" target="_blank">1620x1080</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework05-IMG_8539_e2ez.jpg" rel="nolightbox" target="_blank">5184x3456</a></span>
-    </dt>
+<table border="0" cellpadding="0" cellspacing="0" style="border: 0">
+  <tr>
+    <td style="border: 0">
+      <a class="cboxElement" title="Pop over the fire" href="https://www.flickr.com/photos/154618444@N05/37396785601/in/album-72157686721348930/" rel="gallery1"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/11/firework06-IMG_8540_e2ez-150x100.jpg" alt="Pop over the fire" width="150" height="100" /></a>
+    </td>
     
-    <dd class="gallery-caption" id="caption500">
-      <span class="imagecaption">Purple Medley</span><br /> <span class="imagedescription">Purple Medley</span><br />
-    </dd>
-  </dl>
-  
-  <dl class="gallery-item">
-    <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework01-IMG_8483_e2ez-1620x1080.jpg" title="Two colors in one" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/11/firework01-IMG_8483_e2ez-150x100.jpg" width="150" height="100" alt="Two colors in one" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework01-IMG_8483_e2ez.jpg" rel="nolightbox" target="_blank">2048x1365</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework01-IMG_8483_e2ez-1620x1080.jpg" rel="nolightbox" target="_blank">1620x1080</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework01-IMG_8483_e2ez.jpg" rel="nolightbox" target="_blank">5184x3456</a></span>
-    </dt>
+    <td style="border: 0">
+      <a class="cboxElement" title="Red giant" href="https://www.flickr.com/photos/154618444@N05/37396786961/in/album-72157686721348930/" rel="gallery1"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/11/firework04-IMG_8501_e2ez-150x100.jpg" alt="Red giant" width="150" height="100" /></a>
+    </td>
     
-    <dd class="gallery-caption" id="caption496">
-      <span class="imagecaption">Two colors in one</span><br /> <span class="imagedescription">Two colors in one</span><br />
-    </dd>
-  </dl>
+    <td style="border: 0">
+      <a class="cboxElement" title="The big bang (4 pops)" href="https://www.flickr.com/photos/154618444@N05/36687836454/in/album-72157686721348930/" rel="gallery1"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/11/firework07-IMG_8553_e2ez-150x100.jpg" alt="The big bang (4 pops)" width="150" height="100" /></a>
+    </td>
+  </tr>
   
-  <dl class="gallery-item">
-    <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework02-IMG_8493_e2ez-1620x1080.jpg" title="RGB" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/11/firework02-IMG_8493_e2ez-150x100.jpg" width="150" height="100" alt="RGB" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework02-IMG_8493_e2ez.jpg" rel="nolightbox" target="_blank">2048x1365</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework02-IMG_8493_e2ez-1620x1080.jpg" rel="nolightbox" target="_blank">1620x1080</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework02-IMG_8493_e2ez.jpg" rel="nolightbox" target="_blank">5184x3456</a></span>
-    </dt>
+  <tr>
+    <td style="border: 0">
+      <a class="cboxElement" title="Green over blue" href="https://www.flickr.com/photos/154618444@N05/37396788021/in/album-72157686721348930/" rel="gallery1"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/11/firework03-IMG_8500_e2ez-150x100.jpg" alt="Green over blue" width="150" height="100" /></a>
+    </td>
     
-    <dd class="gallery-caption" id="caption497">
-      <span class="imagecaption">RGB</span><br /> <span class="imagedescription">RGB</span><br />
-    </dd>
-  </dl>
-  
-  <br style="clear: both" />
-  
-  <dl class="gallery-item">
-    <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework03-IMG_8500_e2ez-1620x1080.jpg" title="Green over blue" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/11/firework03-IMG_8500_e2ez-150x100.jpg" width="150" height="100" alt="Green over blue" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework03-IMG_8500_e2ez.jpg" rel="nolightbox" target="_blank">2048x1365</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework03-IMG_8500_e2ez-1620x1080.jpg" rel="nolightbox" target="_blank">1620x1080</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework03-IMG_8500_e2ez.jpg" rel="nolightbox" target="_blank">5184x3456</a></span>
-    </dt>
+    <td style="border: 0">
+      <a class="cboxElement" title="RGB" href="https://www.flickr.com/photos/154618444@N05/37396788931/in/album-72157686721348930/" rel="gallery1"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/11/firework02-IMG_8493_e2ez-150x100.jpg" alt="RGB" width="150" height="100" /></a>
+    </td>
     
-    <dd class="gallery-caption" id="caption498">
-      <span class="imagecaption">Green over blue</span><br /> <span class="imagedescription">Green over blue</span><br />
-    </dd>
-  </dl>
+    <td style="border: 0">
+      <a class="cboxElement" title="Purple Medley" href="https://www.flickr.com/photos/154618444@N05/37396786031/in/album-72157686721348930/" rel="gallery1"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/11/firework05-IMG_8539_e2ez-150x100.jpg" alt="Purple Medley" width="150" height="100" /></a>
+    </td>
+  </tr>
   
-  <dl class="gallery-item">
-    <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework04-IMG_8501_e2ez-1620x1080.jpg" title="Red giant" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/11/firework04-IMG_8501_e2ez-150x100.jpg" width="150" height="100" alt="Red giant" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework04-IMG_8501_e2ez.jpg" rel="nolightbox" target="_blank">2048x1365</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework04-IMG_8501_e2ez-1620x1080.jpg" rel="nolightbox" target="_blank">1620x1080</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework04-IMG_8501_e2ez.jpg" rel="nolightbox" target="_blank">5184x3456</a></span>
-    </dt>
+  <tr>
+    <td style="border: 0">
+      <a class="cboxElement" title="Two colors in one" href="https://www.flickr.com/photos/154618444@N05/37396789821/in/album-72157686721348930/" rel="gallery1"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/11/firework01-IMG_8483_e2ez-150x100.jpg" alt="Two colors in one" width="150" height="100" /></a>
+    </td>
     
-    <dd class="gallery-caption" id="caption499">
-      <span class="imagecaption">Red giant</span><br /> <span class="imagedescription">Red giant</span><br />
-    </dd>
-  </dl>
-  
-  <dl class="gallery-item">
-    <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework06-IMG_8540_e2ez-1620x1080.jpg" title="Pop over the fire" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/11/firework06-IMG_8540_e2ez-150x100.jpg" width="150" height="100" alt="Pop over the fire" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework06-IMG_8540_e2ez.jpg" rel="nolightbox" target="_blank">2048x1365</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework06-IMG_8540_e2ez-1620x1080.jpg" rel="nolightbox" target="_blank">1620x1080</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework06-IMG_8540_e2ez.jpg" rel="nolightbox" target="_blank">5184x3456</a></span>
-    </dt>
+    <td style="border: 0">
+    </td>
     
-    <dd class="gallery-caption" id="caption501">
-      <span class="imagecaption">Pop over the fire</span><br /> <span class="imagedescription">Pop over the fire</span><br />
-    </dd>
-  </dl>
-  
-  <br style="clear: both" />
-  
-  <dl class="gallery-item">
-    <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework07-IMG_8553_e2ez-1620x1080.jpg" title="The big bang (4 pops)" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/11/firework07-IMG_8553_e2ez-150x100.jpg" width="150" height="100" alt="The big bang (4 pops)" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework07-IMG_8553_e2ez.jpg" rel="nolightbox" target="_blank">2048x1365</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework07-IMG_8553_e2ez-1620x1080.jpg" rel="nolightbox" target="_blank">1620x1080</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/11/firework07-IMG_8553_e2ez.jpg" rel="nolightbox" target="_blank">5184x3456</a></span>
-    </dt>
-    
-    <dd class="gallery-caption" id="caption502">
-      <span class="imagecaption">The big bang (4 pops)</span><br /> <span class="imagedescription">The big bang (4 pops)</span><br />
-    </dd>
-  </dl>
-  
-  <br style='clear: both' />
-</div>
+    <td style="border: 0">
+    </td>
+  </tr>
+</table>
 
  [1]: /category/photography/
  [2]: /how-to-shoot-a-waterfall-with-a-dslr-camera/

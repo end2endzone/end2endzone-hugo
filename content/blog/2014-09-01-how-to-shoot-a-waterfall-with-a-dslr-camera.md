@@ -6,7 +6,7 @@ date: 2014-09-01T19:30:39+00:00
 url: /how-to-shoot-a-waterfall-with-a-dslr-camera/
 featured_image: /wp-content/uploads/2014/09/IMG_8597_e2ez-672x448.jpg
 hits:
-  - 314
+  - 319
 Snippet Title:
   - EXIF Info
 Snippet:
@@ -32,7 +32,7 @@ During summer 2014, I went camping with my family to Mont-Tremblant and as alway
 
 The &#8220;Chute du Diable&#8221; is located in Canada, Québec, Mont-Tremblant which is around 2 hours North of Montreal. If you still don&#8217;t know where it is, here is the precise location where I got this shot:
 
-Latitude:       46.3828892  
+Latitude:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 46.3828892  
 Longitude: -74.4716262
 
 <div id="wpgmza_map" class="wpgmza_map" data-settings='{"id":"1","map_title":"Chute du Diable","map_width":"100","map_height":"350","map_start_lat":"46.264184","map_start_lng":"-74.478703","map_start_location":"46.26418412341596,-74.47870332812501","map_start_zoom":"7","default_marker":"0","type":"1","alignment":"2","directions_enabled":"1","styling_enabled":"0","styling_json":"","active":"0","kml":"","bicycle":"0","traffic":"0","dbox":"1","dbox_width":"250","listmarkers":"0","listmarkers_advanced":"0","filterbycat":"0","ugm_enabled":"0","ugm_category_enabled":"0","fusion":"","map_width_type":"\\%","map_height_type":"px","mass_marker_support":"1","ugm_access":"0","order_markers_by":"1","order_markers_choice":"2","show_user_location":"0","default_to":"","other_settings":{"store_locator_enabled":2,"store_locator_distance":2,"store_locator_bounce":1,"store_locator_query_string":"","wpgmza_store_locator_restrict":"","map_max_zoom":"3","weather_layer":2,"weather_layer_temp_type":1,"cloud_layer":2,"transport_layer":0}}' data-map-id='1' Data-maps-engine='' data-shortcode-attributes='{"id":"1"}' style="display:block; overflow:auto; width:100%; height:350px; float:left;">
@@ -104,7 +104,7 @@ Most important of all, do not forget to enjoy what you are doing!
 
 After the capturing process, you may find your pictures are correctly exposed for the waterfall but all the vegetation and rocks around it might be underexposed. To correct this issue, you need to make a manual exposition correction in order to darken highly exposed areas while lightening underexposed areas. This is why it is important to shoot in RAW. The correction can be done with [Lightroom][3] easily.
 
-If you do not have access to a copy of [Lightroom][3], you can do the same effect (almost) with free tools. The same effect can be achieved by applying a &#8220;Contrast Mask&#8221; on the image using the free image editor [Gimp][4]. The process is described here: &#8220;[GIMP &#8211; Creating a Contrast Mask][5]&#8220;.
+If you do not have access to a copy of [Lightroom][3], you can do the same effect (almost) with free tools. The same effect can be achieved by applying a &#8220;Contrast Mask&#8221; on the image using the free image editor&nbsp;[Gimp][4]. The process is described here: &#8220;[GIMP &#8211; Creating a Contrast Mask][5]&#8220;.
 
 **EDIT:** See below for a Lightroom corrected image.
 
@@ -115,7 +115,7 @@ If you do not have access to a copy of [Lightroom][3], you can do the same effec
 </p>
 
 <div id="attachment_337" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597.jpg"><img aria-describedby="caption-attachment-337" loading="lazy" class="wp-image-337 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597-1024x683.jpg" alt="IMG_8597" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597-1620x1080.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597-672x448.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="https://www.flickr.com/photos/154618444@N05/51427589354/in/album-72157686721493240/"><img aria-describedby="caption-attachment-337" loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597-672x448.jpg" alt="IMG_8597" width="672" height="448" /></a>
   
   <p id="caption-attachment-337" class="wp-caption-text">
     Chute du Diable
@@ -125,7 +125,7 @@ If you do not have access to a copy of [Lightroom][3], you can do the same effec
 **EDIT:** And here is a Lightroom corrected version I made:
 
 <div id="attachment_515" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597_e2ez.jpg"><img aria-describedby="caption-attachment-515" loading="lazy" class="wp-image-515 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597_e2ez-1024x683.jpg" alt="IMG_8597_e2ez" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597_e2ez-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597_e2ez-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597_e2ez-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597_e2ez-1620x1080.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597_e2ez-672x448.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="https://www.flickr.com/photos/154618444@N05/37139651090/in/album-72157686721493240/"><img aria-describedby="caption-attachment-515" loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597_e2ez-672x448.jpg" alt="IMG_8597_e2ez" width="672" height="448" /></a>
   
   <p id="caption-attachment-515" class="wp-caption-text">
     Chute du Diable
@@ -140,7 +140,7 @@ In contrast, here is a static image of the same waterfall with motion freeze on 
 
 ## <span id="Find_the_perfect_time_of_the_day">Find the perfect time of the day</span>
 
-Went I shot this waterfall, I had to get there at noon. During this time of the day, the light is too bright and the water is reflecting too much light compared to the vegetation and trees around the waterfall. With this setup, you must use ND filters and you may need to correct the contrast between the vegetation and the waterfall in post processing as explained earlier.
+Went I shot this waterfall, I had to get there at noon. During this time of the day, the light is too bright and the water is reflecting too much light compared to the vegetation and trees around the waterfall. With this setup, you must use ND filters and you may need to correct the contrast between the vegetation and the waterfall in post processing&nbsp;as explained earlier.
 
 The perfect time of the day to get a nice shot is to go soon after sunrise or a little before sunset. These are the best time because the light is even for both the waterfall and the surrounding. You may also realize that you may not need ND filters and be able to correct the exposure just by managing a narrower aperture.
 
@@ -148,7 +148,7 @@ Another good time of the day would be during &#8220;Grey days&#8221;. When there
 
 ## <span id="Better_composition">Better composition</span>
 
-When I was on site, I was overwhelmed by the waterfall and all the noise and the mist it was making.  I completely forgot to manage to properly frame the waterfall in it&#8217;s context. I picture with more vegetation and showing the trees around it would have better showed the waterfall in it&#8217;s context and would have made a better picture.
+When I was on site, I was overwhelmed by the waterfall and all the noise and the mist it was making. &nbsp;I completely forgot to manage to properly frame the waterfall in it&#8217;s context. I picture with more vegetation and showing the trees around it would have better showed the waterfall in it&#8217;s context and would have made a better picture.
 
 <div class="su-spacer" style="height:30px">
 </div>

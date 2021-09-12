@@ -6,7 +6,7 @@ date: 2015-08-14T23:04:58+00:00
 url: /visualiser-la-rotation-de-la-terre-en-video/
 featured_image: /wp-content/uploads/2015/08/IMG_5753-Featured-Image-672x378.jpg
 hits:
-  - 58
+  - 60
 categories:
   - Photography
 tags:

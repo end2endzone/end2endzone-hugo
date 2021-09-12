@@ -6,7 +6,7 @@ date: 2014-09-01T19:32:17+00:00
 url: /diy-bedroom-under-the-bed-led-lighting/
 featured_image: /wp-content/uploads/2014/09/IMG_0846-672x448.jpg
 hits:
-  - 4269
+  - 4307
 french_post_id:
   - 900
 Snippet Title:

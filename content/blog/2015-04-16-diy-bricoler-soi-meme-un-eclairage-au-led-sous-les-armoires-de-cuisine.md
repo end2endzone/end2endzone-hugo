@@ -6,7 +6,7 @@ date: 2015-04-16T17:11:33+00:00
 url: /diy-bricoler-soi-meme-un-eclairage-au-led-sous-les-armoires-de-cuisine/
 featured_image: /wp-content/uploads/2014/08/IMG_6846-672x448.jpg
 hits:
-  - 9582
+  - 9613
 english_post_id:
   - 244
 Snippet Title:

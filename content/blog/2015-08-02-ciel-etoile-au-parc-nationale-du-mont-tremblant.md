@@ -5,17 +5,8 @@ type: post
 date: 2015-08-02T15:29:09+00:00
 url: /ciel-etoile-au-parc-nationale-du-mont-tremblant/
 featured_image: /wp-content/uploads/2015/08/IMG_5303-Featured-Image-672x378.jpg
-Snippet Title:
-  - EXIF Info
-Snippet:
-  - |
-    [exif id="1065"]
-    
-    [exif id="1066"]
-    
-    [exif id="1067"]
 hits:
-  - 96
+  - 103
 categories:
   - Photography
 tags:
@@ -36,31 +27,42 @@ La lentille utilisée pour faire ces photos est une [Sigma 18-35mm f1.8 DC HSM][
 
 Le résultats est quand même très jolie pour une première tentative mais mes prochaines photos du ciel seront faites avec un stabilisateur.
 
-<div id="attachment_1065" style="width: 484px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5300_e2ez.jpg"><img aria-describedby="caption-attachment-1065" loading="lazy" class="size-large wp-image-1065" src="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5300_e2ez-1024x683.jpg" alt="La vue du Lac Monroe. Au loin, les montagnes et un peu de nuages. La grande ourse dans le ciel. On peut aussi apercevoir en bas à gauche la pollution lumineuse provenant du Village du Mont-Tremblant." width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5300_e2ez-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5300_e2ez-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5300_e2ez-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5300_e2ez-1620x1080.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5300_e2ez-672x448.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
-  
-  <p id="caption-attachment-1065" class="wp-caption-text">
-    La vue du Lac Monroe. Au loin, les montagnes et un peu de nuages. La grande ourse dans le ciel. On peut aussi apercevoir en bas à gauche la pollution lumineuse provenant du Village du Mont-Tremblant.
-  </p>
-</div>
+&nbsp;
 
-<div id="attachment_1066" style="width: 484px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5303_e2ez.jpg"><img aria-describedby="caption-attachment-1066" loading="lazy" class="size-large wp-image-1066" src="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5303_e2ez-1024x683.jpg" alt="Le ciel observé à plus de 60 degrés d'inclinaison. 30 secondes d'exposition au total. Les étoiles sont plus brillantes mais aussi plus élongées. Le ciel est aussi plus clair. On peut distinguer des teintes orangées et bleutées" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5303_e2ez-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5303_e2ez-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5303_e2ez-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5303_e2ez-1620x1080.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5303_e2ez-672x448.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+<table border="0" cellpadding="0" cellspacing="0" style="border: 0">
+  <tr>
+    <td style="border: 0">
+      <a href="https://www.flickr.com/photos/154618444@N05/36893577574/in/album-72157687682410954/"><br /> <img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5300_e2ez-672x448.jpg" alt="La vue du Lac Monroe. Au loin, les montagnes et un peu de nuages. La grande ourse dans le ciel. On peut aussi apercevoir en bas à gauche la pollution lumineuse provenant du Village du Mont-Tremblant." width="672" height="448" srcset="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5300_e2ez-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5300_e2ez-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5300_e2ez-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5300_e2ez-1620x1080.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5300_e2ez-672x448.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /><br /> </a></p> 
+      
+      <p id="caption-attachment-1065" class="wp-caption-text">
+        La vue du Lac Monroe. Au loin, les montagnes et un peu de nuages. La grande ourse dans le ciel. On peut aussi apercevoir en bas à gauche la pollution lumineuse provenant du Village du Mont-Tremblant.
+      </p>
+    </td>
+    
+    <td style="border: 0">
+      <a href="https://www.flickr.com/photos/154618444@N05/36933665833/in/album-72157687682410954/"><br /> <img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5303_e2ez-672x448.jpg" alt="Le ciel observé à plus de 60 degrés d'inclinaison. 30 secondes d'exposition au total. Les étoiles sont plus brillantes mais aussi plus élongées. Le ciel est aussi plus clair. On peut distinguer des teintes orangées et bleutées" width="672" height="448" srcset="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5303_e2ez-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5303_e2ez-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5303_e2ez-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5303_e2ez-1620x1080.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5303_e2ez-672x448.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /><br /> </a></p> 
+      
+      <p id="caption-attachment-1066" class="wp-caption-text">
+        Le ciel observé à plus de 60 degrés d’inclinaison. 30 secondes d’exposition au total. Les étoiles sont plus brillantes mais aussi plus élongées. Le ciel est aussi plus clair. On peut distinguer des teintes orangées et bleutées
+      </p>
+    </td>
+  </tr>
   
-  <p id="caption-attachment-1066" class="wp-caption-text">
-    Le ciel observé à plus de 60 degrés d&#8217;inclinaison. 30 secondes d&#8217;exposition au total. Les étoiles sont plus brillantes mais aussi plus élongées. Le ciel est aussi plus clair. On peut distinguer des teintes orangées et bleutées
-  </p>
-</div>
-
-<div id="attachment_1067" style="width: 484px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5304_e2ez.jpg"><img aria-describedby="caption-attachment-1067" loading="lazy" class="size-large wp-image-1067" src="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5304_e2ez-1024x683.jpg" alt="Toujours une inclinaison de plus de 60 degrés mais avec seulement 20 secondes d'exposition au total. Les étoiles sont moins brillantes mais surtout moins élongées. Le ciel est sombre. On distingue les mêmes teintes orangées et bleutées. Certainement le meilleur rapport temps versus qualité." width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5304_e2ez-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5304_e2ez-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5304_e2ez-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5304_e2ez-1620x1080.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5304_e2ez-672x448.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
-  
-  <p id="caption-attachment-1067" class="wp-caption-text">
-    Toujours une inclinaison de plus de 60 degrés mais avec seulement 20 secondes d&#8217;exposition au total. Les étoiles sont moins brillantes mais surtout moins élongées. Le ciel est sombre. On distingue les mêmes teintes orangées et bleutées. Certainement le meilleur rapport temps versus qualité.
-  </p>
-</div>
+  <tr>
+    <td style="border: 0">
+      <a href="https://www.flickr.com/photos/154618444@N05/51427401992/in/album-72157687682410954/"><br /> <img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5304_e2ez-672x448.jpg" alt="Toujours une inclinaison de plus de 60 degrés mais avec seulement 20 secondes d'exposition au total. Les étoiles sont moins brillantes mais surtout moins élongées. Le ciel est sombre. On distingue les mêmes teintes orangées et bleutées. Certainement le meilleur rapport temps versus qualité." width="672" height="448" srcset="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5304_e2ez-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5304_e2ez-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5304_e2ez-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5304_e2ez-1620x1080.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5304_e2ez-672x448.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /><br /> </a></p> 
+      
+      <p id="caption-attachment-1067" class="wp-caption-text">
+        Toujours une inclinaison de plus de 60 degrés mais avec seulement 20 secondes d’exposition au total. Les étoiles sont moins brillantes mais surtout moins élongées. Le ciel est sombre. On distingue les mêmes teintes orangées et bleutées. Certainement le meilleur rapport temps versus qualité.
+      </p>
+    </td>
+    
+    <td style="border: 0">
+    </td>
+  </tr>
+</table>
 
  [1]: /couche-de-soleil-au-parc-nationale-du-mont-tremblant
  [2]: https://www.google.ca/maps/place/46°20'01.5"N+74°30'24.7"W/@46.333754,-74.506858,812m/
- [3]: https://www.google.ca/?#q=canon+eos+rebel+sl1
- [4]: https://www.google.ca/?#q=sigma+18-35mm+f1.8+DC+HSM+Art
+ [3]: https://www.google.ca/search?q=canon+eos+rebel+sl1
+ [4]: https://www.google.ca/search?q=sigma+18-35mm+f1.8+DC+HSM+Art

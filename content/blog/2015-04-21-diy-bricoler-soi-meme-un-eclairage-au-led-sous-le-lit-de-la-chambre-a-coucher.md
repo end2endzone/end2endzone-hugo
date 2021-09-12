@@ -6,7 +6,7 @@ date: 2015-04-21T16:57:52+00:00
 url: /diy-bricoler-soi-meme-un-eclairage-au-led-sous-le-lit-de-la-chambre-a-coucher/
 featured_image: /wp-content/uploads/2014/09/IMG_0846-672x448.jpg
 hits:
-  - 5316
+  - 5351
 english_post_id:
   - 316
 Snippet Title:

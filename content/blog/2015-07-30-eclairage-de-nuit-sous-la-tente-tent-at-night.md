@@ -5,12 +5,8 @@ type: post
 date: 2015-07-31T00:29:37+00:00
 url: /eclairage-de-nuit-sous-la-tente-tent-at-night/
 featured_image: /wp-content/uploads/2015/07/IMG_5287-Featured-Image-672x378.jpg
-Snippet Title:
-  - EXIF Info
-Snippet:
-  - '[exif id="1035"]'
 hits:
-  - 71
+  - 76
 categories:
   - Photography
 tags:
@@ -24,12 +20,13 @@ Se lever au beau milieu de la nuit pour voir ce décors, PRICELESS!<!--more-->
 
 Une image vaut mille mots!
 
-<div id="attachment_1035" style="width: 484px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/07/IMG_5287_e2ez.jpg"><img aria-describedby="caption-attachment-1035" loading="lazy" class="wp-image-1035 size-large" src="http://www.end2endzone.com/wp-content/uploads/2015/07/IMG_5287_e2ez-1024x683.jpg" alt="Tent at night" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2015/07/IMG_5287_e2ez-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2015/07/IMG_5287_e2ez-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/07/IMG_5287_e2ez-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/07/IMG_5287_e2ez-1620x1080.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2015/07/IMG_5287_e2ez-672x448.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
-  
-  <p id="caption-attachment-1035" class="wp-caption-text">
-    Tent at night
-  </p>
-</div>
+[  
+<img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2015/07/IMG_5287_e2ez-672x448.jpg" alt="Tent at night" width="672" height="448" />  
+][2] 
 
- [1]: https://www.google.ca/?#q=Lanterne+%C3%A0+bougie+de+camping
+<p id="caption-attachment-1035" class="wp-caption-text">
+  Tent at night
+</p>
+
+ [1]: https://www.google.com/search?q=Lanterne+%C3%A0+bougie+de+camping
+ [2]: https://www.flickr.com/photos/154618444@N05/23729082528/in/album-72157689242914796/

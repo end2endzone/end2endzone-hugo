@@ -19,7 +19,7 @@ Snippet:
         </div>
         
 hits:
-  - 31
+  - 35
 categories:
   - Development
 tags:
@@ -126,7 +126,7 @@ This software is furnished &#8220;as is&#8221;, without technical support, and w
 You can download **_svnpropertylog_** by clicking on the following link:
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1908/" rel="nofollow"> Download &ldquo;svnpropertylog v1.1.29&rdquo; <small>svnpropertylog-v1.1.29.zip &ndash; Downloaded 341 times &ndash; 8 KB</small> </a>
+		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1908/" rel="nofollow"> Download &ldquo;svnpropertylog v1.1.29&rdquo; <small>svnpropertylog-v1.1.29.zip &ndash; Downloaded 346 times &ndash; 8 KB</small> </a>
 
  [1]: #Download
  [2]: http://en.wikipedia.org/wiki/VBScript

@@ -6,7 +6,7 @@ date: 2016-01-28T17:43:43+00:00
 url: /rc-transmitter-mix-calculator/
 featured_image: /wp-content/uploads/2016/01/RC-Transmitter-Mix-Calculator-672x378.jpg
 hits:
-  - 1343
+  - 1361
 categories:
   - Model Aeronautics
 tags:
@@ -239,7 +239,7 @@ Cells in light blue are the final mix values.
 ## <span id="Download">Download</span>
 
 
-	<a class="download-link" title="Version 2.0" href="http://www.end2endzone.com/download/1255/" rel="nofollow"> Mixing Calculator for R/C Transmitter (1088 downloads) </a>
+	<a class="download-link" title="Version 2.0" href="http://www.end2endzone.com/download/1255/" rel="nofollow"> Mixing Calculator for R/C Transmitter (1107 downloads) </a>
 
 Enjoy!
 
