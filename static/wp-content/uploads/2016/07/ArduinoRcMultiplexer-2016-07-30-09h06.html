@@ -1,0 +1,286 @@
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+<h1 style="text-align: justify;">Introduction</h1>
+<p style="text-align: justify;">The reason I started this project is because I recently had a bad experience flying a quadcopter too far from me until I was not able to distinguish if the quad was facing me or not. It does not require much distance before a quadcopter looks like a tiny black dot in the sky. Basically, I lost orientation of the quad and I had to land way too far from my takeoff location.</p>
+<p style="text-align: justify;">I was in need of more tools (or more ways) to help myself when I will inevitably get into this situation again. The following project explains how I build a DIY solution to help a pilot know a quadcopter orientation when its far away from the point of view and easily locate the quadcopter in case of emergency landing.<!--more--></p>
+
+<h1 style="text-align: justify;">Background story</h1>
+<p style="text-align: justify;">I have been flying planes for many years now and over time, I learned to increase my skills and I became a nice pilot. I am still new to the RC hobby and I got pulled into flying quadcopters.</p>
+<p style="text-align: justify;">Quadcopters are not piloted the same way as planes. They look safer or easier to pilot since you can always slow down and hover if anything gets out of control.</p>
+<p style="text-align: justify;">Recently, I had an interesting experience. I was flying my quad for around 3 months and I felt too much confident: I wanted to try doing flips. Coming from a plane world, I though that climbing to a safe altitude would be the best strategy in case something went wrong.</p>
+<p style="text-align: justify;">I got carried away and I ended up to a much higher altitude and further away than I was used to. I tried to drop height and drive the quadcopter back to me but it was too late. The wind was so strong that it moved the quad further away and made the quadcopter swirl. I quickly lost  orientation of the quad and had no way to bring it back.</p>
+<p style="text-align: justify;">Luckily, a more experienced pilot help me get the quadcopter back to a safe landing zone which was 615 meters away from my takeoff location.</p>
+<p style="text-align: justify;">It took me 3 hours to locate the landing site and find the quad which was still intact!</p>
+<p style="text-align: justify;">I learn multiple things this day:</p>
+
+<ol>
+	<li style="text-align: justify;">I was lacking experience and I need much more practice before attempting stupid aerobatics.</li>
+	<li style="text-align: justify;">Getting altitude for quadcopters is not as safe as for planes.</li>
+	<li style="text-align: justify;">It is always better to fly with someone more experienced than you are.</li>
+	<li style="text-align: justify;">I needed a way to know the orientation of the quad when it is over or away from me.</li>
+	<li style="text-align: justify;">A lost plane alarm buzzer would have helped me find the quadcopter much quicker.</li>
+	<li style="text-align: justify;">I was in need of a GPS module and a failsafe mode.</li>
+</ol>
+<h1 style="text-align: justify;">Project summary</h1>
+<p style="text-align: justify;">The DIY solution consist of adding two devices on the quadcopter each device for solving a specific issue.</p>
+
+<h2 style="text-align: justify;">10 watts LED</h2>
+[caption id="attachment_2141" align="alignnone" width="300"]<a href="http://www.end2endzone.com/wp-content/uploads/2016/07/10-Watt-LEDs.jpg" rel="attachment wp-att-2141"><img class="wp-image-2141 size-medium" src="http://www.end2endzone.com/wp-content/uploads/2016/07/10-Watt-LEDs-300x169.jpg" alt="10 Watt LEDs" width="300" height="169" /></a> 10 Watt LEDs[/caption]
+<p style="text-align: justify;">The first device is a 10 watts light-emitting diode (LED) mounted to the front of the quadcopter. This option adds to existing visual aids and help the pilot to develop his situation awareness. The front LED allows the pilot to know when the quadcopter is facing him and help the pilot recover in case of lost orientation.</p>
+<p style="text-align: justify;">This type of LED is quite bright and provides 900 to 1000 lumens of light which makes it a good candidate to be seen from far away.</p>
+<p style="text-align: justify;">As an example, here is a picture of the LED mounted to the quadcopter seen from 333 meters away.</p>
+
+
+[caption id="attachment_2132" align="alignnone" width="373"]<a href="http://www.end2endzone.com/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-on-from-333-meters.png" rel="attachment wp-att-2132"><img class="wp-image-2132 size-full" src="http://www.end2endzone.com/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-on-from-333-meters.png" alt="Quadcopter 10 watts LED seen from 333 meters away" width="373" height="209" /></a> Quadcopter 10 watts LED seen from 333 meters away[/caption]
+<p style="text-align: justify;">To help locate the LED location, here is the same point of view with the LED turned off:</p>
+
+
+[caption id="attachment_2131" align="alignnone" width="373"]<a href="http://www.end2endzone.com/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-off-from-333-meters.png" rel="attachment wp-att-2131"><img class="wp-image-2131 size-full" src="http://www.end2endzone.com/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-off-from-333-meters.png" alt="Quadcopter 10 watts LED OFF" width="373" height="209" /></a> Quadcopter 10 watts LED OFF[/caption]
+<p class="pleasenote" data-pleasenote="true">Note that both images are cropped version of <a href="http://www.end2endzone.com/wp-content/uploads/2016/07/10w-Quadcopter-LED-full-image.jpg">the original image</a> which as a much higher field-of-view.</p>
+
+<h2>Lost plane alarm finder</h2>
+[caption id="attachment_2142" align="alignnone" width="300"]<a href="http://www.end2endzone.com/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers.jpg" rel="attachment wp-att-2142"><img class="wp-image-2142 size-medium" src="http://www.end2endzone.com/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers-300x169.jpg" alt="Piezoelectric Buzzer - Audible Alarm Sound Buzzers" width="300" height="169" /></a> Piezoelectric Buzzer - Audible Alarm Sound Buzzers[/caption]
+<p style="text-align: justify;">The second device is a 96 decibel (dB) <a href="http://en.wikipedia.org/wiki/Piezoelectric_speaker">piezoelectric speaker</a>. This allows the quadcopter to be easily found in case of a crash or an emergency landing. For example, if one enter <a href="http://wiki.dji.com/en/index.php/Naza-M_Enhanced_Failsafe">Failsafe mode</a>, the quadcopter can land immediately (or <a href="http://wiki.dji.com/en/index.php/Inspire_1_Pro-Return_to_Home_(RTH)">Return To Home</a> but that is out of scope) and there is a good chance that it will be far from your takeoff location. Tracking a beep-beep-beep sound is much more easier than estimating the landing location 1 km away.</p>
+<p style="text-align: justify;">There are already tons of existing options for a search alarm buzzer on the market, each with their own pros and cons. <a href="http://www.hobbyking.com/hobbyking/store/__14521__HobbyKing_174_Discovery_Buzzer.html">Some buzzer</a> must be connected to a dedicated channel and make sound when flipping a switch on your controller. <a href="http://www.hobbyking.com/hobbyking/store/__13064__Signal_loss_Alarm_Lost_Plane_Finder.html">Others</a> must be connected in series with the throttle channel and rings if the throttle signal has not changed for more than 60 seconds.</p>
+<p style="text-align: justify;">However, I prefer the <a href="/tag/diy/">DIY way</a> since it gives more personal satisfaction and the selected option is always the preferred one for my personal needs.</p>
+<p style="text-align: justify;">With the DIY route, the piezo buzzer is much louder reaching peaks of 96 dB instead of 60-70 dB since the piezo is powered by the LiPo battery (in my case a 3S 11.1 volts) instead of poor 5 volts. The sound volume for piezo buzzer is proportional to the voltage used to power the device meaning that a 4S LiPo battery (14.8v) would make it louder than a 3S LiPo.</p>
+
+<h2 style="text-align: justify;">Microcontroller</h2>
+[caption id="attachment_2143" align="alignnone" width="300"]<a href="http://www.end2endzone.com/wp-content/uploads/2016/07/Arduino-Nano-v3.jpg" rel="attachment wp-att-2143"><img class="wp-image-2143 size-medium" src="http://www.end2endzone.com/wp-content/uploads/2016/07/Arduino-Nano-v3-300x169.jpg" alt="Arduino Nano v3" width="300" height="169" /></a> Arduino Nano v3[/caption]
+<p style="text-align: justify;">What is different about this project is that it includes an <a href="http://www.arduino.cc/en/Main/ArduinoBoardNano">arduino nano v3</a>, which is a microcontroller. The arduino act as the brain between the pilot and the on-board devices. It allows control of both the LED and the piezo buzzer by reading the quadcopter's receiver signal and forwarding the pilot commands to each device.</p>
+<p style="text-align: justify;">This configuration offers much more possibilities. The most obvious is that each device may not be controlled by the microcontroller instead of a direct channel. This allows advanced logic to be used to implement more features.</p>
+<p style="text-align: justify;">As an example, I don't want the LED always turned ON and certainly don't need to have the alarm buzzing during the flight when everything is going well. So I had to come up with a way to control both devices with the transmitter.</p>
+<p style="text-align: justify;">The big innovation about this project is that <strong>both devices</strong> are controlled by the quadcopter transmitter using only a <strong>single</strong> channel.</p>
+<p style="text-align: justify;">As bonus points, with the help of the arduino, the piezo buzzer can be used as a "cellphone ringtone player" to ring the geekiest melodies...</p>
+
+<h1 style="text-align: justify;">Project data</h1>
+<h2 style="text-align: justify;"><span style="font-size: 24px; font-weight: bold; line-height: 1;">Components and Supplies</span></h2>
+<p style="text-align: justify;">All the hardware components required for this project are available  for purchase on eBay.</p>
+<p class="pleasenote" style="text-align: justify;" data-pleasenote="true">Note that this project assumes that the arduino will be connected to a Remote Controlled (RC) 6-channels Receiver. This part for the project is then not listed as a 'required' component.</p>
+<p style="text-align: justify;">The material for this project is as follows:</p>
+
+<table class=" generictable" data-generictable="true">
+<tbody>
+<tr class="headerrow" data-headerrow="true">
+<td>Image</td>
+<td>Description</td>
+<td>Qty</td>
+</tr>
+<tr>
+<td><a href="http://www.end2endzone.com/wp-content/uploads/2016/07/Arduino-Nano-v3.jpg" rel="attachment wp-att-2143"><img class="alignnone wp-image-2143 size-thumbnail" src="http://www.end2endzone.com/wp-content/uploads/2016/07/Arduino-Nano-v3-150x84.jpg" alt="Arduino Nano v3" width="150" height="84" /></a></td>
+<td>Arduino Nano v3</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.end2endzone.com/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers.jpg" rel="attachment wp-att-2142"><img class="alignnone wp-image-2142 size-thumbnail" src="http://www.end2endzone.com/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers-150x84.jpg" alt="Piezoelectric Buzzer - Audible Alarm Sound Buzzers" width="150" height="84" /></a></td>
+<td>Piezoelectric Buzzer</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.end2endzone.com/wp-content/uploads/2016/07/10-Watt-LEDs.jpg" rel="attachment wp-att-2141"><img class="alignnone wp-image-2141 size-thumbnail" src="http://www.end2endzone.com/wp-content/uploads/2016/07/10-Watt-LEDs-150x84.jpg" alt="10 Watt LEDs" width="150" height="84" /></a></td>
+<td>10 Watt LEDs</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.end2endzone.com/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver.jpg" rel="attachment wp-att-2150"><img class="alignnone wp-image-2150 size-thumbnail" src="http://www.end2endzone.com/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver-150x84.jpg" alt="MR16 12v 10w LED Driver" width="150" height="84" /></a></td>
+<td>MR16 Constant Current LED Driver (12v 10w)</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.end2endzone.com/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet.jpg" rel="attachment wp-att-2149"><img class="alignnone wp-image-2149 size-thumbnail" src="http://www.end2endzone.com/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet-150x84.jpg" alt="IRF630N N-Channel 200V, 9.3A, 0.30-Ohm TO-220AB Power Mosfet" width="150" height="84" /></a></td>
+<td>N-Channel TO-220AB Power Mosfet
+(IRF630N, 200V, 9.3A, 0.30-Ohm)</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.end2endzone.com/wp-content/uploads/2016/07/20CM-Male-Servo-Extension-Lead-Wire-Cable.jpg" rel="attachment wp-att-2154"><img class="alignnone wp-image-2154 size-thumbnail" src="http://www.end2endzone.com/wp-content/uploads/2016/07/20CM-Male-Servo-Extension-Lead-Wire-Cable-150x126.jpg" alt="20CM Male to Male Servo Extension Lead Wire Cable" width="150" height="126" /></a></td>
+<td>20cm Male Servo Extension Lead Wire Cable</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.end2endzone.com/wp-content/uploads/2016/07/Female-JST-Battery-Connector.jpg" rel="attachment wp-att-2148"><img class="alignnone wp-image-2148 size-thumbnail" src="http://www.end2endzone.com/wp-content/uploads/2016/07/Female-JST-Battery-Connector-150x84.jpg" alt="Female JST Battery Connector" width="150" height="84" /></a></td>
+<td>Female JST battery connector</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.end2endzone.com/wp-content/uploads/2016/07/Single-Side-5x7cm-Prototyping-Stripboard.jpg" rel="attachment wp-att-2151"><img class="wp-image-2151 size-thumbnail alignnone" src="http://www.end2endzone.com/wp-content/uploads/2016/07/Single-Side-5x7cm-Prototyping-Stripboard-150x84.jpg" alt="Single Side 5x7cm Prototyping Stripboard" width="150" height="84" /></a></td>
+<td>Single Side 5x7cm Prototyping Stripboard</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.end2endzone.com/wp-content/uploads/2016/07/10k-resistor.jpg" rel="attachment wp-att-2153"><img class="alignnone wp-image-2153 size-thumbnail" src="http://www.end2endzone.com/wp-content/uploads/2016/07/10k-resistor-150x85.jpg" alt="10k resistor" width="150" height="85" /></a></td>
+<td>10k Ohm Resistor</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.end2endzone.com/wp-content/uploads/2016/07/Wire.jpg" rel="attachment wp-att-2146"><img class="alignnone wp-image-2146 size-thumbnail" src="http://www.end2endzone.com/wp-content/uploads/2016/07/Wire-150x84.jpg" alt="Wire" width="150" height="84" /></a></td>
+<td>Wires</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h3 style="text-align: justify;">MR16 Constant Current LED Driver</h3>
+[caption id="attachment_2150" align="alignnone" width="300"]<a href="http://www.end2endzone.com/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver.jpg" rel="attachment wp-att-2150"><img class="size-medium wp-image-2150" src="http://www.end2endzone.com/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver-300x169.jpg" alt="MR16 12v 10w LED Driver" width="300" height="169" /></a> MR16 12v 10w LED Driver[/caption]
+<p style="text-align: justify;">The MR16 Constant Current LED Driver is used to drive the 10w LED. It can easily be found on eBay and light stores since the driver is used power LED lamps which happens to use 10w LEDs.</p>
+<p style="text-align: justify;">The controller is not cheap but looks like the best logical choice. On a quadcopter, every grams counts and this driver is very light and it is the tiniest form factor circuit that I could find.</p>
+<p style="text-align: justify;">I am not that much concerned about power efficiency of the driver since the project is to be mounted to a quadcopter. The small 10w LED is not significant when compared to the 4 brushless motors.</p>
+
+<h3 style="text-align: justify;">N-Channel Power Mosfet</h3>
+[caption id="attachment_2149" align="alignnone" width="300"]<a href="http://www.end2endzone.com/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet.jpg" rel="attachment wp-att-2149"><img class="size-medium wp-image-2149" src="http://www.end2endzone.com/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet-300x169.jpg" alt="IRF630N N-Channel 200V, 9.3A, 0.30-Ohm TO-220AB Power Mosfet" width="300" height="169" /></a> IRF630N N-Channel 200V, 9.3A, 0.30-Ohm TO-220AB Power Mosfet[/caption]
+<p style="text-align: justify;">My original design only required a single mosfet and was used as a switch to trigger the MR16 LED driver and a simple NPN Transistor (like the 2N2222A) which was also used as a switch to trigger the piezo buzzer. This setup was working fine on the arduino development board which provides 5 volts. However, once I connected the board to my 3S LiPo battery, which is 11.1 volts, the gate of the 2N2222A started leaking from collector to emitter without a signal sent to the base. The piezo buzzer started ringing without me understanding why.</p>
+<p class="pleasenote" style="text-align: justify;" data-pleasenote="true">Please note that your wife may get mad at you if you let the piezo buzzer ring for too long. Better use higher rated transistor!</p>
+<p style="text-align: justify;">I used the IRF630N mosfet for driving both the LED and the piezo buzzer. The mosfet is rated for much higher current and voltage (200V, 9.3A) for this scenario but it is relatively cheap and I had plenty of those at home.</p>
+
+<h3 style="text-align: justify;">Other material</h3>
+[gallery link="file" columns="2" ids="526,524,523,522" orderby="rand"]
+<p style="text-align: justify;"><span style="background-color: #ff0000;">CCPM-Servo-Tester</span></p>
+
+<h2 style="text-align: justify;">Payload</h2>
+<span style="background-color: #ff0000;">blah.</span>
+<h2 style="text-align: justify;"><span style="line-height: 1.5;">Total cost of the project</span></h2>
+<p style="text-align: justify;">This project is really cheap and can be completed with less than <span style="background-color: #ff0000;">00</span>$.</p>
+<p style="text-align: justify;">Here is the detailed price of each items:</p>
+
+<ul style="text-align: justify;">
+	<li>4.00$ - Switches</li>
+	<li>1.25$ - Cable</li>
+	<li>1.00$ - Project box</li>
+	<li>2.00$ - Audio plug</li>
+	<li>...</li>
+</ul>
+Total cost: $<strong>8.25</strong>
+<p class="pleasenote" style="text-align: justify;" data-pleasenote="true">Note that cost of usual items such as screws and glue is not included in the cost of the project.</p>
+
+<h2 style="text-align: justify;"><span style="line-height: 1.5;">Preparation time</span></h2>
+<p style="text-align: justify;">The whole project can be completed in <span style="background-color: #ff0000;">4-5</span> hours.</p>
+<p style="text-align: justify;">Once you have all materials</p>
+<p style="text-align: justify;">Use the already debugged code.</p>
+<p style="text-align: justify;">Testing and proof of concept is already available.</p>
+<p style="text-align: justify;">The preparation time is simple. It requires you to evaluate the feasibility of the project by testing the functionality of the remote trigger on your camera. You want to know the behavior of your camera before beginning everything else!</p>
+<p style="text-align: justify;">This project also requires you to have soldering skills so your mileage may vary. The duration of this project may change depending on how much you are comfortable with a soldering iron.</p>
+
+<h1>Schematics</h1>
+<p style="text-align: justify;">The following section shows the drawings and the schematics used by the controller.</p>
+
+<h2>Fritzing files</h2>
+<p style="text-align: justify;">All drawings and diagrams are build using <a href="http://fritzing.org/home/">Fritzing</a> version 0.9.2b which is an open-source hardware initiative tool that allows developers to document their prototypes and share them with others. The application already features a huge parts library but there is no support for a <a href="#Components_and_Supplies">Generic Remote Controlled (RC) 6-Channels Receiver</a> and for the <a href="#Components_and_Supplies">MR16 Constant Current LED Driver</a>.</p>
+<p style="text-align: justify;">The additional parts which are required for rendering the project are available for download:</p>
+
+<ul>
+	<li style="text-align: justify;">G<span style="background-color: #ff0000;">eneric Remote Controlled (RC) 6-Channels Receiv</span>er</li>
+	<li style="text-align: justify;">MR<span style="background-color: #ff0000;">16 Constant Current LED Driv</span>er</li>
+</ul>
+<p style="text-align: justify;">The project files are also available for download. Click the following link to get the <em>Fritzing project files</em> for this project:</p>
+
+<ul>
+	<li style="text-align: justify;">DI<span style="background-color: #ff0000;">Y lost plane alarm finder and 10 watts LED visual aids for easy orientat</span>ion</li>
+</ul>
+<h2>Circuit Diagram</h2>
+The following section shows the circuit diagram layout
+
+[caption id="attachment_2169" align="alignnone" width="1024"]<a href="http://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_schematics.png" rel="attachment wp-att-2169"><img class="size-large wp-image-2169" src="http://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_schematics-1024x681.png" alt="Quadcopter Controller Project - Schematics view" width="1024" height="681" /></a> Quadcopter Controller Project - Schematics view[/caption]
+<h2>Breadboard Layout</h2>
+The following section shows a breadboard layout view of the circuit.
+
+[caption id="attachment_2170" align="alignnone" width="1024"]<a href="http://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_breadboard.png" rel="attachment wp-att-2170"><img class="wp-image-2170 size-large" src="http://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_breadboard-1024x583.png" alt="Quadcopter Controller Project - Breadboard view" width="1024" height="583" /></a> Quadcopter Controller Project - Breadboard view[/caption]
+<h1 style="text-align: justify;">Code</h1>
+blah
+<h2 style="text-align: justify;"><span style="font-size: 24px; font-weight: bold; line-height: 1;">External libraries</span></h2>
+<p style="text-align: justify;">The code on the arduino requires multiple external arduino libraries. The following list shows all required software libraries and their related use as part of this project:</p>
+
+<table class=" generictable" style="width: 470px;" data-generictable="true">
+<tbody>
+<tr class="headerrow" data-headerrow="true">
+<td style="width: 110px;">Name</td>
+<td style="width: 80px;">Version</td>
+<td style="width: 280px;">Usage</td>
+</tr>
+<tr>
+<td><a href="http://www.end2endzone.com/softtimers-a-collection-of-software-timers-to-easily-compute-elapsed-time-since-an-event-occured/">SoftTimers</a> <sup>5</sup></td>
+<td>v1.1.219</td>
+<td>Required for all computation and handling of the LED's ON and OFF times.</td>
+</tr>
+<tr>
+<td><a href="http://www.end2endzone.com/rcreceiversignal-an-arduino-library-for-retreiving-the-rc-transmitter-value-from-an-rc-receiver-pulse/">RcReceiverSignal</a> <sup>8</sup></td>
+<td>v1.2.203</td>
+<td>Required to read PWM signals sent
+from the RC Receiver.</td>
+</tr>
+<tr>
+<td><a href="http://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/">AnyRtttl</a> <sup>7</sup></td>
+<td>v2.1</td>
+<td>Required to play RTTTL melodies data.</td>
+</tr>
+<tr>
+<td><a href="http://github.com/GreyGnome/PinChangeInt">PinChangeInt</a></td>
+<td>version 2402</td>
+<td>RcReceiverSignal library has a dependency
+to PinChangeInt library.</td>
+</tr>
+<tr>
+<td><a href="http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html">eRCaGuy Timer2 Counter</a></td>
+<td>version 20140709
+(last updated
+9 July 2014)</td>
+<td>Required to have a micros() replacement function
+which has a 1µs resolution instead of 4µs.</td>
+</tr>
+</tbody>
+</table>
+<h2>Arduino sketch</h2>
+blah
+<h1 style="text-align: justify;"><span style="line-height: 1.5;">Building steps</span></h1>
+<p style="text-align: justify;"><span style="background-color: #ff0000;">Assembly steps are very simple. Screw, wire everything up, solder and enjoy.</span></p>
+
+<h2>Build a prototype</h2>
+[caption id="attachment_2156" align="alignnone" width="800"]<a href="http://www.end2endzone.com/wp-content/uploads/2016/07/DIY-Quadcopter-lost-plane-alarm-finder-and-10w-LED-visual-aids-Prototype.jpg" rel="attachment wp-att-2156"><img class="wp-image-2156 size-full" src="http://www.end2endzone.com/wp-content/uploads/2016/07/DIY-Quadcopter-lost-plane-alarm-finder-and-10w-LED-visual-aids-Prototype.jpg" alt="DIY Quadcopter lost plane alarm finder and 10w LED visual aids Prototype" width="800" height="480" /></a> DIY Quadcopter lost plane alarm finder and 10w LED visual aids Prototype[/caption]
+
+<span style="background-color: #ff0000;">blah</span>
+
+test logic of the code
+
+the pins drives low LEDs instead of high current mosfets.
+
+Using a simple CCPM Servo Tester for emulating the 6-ch receiver.
+
+yellow and blue wires in the above picture matches the blue and orange wire of the breadboard layout.
+
+&nbsp;
+<h2 style="text-align: justify;">Soldering components on the stripboard</h2>
+<p style="text-align: justify;"><a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785.jpg"><img class="aligncenter size-large wp-image-527" src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785-1024x576.jpg" alt="IMG_8785" width="474" height="266" /></a>I do recommend that you start with soldering of the audio plug to the cable. This is the easiest part and can be completed quickly.</p>
+
+<h2></h2>
+<h2 style="text-align: justify;"></h2>
+<h2 style="text-align: justify;"></h2>
+<p style="text-align: justify;"><span style="font-size: 26px; font-weight: bold; line-height: 1.3846153846;">Final Result</span></p>
+<p style="text-align: justify;">Here is the final result:</p>
+
+
+[caption id="attachment_535" align="aligncenter" width="474"]<a href="http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg"><img class="size-large wp-image-535" src="http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera-1024x576.jpg" alt="DIY Remote trigger shutter release cable for your Canon DSLR camera" width="474" height="266" /></a> DIY Remote trigger shutter release cable for your Canon DSLR camera[/caption]
+<h1 style="text-align: justify;">References</h1>
+Here is the list of all sub-articles that made this project a reality:
+
+Documentation:
+<ol>
+	<li><a href="http://www.end2endzone.com/how-to-multiplex-rc-transmitter-switches-into-a-single-channel/">How to multiplex RC Transmitter switches into a single channel</a>.</li>
+	<li><a href="http://www.end2endzone.com/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/">Mapping RC Transmitter PWM signal to actual transmitter values</a>.</li>
+	<li><a href="http://www.end2endzone.com/demystifying-rc-transmitter-mixing/">Demystifying RC Transmitter Mixing</a>.</li>
+	<li><a href="http://www.end2endzone.com/rc-transmitter-mix-calculator/">RC Transmitter Mix Calculator</a>.</li>
+</ol>
+Arduino libraries:
+<ol>
+	<li value="5"><a href="http://www.end2endzone.com/softtimers-a-collection-of-software-timers-to-easily-compute-elapsed-time-since-an-event-occured/">SoftTimers – A collection of software timers to easily compute elapsed time since an event occurred</a>.</li>
+	<li><a href="http://www.end2endzone.com/librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/">libRtttl – A c++ library (with UI) for compressing/optimizing the RTTTL audio format</a>.</li>
+	<li><a href="http://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/">AnyRtttl – A feature rich arduino library for playing RTTTL melodies</a>.</li>
+	<li><a href="http://www.end2endzone.com/rcreceiversignal-an-arduino-library-for-retreiving-the-rc-transmitter-value-from-an-rc-receiver-pulse/">RcReceiverSignal: an arduino library for retrieving the RC Transmitter value from an RC Receiver pulse</a>.</li>
+</ol>
+<h1 style="text-align: justify;">Made anything differently?</h1>
+<p style="text-align: justify;">I do not think that I would make anything differently. Everything is pretty much like the way I wanted.</p>
+
+<h1 style="text-align: justify;">Notes</h1>
+<p style="text-align: justify;">none</p>
+</body>
+</html>

@@ -1,0 +1,686 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 12 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+</head>
+
+<body lang=FR-CA>
+
+<div class=WordSection1>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //Samples
+(tested with cmd.exe):</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  [command
+line]                        [arg#1]               [arg#2]                 [arg#3]</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+aaa&quot;                          =&gt;     
+aaa                                       </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+aaa\&quot;                         =&gt;     
+aaa&quot;                                      </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+aaa\\&quot;                        =&gt;      aaa\                                      </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+aaa\\\&quot;                       =&gt;     
+aaa\&quot;                                     </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+&quot;aaa\&quot;                        =&gt;     
+aaa&quot;                                      </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+&quot;aaa\\&quot;                       =&gt;      aaa\                                     
+</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+&quot;aaa\\\&quot;                      =&gt;     
+aaa\&quot;                                     </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+a&quot;bc                          =&gt;     
+abc                                       </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+a&quot;bc\                         =&gt;      abc\                                     
+</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+a&quot;bc\\                        =&gt;     
+abc\\                                     </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+a&quot;bc\\\                       =&gt;     
+abc\\\                                    </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+a&quot;bc\&quot;d                       =&gt;     
+abc&quot;d                                     </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  a&quot;bc\\
+ddd&quot; e                 =&gt;      abc\\ ddd            
+e                   </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+a&quot;bc\&quot;\ ddd&quot; e                =&gt;      abc&quot;\
+ddd             e                   </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  ab\\c
+d                       =&gt;      ab\\c                 d                   </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  ab\\
+c                        =&gt;      ab\\                  c                   </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  \\ab
+c                        =&gt;      \\ab                  c                   </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  a
+&quot;&quot;bc\&quot;o&quot; e&quot;                 =&gt;     
+a                     bc&quot;o e              </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  a
+&quot;bc\&quot;o&quot; e&quot;                  =&gt;     
+a                     bc&quot;o                    e</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+&quot;a&quot;&quot;&quot;b                        =&gt;     
+a&quot;b                                       </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+&quot;a&quot;&quot;&quot;b&quot;                       =&gt;     
+a&quot;b                                       </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+&quot;a\&quot;b&quot;                        =&gt;     
+a&quot;b                                       </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+&quot;a&quot;&quot;&quot; b&quot;                      =&gt;     
+a&quot;                    b                   </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+&quot;&quot;&quot;                           =&gt;     
+&quot;                                         </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+&quot;&quot;&quot;&quot;                          =&gt;     
+&quot;                                         </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+&quot;&quot;&quot;&quot;&quot;                         =&gt;     
+&quot;&quot;                                        </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+&quot;&quot;&quot;&quot;&quot;&quot;                        =&gt;     
+&quot;&quot;                                        </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  ^&quot;ab
+cd\^&quot;^&amp;echo foo^&quot;        =&gt;      ab cd&quot;&amp;echo
+foo                           </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //   &quot;ab
+cd\^&quot;^&amp;echo foo^&quot;        =&gt;      ab cd\^&amp;echo         
+foo                 </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  ^&quot;ab
+cd\^&quot; ee&quot;                =&gt;      ab cd&quot;
+ee                                 </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //   &quot;ab
+cd\&quot; ee&quot;                 =&gt;      ab cd&quot;
+ee                                 </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //   &quot;ab
+cd\^&quot; ee&quot;                =&gt;      ab cd\^              
+ee                  </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+&quot;a^b&quot; c                       =&gt;      a^b                  
+c                   </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+^&quot;a^b&quot; c                      =&gt;      ab                   
+c                   </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+^&quot;ab^&quot; c                      =&gt;      ab                   
+c                   </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+^&quot;ab^&quot;&quot; c                     =&gt;      ab&quot;
+c                                     </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  a \bb
+c                       =&gt;      a                    
+\bb                     c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  a \&quot;bb
+c&quot; d                   =&gt;      a                    
+&quot;bb                     c d</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  a
+^&quot;bb^&quot; c&quot; d                 =&gt;      a                    
+bb                      c d</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  a \&quot;b
+c                       =&gt;      a                    
+&quot;b                      c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+a&quot;&quot;b c                        =&gt;      ab                   
+c                   </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  a\&quot;b
+c                        =&gt;      a&quot;b                  
+c                   </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+&quot;a&quot;&quot;b&quot; c                      =&gt;     
+a&quot;b                   c                   </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  &quot;a\&quot;b&quot;
+c                      =&gt;      a&quot;b                  
+c                   </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  a
+^&quot;&quot; b                       =&gt;     
+a                                             b</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //  a
+^&quot;^&quot; b                      =&gt;     
+a                                             b</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+^&quot;&quot; a                         =&gt;                           
+a                   </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+^&quot;^&quot; a                        =&gt;                           
+a                   </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+^&quot;test\^&quot;^&amp;whoami^&quot;           =&gt;     
+test&quot;&amp;whoami                              </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+^&quot;test\\^&quot;^&amp;whoami^&quot;          =&gt;     
+test\&amp;whoami                              </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+^&quot;test\&quot;^&amp;whoami^&quot;            =&gt;     
+test&quot;^&amp;whoami^                            </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+a\\\\&quot;b                       =&gt;      a\\b                                      </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+^&quot;a\\\\&quot;b&quot;                    =&gt;     
+a\\b                                      </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 
+^&quot;a\^\^\\&quot;b&quot;                  =&gt;     
+a\\b                                      </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  </span><span
+style='font-size:10.0pt;font-family:"Courier New"'>// 
+^&quot;a\^\\^\&quot;b&quot;                  =&gt;      a\\b                                      </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+style='font-size:10.0pt;font-family:"Courier New"'>  // 
+^&quot;a\^\\\^&quot;b&quot;                  =&gt;     
+a\\b                                      </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //Rules:</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 1. [space]
+or tabs characters are argument delimiters/separators but *ONLY* when outside a
+string and outside a caret-string.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //        a b
+c                       a                     b                       c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 1.1. Double
+quotes character (&quot;) starts/ends a string. The &quot; character is omitted
+from the argument. Strings *may* not always be ended (the end of the command
+line may be hit without the end-of-string character)</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //      If a
+string is juxtaposed to another argument (not separated by a delimiter
+character), they are part of the same argument.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+&quot;a b c&quot;                     a b c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+a&quot; b&quot; c                     a b                   c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+&quot;a &quot;b c                     a b                   c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 2. Plain
+&quot; character must be escaped with \&quot; (or escaped with &quot;&quot;)
+and does not ends the string. (If not escaped, they act as rule #1).</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //   
+Characters escaped with \&quot; can be seen inside or outside strings but
+characters escaped with &quot;&quot; can *ONLY* be seen inside a string.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //        a
+\&quot;b c                     a                    
+&quot;b                      c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+&quot;a \&quot;b&quot; c                   a &quot;b                  c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+&quot;a &quot;&quot;b&quot; c                   a &quot;b                  c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //        a
+&quot;&quot;b c                     a                    
+b                       c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+&quot;&quot;&quot;&quot;                        &quot;</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 2.1 Plain
+&quot; character must be escaped with \^&quot; when inside a caret-string.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //      Note:
+\^&quot; character sequence can also be visible outside a string.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+^&quot;a \^&quot; b^&quot; c               a &quot; b                 c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+^&quot;a \&quot; b^&quot; c                a &quot; b^                c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //        a
+b\^&quot;c                     a                     b&quot;c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 3. Plain \
+character must be escaped with \\ *ONLY* if they precedes a &quot; character or
+^&quot; character sequence. (string or caret-string termination).</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+a\\b                        a\\b</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+&quot;a\\b&quot;                      a\\b</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+a\\&quot;b c                     a\b c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+a\\&quot;b c&quot;                    a\b c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+&quot;a\\\&quot;b c&quot;                  a\&quot;b c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+a\\^&quot;b c                    a\b c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+a\\^&quot;b c&quot;                   a\b c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+&quot;a\\\^&quot;b c&quot;                 a\\\^b                c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 4. ^&quot;
+sequence starts/ends a caret-string. Caret-strings are different than normal
+strings. Caret-strings may be ended with an unescaped &quot; character.
+Caret-string may not be ended.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //      If a
+caret-string is juxtaposed to another argument (not separated by a delimiter
+character), they are part of the same argument.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+^&quot;a b^&quot; c                   a b                   c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+^&quot;a b&quot; c                    a b                   c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+^&quot;a b^&quot;c                    a bc</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //        a^&quot;b
+c^&quot;                    ab c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 5. The
+following characters are special shell characters:   &amp;,&lt;,&gt;,(,),|,% or
+!</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 5.1. Shell
+characters must be read as plain text when inside a string.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+&quot;a &lt; b&quot; c                   a &lt; b                 c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+&quot;a ^&lt; b&quot; c                  a ^&lt; b                c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 5.2. Plain
+shell characters must be escaped with ^ when inside a caret-string or outside a
+string.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //        a
+^&lt; b                      a                     &lt;                       b</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+^&quot;a ^&lt; b^&quot; c                a &lt; b                 c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+^&quot;a &lt; b^&quot; c     =&gt;          The system cannot find the file
+specified.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+^&quot;a &amp; b^&quot; c     =&gt;          'b&quot;' is not recognized as an
+internal or external command, operable program or batch file.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+^&quot;a &amp;whoami^&quot;   =&gt;          outputs: %USERDOMAIN%\%USERNAME%</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 5.3
+Non-shell characters that are escaped with ^ when inside a caret-string or
+outside a string must be read as plain characters.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //        ^a^b
+^c                     ab                    c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+&quot;^a^b&quot; ^c                   ^a^b</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 6. Empty
+arguments must be specified with &quot;&quot; and must be enclosed by argument
+delimiters or located at the start/end of the command line.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //    Empty
+arguments can also be specified with ^&quot;^&quot; or a combination of the
+two.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //        a
+&quot;&quot; b                      a                    
+[empty]                 c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+&quot;&quot; a b                      [empty]              
+a                       b</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //        a b
+&quot;&quot;                      a                     b                      
+[empty]</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //        a
+^&quot;^&quot; b                    a                    
+[empty]                 c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+^&quot;^&quot; a b                    [empty]              
+a                       b</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //        a b
+^&quot;^&quot;                    a                     b                      
+[empty]</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //        a
+^&quot;&quot; b                     a                    
+[empty]                 c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //       
+^&quot;&quot; a b                     [empty]              
+a                       b</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //        a b
+^&quot;&quot;                     a                     b                      
+[empty]</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 7. Two
+juxtaposed strings (not separated by a delimiter character), will insert a
+plain &quot; character between each other.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //    This is
+valid for normal strings, caret-strings, or any combinations.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //      &quot;a
+b&quot;&quot;c d&quot;                    a b&quot;c d   (as with rule #2)</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //     
+^&quot;a b^&quot;^&quot;c d^&quot;                a b&quot;c d</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //      ^&quot;a
+b^&quot;&quot;c d&quot;                  a b&quot;c d</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //      &quot;a
+b&quot;^&quot;c d^&quot;                  a b&quot;c d</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //      &quot;a
+b^&quot;^&quot;c d&quot;                  a b^&quot;c d</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 8. All other
+characters must be read as plain text.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 9.
+Exceptions:</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 9.1 \&quot;
+character sequence inside a caret-string.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //     Note:
+This formatting is against rule 2.1.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //    
+^&quot;test\&quot;&lt;test&amp;whoami^&quot;        
+test&quot;&lt;test&amp;whoami^</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //     \&quot;
+sequence in caret-string should be read as [close caret-string] and [open
+string] and plain &quot; character.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //    Seems to
+be explained by rule 7.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // 9.2 OK: RULE
+7. ^&quot;&quot; character sequence inside a caret-string.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //     OK: RULE
+7. ^&quot;a ^&quot;&quot;&lt;test b^&quot; c             a &quot;&lt;test
+b^           c</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //     OK: RULE
+7. ^&quot;&quot; sequence in caret-string should be read as [close
+caret-string] and [open string] and plain &quot; character.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  // x. To
+Validate... </span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-autospace:none'><span
+lang=EN-CA style='font-size:10.0pt;font-family:"Courier New"'>  //     OK:
+^&quot;a &quot; b^&quot; c                    a[space]              b^ c</span></p>
+
+<p class=MsoNormal><span lang=EN-CA>&nbsp;</span></p>
+
+</div>
+
+</body>
+
+</html>
