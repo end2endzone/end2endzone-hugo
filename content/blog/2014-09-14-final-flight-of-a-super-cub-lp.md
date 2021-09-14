@@ -1,10 +1,10 @@
 ---
 title: Final flight of a Super Cub LP
 author: end2end
-type: post
 date: 2014-09-15T00:27:05+00:00
 url: /final-flight-of-a-super-cub-lp/
-featured_image: /wp-content/uploads/2014/09/DSC034641.jpg
+images:
+  - src: /wp-content/uploads/2014/09/DSC034641.jpg
 hits:
   - 299
 categories:
@@ -16,32 +16,32 @@ tags:
   - super cub
 
 ---
-# <span id="The_Good">The Good</span>
+# The Good
 
-After 1½ month of flying the plane, I was feeling a little more confident and I trusted enough myself for doing loops.  So at the end of the 2013 season, I went flying with a friend with my Super Cub LP. I wasn&#8217;t expecting any disaster&#8230;  
+After 1½ month of flying the plane, I was feeling a little more confident and I trusted enough myself for doing loops. &nbsp;So at the end of the 2013 season,&nbsp;I went flying with a friend with my Super Cub LP. I wasn't expecting any disaster...  
 <!--more-->
 
-<span style="line-height: 1.5;">It was a little cloudy & windy but I went flying anyway because I was too much confident that nothing could </span>happen since I had 6-7 flights of experience!<span style="line-height: 1.5;"><br /> </span>
+It was a little cloudy & windy but I went flying anyway because I was too much confident that nothing could happen since I had 6-7 flights of experience!<br /> 
 
-# <span id="The_Bad">The Bad</span>
+# The Bad
 
-I had a good overall flight but I had an small accident with some trees at the right side of the flying area. After investigating the plane, I realized that nothing was broken so I went for another flight. I made all the required checkups and verified that all control surfaces were working as expected before taking off. That&#8217;s what I tough&#8230;
+I had a good overall flight but I had an small accident with some trees at the right side of the flying area. After investigating the plane, I realized that nothing was broken so I went for another flight. I made all the required checkups and verified that all control surfaces were working as expected before taking off. That's what I tough...
 
-# <span id="The_Ugly">The Ugly</span>
+# The Ugly
 
-After a minute of flying, the elevator stopped responding and violently crashed the plane on the ground. Nothing more to say here. Just a painfully hard crash on the ground&#8230;
+After a minute of flying, the elevator stopped responding and violently crashed the plane on the ground. Nothing more to say here. Just a painfully hard crash on the ground...
 
 Here is the video of the crash:
 
 
 
-# <span id="The_explanation">The explanation</span>
+# The explanation
 
-During my encounter with the trees, one of the servo got loose in its socket and the glue (silicon) that was holding the servo to the fuselage was not holding anything anymore! During the flight, the servo <span style="line-height: 1.5;">pushed itself</span><span style="line-height: 1.5;"> </span><span style="line-height: 1.5;">out of its socket instead of pushing on the elevator rod resulting in a hard crash.</span>
+During my encounter with the trees, one of the servo got loose in its socket and the glue (silicon) that was holding the servo to the fuselage was not holding anything anymore! During the flight, the servo pushed itself&nbsp;out of its socket instead of pushing on the elevator rod resulting in a hard crash.
 
-# <span id="The_damage">The damage</span>
+# The damage
 
-As I said earlier in [The Hobby Zone Super Cub LP RTF. A good beginner’s RC plane][1], the plane can be repaired easily. As long as your electronics are still working, it is hard to damage the plane beyond repair.
+As I said earlier in [The Hobby Zone Super Cub LP RTF. A good beginner’s RC plane](/the-hobby-zone-super-cub-lp-rtf-a-good-beginners-rc-plane/), the plane can be repaired easily. As long as your electronics are still working, it is hard to damage the plane beyond repair.
 
 Here the description of the damage:
 
@@ -53,32 +53,18 @@ Here the description of the damage:
 
 Here is some pictures of the wreckage:
 
-<div id="attachment_387" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg"><img aria-describedby="caption-attachment-387" loading="lazy" class="size-large wp-image-387" src="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg" alt="Super Cub LP Crash (wings)" width="474" height="355" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg 1440w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
-  
-  <p id="caption-attachment-387" class="wp-caption-text">
-    Super Cub LP Crash (wings)
-  </p>
-</div>
+[![Super Cub LP Crash (wings)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg)
 
-<div id="attachment_393" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg"><img aria-describedby="caption-attachment-393" loading="lazy" class="size-large wp-image-393" src="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg" alt="Super Cub LP Crash (nose smashed)" width="474" height="355" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg 1440w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
-  
-  <p id="caption-attachment-393" class="wp-caption-text">
-    Super Cub LP Crash (nose smashed)
-  </p>
-</div>
+Super Cub LP Crash (wings)
 
-<div id="attachment_394" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg"><img aria-describedby="caption-attachment-394" loading="lazy" class="size-large wp-image-394" src="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg" alt="Super Cub LP Crash (engine smashed)" width="474" height="355" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg 1440w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
-  
-  <p id="caption-attachment-394" class="wp-caption-text">
-    Super Cub LP Crash (engine smashed)
-  </p>
-</div>
+[![Super Cub LP Crash (nose smashed)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg)
 
-# <span id="Final_note">Final note</span>
+Super Cub LP Crash (nose smashed)
 
-This adventure stopped me from flying during the 2013 season. I wasn&#8217;t mad that it happened. This event made me realize that repairing your model is also part of the hobby. In a future post, I will show you how I repaired everything to get the Super Cub LP back into the air.
+[![Super Cub LP Crash (engine smashed)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg)
 
- [1]: /the-hobby-zone-super-cub-lp-rtf-a-good-beginners-rc-plane/
+Super Cub LP Crash (engine smashed)
+
+# Final note
+
+This adventure stopped me from flying during the 2013 season. I wasn't mad that it happened.&nbsp;This event made me realize that repairing your model is also part of the hobby.&nbsp;In a future post, I will show you how I repaired everything to get the Super Cub LP back into the air.

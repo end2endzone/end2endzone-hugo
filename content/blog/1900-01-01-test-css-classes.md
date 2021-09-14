@@ -53,10 +53,8 @@ Text in header 6 [this is a link to google.com](http://google.com)
   <input required="" name="fields[name]" type="text" placeholder="Your Name">
   <textarea required="" name="fields[body]" placeholder="Your Message" rows="10"></textarea>
 
-  <div class="submit-notice">
-    <strong class="submit-notice-text submit-success hidden">Thanks for your comment! It will be shown on the site once it has been approved.</strong>
-    <strong class="submit-notice-text submit-failed hidden">Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again.</strong>
-  </div>
+  **Thanks for your comment! It will be shown on the site once it has been approved.**
+  **Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again.**
 
   <button type="button" id="comment-form-submit" class="button">Submit</button>
   <button type="button" id="comment-form-submitted" class="hidden button" disabled="">Submitted</button>
@@ -67,69 +65,22 @@ Text in header 6 [this is a link to google.com](http://google.com)
 # Tables
 
 HTML 5 table:
-<table>
-  <thead>
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-  <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
-  </tr>
-  </tbody>
-</table>
+| <!-- -->                     | <!-- -->         | <!-- --> |
+|------------------------------|------------------|----------|
+| Alfreds Futterkiste          | Maria Anders     | Germany  |
+| Centro comercial Moctezuma   | Francisco Chang  | Mexico   |
+| Ernst Handel                 | Roland Mendel    | Austria  |
+| Island Trading               | Helen Bennett    | UK       |
+| Laughing Bacchus Winecellars | Yoshi Tannamuri  | Canada   |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy    |
+
 
 Plain html table:
-<table>
- <tr>
-  <th>Name</th>
-  <th>Salary</th>
-  <th>Expenses</th>
- <tr>
-  <td>john</td>
-  <td>$20,000</td>
-  <td>$10,000</td>
- </tr>
- <tr>
-  <td>david</td>
-  <td>$30,000</td>
-  <td>$15,000</td>
- </tr>
- <tr>
-  <td>marry</td>
-  <td>$40,000</td>
-  <td>$15,000</td>
- </tr>
-</table>
+| <!-- --> | <!-- --> | <!-- --> |
+|----------|----------|----------|
+| john     | $20,000  | $10,000  |
+| david    | $30,000  | $15,000  |
+| marry    | $40,000  | $15,000  |
+
 
 # Other

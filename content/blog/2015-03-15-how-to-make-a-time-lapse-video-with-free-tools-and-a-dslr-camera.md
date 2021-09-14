@@ -1,10 +1,10 @@
 ---
 title: How to make a time-lapse video with free tools and a DSLR camera
 author: end2end
-type: post
 date: 2015-03-15T19:50:02+00:00
 url: /how-to-make-a-time-lapse-video-with-free-tools-and-a-dslr-camera/
-featured_image: /wp-content/uploads/2015/02/How-to-make-a-time-lapse-video-with-free-tools-and-a-DSLR-camera.jpg
+images:
+  - src: /wp-content/uploads/2015/02/How-to-make-a-time-lapse-video-with-free-tools-and-a-DSLR-camera.jpg
 hits:
   - 2694
 categories:
@@ -17,9 +17,9 @@ tags:
   - Windows movie maker
 
 ---
-# <span id="Introduction">Introduction</span>
+# Introduction
 
-[Time-lapse photography][1] is a wonderful effect to make your images alive instead of static because you can make a plain (or almost boring) event and make it so much more dramatic. However, it is something that usually needs a lot of time investment to get something acceptable.
+[Time-lapse photography](http://en.wikipedia.org/wiki/time-lapse_photography)&nbsp;is a wonderful effect to make your images alive instead of static because you can make a plain (or almost boring) event and make it so much more dramatic. However, it is something that usually needs a lot of time investment to get something acceptable.
 
 Considering my family was planning to decorate the Christmas tree during the weekend, I decided to take my camera and capture the whole event in a time-lapse video.<!--more-->
 
@@ -27,47 +27,47 @@ To get a nice video, you need to prepare yourself before taking the shots becaus
 
 The following article will explains how I managed to make a nice time-lapse video with a DSLR using only free software.
 
-Click here to jump to the [Final Results][2] section and see the video.
+Click here to jump to the [Final Results](#Final_results) section and see the video.
 
-# <span id="Prepare_you_gears">Prepare you gears</span>
+# Prepare you gears
 
-## <span id="Mandatory_gears_for_time-lapse_videos">Mandatory gears for time-lapse videos</span>
+## Mandatory gears for time-lapse videos
 
-### <span id="Tripod">Tripod</span>
+### Tripod
 
 This one is obvious. You need a tripod to make sure that all images are aligned the same directions. The field of view must be identical for all captured images. You do not want to see the background of the event moving during the video but only your subject.
 
-### <span id="Intervalometer">Intervalometer</span>
+### Intervalometer
 
 An intervalometer is a remote trigger with the added capacity to trigger the camera shutter at regular intervals. It is mandatory if you want to do time-lapse image capturing. It is not used to reduce camera shake since the photographer does not take any actions on the camera during the capturing process.
 
-## <span id="Useful_stuff">Useful stuff</span>
+## Useful stuff
 
-### <span id="Calculator">Calculator</span>
+### Calculator
 
-A calculator is useful if you go out in the field for your capturing session. For most time-lapse projects related to capturing the nature, it would be wise to bring a camera with you for calculating the perfect interval for your desired effect. See the section [_Calculating the best interval_][3] for details.
+A calculator is useful if you go out in the field for your capturing session. For most time-lapse projects related to capturing the nature, it would be wise to bring a camera with you for calculating the perfect interval for your desired effect. See the section [_Calculating the best interval_](#Calculating_the_bestinterval)&nbsp;for details.
 
-## <span id="Tools_you_wont_need">Tools you won’t need</span>
+## Tools you won’t need
 
-### <span id="Flashes">Flashes</span>
+### Flashes
 
 If you think you may need a flash for taking your shots, you might have to reconsider your project.
 
-If your intervals are too short (the elapsed time between each photos), the flash might not have the time to recharge between each shots.
+If your intervals are too short (the elapsed time between each photos), the flash might not have the time to recharge between each shots.
 
 If your intervals are long enough to have your flash recharged, it means that the subject could be positioned differently in the scene resulting in great highlight changes which is really hard to correct in post-production.
 
-Another issue that the flash might cause is flickering. If your scene is not well lighted, there is a high chance that you end up with lots of flickering during the [merging phase][4]. The exposition will vary a lot between each shots and that would not be pleasant to watch. Some plugins can help to reduce flickering but it is always better to think about this in pre-production than dealing with it in post-production.
+Another issue that the flash might cause is flickering. If your scene is not well lighted, there is a high chance that you end up with lots of flickering during the [merging phase](#Combining_photos_into_a_movie). The exposition will vary a lot between each shots and that would not be pleasant to watch. Some plugins can help to reduce flickering but it is always better to think about this in pre-production than dealing with it in post-production.
 
-I am unable to think of a suitable scenario where a flash would be required that also requires long intervals like 5 minutes or more.
+I am unable to think of a suitable scenario where a flash would be required that also requires long intervals like 5 minutes or more.
 
-# <span id="Check_your_calculations">Check your calculations</span>
+# Check your calculations
 
-Don&#8217;t go out and try to shot anything as quickly as possible. I recommend that you take the time to think and evaluate what is the best interval (time between each photos) for your needs. Is it going to be seconds, minutes or even hours between each shots ? That would greatly change how you need to prepare yourself.
+Don't go out and try to shot anything as quickly as possible. I recommend that you take the time to think and evaluate what is the best interval (time between each photos) for your needs. Is it going to be seconds, minutes or even hours between each shots ? That would greatly change how you need to prepare yourself.
 
-# <span id="Smooth_or_hard_movement_transitions">Smooth or hard movement transitions?</span>
+# Smooth or hard movement transitions?
 
-## <span id="Smooth_transitions">Smooth transitions</span>
+## Smooth transitions
 
 Smooth transitions between each photos means a short interval between each capture. Is is used when you want your subject to move slowly or show few changes between each frame so the user can understand the subject movement over time.
 
@@ -77,19 +77,19 @@ If you make your calculations for a video that is too smooth, the subject will a
 
 Usual examples are melting ice, clouds or sunsets/sunrise, or mostly any kind or subject movement.
 
-## <span id="Hard_transitions">Hard transitions</span>
+## Hard transitions
 
 As opposed to smooth transitions, hard transitions between each photos means a longer time interval between each capture. It is used in situation where the user do not have to follow movement like when you want to show the different steps or the increasing progress of a project.
 
 A low frame rate (between 1 fps to 15 fps) in the final video would result to a final video with hard transitions.
 
-If you make your calculations for a video with too hard transitions, the viewer could get confused about what just happened since frames have a tendency to &#8220;jump&#8221; from one to another.
+If you make your calculations for a video with too hard transitions, the viewer could get confused about what just happened since frames have a tendency to &quot;jump&quot; from one to another.
 
 Usual examples are building constructions or rotting fruits.
 
-## <span id="Calculating_the_bestinterval">Calculating the best interval</span>
+## Calculating the best interval
 
-Once you have defined what kind of transitions you want, and the &#8220;amount&#8221; of movement you want to show in your final video, here&#8217;s how to perfectly define the right interval time to get very smooth or hard transitions.
+Once you have defined what kind of transitions you want, and the &quot;amount&quot; of movement you want to show in your final video, here's how to perfectly define the right interval time to get very smooth or hard transitions.
 
 You first need to define the following:
 
@@ -97,11 +97,11 @@ You first need to define the following:
   * How long the final video would be ?
   * What is the final video frame rate ? That is 15 or less for hard and 24 and over for smooth.
 
-Now open [Photography time-lapse calculator][5] (that&#8217;s an Excel sheet) and take a look at the &#8220;interval calculator&#8221;. Use the same number in the appropriate fields and the sheet will do the math to give you the perfect interval time for the desired smooth/hard transition effect.
+Now open [Photography time-lapse calculator](http://www.end2endzone.com/wp-content/uploads/2015/02/Photography-time-lapse-calculator.xls)&nbsp;(that's an Excel sheet) and take a look at the &quot;interval calculator&quot;. Use the same number in the appropriate fields and the sheet will do the math to give you the perfect interval time for the desired smooth/hard transition effect.
 
-# <span id="Gear_setup">Gear setup</span>
+# Gear setup
 
-## <span id="Use_manual_focus">Use manual focus</span>
+## Use manual focus
 
 Set your camera in manual focus. This is also mandatory if your intervals are really close (less than 10 seconds).
 
@@ -111,7 +111,7 @@ Also, the auto-focus of your camera can take as much as 1-2 seconds and that del
 
 It also saves battery power 🙂
 
-## <span id="Set_camera_in_manual_mode">Set camera in manual mode</span>
+## Set camera in manual mode
 
 You need to set your camera in manual mode.
 
@@ -119,31 +119,31 @@ The objective is to have an identical exposure over all your frames (pictures) d
 
 The same applies for any priority modes.
 
-### <span id="Shutter_speeds">Shutter speeds</span>
+### Shutter speeds
 
 almost any shutter speed is good for doing time-lapse videos. However, make sure you select a shutter speed that is appropriate for the situation. If your shutter speed that is too fast/quick, all your images will appear frozen which would result in a consecutive list of frozen action images.
 
 If your final video have a medium to low frame rate, you could make use of this by selecting a slow shutter speed (read 1/60th to 1/30th). That shutter speed range would create motion blur in your image and ease the transition between 2 video frames.
 
-### <span id="Aperture">Aperture</span>
+### Aperture
 
-Set your aperture as wide as possible (that means the lowest f number as possible) to allows a maximum amount of light to enter the camera. Take consideration for allowing a proper [depth of field][6] for your video.
+Set your aperture as wide as possible (that means the lowest f number as possible) to allows a maximum amount of light to enter the camera. Take consideration for allowing a proper [depth of field](http://www.google.com/?q=aperture+depth+of+field)&nbsp;for your video.
 
 If your subject is close to the camera, a wider depth of field is required (to have both the background and the subject at focus) so a narrow aperture (high f number) would be better.
 
 If you are capturing a background or a nature scene, the widest aperture would allow more light to come in without sacrificing anything at focus.
 
-### <span id="ISO">ISO</span>
+### ISO
 
 As usual, set your ISO to the lowest possible value that is reasonable for giving the right exposure.
 
-## <span id="Shoot_in_JPG">Shoot in JPG</span>
+## Shoot in JPG
 
-Set your camera to shoot in JPG not RAW. RAW is really nice for stills but it is way too heavy for multiple captures and considerably reduces your recording time. Besides, you don&#8217;t really need RAW for time-lapse videos.
+Set your camera to shoot in JPG not RAW. RAW is really nice for stills but it is way too heavy for multiple captures and considerably reduces your recording time. Besides, you don't really need RAW for time-lapse videos.
 
-An average RAW file takes about 26.75 MiB and considering you may be capturing stills at 15 seconds intervals, you will only be able to record 570 frames. In other words, you will only be able to record an event of 2 hours and 22 minutes before fulling the memory card. If you are capturing at 10 seconds interval, that&#8217;s only 1 hour and 35 minutes of real-time recording before fulling the memory card!
+An average RAW file takes about 26.75 MiB and considering you may be capturing stills at 15 seconds intervals, you will only be able to record 570 frames. In other words, you will only be able to record an event of 2 hours and 22 minutes before fulling the memory card. If you are capturing at 10 seconds interval, that's only 1 hour and 35 minutes of real-time recording before fulling the memory card!
 
-Here&#8217;s the calculations:
+Here's the calculations:
 
 16 GB = 16000000000 bytes = 15258 MiB  
 15258 MiB / 26.75 MiB per photo = 570 frames  
@@ -152,68 +152,70 @@ Here&#8217;s the calculations:
 
 During this shooting, I use RAW captures without thinking much about this. I had to invest too much time converting and resizing images to JPG. I also had to change the 16 GB memory card for another one at the end of the video which explains why the view angle changes at the end. Save yourself the trouble and use the JPG captures.
 
-## <span id="Set_reduced_image_capture_size">Set reduced image capture size</span>
+## Set reduced image capture size
 
 This step is optional but doing so could reduce the amount of time in post-processing. If you already know the resolution of the final video (480p, 720p, 1080p, 4K), you can set the camera to automatically resize images to the appropriate resolution that matches the final video resolution.
 
-You can also decide to skip this step and reduce images size during post-processing with your [favorite image editor][7] with the help of a [batch plugin][8] or use a live [resize filter][9] when importing images into the video software.
+You can also decide to skip this step and reduce images size during post-processing with your [favorite image editor](http://www.gimp.org/downloads/) with the help of a [batch plugin](http://members.ozemail.com.au/~hodsond/dbp.html) or use a live [resize filter](#Applying_additional_filters_optional) when importing images into the video software.
 
-## <span id="Turn_off_Image_stabilization_IS">Turn off Image stabilization (IS)</span>
+## Turn off Image stabilization (IS)
 
 As usual, since you are using a tripod, set Image Stabilization to off.
 
-## <span id="Configure_appropriate_white_balance">Configure appropriate white balance</span>
+## Configure appropriate white balance
 
 Turn off auto white balance. This is required to reduce flickering to a minimum. It is better to have flickering because the amount of light in the room was varying over time than having your camera trying to detect the best white balance on every capture. Try on auto once, look at the value and use the same for all other captures.
 
 In other words, it is best to set all auto features of your camera to off for the same reasons.
 
-## <span id="Connect_your_intervalometer">Connect your intervalometer</span>
+## Connect your intervalometer
 
 Connect your intervalometer and configure the appropriate interval time calculated previously for capturing frames.
 
-# <span id="Capture_your_scene">Capture your scene</span>
+# Capture your scene
 
-Now is the time to take as much shoot as needed for properly capturing your subject&#8217;s movement or change over time. In the meantime, get yourself a coffee, start downloading required softwares or watch a movie and come back in a hour or so 🙂
+Now is the time to take as much shoot as needed for properly capturing your subject's movement or change over time. In the meantime, get yourself a coffee, start downloading required softwares or watch a movie and come back in a hour or so 🙂
 
-# <span id="Prepare_your_image_files">Prepare your image files</span>
+# Prepare your image files
 
 After the capturing session is completed and you have transferred all your images to your PC, it is time to make sure your files are prepared for the final product.
 
-## <span id="Verify_the_image_sequence_order">Verify the image sequence order</span>
+## Verify the image sequence order
 
-In order to import the images to a video application, all images must have the same pattern: a common prefix with a sequential increasing number. All images have to be named in a continuous image sequence. However, in some scenarios, this list could be broken or require modifications.
+In order to import the images to a video application, all images must have the same pattern: a common prefix with a sequential increasing number. All images have to be named in a continuous image sequence. However, in some scenarios, this list could be broken or require modifications.
 
-Here&#8217;s some situation that might happened which would require special attention.
+Here's some situation that might happened which would require special attention.
 
-### <span id="Reordering_fixing_image_counter_wrap_around">Reordering, fixing image counter wrap around</span>
+### Reordering, fixing image counter wrap around
 
-In the low probability that you started shooting pictures when your camera&#8217;s file name counter was close to wrapping around (say IMG\_9xxx.jpg), you might end up with a broken sequence. That means you will have your first block which is IMG\_9000.jpg to IMG\_9999.jpg and your second block which is IMG\_0000.jpg to IMG_2345.jpg. Most (if not all) video software will try to import each block as independent blocks. To prevent this, you need to reorder your images to a single continuous image sequence.
+In the low probability that you started shooting pictures when your camera's file name counter was close to wrapping around (say IMG\_9xxx.jpg), you might end up with a broken sequence. That means you will have your first block which is IMG\_9000.jpg to IMG\_9999.jpg and your second block which is IMG\_0000.jpg to IMG_2345.jpg. Most (if not all) video software will try to import each block as independent blocks. To prevent this, you need to reorder your images to a single continuous image sequence.
 
 In other words, you basically need to reorder each block to the following:
 
-  * IMG\_0000.jpg [&#8230;] IMG\_2345.jpg renamed to IMG\_1000.jpg [&#8230;] IMG\_3345.jpg
-  * IMG\_9000.jpg [&#8230;] IMG\_9999.jpg renamed to IMG\_0000.jpg [&#8230;] IMG\_0999.jpg
+  * IMG\_0000.jpg [...] IMG\_2345.jpg renamed to IMG\_1000.jpg [...] IMG\_3345.jpg
+  * IMG\_9000.jpg [...] IMG\_9999.jpg renamed to IMG\_0000.jpg [...] IMG\_0999.jpg
 
-to get the target range IMG\_0000.jpg [&#8230;] IMG\_3345.jpg.
+to get the target range IMG\_0000.jpg [...] IMG\_3345.jpg.
 
-The easiest way to do this is to use the following script. Copy and paste the content of the following window and create a file located next to the images called &#8220;rename.vbs&#8221;.
+The easiest way to do this is to use the following script. Copy and paste the content of the following window and create a file located next to the images called &quot;rename.vbs&quot;.
 
-<p class="pleasenote">
+{{< pleasenote >}}
   Take note that the .vbs file extension is mandatory for Windows to recognize the file as a runnable script.
-</p>
+{{< /pleasenote >}}
 
-<pre class="lang:vb decode:true" title="Reorder photography blocks (vbscript)" data-url="/wp-content/uploads/2015/02/Reorder-photography-blocks.vbs"></pre>
 
-The script will ask for the required parameters and take care of the issue and all the renaming. Once executed, you will have a single block of continuous images: IMG\_0000.jpg [&#8230;] IMG\_3345.jpg.
+{{< hightlight-static-file file="/static/wp-content/uploads/2015/02/Reorder-photography-blocks.vbs" lang="vb" >}}
 
-<p class="pleasenote">
+The script will ask for the required parameters and take care of the issue and all the renaming. Once executed, you will have a single block of continuous images: IMG\_0000.jpg [...] IMG\_3345.jpg.
+
+{{< pleasenote >}}
   Note: This script is only available for the Windows platform.
-</p>
+{{< /pleasenote >}}
 
-### <span id="Deleting_erroneous_images">Deleting erroneous images</span>
 
-If you see an erroneous image or an image that would break the flow of movement, you may have to delete an image from the sequence. Let say that during the capturing session, you had to check your camera and accidentally moved your hand in front of the lens. IMG_3400.jpg is now a nice black picture of your hand&#8230;
+### Deleting erroneous images
+
+If you see an erroneous image or an image that would break the flow of movement, you may have to delete an image from the sequence. Let say that during the capturing session, you had to check your camera and accidentally moved your hand in front of the lens. IMG_3400.jpg is now a nice black picture of your hand...
 
 If you ever have to delete an image, you need to restore the natural sequence order for the video software to recognize the whole sequence. For every image deleted, you need to copy & paste the previous image and rename it using the name of the deleted image.
 
@@ -221,197 +223,137 @@ In the previous example, if you want to delete IMG\_3400.jpg, you first delete I
 
 If you want to delete multiple frames, lets say IMG\_3050.jpg to IMG\_3069.jpg (20 frames), it is best to restore the sequence using both IMG\_3049.jpg and IMG\_3070.jpg to create a smaller hole/gap. That is deleting IMG\_3050.jpg through IMG\_3059.jpg and using IMG\_3049.jpg for restoration of the first half and deleting IMG\_3060.jpg through IMG\_3069.jpg and using IMG\_3070.jpg for restoration of the second half.
 
-<p class="pleasenote">
+{{< pleasenote >}}
   Please take note that deleting pictures actually creates an artificial hole/gap in the final video timeline and may result to a hard transition.
-</p>
+{{< /pleasenote >}}
 
-### <span id="Resize_your_images">Resize your images</span>
+
+### Resize your images
 
 This step is optional but it is suggested to resize your images to help Windows Movie Maker or VirtualDub to load all images into your project. It is a good idea to resize all your images to match the final resolution of your movie (that is 720p or 1080p pixels high).
 
-The best way to resize your images is to use [David&#8217;s Batch Processor 1.1.8][8] plugin for [Gimp][7] and follow theses steps:
+The best way to resize your images is to use [David's Batch Processor 1.1.8](http://members.ozemail.com.au/~hodsond/dbp.html) plugin for [Gimp](http://www.gimp.org/downloads/) and follow theses steps:
 
-<li style="text-align: justify;">
-  Open Gimp.
-</li>
-<li style="text-align: justify;">
-  Click on <em><strong>Filters\Batch Process&#8230;</strong></em> menu to launch David&#8217;s Batch Processor.
-</li>
-<li style="text-align: justify;">
-  Import your images into David&#8217;s Batch Processor: <ol>
-    <li style="text-align: justify;">
-      In the <em><strong>Input tab</strong></em>, click the Add Files button and browse to your images location.<br /> ie <em>G:\Temp\timelapse\noel2014</em>
+* Open Gimp.
+* Click on _**Filters\Batch Process...**_ menu to launch David's Batch Processor.
+<li>
+  Import your images into David's Batch Processor: <ol>
+    <li>
+      In the _**Input tab**_, click the Add Files button and browse to your images location.<br /> ie _G:\Temp\timelapse\noel2014_
     </li>
-    <li style="text-align: justify;">
-      Select all your images and press the Add button. That will import all your images. This process may take some time. Please be patient.
-    </li>
-    <li style="text-align: justify;">
-      Once completed, press the Close button to close the file dialog.
-    </li>
+    * Select all your images and press the Add button. That will import all your images. This process may take some time. Please be patient.
+    * Once completed, press the Close button to close the file dialog.
   </ol>
 </li>
 
-<li style="text-align: justify;">
+<li>
   Enable Resizing for all your images <ol>
-    <li style="text-align: justify;">
-      Click on the <em><strong>Resize tab</strong></em>.
+    <li>
+      Click on the _**Resize tab**_.
     </li>
-    <li style="text-align: justify;">
-      Check the <em><strong>Enable</strong></em> check box.
-    </li>
-    <li style="text-align: justify;">
-      Select the <em><strong>Absolute</strong></em> option. That will enable the second section.
-    </li>
-    <li style="text-align: justify;">
+    * Check the _**Enable**_ check box.
+    * Select the _**Absolute**_ option. That will enable the second section.
+    <li>
       Enter the final resolution of your movie. <ol>
-        <li style="text-align: justify;">
-          Use a <em>Width</em> of 1280 and a <em>Height</em> of 720 for a 720p resolution or
+        <li>
+          Use a _Width_ of 1280 and a _Height_ of 720 for a 720p resolution or
         </li>
-        <li style="text-align: justify;">
-          Use a <em>Width</em> of 1920 and a <em>Height</em> of 1080 for a 1080p resolution.
-        </li>
+        * Use a _Width_ of 1920 and a _Height_ of 1080 for a 1080p resolution.
       </ol>
     </li>
     
-    <li style="text-align: justify;">
-      Select <strong><em>Inside</em></strong> for the <em>Fit</em> property.
-    </li>
+    * Select **_Inside_** for the _Fit_ property.
   </ol>
   
   <ol>
-    <li style="text-align: justify;">
+    <li>
       Define where your resized images will be saved <ol>
-        <li style="text-align: justify;">
-          Click on the <em><strong>Rename tab</strong></em>.
+        <li>
+          Click on the _**Rename tab**_.
         </li>
-        <li style="text-align: justify;">
-          Click on Select Dir button and select a new output folder.<br /> ie: <em>G:\Temp\timelapse\noel2014Resize</em>
-        </li>
-        <li style="text-align: justify;">
-          Once completed, press the Open button to close the folder dialog.
-        </li>
-        <li style="text-align: justify;">
-          You should see your target folder listed next to the field <strong><em>To Directory</em></strong>.
-        </li>
+        * Click on Select Dir button and select a new output folder.<br /> ie: _G:\Temp\timelapse\noel2014Resize_
+        * Once completed, press the Open button to close the folder dialog.
+        * You should see your target folder listed next to the field **_To Directory_**.
       </ol>
     </li>
     
-    <li style="text-align: justify;">
+    <li>
       Define the image format of the resized images <ol>
-        <li style="text-align: justify;">
-          Click on the <em><strong>Output tab</strong></em>.
+        <li>
+          Click on the _**Output tab**_.
         </li>
-        <li style="text-align: justify;">
+        <li>
           Select the following values for each fields: <ol>
-            <li style="text-align: justify;">
+            <li>
               Format: JPG
             </li>
-            <li style="text-align: justify;">
-              Quality: 0.85
-            </li>
-            <li style="text-align: justify;">
-              Smoothing: 0.00
-            </li>
-            <li style="text-align: justify;">
-              Optimize: checked.
-            </li>
-            <li style="text-align: justify;">
-              Progressive: unchecked.
-            </li>
-            <li style="text-align: justify;">
-              Sampling: 2&#215;2
-            </li>
-            <li style="text-align: justify;">
-              Baseline: checked.
-            </li>
-            <li style="text-align: justify;">
-              Restarts: 0
-            </li>
-            <li style="text-align: justify;">
-              Algorithm: Integer
-            </li>
+            * Quality: 0.85
+            * Smoothing: 0.00
+            * Optimize: checked.
+            * Progressive: unchecked.
+            * Sampling: 2x2
+            * Baseline: checked.
+            * Restarts: 0
+            * Algorithm: Integer
           </ol>
         </li>
       </ol>
     </li>
     
-    <li style="text-align: justify;">
-      Press the Start button to start resizing your images.
-    </li>
-    <li style="text-align: justify;">
-      Wait for the process to complete.
-    </li>
+    * Press the Start button to start resizing your images.
+    * Wait for the process to complete.
   </ol>
 </li>
 
-<div id="attachment_776" style="width: 244px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png"><img aria-describedby="caption-attachment-776" loading="lazy" class="size-medium wp-image-776" src="http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png" alt="David Batch Processor Done" width="234" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png 234w, http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png 117w, http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png 400w" sizes="(max-width: 234px) 100vw, 234px" /></a>
-  
-  <p id="caption-attachment-776" class="wp-caption-text">
-    David Batch Processor Done
-  </p>
-</div>
+[![David Batch Processor Done](http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png)](http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png)
 
-# <span id="Combining_photos_into_a_movie">Combining photos into a movie</span>
+David Batch Processor Done
 
-In the next sections, I will explain 2 methods that you can use to combine photos into a movie. Each methods has their own required list of software and has their pros and cons.
+# Combining photos into a movie
 
-## <span id="Windows_Movie_Maker">Windows Movie Maker</span>
+In the next sections, I will explain 2 methods that you can use to combine photos into a movie. Each methods has their own required list of software and has their pros and cons.
+
+## Windows Movie Maker
 
 This sections explains how to process your captured images into a video using Windows Movie Maker.
 
-<div id="attachment_788" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg"><img aria-describedby="caption-attachment-788" loading="lazy" class="size-medium wp-image-788" src="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg" alt="Windows Movie Maker screenshot" width="300" height="163" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg 965w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
-  <p id="caption-attachment-788" class="wp-caption-text">
-    Windows Movie Maker screenshot
-  </p>
-</div>
+[![Windows Movie Maker screenshot](http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg)](http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg)
 
-### <span id="Download_required_files">Download required files</span>
+Windows Movie Maker screenshot
 
-<li style="text-align: justify;">
-  Windows Movie Maker <a href="http://windows.microsoft.com/en-ca/windows-live/download-windows-essentials">online installer</a> / <a href="http://windows.microsoft.com/en-ca/windows-live/essentials-install-offline-faq">offline installer</a> download.
-</li>
-  * or the older version [Windows Movie Maker 2.6][10].
+### Download required files
+
+* Windows Movie Maker [online installer](http://windows.microsoft.com/en-ca/windows-live/download-windows-essentials) / [offline installer](http://windows.microsoft.com/en-ca/windows-live/essentials-install-offline-faq) download.
+  * or the older version [Windows Movie Maker 2.6](http://www.microsoft.com/en-us/download/details.aspx?id=34).
 
 Download and install each software before processing to the next steps.
 
-### <span id="Add_photos_to_movie_timeline">Add photos to movie timeline</span>
+### Add photos to movie timeline
 
 All your images are ready. Now is the time to import them in Windows Movie Maker by following theses steps:
 
-<li style="text-align: justify;">
-  Open <strong><em>Windows Movie Maker</em></strong>.
-</li>
-<li style="text-align: justify;">
+* Open **_Windows Movie Maker_**.
+<li>
   Importing all images <ol>
-    <li style="text-align: justify;">
-      Press the <em><strong>Add videos and photos</strong></em> button.
+    <li>
+      Press the _**Add videos and photos**_ button.
     </li>
-    <li style="text-align: justify;">
-      Select all your images and press the Open button.
-    </li>
+    * Select all your images and press the Open button.
   </ol>
 </li>
 
-<li style="text-align: justify;">
+<li>
   Set the appropriate frame rate <ol>
-    <li style="text-align: justify;">
-      Right-click on the <em><strong>timeline</strong> </em>and select the option <em><strong>Select All</strong></em>.
+    <li>
+      Right-click on the _**timeline** _and select the option _**Select All**_.
     </li>
-    <li style="text-align: justify;">
-      Press <em><strong>Ctrl+A</strong></em> key to select all.
-    </li>
-    <li style="text-align: justify;">
-      Click on the <em><strong>Edit tab</strong></em>.
-    </li>
-    <li style="text-align: justify;">
-      Locate the <em><strong>Duration</strong></em> field. That is the time in seconds where the frame will remain visible.
-    </li>
-    <li style="text-align: justify;">
-      Based on the calculation you made in section <a href="#Calculating_the_bestinterval">Calculating the best interval</a>, set the appropriate duration to match your desired frame rate with the following formula:<br /> Duration = 1 / fps.</p> <ol>
-        <li style="text-align: justify;">
+    * Press _**Ctrl+A**_ key to select all.
+    * Click on the _**Edit tab**_.
+    * Locate the _**Duration**_ field. That is the time in seconds where the frame will remain visible.
+    <li>
+      Based on the calculation you made in section [Calculating the best interval](#Calculating_the_bestinterval), set the appropriate duration to match your desired frame rate with the following formula:<br /> Duration = 1 / fps.</p>
+<ol>
+        <li>
           Here are quick calculations:1 fps = 1 second<br /> 2 fps = 0,5 second<br /> 10 fps = 0,1 second<br /> 15 fps = 0,066666667 second<br /> 16 fps = 0,0625 second<br /> 20 fps = 0,05 second<br /> 24 fps = 0,041666667 second<br /> 30 fps = 0,033333333 second
         </li>
       </ol>
@@ -419,65 +361,43 @@ All your images are ready. Now is the time to import them in Windows Movie Maker
   </ol>
 </li>
 
-### <span id="Adding_an_audio_track">Adding an audio track</span>
+### Adding an audio track
 
 Windows Movie Maker supports adding an audio track to the video. You can use an audio file or the audio of another video as an audio track. To add an audio track, follow theses steps:
 
   1. Left-click on the _**timeline**_ and move the cursor to the beginning of the timeline.
-<li style="text-align: justify;">
-  Click on <strong><em>Add Music</em></strong> button in the ribbon toolbar.
-</li>
-<li style="text-align: justify;">
-  Browse the audio or video file and click on Open button.
-</li>
-<li style="text-align: justify;">
-  You should see a new track with a green background on the timeline view.
-</li>
+* Click on **_Add Music_** button in the ribbon toolbar.
+* Browse the audio or video file and click on Open button.
+* You should see a new track with a green background on the timeline view.
 
-If you do not have an audio file on your computer, you can try to find some on the [Creative Commons Search (Music)][11] site.
+If you do not have an audio file on your computer, you can try to find some on the [Creative Commons Search (Music)](http://search.creativecommons.org/) site.
 
-### <span id="Saving_to_MP4_file">Saving to MP4 file</span>
+### Saving to MP4 file
 
 Now that your composition is complete, save your project into an MP4 video by following theses steps:
 
-<li style="text-align: justify;">
-  Click on <strong><em>Save Movie</em></strong> button in the ribbon toolbar.
-</li>
-<li style="text-align: justify;">
-  Select the export settings that matches your needs and file size. For maximum quality, save your movie using the <em><strong>For high-definition display</strong></em> setting.
-</li>
+* Click on **_Save Movie_** button in the ribbon toolbar.
+* Select the export settings that matches your needs and file size. For maximum quality, save your movie using the _**For high-definition display**_ setting.
 
-<div id="attachment_789" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png"><img aria-describedby="caption-attachment-789" loading="lazy" class="size-medium wp-image-789" src="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png" alt="Windows Movie Maker Export Completed" width="300" height="120" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png 541w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
-  <p id="caption-attachment-789" class="wp-caption-text">
-    Windows Movie Maker Export Completed
-  </p>
-</div>
+[![Windows Movie Maker Export Completed](http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png)](http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png)
 
-## <span id="VirtualDub">VirtualDub</span>
+Windows Movie Maker Export Completed
+
+## VirtualDub
 
 This sections explains how to process your captured images into a video using VirtualDub.
 
-### <span id="Download_required_files-2">Download required files</span>
+### Download required files
 
-  * [VirtualDub][12] (latest version).
-<li style="text-align: justify;">
-  <a href="http://lags.leetcode.net/codec.html">Lagarith Lossless Video Codec</a>
-</li>
-<li style="text-align: justify;">
-  <a href="http://www.compression.ru/video/deflicker/index_en.html">VirtualDub MSU Deflicker filter </a>or <a href="http://neuron2.net/deflick/flick.html">Deflicker Filter for VirtualDub</a>
-</li>
-<li style="text-align: justify;">
-  <a href="https://handbrake.fr/downloads.php">HandBrake</a>
-</li>
-<li style="text-align: justify;">
-  <a href="http://home.earthlink.net/~tacosalad/video/fadefx.htm">FadeFX 1.2</a> &#8211; Fade Effects for VirtualDub
-</li>
+  * [VirtualDub](http://virtualdub.sourceforge.net/) (latest version).
+* [Lagarith Lossless Video Codec](http://lags.leetcode.net/codec.html)
+* [VirtualDub MSU Deflicker filter ](http://www.compression.ru/video/deflicker/index_en.html)or [Deflicker Filter for VirtualDub](http://neuron2.net/deflick/flick.html)
+* [HandBrake](https://handbrake.fr/downloads.php)
+* [FadeFX 1.2](http://home.earthlink.net/~tacosalad/video/fadefx.htm) - Fade Effects for VirtualDub
 
 Download and install each software before processing to the next steps.
 
-### <span id="Importing">Importing</span>
+### Importing
 
 Importing your images as a video in VirtualDub is also really easy: simply follow theses steps:
 
@@ -487,223 +407,120 @@ Importing your images as a video in VirtualDub is also really easy: simply follo
   4. Select the first image of the sequence and click the Open button. VirtualDub will automatically detect the next images and will update the timeline accordingly.
   5. Verify that the timeline length (in video frames) matches the total number of captured images in your project.
 
-<div id="attachment_802" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png"><img aria-describedby="caption-attachment-802" loading="lazy" class="size-medium wp-image-802" src="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png" alt="VirtualDub editing" width="300" height="135" srcset="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png 1024w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png 672w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png 1209w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
-  <p id="caption-attachment-802" class="wp-caption-text">
-    VirtualDub editing
-  </p>
-</div>
+[![VirtualDub editing](http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png)](http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png)
 
-### <span id="Configure_Frame_Rate">Configure Frame Rate</span>
+VirtualDub editing
+
+### Configure Frame Rate
 
   1. Click on **_Video/Frame Rate_** menu. That will open the Video frame rate control dialog.
-  2. Select _**Change frame rate to (fps)**_ and enter the value you calculated in section [Calculating the best interval][3].
+  2. Select _**Change frame rate to (fps)**_ and enter the value you calculated in section [Calculating the best interval](#Calculating_the_bestinterval).
 
-### <span id="Lossless_video_codec">Lossless video codec</span>
+### Lossless video codec
 
-VirtualDub output uncompressed AVI files by default which is not an option considering the resolution of the video. It needs to be configured to use a [video codec][13] for compressing the video.
+VirtualDub output uncompressed AVI files by default which is not an option considering the resolution of the video. It needs to be configured to use a [video codec](http://en.wikipedia.org/wiki/Video_codec) for compressing the video.
 
-Since this guide will handle re-encoding using Handbrake, it is suggested to use a lossless video codec to prevent loosing any quality while exporting your video from VirtualDub to Handbrake. The best lossless video codec available is [Lagarith Lossless Video Codec][14].
+Since this guide will handle re-encoding using Handbrake, it is suggested to use a lossless video codec to prevent loosing any quality while exporting your video from VirtualDub to Handbrake. The best lossless video codec available is [Lagarith Lossless Video Codec](http://lags.leetcode.net/codec.html).
 
 Here are the steps for configuring the codec:
 
-<li style="text-align: justify;">
-  Click on <strong><em>Video/Compression </em></strong>menu. That will open the <em><strong>Select video compression</strong></em> dialog.
-</li>
-<li style="text-align: justify;">
-  Select <em><strong>Lagarith Lossless Codec</strong></em> and press the Configure button.
-</li>
-<li style="text-align: justify;">
-  Check <em><strong>Use Multithreading</strong></em> and <em><strong>Prevent Upsampling When Decoding</strong></em>.
-</li>
+* Click on **_Video/Compression _**menu. That will open the _**Select video compression**_ dialog.
+* Select _**Lagarith Lossless Codec**_ and press the Configure button.
+* Check _**Use Multithreading**_ and _**Prevent Upsampling When Decoding**_.
 
-### <span id="Reducing_flickering">Reducing flickering</span>
+### Reducing flickering
 
 Flickering occurs when the exposition between each video frame is not identical which gives the fading effect that you may see. That is why your should shoot in manual: to reduce flickering to a minimum.
 
 If you see flickering in your video, a filter can be applied to the video to reduce it. Here are the steps for configuring the filter:
 
-<li style="text-align: justify;">
-  Click on <strong><em>Video/Filters </em></strong>menu. That will open the <em><strong>Filter</strong></em> dialog.
-</li>
-<li style="text-align: justify;">
-  Click on the Add button. That will open the <em><strong>Add Filter</strong></em> dialog.
-</li>
-<li style="text-align: justify;">
-  Click on the Load button and <em><strong>browse</strong> </em>to the location where you extracted one of the <em><strong>deflicker filter (*.vdf)</strong></em>
-</li>
-<li style="text-align: justify;">
-  Press the OK Button.
-</li>
-<li style="text-align: justify;">
-  Configure the filter parameters and press the OK button.
-</li>
+* Click on **_Video/Filters _**menu. That will open the _**Filter**_ dialog.
+* Click on the Add button. That will open the _**Add Filter**_ dialog.
+* Click on the Load button and _**browse** _to the location where you extracted one of the _**deflicker filter (*.vdf)**_
+* Press the OK Button.
+* Configure the filter parameters and press the OK button.
 
-<div id="attachment_804" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png"><img aria-describedby="caption-attachment-804" loading="lazy" class="size-medium wp-image-804" src="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png" alt="VirtualDub Deflicker filter" width="300" height="208" srcset="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png 529w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
-  <p id="caption-attachment-804" class="wp-caption-text">
-    VirtualDub Deflicker filter
-  </p>
-</div>
+[![VirtualDub Deflicker filter](http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png)](http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png)
 
-### <span id="Applying_additional_filters_optional">Applying additional filters (optional)</span>
+VirtualDub Deflicker filter
+
+### Applying additional filters (optional)
 
 If you want to add fade-in or fade-off effects you can use the FadeFX filter with the following:
 
-<li style="text-align: justify;">
-  Click on <strong><em>Video/Filters </em></strong>menu. That will open the <em><strong>Filter</strong></em> dialog.
-</li>
-<li style="text-align: justify;">
-  Click on the Add button. That will open the <em><strong>Add Filter</strong></em> dialog.
-</li>
-<li style="text-align: justify;">
-  Click on the Load button and <em><strong>browse</strong> </em>to the location where you extracted one of the <em><strong>fadefx filter (*.vdf)</strong></em>
-</li>
-<li style="text-align: justify;">
-  Press the OK Button.
-</li>
-<li style="text-align: justify;">
-  Configure the filter parameters and press the OK button.
-</li>
+* Click on **_Video/Filters _**menu. That will open the _**Filter**_ dialog.
+* Click on the Add button. That will open the _**Add Filter**_ dialog.
+* Click on the Load button and _**browse** _to the location where you extracted one of the _**fadefx filter (*.vdf)**_
+* Press the OK Button.
+* Configure the filter parameters and press the OK button.
 
-<div id="attachment_801" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png"><img aria-describedby="caption-attachment-801" loading="lazy" class="size-medium wp-image-801" src="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png" alt="VirtualDub Fade In Fade Out filter" width="300" height="208" srcset="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png 529w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
-  <p id="caption-attachment-801" class="wp-caption-text">
-    VirtualDub Fade In Fade Out filter
-  </p>
-</div>
+[![VirtualDub Fade In Fade Out filter](http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png)](http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png)
 
-### <span id="Adding_an_audio_track-2">Adding an audio track</span>
+VirtualDub Fade In Fade Out filter
+
+### Adding an audio track
 
 VirtualDub also support adding an audio track from an external audio file. VirtualDub works best with _**WAV**_ of _**MP3**_ audio file. Here are the steps for adding an audio file to your video:
 
-<li style="text-align: justify;">
-  Click on <strong><em>Audio/Audio from other file </em></strong>menu. That will open the <em><strong>Open an audio file</strong></em> dialog.
-</li>
-<li style="text-align: justify;">
-  <strong><em>B</em></strong><em><strong>rowse</strong> </em>to the location of the audio file add<em> and click the Open button.</em>
-</li>
-<li style="text-align: justify;">
-  If you are importing an MP3 file, <em><strong>select</strong></em> the type of bitrate of the file. That is CBR or VBR. In case you do not know, select <em><strong>Autodetect</strong></em>.
-</li>
-<li style="text-align: justify;">
-  Press the OK Button.
-</li>
+* Click on **_Audio/Audio from other file _**menu. That will open the _**Open an audio file**_ dialog.
+* **_B_**_**rowse** _to the location of the audio file add_ and click the Open button._
+* If you are importing an MP3 file, _**select**_ the type of bitrate of the file. That is CBR or VBR. In case you do not know, select _**Autodetect**_.
+* Press the OK Button.
 
-For free creative commons licensed music, visit the following link: [Creative Commons Search (Music)][11].
+For free creative commons licensed music, visit the following link: [Creative Commons Search (Music)](http://search.creativecommons.org/).
 
-### <span id="Saving_to_temporary_avi_file">Saving to temporary *.avi file</span>
+### Saving to temporary *.avi file
 
-As explained in the [Lossless video codec][15] section, VirtualDub is not the best software for encoding your video (compressing). It is better to use Handbrake for this task. To save your video without loosing any detail or data, a temporary AVI file must be created.
+As explained in the [Lossless video codec](#Lossless_video_codec) section, VirtualDub is not the best software for encoding your video (compressing). It is better to use Handbrake for this task. To save your video without loosing any detail or data, a temporary AVI file must be created.
 
-<li style="text-align: justify;">
-  Click on <strong><em>File/Save as AVI </em></strong>menu. That will open the <em><strong>Save file</strong></em> dialog.
-</li>
-<li style="text-align: justify;">
-  <strong><em>B</em></strong><em><strong>rowse</strong> </em>to the location where you want to save your video and enter a filename for saving. Click the Save button.
-</li>
-<li style="text-align: justify;">
-  Wait for the encoding to complete.
-</li>
+* Click on **_File/Save as AVI _**menu. That will open the _**Save file**_ dialog.
+* **_B_**_**rowse** _to the location where you want to save your video and enter a filename for saving. Click the Save button.
+* Wait for the encoding to complete.
 
-<div id="attachment_803" style="width: 257px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png"><img aria-describedby="caption-attachment-803" loading="lazy" class="size-medium wp-image-803" src="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png" alt="VirtualDub encoding" width="247" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png 247w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png 124w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png 303w" sizes="(max-width: 247px) 100vw, 247px" /></a>
-  
-  <p id="caption-attachment-803" class="wp-caption-text">
-    VirtualDub encoding
-  </p>
-</div>
+[![VirtualDub encoding](http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png)](http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png)
 
-### <span id="Re-encoding_using_Handbrake">Re-encoding using Handbrake</span>
+VirtualDub encoding
 
-Handbrake is the best video encoder to use for compressing your video because it supports [constant quality][16] encoding parameters. Here are the steps for compressing your video:
+### Re-encoding using Handbrake
 
-<li style="text-align: justify;">
-  Click on <em><strong>Source</strong> </em>icon in the toolbar and select <em><strong>File</strong></em>. That will open the <em><strong>Open file</strong></em> dialog.
-</li>
-<li style="text-align: justify;">
-  <strong><em>B</em></strong><em><strong>rowse</strong> </em>to the location of the temporary video (*.avi) you created in the previous step. Click the Open button.
-</li>
-<li style="text-align: justify;">
-  Click on the Browse button. That will open the <em><strong>Save file</strong></em> dialog.
-</li>
-<li style="text-align: justify;">
-  <strong><em>B</em></strong><em><strong>rowse</strong> </em>to the location where you want to save your final video and enter a filename for saving. Click the Save button.
-</li>
-<li style="text-align: justify;">
-  Click on the <em><strong>Picture tab</strong></em>.
-</li>
-<li style="text-align: justify;">
+Handbrake is the best video encoder to use for compressing your video because it supports [constant quality](https://handbrake.fr/docs/en/1.0.0/technical/video-cq-vs-abr.html) encoding parameters. Here are the steps for compressing your video:
+
+* Click on _**Source** _icon in the toolbar and select _**File**_. That will open the _**Open file**_ dialog.
+* **_B_**_**rowse** _to the location of the temporary video (*.avi) you created in the previous step. Click the Open button.
+* Click on the Browse button. That will open the _**Save file**_ dialog.
+* **_B_**_**rowse** _to the location where you want to save your final video and enter a filename for saving. Click the Save button.
+* Click on the _**Picture tab**_.
+<li>
   Select the following values for each fields: <ol>
-    <li style="text-align: justify;">
+    <li>
       Anamorphic: Strict
     </li>
-    <li style="text-align: justify;">
-      Cropping: Custom
-    </li>
-    <li style="text-align: justify;">
-      Top, Bottom, Left, Right: 0
-    </li>
+    * Cropping: Custom
+    * Top, Bottom, Left, Right: 0
   </ol>
 </li>
 
-<li style="text-align: justify;">
-  Click on the <em><strong>Video tab</strong></em>.
-</li>
-<li style="text-align: justify;">
+* Click on the _**Video tab**_.
+<li>
   Select the following values for each fields: <ol>
-    <li style="text-align: justify;">
+    <li>
       Video codec: H.264 (x264)
     </li>
-    <li style="text-align: justify;">
-      x264 Preset: Slow
-    </li>
-    <li style="text-align: justify;">
-      x264 Tune: None
-    </li>
-    <li style="text-align: justify;">
-      Quality, Constant Quality: RF 22
-    </li>
+    * x264 Preset: Slow
+    * x264 Tune: None
+    * Quality, Constant Quality: RF 22
   </ol>
 </li>
 
-<li style="text-align: justify;">
-  Click on the <em><strong>Audio tab</strong></em>.
-</li>
-<li style="text-align: justify;">
-  Select <em><strong>Auto Passthru</strong></em> for Codec.
-</li>
-<li style="text-align: justify;">
-  Click on the Start icon in the toolbar.
-</li>
-<li style="text-align: justify;">
-  Wait for the encoding to complete.
-</li>
+* Click on the _**Audio tab**_.
+* Select _**Auto Passthru**_ for Codec.
+* Click on the Start icon in the toolbar.
+* Wait for the encoding to complete.
 
-# <span id="Final_results">Final results</span>
+# Final results
 
 The shots for this time-lapse were taken with my 18-55mm kit lens at 18mm, f/8.0, 1/30th shutter speed, ISO 1600 and 2 seconds between each shots. I accidentally left auto white balance turned on, which is what gives it that flicker.
 
 The real-time event lasted for 1 hour and 16 minutes. A total of 2264 photos was required.
 
 Here is the final result video visualized at 30 frames per seconds:
-
- [1]: http://en.wikipedia.org/wiki/time-lapse_photography
- [2]: #Final_results
- [3]: #Calculating_the_bestinterval
- [4]: #Combining_photos_into_a_movie
- [5]: http://www.end2endzone.com/wp-content/uploads/2015/02/Photography-time-lapse-calculator.xls
- [6]: http://www.google.com/?q=aperture+depth+of+field
- [7]: http://www.gimp.org/downloads/
- [8]: http://members.ozemail.com.au/~hodsond/dbp.html
- [9]: #Applying_additional_filters_optional
- [10]: http://www.microsoft.com/en-us/download/details.aspx?id=34
- [11]: http://search.creativecommons.org/
- [12]: http://virtualdub.sourceforge.net/
- [13]: http://en.wikipedia.org/wiki/Video_codec
- [14]: http://lags.leetcode.net/codec.html
- [15]: #Lossless_video_codec
- [16]: https://handbrake.fr/docs/en/1.0.0/technical/video-cq-vs-abr.html

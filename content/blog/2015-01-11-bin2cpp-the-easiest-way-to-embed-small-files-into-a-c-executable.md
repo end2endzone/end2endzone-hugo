@@ -1,10 +1,10 @@
 ---
 title: 'bin2cpp: The easiest way to embed small files into a C++ executable'
 author: end2end
-type: post
 date: 2015-01-12T03:56:17+00:00
 url: /bin2cpp-the-easiest-way-to-embed-small-files-into-a-c-executable/
-featured_image: /wp-content/uploads/2015/01/bin2cpp-featured-image.png
+images:
+  - src: /wp-content/uploads/2015/01/bin2cpp-featured-image.png
 hits:
   - 213
 categories:
@@ -15,33 +15,34 @@ tags:
   - Freeware
 
 ---
-# <span id="bin2cpp">bin2cpp</span>
+# bin2cpp
 
-<p class="postedit">
-  Please note that bin2cpp source code is now moved to GitHub. Source code can be downloaded from <a href="http://github.com/end2endzone/bin2cpp">the project&#8217;s GitHub page</a>.
-</p>
+{{< postedit >}}
+  Please note that bin2cpp source code is now moved to GitHub. Source code can be downloaded from [the project's GitHub page](http://github.com/end2endzone/bin2cpp).
+{{< /postedit >}}
 
-![][1]![][2]![][3]![][4]![][5] 
 
-<span style="line-height: 1.5;">bin2cpp is a command line tool for embedding small files (like images, icons or raw data files) into a C++ executable.</span>
+![](https://img.shields.io/badge/License-MIT-yellow.svg)![](https://img.shields.io/github/release/end2endzone/bin2cpp.svg)![](https://ci.appveyor.com/api/projects/status/q9k0ebb971o475qi/branch/master?svg=true)![](https://img.shields.io/appveyor/tests/end2endzone/bin2cpp/master.svg)![](https://img.shields.io/github/downloads/end2endzone/bin2cpp/total.svg) 
 
-It&#8217;s main features are:
+bin2cpp is a command line tool for embedding small files (like images, icons or raw data files) into a C++ executable.
 
-  * <span style="line-height: 1.5;">Easily converts small files as C++ source code for embedding into a C++ executable.</span>
-  * <span style="line-height: 1.5;">Content extraction supported by a unique function call for each embedded file.</span>
-  * <span style="line-height: 1.5;">Supports a multiple </span>embedded<span style="line-height: 1.5;"> files at once.</span>
-  * <span style="line-height: 1.5;">Makes it harder for resource hacker to modify or steal the </span>embedded<span style="line-height: 1.5;"> files.</span>
-  * <span style="line-height: 1.5;">No third party libraries required for </span>retrieving<span style="line-height: 1.5;"> the data of the </span>embedded<span style="line-height: 1.5;"> files.</span>
+It's main features are:
+
+  * Easily converts small files as C++ source code for embedding into a C++ executable.
+  * Content extraction supported by a unique function call for each embedded file.
+  * Supports a multiple embedded&nbsp;files at once.
+  * Makes it harder for resource hacker to modify or steal the embedded&nbsp;files.
+  * No third party libraries required for retrieving&nbsp;the data of the embedded&nbsp;files.
 
 <!--more-->
 
-<span style="line-height: 1.5;">bin2cpp is not implemented using <a href="http://en.wikipedia.org/wiki/Resource_(Windows)">executable resources</a>. Instead, bin2cpp creates multiple function calls for retrieving the data which makes it harder to steal the executable&#8217;s content. It also makes it even harder to replace an existing resource of the executable.</span>
+bin2cpp is not implemented using [executable resources](http://en.wikipedia.org/wiki/Resource_(Windows)). Instead, bin2cpp creates multiple function calls for retrieving the data which makes it harder to steal the executable's content. It also makes it even harder to replace an existing resource of the executable.
 
 It is designed to be easy to use by developers and to provide easy call functions to get access to the data of the embedded files.
 
-<span style="line-height: 1.5;">The generated functions that reads and extracts the </span>embedded<span style="line-height: 1.5;"> content does not rely on external libraries so you don&#8217;t need to setup your projects to use any third party library to start using bin2cpp. All your embedded data can be accessed right away.</span>
+The generated functions that reads and extracts the embedded&nbsp;content does not rely on external libraries so you don't need to setup your projects to use any third party library to start using bin2cpp. All your embedded data can be accessed right away.
 
-<span style="line-height: 1.5;"><strong>Usage:</strong></span>  
+**Usage:**  
 bin2cpp \[inputfile\] \[output folder\] \[header filename\] \[function identifier\] \[chunk size\] \[-override\].
 
   * **inputfile**: Path to the target file to embed in a C++ source code.
@@ -51,39 +52,34 @@ bin2cpp \[inputfile\] \[output folder\] \[header filename\] \[function identifie
   * **chunk size** (optional): Size of each string segments. Defaults to 200]
   * **override** (optional): Tells bin2cpp to over write the destination files.
 
-# <span id="Screenshots"><span style="line-height: 1.5;">Screenshots</span></span>
+# Screenshots
 
-<div id="attachment_575" style="width: 847px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png"><img aria-describedby="caption-attachment-575" loading="lazy" class="wp-image-575 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png" alt="bin2cpp v1.3 Sample" width="837" height="342" srcset="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png 837w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png 672w" sizes="(max-width: 837px) 100vw, 837px" /></a>
-  
-  <p id="caption-attachment-575" class="wp-caption-text">
-    bin2cpp v1.3 Sample
-  </p>
-</div>
+[![bin2cpp v1.3 Sample](http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png)](http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png)
 
-<div id="attachment_576" style="width: 1023px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png"><img aria-describedby="caption-attachment-576" loading="lazy" class="wp-image-576 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png" alt="bin2cpp v1.3 Usage" width="1013" height="359" srcset="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png 1013w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png 672w" sizes="(max-width: 1013px) 100vw, 1013px" /></a>
-  
-  <p id="caption-attachment-576" class="wp-caption-text">
-    bin2cpp v1.3 Usage
-  </p>
-</div>
+bin2cpp v1.3 Sample
 
-# <span id="Download"><span style="line-height: 1.5;">Download</span></span>
+[![bin2cpp v1.3 Usage](http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png)](http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png)
+
+bin2cpp v1.3 Usage
+
+# Download
 
 You can download bin2cpp by clicking on the following links:
 
-<p class="pleasenote" data-pleasenote="true">
-  Please note that download links are now deprecated. Binary version of bin2cpp can be downloaded directly from <a href="http://github.com/end2endzone/bin2cpp/releases">the project&#8217;s GitHub page</a>.
-</p>
+{{< pleasenote >}}
+  Please note that download links are now deprecated. Binary version of bin2cpp can be downloaded directly from [the project's GitHub page](http://github.com/end2endzone/bin2cpp/releases).
+{{< /pleasenote >}}
 
-# <span id="Code_sample"><span style="line-height: 1.5;">Code sample</span></span>
+
+# Code sample
 
 Here are some C++ code samples for embedding a Visual Studio 2008 project file generated with the following command line:
 
-_<span style="font-family: courier new,courier; font-size: 14pt;">bin2cpp.exe bin2cppTest.vcproj outdir EmbededProjectFile.h Vcproj 250 -override</span>_
+_bin2cpp.exe bin2cppTest.vcproj outdir EmbededProjectFile.h Vcproj 250 -override_
 
-<pre title="EmbededProjectFile.h" class="lang:c++ decode:true">/**
+
+```cpp
+/**
  * This file was generated by
  * bin2cpp v1.3.
  * Copyright (C) 2013-2014 end2endzone.com. All rights reserved.
@@ -110,9 +106,12 @@ namespace bin2cpp
   #endif
   File & getVcprojFile();
 }; //bin2cpp
-</pre>
+```
 
-<pre title="EmbededProjectFile.cpp" class="lang:c++ decode:true">/**
+
+
+```cpp
+/**
  * This file was generated by
  * bin2cpp v1.3.
  * Copyright (C) 2013-2014 end2endzone.com. All rights reserved.
@@ -221,37 +220,32 @@ namespace bin2cpp
     }
   };
   File & getVcprojFile() { static VcprojFile _instance; return _instance; }
-}; //bin2cpp</pre>
+}; //bin2cpp
+```
 
-# <span id="Compatible_with"><span style="line-height: 1.5;">Compatible with</span></span>
 
-<span style="line-height: 1.5;">bin2cpp is only available for the Windows platform and has been tested with the following version of Windows:</span>
+# Compatible with
+
+bin2cpp is only available for the Windows platform and has been tested with the following version of Windows:
 
   * Windows XP
-  * <span style="text-align: justify; line-height: 1.5;">Windows Vista</span>
-  * <span style="text-align: justify; line-height: 1.5;">Windows 7</span>
+  * Windows Vista
+  * Windows 7
 
-# <span id="Minimum_system_requirements">Minimum system requirements</span>
+# Minimum system requirements
 
   * 100% PC compatible
-  * <span style="text-align: justify; line-height: 1.5;">Pentium II, 300 mhz</span>
-  * <span style="text-align: justify; line-height: 1.5;">256 Mb RAM</span>
-  * <span style="text-align: justify; line-height: 1.5;">1 Mb free disk space</span>
-  * <span style="text-align: justify; line-height: 1.5;">Administrator rights (for installation)</span>
+  * Pentium II, 300 mhz
+  * 256 Mb RAM
+  * 1 Mb free disk space
+  * Administrator rights (for installation)
 
-# <span id="License">License</span>
+# License
 
-<span lang="EN-US">bin2cpp is being distributed as Freeware for personal, commercial use, non-profit organization, and educational purpose. It may be included with CD-ROM/DVD-ROM distributions. You are NOT allowed to make a charge for distributing this Software (either for profit or merely to recover your media and distribution costs) whether as a stand-alone product, or as part of a compilation or anthology, nor to use it for supporting your business or customers. It may be distributed freely on any website or through any other distribution mechanism, as long as no part of it is changed in any way.</span>
+bin2cpp is being distributed as Freeware for personal, commercial use, non-profit organization, and educational purpose. It may be included with CD-ROM/DVD-ROM distributions. You are NOT allowed to make a charge for distributing this Software (either for profit or merely to recover your media and distribution costs) whether as a stand-alone product, or as part of a compilation or anthology, nor to use it for supporting your business or customers. It may be distributed freely on any website or through any other distribution mechanism, as long as no part of it is changed in any way.
 
-The full license is available [here][6].
+The full license is available [here](http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-EULA.htm).
 
-# <span id="History_of_changes">History of changes</span>
+# History of changes
 
-Version 1.3 &#8211; First public release
-
- [1]: https://img.shields.io/badge/License-MIT-yellow.svg
- [2]: https://img.shields.io/github/release/end2endzone/bin2cpp.svg
- [3]: https://ci.appveyor.com/api/projects/status/q9k0ebb971o475qi/branch/master?svg=true
- [4]: https://img.shields.io/appveyor/tests/end2endzone/bin2cpp/master.svg
- [5]: https://img.shields.io/github/downloads/end2endzone/bin2cpp/total.svg
- [6]: http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-EULA.htm
+Version 1.3 - First public release
