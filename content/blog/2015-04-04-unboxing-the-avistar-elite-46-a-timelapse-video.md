@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-04-04T06:20:22+00:00
 url: /unboxing-the-avistar-elite-46-a-timelapse-video/
-featured_image: /wp-content/uploads/2015/04/Great-Planes-Avistar-Elite-Unboxing-featured-image-672x378.jpg
+featured_image: /wp-content/uploads/2015/04/Great-Planes-Avistar-Elite-Unboxing-featured-image.jpg
 hits:
   - 62
 french_post_id:

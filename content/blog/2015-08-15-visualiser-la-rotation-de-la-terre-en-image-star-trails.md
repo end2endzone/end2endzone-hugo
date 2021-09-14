@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-08-15T15:02:43+00:00
 url: /visualiser-la-rotation-de-la-terre-en-image-star-trails/
-featured_image: /wp-content/uploads/2015/08/IMG_5753-IMG_6050-Featured-Image-672x378.jpg
+featured_image: /wp-content/uploads/2015/08/IMG_5753-IMG_6050-Featured-Image.jpg
 hits:
   - 98
 categories:

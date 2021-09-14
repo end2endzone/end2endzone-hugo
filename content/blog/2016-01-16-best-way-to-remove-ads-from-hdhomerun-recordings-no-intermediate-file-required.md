@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2016-01-16T22:19:34+00:00
 url: /best-way-to-remove-ads-from-hdhomerun-recordings-no-intermediate-file-required/
-featured_image: /wp-content/uploads/2015/10/Remove-ads-from-HDHomerun-recording-featured-image-672x378.jpg
+featured_image: /wp-content/uploads/2015/10/Remove-ads-from-HDHomerun-recording-featured-image.jpg
 hits:
   - 1731
 categories:
@@ -51,7 +51,7 @@ tags:
 <img loading="lazy" class="size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/12/auxsetup-exe-icon.png" alt="VirtualDub auxsetup.exe icon" width="16" height="16" />  _auxsetup.exe_. The following dialog will be displayed: 
 
 <div id="attachment_1229" style="width: 538px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg"><img aria-describedby="caption-attachment-1229" loading="lazy" class="size-full wp-image-1229" src="http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg" alt="VirtualDub auxsetup.exe Dialog" width="528" height="269" srcset="http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg 528w, http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog-150x76.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog-300x153.jpg 300w" sizes="(max-width: 528px) 100vw, 528px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg"><img aria-describedby="caption-attachment-1229" loading="lazy" class="size-full wp-image-1229" src="http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg" alt="VirtualDub auxsetup.exe Dialog" width="528" height="269" srcset="http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg 528w, http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg 300w" sizes="(max-width: 528px) 100vw, 528px" /></a>
   
   <p id="caption-attachment-1229" class="wp-caption-text">
     VirtualDub auxsetup.exe Dialog
@@ -61,7 +61,7 @@ tags:
 _Install handler_ button and the following dialog will be displayed: 
 
 <div id="attachment_1230" style="width: 476px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg"><img aria-describedby="caption-attachment-1230" loading="lazy" class="size-full wp-image-1230" src="http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg" alt="VirtualDub Installing AVIFile frameclient" width="466" height="296" srcset="http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg 466w, http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient-150x95.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient-300x191.jpg 300w" sizes="(max-width: 466px) 100vw, 466px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg"><img aria-describedby="caption-attachment-1230" loading="lazy" class="size-full wp-image-1230" src="http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg" alt="VirtualDub Installing AVIFile frameclient" width="466" height="296" srcset="http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg 466w, http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg 300w" sizes="(max-width: 466px) 100vw, 466px" /></a>
   
   <p id="caption-attachment-1230" class="wp-caption-text">
     VirtualDub Installing AVIFile frameclient
@@ -83,7 +83,7 @@ _a scripting language and a collection of filters for simple (and not so simple!
 _Pismo File Mount is an operating system extension that enables application controlled virtual and user mode file systems. Using Pismo File Mount, applications can expose all kinds of program and user data through the file system interface_&#8220;. This software does not have any interaction with the user but it is required by AVFS to create the virtual folder containing the virtual files (\*.AVI, \*.WAV). 
 
 <div id="attachment_1235" style="width: 491px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/12/Pismo-File-Mount-Audit-Package-Install.jpg"><img aria-describedby="caption-attachment-1235" loading="lazy" class="size-full wp-image-1235" src="http://www.end2endzone.com/wp-content/uploads/2015/12/Pismo-File-Mount-Audit-Package-Install.jpg" alt="Pismo File Mount Audit Package Install" width="481" height="320" srcset="http://www.end2endzone.com/wp-content/uploads/2015/12/Pismo-File-Mount-Audit-Package-Install.jpg 481w, http://www.end2endzone.com/wp-content/uploads/2015/12/Pismo-File-Mount-Audit-Package-Install-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/12/Pismo-File-Mount-Audit-Package-Install-300x200.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/12/Pismo-File-Mount-Audit-Package-Install.jpg"><img aria-describedby="caption-attachment-1235" loading="lazy" class="size-full wp-image-1235" src="http://www.end2endzone.com/wp-content/uploads/2015/12/Pismo-File-Mount-Audit-Package-Install.jpg" alt="Pismo File Mount Audit Package Install" width="481" height="320" srcset="http://www.end2endzone.com/wp-content/uploads/2015/12/Pismo-File-Mount-Audit-Package-Install.jpg 481w, http://www.end2endzone.com/wp-content/uploads/2015/12/Pismo-File-Mount-Audit-Package-Install.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/12/Pismo-File-Mount-Audit-Package-Install.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" /></a>
   
   <p id="caption-attachment-1235" class="wp-caption-text">
     Pismo File Mount Audit Package Install
@@ -129,7 +129,7 @@ _c:\windows\avfs.exe_ file.
 ## <span id="Open_video_file_in_Virtualdub">Open video file in Virtualdub</span>
 
 <div id="attachment_1157" style="width: 977px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg"><img aria-describedby="caption-attachment-1157" loading="lazy" class="wp-image-1157 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg" alt="VirtualDub default video" width="967" height="492" srcset="http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg 967w, http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video-150x76.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video-300x153.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video-672x342.jpg 672w" sizes="(max-width: 967px) 100vw, 967px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg"><img aria-describedby="caption-attachment-1157" loading="lazy" class="wp-image-1157 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg" alt="VirtualDub default video" width="967" height="492" srcset="http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg 967w, http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg 672w" sizes="(max-width: 967px) 100vw, 967px" /></a>
   
   <p id="caption-attachment-1157" class="wp-caption-text">
     VirtualDub default video
@@ -161,7 +161,7 @@ _c:\windows\avfs.exe_ file.
   Click on <em>Edit</em> menu and select <em>Set Selection End</em> to mark the end of the ad. You can also press the <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg"><img loading="lazy" class="alignnone size-full wp-image-1160" src="http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg" alt="VirtualDub Set Selection End" width="22" height="22" /></a> button.
 </li>
   1. This will highlight the area that will be cut out of the final video: <div id="attachment_1162" style="width: 436px" class="wp-caption alignnone">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg"><img aria-describedby="caption-attachment-1162" loading="lazy" class="size-full wp-image-1162" src="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg" alt="Virtualdub Selection" width="426" height="103" srcset="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg 426w, http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection-150x36.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection-300x73.jpg 300w" sizes="(max-width: 426px) 100vw, 426px" /></a>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg"><img aria-describedby="caption-attachment-1162" loading="lazy" class="size-full wp-image-1162" src="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg" alt="Virtualdub Selection" width="426" height="103" srcset="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg 426w, http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg 300w" sizes="(max-width: 426px) 100vw, 426px" /></a>
       
       <p id="caption-attachment-1162" class="wp-caption-text">
         Virtualdub Selection
@@ -179,7 +179,7 @@ _c:\windows\avfs.exe_ file.
 _Uncompressed RGB/YCbCr_&#8220;. The final video compression will occur within Handbrake. 
 
 <div id="attachment_1204" style="width: 551px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png"><img aria-describedby="caption-attachment-1204" loading="lazy" class="wp-image-1204 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png" alt="Virtualdub Uncompressed RGB Video Codec Selection" width="541" height="318" srcset="http://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png 541w, http://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection-150x88.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection-300x176.png 300w" sizes="(max-width: 541px) 100vw, 541px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png"><img aria-describedby="caption-attachment-1204" loading="lazy" class="wp-image-1204 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png" alt="Virtualdub Uncompressed RGB Video Codec Selection" width="541" height="318" srcset="http://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png 541w, http://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png 300w" sizes="(max-width: 541px) 100vw, 541px" /></a>
   
   <p id="caption-attachment-1204" class="wp-caption-text">
     Virtualdub Uncompressed RGB Video Codec Selection
@@ -210,7 +210,7 @@ _Uncompressed RGB/YCbCr_&#8220;. The final video compression will occur within H
 </li> The following dialog should be displayed: 
 
 <div id="attachment_1198" style="width: 398px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png"><img aria-describedby="caption-attachment-1198" loading="lazy" class="size-full wp-image-1198" src="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png" alt="VirtualDub Frameserver Options Window" width="388" height="113" srcset="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png 388w, http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window-150x44.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window-300x87.png 300w" sizes="(max-width: 388px) 100vw, 388px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png"><img aria-describedby="caption-attachment-1198" loading="lazy" class="size-full wp-image-1198" src="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png" alt="VirtualDub Frameserver Options Window" width="388" height="113" srcset="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png 388w, http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png 300w" sizes="(max-width: 388px) 100vw, 388px" /></a>
   
   <p id="caption-attachment-1198" class="wp-caption-text">
     VirtualDub Frameserver Options Window
@@ -225,7 +225,7 @@ _Uncompressed RGB/YCbCr_&#8220;. The final video compression will occur within H
 </li> The following dialog will be displayed: 
 
 <div id="attachment_1197" style="width: 404px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png"><img aria-describedby="caption-attachment-1197" loading="lazy" class="size-full wp-image-1197" src="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png" alt="VirtualDub Frameserver Mode" width="394" height="205" srcset="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png 394w, http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode-150x78.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode-300x156.png 300w" sizes="(max-width: 394px) 100vw, 394px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png"><img aria-describedby="caption-attachment-1197" loading="lazy" class="size-full wp-image-1197" src="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png" alt="VirtualDub Frameserver Mode" width="394" height="205" srcset="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png 394w, http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png 300w" sizes="(max-width: 394px) 100vw, 394px" /></a>
   
   <p id="caption-attachment-1197" class="wp-caption-text">
     VirtualDub Frameserver Mode
@@ -254,7 +254,7 @@ _Stop serving_ button to return to VirtualDub&#8217;s editing mode. A safe way t
   * The VirtualDub editing backup file (*.vdscript)
 
 <div id="attachment_1196" style="width: 618px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png"><img aria-describedby="caption-attachment-1196" loading="lazy" class="size-full wp-image-1196" src="http://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png" alt="Remove ADS From TV Recording Workspace" width="608" height="396" srcset="http://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png 608w, http://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace-150x98.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace-300x195.png 300w" sizes="(max-width: 608px) 100vw, 608px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png"><img aria-describedby="caption-attachment-1196" loading="lazy" class="size-full wp-image-1196" src="http://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png" alt="Remove ADS From TV Recording Workspace" width="608" height="396" srcset="http://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png 608w, http://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png 300w" sizes="(max-width: 608px) 100vw, 608px" /></a>
   
   <p id="caption-attachment-1196" class="wp-caption-text">
     Remove ADS From TV Recording Workspace
@@ -276,7 +276,7 @@ _Stop serving_ button to return to VirtualDub&#8217;s editing mode. A safe way t
 </li>
 
 <div id="attachment_1195" style="width: 401px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options.png"><img aria-describedby="caption-attachment-1195" loading="lazy" class="wp-image-1195 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options.png" alt="AVFS Mounting Options" width="391" height="422" srcset="http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options.png 391w, http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options-139x150.png 139w, http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options-278x300.png 278w" sizes="(max-width: 391px) 100vw, 391px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options.png"><img aria-describedby="caption-attachment-1195" loading="lazy" class="wp-image-1195 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options.png" alt="AVFS Mounting Options" width="391" height="422" srcset="http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options.png 391w, http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options.png 139w, http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options.png 278w" sizes="(max-width: 391px) 100vw, 391px" /></a>
   
   <p id="caption-attachment-1195" class="wp-caption-text">
     AVFS Mounting Options
@@ -314,7 +314,7 @@ _Stop serving_ button to return to VirtualDub&#8217;s editing mode. A safe way t
 _Open after mount_, the following window will be displayed: 
 
 <div id="attachment_1194" style="width: 618px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File.png"><img aria-describedby="caption-attachment-1194" loading="lazy" class="wp-image-1194 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File.png" alt="AVFS 375 GB Virtual AVI File" width="608" height="396" srcset="http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File.png 608w, http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File-150x98.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File-300x195.png 300w" sizes="(max-width: 608px) 100vw, 608px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File.png"><img aria-describedby="caption-attachment-1194" loading="lazy" class="wp-image-1194 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File.png" alt="AVFS 375 GB Virtual AVI File" width="608" height="396" srcset="http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File.png 608w, http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File.png 300w" sizes="(max-width: 608px) 100vw, 608px" /></a>
   
   <p id="caption-attachment-1194" class="wp-caption-text">
     AVFS 375 GB Virtual AVI File
@@ -341,7 +341,7 @@ _Open after mount_, the following window will be displayed:
 </li>
 
 <div id="attachment_1238" style="width: 607px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running.jpg"><img aria-describedby="caption-attachment-1238" loading="lazy" class="size-full wp-image-1238" src="http://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running.jpg" alt="AVFS 1.0.0.6 running" width="597" height="299" srcset="http://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running.jpg 597w, http://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running-150x75.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running-300x150.jpg 300w" sizes="(max-width: 597px) 100vw, 597px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running.jpg"><img aria-describedby="caption-attachment-1238" loading="lazy" class="size-full wp-image-1238" src="http://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running.jpg" alt="AVFS 1.0.0.6 running" width="597" height="299" srcset="http://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running.jpg 597w, http://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running.jpg 300w" sizes="(max-width: 597px) 100vw, 597px" /></a>
   
   <p id="caption-attachment-1238" class="wp-caption-text">
     AVFS 1.0.0.6 running
@@ -355,7 +355,7 @@ _Open after mount_, the following window will be displayed:
 _Number of frames served_ increasing: 
 
 <div id="attachment_1197" style="width: 404px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png"><img aria-describedby="caption-attachment-1197" loading="lazy" class="size-full wp-image-1197" src="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png" alt="VirtualDub Frameserver Mode" width="394" height="205" srcset="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png 394w, http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode-150x78.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode-300x156.png 300w" sizes="(max-width: 394px) 100vw, 394px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png"><img aria-describedby="caption-attachment-1197" loading="lazy" class="size-full wp-image-1197" src="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png" alt="VirtualDub Frameserver Mode" width="394" height="205" srcset="http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png 394w, http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png 300w" sizes="(max-width: 394px) 100vw, 394px" /></a>
   
   <p id="caption-attachment-1197" class="wp-caption-text">
     VirtualDub Frameserver Mode
@@ -365,7 +365,7 @@ _Number of frames served_ increasing:
 ## <span id="Encode_final_video_with_Handbrake">Encode final video with Handbrake</span> The AVI file is now ready for encoding using Handbrake. Enjoy your TV show episode without any ads. Just open the file in Handbrake and encode using your favorite video parameters. 
 
 <div id="attachment_1168" style="width: 1025px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg"><img aria-describedby="caption-attachment-1168" loading="lazy" class="wp-image-1168 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg" alt="Handbrake video settings" width="1015" height="675" srcset="http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg 1015w, http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings-672x447.jpg 672w" sizes="(max-width: 1015px) 100vw, 1015px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg"><img aria-describedby="caption-attachment-1168" loading="lazy" class="wp-image-1168 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg" alt="Handbrake video settings" width="1015" height="675" srcset="http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg 1015w, http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg 672w" sizes="(max-width: 1015px) 100vw, 1015px" /></a>
   
   <p id="caption-attachment-1168" class="wp-caption-text">
     Handbrake video settings

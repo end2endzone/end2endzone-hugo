@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2014-08-05T10:20:35+00:00
 url: /my-expectations-and-things-i-would-like-to-shoot/
-featured_image: /wp-content/uploads/2014/08/My-expectations-and-things-I-would-like-to-shoot-672x372.jpg
+featured_image: /wp-content/uploads/2014/08/My-expectations-and-things-I-would-like-to-shoot.jpg
 hits:
   - 46
 french_post_id:

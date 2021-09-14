@@ -33,7 +33,7 @@ Text in header 5 [this is a link to google.com](http://google.com)
 ###### h6
 Text in header 6 [this is a link to google.com](http://google.com)
 
-![Flowers](/wp-content/uploads/2015/01/MSBuildReorder-How-to-reorder-a-Visual-Studio-build-log-for-easy-reading-150x84.png){.callout}
+![Flowers](/wp-content/uploads/2015/01/MSBuildReorder-How-to-reorder-a-Visual-Studio-build-log-for-easy-reading.png){.callout}
 
 ## heading ## {#id .className attrName=attrValue class="class1 class2"}
 

@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2014-09-01T19:32:17+00:00
 url: /diy-bedroom-under-the-bed-led-lighting/
-featured_image: /wp-content/uploads/2014/09/IMG_0846-672x448.jpg
+featured_image: /wp-content/uploads/2014/09/IMG_0846.jpg
 hits:
   - 4307
 french_post_id:
@@ -105,7 +105,7 @@ The preparation time is simple, it requires to test all the circuit before fixin
 
 Construction steps are very simple. Screw, wire everything up and enjoy. Here is a picture of the circuit that you need to assemble:
 
-[<img loading="lazy" class="aligncenter size-full wp-image-351" src="http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png" alt="Bedroom led lighting circuit" width="433" height="223" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png 433w, http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit-150x77.png 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit-300x155.png 300w" sizes="(max-width: 433px) 100vw, 433px" />][8]
+[<img loading="lazy" class="aligncenter size-full wp-image-351" src="http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png" alt="Bedroom led lighting circuit" width="433" height="223" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png 433w, http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png 300w" sizes="(max-width: 433px) 100vw, 433px" />][8]
 
 ## <span id="Testing_everything_together">Testing everything together</span>
 
@@ -119,7 +119,7 @@ This section defines the basic reasons that lead to the final design.
 
 ### <span id="Orientationof_the_LEDs">Orientation of the LEDs</span>
 
-<a style="color: #41a62a; outline: #000000;" href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg"><img loading="lazy" class="size-medium wp-image-359 alignleft" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-200x300.jpg" alt="IMG_7135" width="200" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-200x300.jpg 200w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-100x150.jpg 100w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-448x672.jpg 448w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg 480w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+<a style="color: #41a62a; outline: #000000;" href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg"><img loading="lazy" class="size-medium wp-image-359 alignleft" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg" alt="IMG_7135" width="200" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg 200w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg 100w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg 448w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg 480w" sizes="(max-width: 200px) 100vw, 200px" /></a>
 
 The location of the LEDs is obvious. However, I didn&#8217;t know if I had to stick the LEDs facing down or facing out of the base. If you stick the LEDs facing out, all the lower section of the room get illuminated but the light does not go as high as if the LEDs were facing down.
 
@@ -133,7 +133,7 @@ Turns out that best method for me was to stick them facing down. Choose the opt
 
 ### <span id="Switches"><span style="font-size: 22px; font-weight: bold; line-height: 1.0909090909;">Switches</span></span>
 
-<a style="color: #41a62a; outline: #000000;" href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg"><img loading="lazy" class="aligncenter wp-image-357 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125-1024x683.jpg" alt="IMG_7125" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125-672x448.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+<a style="color: #41a62a; outline: #000000;" href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg"><img loading="lazy" class="aligncenter wp-image-357 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg" alt="IMG_7125" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
 
 I had a hard time figuring out where I would put the switches and the dimmer. They had to be freely available and I wanted to be able to find the switches with my hands only, without having to take a look first. You will turn them on in the middle of the night when not fully awake!
 
@@ -143,7 +143,7 @@ I opted to position the circuit of the switches at the same level than the bed&#
 
 ### <span id="Dimmer"><span style="font-size: 22px; font-weight: bold; line-height: 1.0909090909;">Dimmer</span></span>
 
-<a style="color: #41a62a; outline: #000000;" href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg"><img loading="lazy" class="size-medium wp-image-356 alignleft" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099-200x300.jpg" alt="IMG_7099" width="200" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099-200x300.jpg 200w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099-100x150.jpg 100w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099-448x672.jpg 448w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg 480w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+<a style="color: #41a62a; outline: #000000;" href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg"><img loading="lazy" class="size-medium wp-image-356 alignleft" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg" alt="IMG_7099" width="200" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg 200w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg 100w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg 448w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg 480w" sizes="(max-width: 200px) 100vw, 200px" /></a>
 
 The dimmer is not always used in this setup. Most of the time, you want the light to be set at the minimum brightness level. In some scenarios, you will want to get more light and you will have to turn the knob of the dimmer.
 
@@ -164,7 +164,7 @@ Use a measuring tape to calculate the length of each side of the base. If the le
 
 ### <span id="Sticking">Sticking</span>
 
-<a style="color: #41a62a; outline: #000000;" href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg"><img loading="lazy" class="aligncenter wp-image-360 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136-1024x683.jpg" alt="IMG_7136" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136-672x448.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg 1080w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+<a style="color: #41a62a; outline: #000000;" href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg"><img loading="lazy" class="aligncenter wp-image-360 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg" alt="IMG_7136" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg 1080w" sizes="(max-width: 474px) 100vw, 474px" /></a>
 
 <span style="line-height: 1.5;">Now is the time to stick the LEDs to the base of the bed. The opposite side of the LEDs is sticky and can be used to stick the LED to a surface. Make sure that the mounting surface is dry and clean since you won&#8217;t have multiple tries before the surface loose the ability to stick to the wall. If the strip does not exactly match the length of the base, make sure that you center the strip for appropriate lighting.</span>
 
@@ -172,7 +172,7 @@ I used decided to use hot glue for securing the beginning of the strip to the ba
 
 ### <span id="Connecting">Connecting</span>
 
-<img loading="lazy" class="aligncenter wp-image-358 size-large" style="text-align: justify;" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133-1024x683.jpg" alt="IMG_7133" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133-672x448.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133.jpg 1080w" sizes="(max-width: 474px) 100vw, 474px" /> 
+<img loading="lazy" class="aligncenter wp-image-358 size-large" style="text-align: justify;" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133.jpg" alt="IMG_7133" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133.jpg 1080w" sizes="(max-width: 474px) 100vw, 474px" /> 
 
 Use the connectors to link each strip together. The connectors are specifically designed for connecting LED strip together. You just have to open a door, slide the strip in place and close the door which will hold the strip in place. When linking the strip together, make sure that you align the positive (red) and negative (black) leads of the strip with the appropriate color code of the connector.
 
@@ -183,7 +183,7 @@ I also used hot glue for holding the connector on the base and prevent any loose
 Here is the final result:
 
 <div id="attachment_369" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg"><img aria-describedby="caption-attachment-369" loading="lazy" class="wp-image-369 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-1024x683.jpg" alt="DIY Bedroom under the bed led lighting" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-672x448.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg"><img aria-describedby="caption-attachment-369" loading="lazy" class="wp-image-369 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg" alt="DIY Bedroom under the bed led lighting" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-369" class="wp-caption-text">
     DIY Bedroom under the bed led lighting

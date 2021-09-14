@@ -72,7 +72,7 @@ pause
 ## <span id="UI">UI</span>
 
 <div id="attachment_1918" style="width: 373px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample.png" rel="attachment wp-att-1918"><img aria-describedby="caption-attachment-1918" loading="lazy" class="size-full wp-image-1918" src="http://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample.png" alt="svnpropertylog - Select Subversion Property" width="363" height="221" srcset="http://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample.png 363w, http://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample-150x91.png 150w, http://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample-300x183.png 300w" sizes="(max-width: 363px) 100vw, 363px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample.png" rel="attachment wp-att-1918"><img aria-describedby="caption-attachment-1918" loading="lazy" class="size-full wp-image-1918" src="http://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample.png" alt="svnpropertylog - Select Subversion Property" width="363" height="221" srcset="http://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample.png 363w, http://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample.png 150w, http://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample.png 300w" sizes="(max-width: 363px) 100vw, 363px" /></a>
   
   <p id="caption-attachment-1918" class="wp-caption-text">
     svnpropertylog &#8211; Select Subversion Property

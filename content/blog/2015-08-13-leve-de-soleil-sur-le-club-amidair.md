@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-08-13T21:19:15+00:00
 url: /leve-de-soleil-sur-le-club-amidair/
-featured_image: /wp-content/uploads/2015/08/IMG_6162-Featured-Image-672x378.jpg
+featured_image: /wp-content/uploads/2015/08/IMG_6162-Featured-Image.jpg
 Snippet Title:
   - EXIF Info
 Snippet:
@@ -37,7 +37,7 @@ tags:
 <div id='gallery-7' class='gallery galleryid-1112 gallery-columns-1 gallery-size-large gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6162_LR5-1620x1080.jpg" title="" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6162_LR5-1024x683.jpg" width="1024" height="683" alt="" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6162_LR5.jpg" rel="nolightbox" target="_blank">1620x1080</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6162_LR5.jpg" title="" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6162_LR5.jpg" width="1024" height="683" alt="" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6162_LR5.jpg" rel="nolightbox" target="_blank">1620x1080</a></span>
     </dt>
   </dl>
   
@@ -45,7 +45,7 @@ tags:
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6159_LR5-1620x1080.jpg" title="" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6159_LR5-1024x683.jpg" width="1024" height="683" alt="" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6159_LR5.jpg" rel="nolightbox" target="_blank">1620x1080</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6159_LR5.jpg" title="" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6159_LR5.jpg" width="1024" height="683" alt="" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6159_LR5.jpg" rel="nolightbox" target="_blank">1620x1080</a></span>
     </dt>
   </dl>
   

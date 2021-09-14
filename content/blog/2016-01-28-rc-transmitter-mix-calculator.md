@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2016-01-28T17:43:43+00:00
 url: /rc-transmitter-mix-calculator/
-featured_image: /wp-content/uploads/2016/01/RC-Transmitter-Mix-Calculator-672x378.jpg
+featured_image: /wp-content/uploads/2016/01/RC-Transmitter-Mix-Calculator.jpg
 hits:
   - 1361
 categories:

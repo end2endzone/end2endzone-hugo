@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2016-12-22T18:03:50+00:00
 url: /how-to-convert-arduino-code-to-actual-rtttl-melodies-using-librtttl-and-anyrtttl/
-featured_image: /wp-content/uploads/2016/11/How-to-convert-arduino-code-to-actual-RTTTL-melodies-using-libRtttl-and-AnyRtttl-672x378.jpg
+featured_image: /wp-content/uploads/2016/11/How-to-convert-arduino-code-to-actual-RTTTL-melodies-using-libRtttl-and-AnyRtttl.jpg
 hits:
   - 877
 categories:

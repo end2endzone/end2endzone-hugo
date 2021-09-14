@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2016-03-30T17:15:24+00:00
 url: /how-to-multiplex-rc-transmitter-switches-into-a-single-channel/
-featured_image: /wp-content/uploads/2016/03/How-to-multiplex-RC-Transmitter-switches-into-a-single-channel-672x378.jpg
+featured_image: /wp-content/uploads/2016/03/How-to-multiplex-RC-Transmitter-switches-into-a-single-channel.jpg
 hits:
   - 386
 Snippet Title:
@@ -6596,7 +6596,7 @@ _if_&#8221; statements. Then, update switches state based on the currently selec
 <div id='gallery-12' class='gallery galleryid-1249 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-4x-2-position-switches-Data-Capture-Sample.png" title="Demultiplexing four 2-position switches : Sample data" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-4x-2-position-switches-Data-Capture-Sample-150x141.png" width="150" height="141" alt="Demultiplexing four 2-position switches : Sample data" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-4x-2-position-switches-Data-Capture-Sample.png" rel="nolightbox" target="_blank">559x527</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-4x-2-position-switches-Data-Capture-Sample.png" title="Demultiplexing four 2-position switches : Sample data" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-4x-2-position-switches-Data-Capture-Sample.png" width="150" height="141" alt="Demultiplexing four 2-position switches : Sample data" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-4x-2-position-switches-Data-Capture-Sample.png" rel="nolightbox" target="_blank">559x527</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption1477">
@@ -6606,7 +6606,7 @@ _if_&#8221; statements. Then, update switches state based on the currently selec
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-3x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample.png" title="Demultiplexing a 3-Position and three 2-Position switches : Sample data" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-3x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample-150x145.png" width="150" height="145" alt="Demultiplexing a 3-Position and three 2-Position switches : Sample data" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-3x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample.png" rel="nolightbox" target="_blank">539x520</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-3x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample.png" title="Demultiplexing a 3-Position and three 2-Position switches : Sample data" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-3x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample.png" width="150" height="145" alt="Demultiplexing a 3-Position and three 2-Position switches : Sample data" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-3x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample.png" rel="nolightbox" target="_blank">539x520</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption1479">
@@ -6616,7 +6616,7 @@ _if_&#8221; statements. Then, update switches state based on the currently selec
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-3x-3-Position-switches-Data-Capture-Sample.png" title="Demultiplexing three 3-Position switches : Sample data" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-3x-3-Position-switches-Data-Capture-Sample-150x145.png" width="150" height="145" alt="Demultiplexing three 3-Position switches : Sample data" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-3x-3-Position-switches-Data-Capture-Sample.png" rel="nolightbox" target="_blank">533x514</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-3x-3-Position-switches-Data-Capture-Sample.png" title="Demultiplexing three 3-Position switches : Sample data" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-3x-3-Position-switches-Data-Capture-Sample.png" width="150" height="145" alt="Demultiplexing three 3-Position switches : Sample data" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-3x-3-Position-switches-Data-Capture-Sample.png" rel="nolightbox" target="_blank">533x514</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption1489">
@@ -7523,7 +7523,7 @@ _if_&#8221; statements. Then, update switches state based on the currently selec
 <div id='gallery-13' class='gallery galleryid-1249 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-Analog-Knob-with-1x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample.png" title="Demultiplexing an analog knob with a 2-Position and a 3-Position switch : Sample data" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-Analog-Knob-with-1x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample-146x150.png" width="146" height="150" alt="Demultiplexing an analog knob with a 2-Position and a 3-Position switch : Sample data" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-Analog-Knob-with-1x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample.png" rel="nolightbox" target="_blank">498x510</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-Analog-Knob-with-1x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample.png" title="Demultiplexing an analog knob with a 2-Position and a 3-Position switch : Sample data" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-Analog-Knob-with-1x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample.png" width="146" height="150" alt="Demultiplexing an analog knob with a 2-Position and a 3-Position switch : Sample data" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-Analog-Knob-with-1x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample.png" rel="nolightbox" target="_blank">498x510</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption1519">

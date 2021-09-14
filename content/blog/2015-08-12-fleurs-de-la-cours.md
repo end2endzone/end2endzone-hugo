@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-08-12T23:38:36+00:00
 url: /fleurs-de-la-cours/
-featured_image: /wp-content/uploads/2015/08/IMG_2619-Featured-Image-672x378.jpg
+featured_image: /wp-content/uploads/2015/08/IMG_2619-Featured-Image.jpg
 hits:
   - 20
 categories:

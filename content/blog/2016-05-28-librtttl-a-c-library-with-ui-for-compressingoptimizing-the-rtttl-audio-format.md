@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2016-05-28T15:18:35+00:00
 url: /librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/
-featured_image: /wp-content/uploads/2016/05/libRtttl-cplusplus-library-672x378.jpg
+featured_image: /wp-content/uploads/2016/05/libRtttl-cplusplus-library.jpg
 hits:
   - 307
 Snippet Title:
@@ -141,7 +141,7 @@ All functionalities of the library are available through the UI.
 Start the UI by launching rtttlOptimizerGui.exe.
 
 <div id="attachment_1817" style="width: 756px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg" rel="attachment wp-att-1817"><img aria-describedby="caption-attachment-1817" loading="lazy" class="wp-image-1817 size-full" src="http://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg" alt="rtttlOptimizerGui with default options" width="746" height="451" srcset="http://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg 746w, http://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options-150x91.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options-300x181.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options-672x406.jpg 672w" sizes="(max-width: 746px) 100vw, 746px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg" rel="attachment wp-att-1817"><img aria-describedby="caption-attachment-1817" loading="lazy" class="wp-image-1817 size-full" src="http://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg" alt="rtttlOptimizerGui with default options" width="746" height="451" srcset="http://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg 746w, http://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg 672w" sizes="(max-width: 746px) 100vw, 746px" /></a>
   
   <p id="caption-attachment-1817" class="wp-caption-text">
     rtttlOptimizerGui with default options

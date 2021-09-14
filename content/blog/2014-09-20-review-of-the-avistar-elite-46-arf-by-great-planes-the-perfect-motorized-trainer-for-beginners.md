@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2014-09-21T00:31:55+00:00
 url: /review-of-the-avistar-elite-46-arf-by-great-planes-the-perfect-motorized-trainer-for-beginners/
-featured_image: /wp-content/uploads/2014/09/IMG_7968-672x378.jpg
+featured_image: /wp-content/uploads/2014/09/IMG_7968.jpg
 hits:
   - 2326
 categories:

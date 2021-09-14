@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2021-03-14T16:42:39+00:00
 url: /how-to-setup-macos-catalina-10-15-in-virtualbox-for-c-development-on-github/
-featured_image: /wp-content/uploads/2021/03/HOW-TO-SETUP-MACOS-CATALINA-10.15-IN-VIRTUALBOX-FOR-C-DEVELOPMENT-ON-GITHUB-672x378.jpg
+featured_image: /wp-content/uploads/2021/03/HOW-TO-SETUP-MACOS-CATALINA-10.15-IN-VIRTUALBOX-FOR-C-DEVELOPMENT-ON-GITHUB.jpg
 hits:
   - 51
 categories:

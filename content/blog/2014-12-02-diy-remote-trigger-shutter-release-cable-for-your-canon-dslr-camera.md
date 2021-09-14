@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2014-12-03T02:00:59+00:00
 url: /diy-remote-trigger-shutter-release-cable-for-your-canon-dslr-camera/
-featured_image: /wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera-672x378.jpg
+featured_image: /wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg
 hits:
   - 5336
 categories:
@@ -46,7 +46,7 @@ The material for this project is as follows:
 ### <span id="Switches"><span style="line-height: 1.5;">Switches</span></span>
 
 <div id="attachment_517" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772.jpg"><img aria-describedby="caption-attachment-517" loading="lazy" class="wp-image-517 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772-1024x576.jpg" alt="IMG_8772" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772.jpg"><img aria-describedby="caption-attachment-517" loading="lazy" class="wp-image-517 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772.jpg" alt="IMG_8772" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-517" class="wp-caption-text">
     Black and red momentary switches
@@ -58,7 +58,7 @@ Switches can be any type you want as long as its a momentary switch (normally op
 ### <span id="Cable"><span style="line-height: 1.5;">Cable</span></span>
 
 <div id="attachment_518" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756.jpg"><img aria-describedby="caption-attachment-518" loading="lazy" class="wp-image-518 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756-1024x576.jpg" alt="IMG_8756" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756.jpg"><img aria-describedby="caption-attachment-518" loading="lazy" class="wp-image-518 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756.jpg" alt="IMG_8756" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-518" class="wp-caption-text">
     20 feet telephone extension cord
@@ -70,7 +70,7 @@ You can use any type of cable as long as it have at least 3 colored wires. you b
 ### <span id="Project_box">Project box</span>
 
 <div id="attachment_519" style="width: 179px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979.jpg"><img aria-describedby="caption-attachment-519" loading="lazy" class="wp-image-519 size-medium" src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979-169x300.jpg" alt="IMG_8979" width="169" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979-169x300.jpg 169w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979-84x150.jpg 84w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979-378x672.jpg 378w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979.jpg 405w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979.jpg"><img aria-describedby="caption-attachment-519" loading="lazy" class="wp-image-519 size-medium" src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979.jpg" alt="IMG_8979" width="169" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979.jpg 169w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979.jpg 84w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979.jpg 378w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979.jpg 405w" sizes="(max-width: 169px) 100vw, 169px" /></a>
   
   <p id="caption-attachment-519" class="wp-caption-text">
     Crazy glue box
@@ -84,7 +84,7 @@ The project box is used for the switches. It can be anything as long as you can 
 <div id='gallery-4' class='gallery galleryid-489 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" title="A multimeter" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001-150x113.jpg" width="150" height="113" alt="IMG_9001" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" rel="nolightbox" target="_blank">768x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" rel="nolightbox" target="_blank">960x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" rel="nolightbox" target="_blank">960x720</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" title="A multimeter" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" width="150" height="113" alt="IMG_9001" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" rel="nolightbox" target="_blank">768x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" rel="nolightbox" target="_blank">960x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg" rel="nolightbox" target="_blank">960x720</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption524">
@@ -94,7 +94,7 @@ The project box is used for the switches. It can be anything as long as you can 
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993.jpg" title="Solder paste" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993-150x113.jpg" width="150" height="113" alt="IMG_8993" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993.jpg" rel="nolightbox" target="_blank">768x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993.jpg" rel="nolightbox" target="_blank">960x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993.jpg" rel="nolightbox" target="_blank">960x720</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993.jpg" title="Solder paste" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993.jpg" width="150" height="113" alt="IMG_8993" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993.jpg" rel="nolightbox" target="_blank">768x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993.jpg" rel="nolightbox" target="_blank">960x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993.jpg" rel="nolightbox" target="_blank">960x720</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption526">
@@ -104,7 +104,7 @@ The project box is used for the switches. It can be anything as long as you can 
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" title="2.5 mm male stereo plug" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766-150x84.jpg" width="150" height="84" alt="IMG_8766" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" rel="nolightbox" target="_blank">768x432</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766-1024x576.jpg" rel="nolightbox" target="_blank">1024x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" rel="nolightbox" target="_blank">1280x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" rel="nolightbox" target="_blank">1280x720</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" title="2.5 mm male stereo plug" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" width="150" height="84" alt="IMG_8766" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" rel="nolightbox" target="_blank">768x432</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" rel="nolightbox" target="_blank">1024x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" rel="nolightbox" target="_blank">1280x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg" rel="nolightbox" target="_blank">1280x720</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption521">
@@ -116,7 +116,7 @@ The project box is used for the switches. It can be anything as long as you can 
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991.jpg" title="1/16 inch heat shrink tubing" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991-150x113.jpg" width="150" height="113" alt="IMG_8991" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991.jpg" rel="nolightbox" target="_blank">768x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991.jpg" rel="nolightbox" target="_blank">960x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991.jpg" rel="nolightbox" target="_blank">960x720</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991.jpg" title="1/16 inch heat shrink tubing" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991.jpg" width="150" height="113" alt="IMG_8991" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991.jpg" rel="nolightbox" target="_blank">768x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991.jpg" rel="nolightbox" target="_blank">960x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991.jpg" rel="nolightbox" target="_blank">960x720</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption525">
@@ -126,7 +126,7 @@ The project box is used for the switches. It can be anything as long as you can 
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" title="A third hand" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996-150x113.jpg" width="150" height="113" alt="IMG_8996" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" rel="nolightbox" target="_blank">768x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" rel="nolightbox" target="_blank">960x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" rel="nolightbox" target="_blank">960x720</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" title="A third hand" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" width="150" height="113" alt="IMG_8996" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" rel="nolightbox" target="_blank">768x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" rel="nolightbox" target="_blank">960x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg" rel="nolightbox" target="_blank">960x720</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption522">
@@ -136,7 +136,7 @@ The project box is used for the switches. It can be anything as long as you can 
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" title="A soldering iron" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998-150x113.jpg" width="150" height="113" alt="IMG_8998" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" rel="nolightbox" target="_blank">768x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" rel="nolightbox" target="_blank">960x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" rel="nolightbox" target="_blank">960x720</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" title="A soldering iron" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" width="150" height="113" alt="IMG_8998" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" rel="nolightbox" target="_blank">768x576</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" rel="nolightbox" target="_blank">960x720</a><br /><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg" rel="nolightbox" target="_blank">960x720</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption523">
@@ -182,7 +182,7 @@ Use the audio plug and take off the protective cover of the 2.5 mm stereo plug l
 
 ## <span id="Soldering_the_audio_plug">Soldering the audio plug</span>
 
-[<img loading="lazy" class="aligncenter size-large wp-image-527" src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785-1024x576.jpg" alt="IMG_8785" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" />][2]I do recommend that you start with soldering of the audio plug to the cable. This is the easiest part and can be completed quickly.
+[<img loading="lazy" class="aligncenter size-large wp-image-527" src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785.jpg" alt="IMG_8785" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" />][2]I do recommend that you start with soldering of the audio plug to the cable. This is the easiest part and can be completed quickly.
 
 Take off the protective cap of the audio plug leaving the pins exposed. Pass the cable through the protective cap so that once finished, you can put the cap back on the audio plug.
 
@@ -201,7 +201,7 @@ Put the heat shrink tubing over each soldered section to protect the circuit.
 If you have issues finding which pin are what, refer to the following image:
 
 <div id="attachment_528" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg"><img aria-describedby="caption-attachment-528" loading="lazy" class="size-large wp-image-528" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage-1024x576.jpg" alt="Audio plug 2.5 mm pins usage" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg"><img aria-describedby="caption-attachment-528" loading="lazy" class="size-large wp-image-528" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg" alt="Audio plug 2.5 mm pins usage" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-528" class="wp-caption-text">
     Audio plug 2.5 mm pins usage
@@ -223,7 +223,7 @@ Take your phone cable and insert the other end into the project box and tie a kn
 <span style="font-size: 24px; font-weight: bold; line-height: 1;">Soldering the switches<br /> </span>
 
 <div id="attachment_531" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004.jpg"><img aria-describedby="caption-attachment-531" loading="lazy" class="size-large wp-image-531" src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004-1024x576.jpg" alt="IMG_9004" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004.jpg"><img aria-describedby="caption-attachment-531" loading="lazy" class="size-large wp-image-531" src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004.jpg" alt="IMG_9004" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-531" class="wp-caption-text">
     Remote trigger auto-focus button
@@ -231,7 +231,7 @@ Take your phone cable and insert the other end into the project box and tie a kn
 </div>
 
 <div id="attachment_530" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003.jpg"><img aria-describedby="caption-attachment-530" loading="lazy" class="size-large wp-image-530" src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003-1024x576.jpg" alt="IMG_9003" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003.jpg"><img aria-describedby="caption-attachment-530" loading="lazy" class="size-large wp-image-530" src="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003.jpg" alt="IMG_9003" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-530" class="wp-caption-text">
     Remote trigger shutter button
@@ -257,7 +257,7 @@ That should be obvious&#8230;
 Here is the final result:
 
 <div id="attachment_535" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg"><img aria-describedby="caption-attachment-535" loading="lazy" class="size-large wp-image-535" src="http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera-1024x576.jpg" alt="DIY Remote trigger shutter release cable for your Canon DSLR camera" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg"><img aria-describedby="caption-attachment-535" loading="lazy" class="size-large wp-image-535" src="http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg" alt="DIY Remote trigger shutter release cable for your Canon DSLR camera" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-535" class="wp-caption-text">
     DIY Remote trigger shutter release cable for your Canon DSLR camera

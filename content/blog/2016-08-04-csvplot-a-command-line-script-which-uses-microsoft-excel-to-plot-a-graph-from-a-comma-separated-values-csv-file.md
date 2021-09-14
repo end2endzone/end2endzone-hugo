@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2016-08-04T17:30:03+00:00
 url: /csvplot-a-command-line-script-which-uses-microsoft-excel-to-plot-a-graph-from-a-comma-separated-values-csv-file/
-featured_image: /wp-content/uploads/2016/07/csvplot.CarEngineModel-672x379.png
+featured_image: /wp-content/uploads/2016/07/csvplot.CarEngineModel.png
 hits:
   - 3476
 categories:
@@ -192,7 +192,7 @@ pause
 On execution, the following output is produced by the script:
 
 <div id="attachment_2181" style="width: 670px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png" rel="attachment wp-att-2181"><img aria-describedby="caption-attachment-2181" loading="lazy" class="size-full wp-image-2181" src="http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png" alt="csvplot Command Line Output" width="660" height="342" srcset="http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png 660w, http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output-150x78.png 150w, http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output-300x155.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png" rel="attachment wp-att-2181"><img aria-describedby="caption-attachment-2181" loading="lazy" class="size-full wp-image-2181" src="http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png" alt="csvplot Command Line Output" width="660" height="342" srcset="http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png 660w, http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png 150w, http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></a>
   
   <p id="caption-attachment-2181" class="wp-caption-text">
     csvplot Command Line Output
@@ -236,7 +236,7 @@ The CSV data can be downloaded here:
 	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/2212/" rel="nofollow"> Apple Share Prices over time (2015).csv</a>
 
 <div id="attachment_2199" style="width: 812px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png" rel="attachment wp-att-2199"><img aria-describedby="caption-attachment-2199" loading="lazy" class="size-full wp-image-2199" src="http://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png" alt="Apple Share Prices over time (2015) plot using cvsplot" width="802" height="602" srcset="http://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png 802w, http://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015-150x113.png 150w, http://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015-300x225.png 300w, http://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015-768x576.png 768w, http://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015-672x504.png 672w" sizes="(max-width: 802px) 100vw, 802px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png" rel="attachment wp-att-2199"><img aria-describedby="caption-attachment-2199" loading="lazy" class="size-full wp-image-2199" src="http://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png" alt="Apple Share Prices over time (2015) plot using cvsplot" width="802" height="602" srcset="http://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png 802w, http://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.csv 150w, http://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.csv 300w, http://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.csv 768w, http://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.csv 672w" sizes="(max-width: 802px) 100vw, 802px" /></a>
   
   <p id="caption-attachment-2199" class="wp-caption-text">
     Apple Share Prices over time (2015) plot using cvsplot
@@ -251,7 +251,7 @@ The CSV data can be downloaded here:
 	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/2214/" rel="nofollow"> Car Engine Model.csv</a>
 
 <div id="attachment_2182" style="width: 865px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png" rel="attachment wp-att-2182"><img aria-describedby="caption-attachment-2182" loading="lazy" class="size-full wp-image-2182" src="http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png" alt="Car Engine Model plot using cvsplot" width="855" height="482" srcset="http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png 855w, http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel-150x85.png 150w, http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel-300x169.png 300w, http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel-768x433.png 768w, http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel-672x379.png 672w" sizes="(max-width: 855px) 100vw, 855px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png" rel="attachment wp-att-2182"><img aria-describedby="caption-attachment-2182" loading="lazy" class="size-full wp-image-2182" src="http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png" alt="Car Engine Model plot using cvsplot" width="855" height="482" srcset="http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png 855w, http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png 150w, http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png 300w, http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png 768w, http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png 672w" sizes="(max-width: 855px) 100vw, 855px" /></a>
   
   <p id="caption-attachment-2182" class="wp-caption-text">
     Car Engine Model plot using cvsplot
@@ -266,7 +266,7 @@ The CSV data can be downloaded here:
 	<a class="download-link" title="Version 1.0" href="http://www.end2endzone.com/download/2216/" rel="nofollow"> sin(x), cos(x) & log(x) function data.csv</a>
 
 <div id="attachment_2205" style="width: 812px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png" rel="attachment wp-att-2205"><img aria-describedby="caption-attachment-2205" loading="lazy" class="size-full wp-image-2205" src="http://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png" alt="sin(x), cos(x) & log(x) plot using cvsplot" width="802" height="602" srcset="http://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png 802w, http://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx-150x113.png 150w, http://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx-300x225.png 300w, http://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx-768x576.png 768w, http://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx-672x504.png 672w" sizes="(max-width: 802px) 100vw, 802px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png" rel="attachment wp-att-2205"><img aria-describedby="caption-attachment-2205" loading="lazy" class="size-full wp-image-2205" src="http://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png" alt="sin(x), cos(x) & log(x) plot using cvsplot" width="802" height="602" srcset="http://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png 802w, http://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.csv 150w, http://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.csv 300w, http://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.csv 768w, http://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.csv 672w" sizes="(max-width: 802px) 100vw, 802px" /></a>
   
   <p id="caption-attachment-2205" class="wp-caption-text">
     sin(x), cos(x) & log(x) plot using cvsplot

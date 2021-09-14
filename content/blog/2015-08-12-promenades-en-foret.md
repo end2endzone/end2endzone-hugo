@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-08-12T19:44:08+00:00
 url: /promenades-en-foret/
-featured_image: /wp-content/uploads/2015/08/IMG_5566_-Featured-Image-672x378.jpg
+featured_image: /wp-content/uploads/2015/08/IMG_5566_-Featured-Image.jpg
 hits:
   - 23
 categories:

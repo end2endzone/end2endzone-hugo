@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-08-13T21:59:09+00:00
 url: /canards-sauvages-a-val-david/
-featured_image: /wp-content/uploads/2015/08/IMG_2446-Featured-Image-672x378.jpg
+featured_image: /wp-content/uploads/2015/08/IMG_2446-Featured-Image.jpg
 hits:
   - 76
 categories:

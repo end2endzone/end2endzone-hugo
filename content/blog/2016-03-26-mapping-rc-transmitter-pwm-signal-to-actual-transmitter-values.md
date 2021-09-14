@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2016-03-26T20:47:29+00:00
 url: /mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/
-featured_image: /wp-content/uploads/2016/03/Mapping-RC-Transmitter-PWM-signal-to-actual-transmitter-values-672x378.jpg
+featured_image: /wp-content/uploads/2016/03/Mapping-RC-Transmitter-PWM-signal-to-actual-transmitter-values.jpg
 hits:
   - 2780
 Snippet Title:
@@ -291,7 +291,7 @@ The following section show the results of all my data capture sessions. Each dev
 <div id='gallery-8' class='gallery galleryid-1357 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg" title="Spektrum DX9 9-ch RC Tx" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx-150x150.jpg" width="150" height="150" alt="Spektrum DX9 9-ch RC Tx" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg" rel="nolightbox" target="_blank">250x250</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg" title="Spektrum DX9 9-ch RC Tx" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg" width="150" height="150" alt="Spektrum DX9 9-ch RC Tx" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg" rel="nolightbox" target="_blank">250x250</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption1587">
@@ -301,7 +301,7 @@ The following section show the results of all my data capture sessions. Each dev
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Orange-R620X-6-ch-RC-Rx.jpg" title="Orange R620X 6-ch RC Rx" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Orange-R620X-6-ch-RC-Rx-150x150.jpg" width="150" height="150" alt="Orange R620X 6-ch RC Rx" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Orange-R620X-6-ch-RC-Rx.jpg" rel="nolightbox" target="_blank">250x250</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Orange-R620X-6-ch-RC-Rx.jpg" title="Orange R620X 6-ch RC Rx" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Orange-R620X-6-ch-RC-Rx.jpg" width="150" height="150" alt="Orange R620X 6-ch RC Rx" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Orange-R620X-6-ch-RC-Rx.jpg" rel="nolightbox" target="_blank">250x250</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption1588">
@@ -2316,7 +2316,7 @@ Download the
 <div id='gallery-9' class='gallery galleryid-1357 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg" title="Spektrum DX9 9-ch RC Tx" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx-150x150.jpg" width="150" height="150" alt="Spektrum DX9 9-ch RC Tx" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg" rel="nolightbox" target="_blank">250x250</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg" title="Spektrum DX9 9-ch RC Tx" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg" width="150" height="150" alt="Spektrum DX9 9-ch RC Tx" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg" rel="nolightbox" target="_blank">250x250</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption1587">
@@ -2326,7 +2326,7 @@ Download the
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2016/03/Spektrum-AR8000-Rx-1.jpg" title="Spektrum AR8000 Rx" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/03/Spektrum-AR8000-Rx-1-150x150.jpg" width="150" height="150" alt="Spektrum AR8000 Rx" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/03/Spektrum-AR8000-Rx-1.jpg" rel="nolightbox" target="_blank">250x250</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2016/03/Spektrum-AR8000-Rx-1.jpg" title="Spektrum AR8000 Rx" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/03/Spektrum-AR8000-Rx-1.jpg" width="150" height="150" alt="Spektrum AR8000 Rx" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/03/Spektrum-AR8000-Rx-1.jpg" rel="nolightbox" target="_blank">250x250</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption1776">
@@ -4344,7 +4344,7 @@ Download the
 <div id='gallery-10' class='gallery galleryid-1357 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg" title="Tactic TTX600 6-ch Tx.jpg" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx-150x150.jpg" width="150" height="150" alt="Tactic TTX600 6-ch Tx.jpg" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg" rel="nolightbox" target="_blank">250x250</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg" title="Tactic TTX600 6-ch Tx.jpg" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg" width="150" height="150" alt="Tactic TTX600 6-ch Tx.jpg" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg" rel="nolightbox" target="_blank">250x250</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption1633">
@@ -4354,7 +4354,7 @@ Download the
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TR624-6-ch-Rx.jpg" title="Tactic TR624 6-ch Rx" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TR624-6-ch-Rx-150x150.jpg" width="150" height="150" alt="Tactic TR624 6-ch Rx" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TR624-6-ch-Rx.jpg" rel="nolightbox" target="_blank">250x250</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TR624-6-ch-Rx.jpg" title="Tactic TR624 6-ch Rx" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TR624-6-ch-Rx.jpg" width="150" height="150" alt="Tactic TR624 6-ch Rx" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TR624-6-ch-Rx.jpg" rel="nolightbox" target="_blank">250x250</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption1634">
@@ -6087,7 +6087,7 @@ Download the 
 <div id='gallery-11' class='gallery galleryid-1357 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg" title="CCPM Servo Tester" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester-150x150.jpg" width="150" height="150" alt="CCPM Servo Tester" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg" rel="nolightbox" target="_blank">250x250</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg" title="CCPM Servo Tester" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg" width="150" height="150" alt="CCPM Servo Tester" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg" rel="nolightbox" target="_blank">250x250</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption1640">

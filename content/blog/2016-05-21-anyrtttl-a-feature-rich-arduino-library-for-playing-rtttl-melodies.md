@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2016-05-21T23:20:34+00:00
 url: /anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/
-featured_image: /wp-content/uploads/2016/05/AnyRtttl-arduino-library-672x378.jpg
+featured_image: /wp-content/uploads/2016/05/AnyRtttl-arduino-library.jpg
 Snippet Title:
   - Downloadable content
 Snippet:

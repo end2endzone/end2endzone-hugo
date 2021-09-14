@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2016-06-10T20:14:19+00:00
 url: /softtimers-a-collection-of-software-timers-to-easily-compute-elapsed-time-since-an-event-occured/
-featured_image: /wp-content/uploads/2016/06/Arduino-SoftTimers-library-672x378.jpg
+featured_image: /wp-content/uploads/2016/06/Arduino-SoftTimers-library.jpg
 Snippet Title:
   - Downloadable content
 Snippet:

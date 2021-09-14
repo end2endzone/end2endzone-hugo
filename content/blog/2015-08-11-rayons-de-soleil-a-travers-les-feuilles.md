@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-08-11T15:08:28+00:00
 url: /rayons-de-soleil-a-travers-les-feuilles/
-featured_image: /wp-content/uploads/2015/08/IMG_5580_LR5-Featured-image-672x378.jpg
+featured_image: /wp-content/uploads/2015/08/IMG_5580_LR5-Featured-image.jpg
 Snippet Title:
   - EXIF Info
 Snippet:

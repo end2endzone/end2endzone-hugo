@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2016-05-16T17:15:58+00:00
 url: /win32arduino-a-win32-library-that-implements-most-arduino-functions/
-featured_image: /wp-content/uploads/2016/05/Arduino-win32Arduino-library-672x378.jpg
+featured_image: /wp-content/uploads/2016/05/Arduino-win32Arduino-library.jpg
 hits:
   - 163
 categories:

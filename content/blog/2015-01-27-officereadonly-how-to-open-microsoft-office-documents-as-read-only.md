@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-01-28T02:12:41+00:00
 url: /officereadonly-how-to-open-microsoft-office-documents-as-read-only/
-featured_image: /wp-content/uploads/2015/01/OfficeReadOnly-How-to-open-Microsoft-Office-documents-as-Read-Only-672x378.png
+featured_image: /wp-content/uploads/2015/01/OfficeReadOnly-How-to-open-Microsoft-Office-documents-as-Read-Only.png
 hits:
   - 40
 categories:
@@ -41,7 +41,7 @@ OfficeReadOnly also helps developers by keeping the file intact! Since OfficeRea
 # <span id="Screenshots"><span style="line-height: 1.5;">Screenshots</span></span>
 
 <div id="attachment_635" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu.png"><img aria-describedby="caption-attachment-635" loading="lazy" class="size-medium wp-image-635" src="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu-300x246.png" alt="Office Read Only (context menu)" width="300" height="246" srcset="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu-300x246.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu-150x123.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu-672x552.png 672w, http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu.png 1007w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu.png"><img aria-describedby="caption-attachment-635" loading="lazy" class="size-medium wp-image-635" src="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu.png" alt="Office Read Only (context menu)" width="300" height="246" srcset="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu.png 672w, http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu.png 1007w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-635" class="wp-caption-text">
     Office Read Only (context menu)
@@ -49,7 +49,7 @@ OfficeReadOnly also helps developers by keeping the file intact! Since OfficeRea
 </div>
 
 <div id="attachment_636" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu.png"><img aria-describedby="caption-attachment-636" loading="lazy" class="size-medium wp-image-636" src="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu-300x169.png" alt="Office Read Only (send to menu)" width="300" height="169" srcset="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu-300x169.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu-150x84.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu.png 613w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu.png"><img aria-describedby="caption-attachment-636" loading="lazy" class="size-medium wp-image-636" src="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu.png" alt="Office Read Only (send to menu)" width="300" height="169" srcset="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu.png 613w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-636" class="wp-caption-text">
     Office Read Only (send to menu)
@@ -57,7 +57,7 @@ OfficeReadOnly also helps developers by keeping the file intact! Since OfficeRea
 </div>
 
 <div id="attachment_637" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file.png"><img aria-describedby="caption-attachment-637" loading="lazy" class="size-medium wp-image-637" src="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file-300x171.png" alt="Office Read Only (unsupported file)" width="300" height="171" srcset="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file-300x171.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file-150x85.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file.png 482w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file.png"><img aria-describedby="caption-attachment-637" loading="lazy" class="size-medium wp-image-637" src="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file.png" alt="Office Read Only (unsupported file)" width="300" height="171" srcset="http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file.png 482w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-637" class="wp-caption-text">
     Office Read Only (unsupported file)

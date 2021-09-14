@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-07-31T00:06:21+00:00
 url: /couche-de-soleil-au-parc-nationale-du-mont-tremblant/
-featured_image: /wp-content/uploads/2015/07/IMG_5234-Featured-image-672x378.jpg
+featured_image: /wp-content/uploads/2015/07/IMG_5234-Featured-image.jpg
 hits:
   - 92
 categories:

@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2021-03-14T19:40:03+00:00
 url: /pidvr-record-over-the-air-tv-on-a-raspberry-pi-4/
-featured_image: /wp-content/uploads/2021/03/PiDVR-Record-over-the-air-TV-on-a-Raspberry-Pi-4-672x378.jpg
+featured_image: /wp-content/uploads/2021/03/PiDVR-Record-over-the-air-TV-on-a-Raspberry-Pi-4.jpg
 hits:
   - 173
 categories:
@@ -283,7 +283,7 @@ After installation, connect to the tvheadend web interface to configure the appl
 ### <span id="Welcome_1_of_2">Welcome (1 of 2)</span>
 
 <div id="attachment_2561" style="width: 635px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01-1.png"><img aria-describedby="caption-attachment-2561" loading="lazy" class="size-full wp-image-2561" src="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01-1.png" alt="tvheadend - welcome page (1 or 2)" width="625" height="528" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01-1.png 625w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01-1-150x127.png 150w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01-1-300x253.png 300w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01.png"><img aria-describedby="caption-attachment-2561" loading="lazy" class="size-full wp-image-2561" src="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01.png" alt="tvheadend - welcome page (1 or 2)" width="625" height="528" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01.png 625w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01.png 150w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01.png 300w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p id="caption-attachment-2561" class="wp-caption-text">
     tvheadend &#8211; welcome page (1 or 2)
@@ -306,7 +306,7 @@ _Note: Since we actually changed the language of the web interface, the same pag
 ![][17] 
 
 <div id="attachment_2562" style="width: 620px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot02-1.png"><img aria-describedby="caption-attachment-2562" loading="lazy" class="size-full wp-image-2562" src="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot02-1.png" alt="tvheadend - welcome page (2 or 2)" width="610" height="617" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot02-1.png 610w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot02-1-148x150.png 148w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot02-1-297x300.png 297w" sizes="(max-width: 610px) 100vw, 610px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot02.png"><img aria-describedby="caption-attachment-2562" loading="lazy" class="size-full wp-image-2562" src="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot02.png" alt="tvheadend - welcome page (2 or 2)" width="610" height="617" /></a>
   
   <p id="caption-attachment-2562" class="wp-caption-text">
     tvheadend &#8211; welcome page (2 or 2)
@@ -324,7 +324,7 @@ Click **Save & Next** to get to the next page.
 ### <span id="Network_settings">Network settings</span>
 
 <div id="attachment_2563" style="width: 620px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03-1.png"><img aria-describedby="caption-attachment-2563" loading="lazy" class="size-full wp-image-2563" src="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03-1.png" alt="tvheadend - network settings" width="610" height="691" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03-1.png 610w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03-1-132x150.png 132w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03-1-265x300.png 265w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03-1-593x672.png 593w" sizes="(max-width: 610px) 100vw, 610px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03.png"><img aria-describedby="caption-attachment-2563" loading="lazy" class="size-full wp-image-2563" src="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03.png" alt="tvheadend - network settings" width="610" height="691" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03.png 610w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03.png 132w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03.png 265w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03.png 593w" sizes="(max-width: 610px) 100vw, 610px" /></a>
   
   <p id="caption-attachment-2563" class="wp-caption-text">
     tvheadend &#8211; network settings
@@ -342,7 +342,7 @@ Click **Save & Next** to get to the next page.
 ### <span id="Assign_predefined_muxes_to_networks">Assign predefined muxes to networks</span>
 
 <div id="attachment_2564" style="width: 620px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04-1.png"><img aria-describedby="caption-attachment-2564" loading="lazy" class="size-full wp-image-2564" src="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04-1.png" alt="tvheadend - muxes" width="610" height="399" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04-1.png 610w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04-1-150x98.png 150w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04-1-300x196.png 300w" sizes="(max-width: 610px) 100vw, 610px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04.png"><img aria-describedby="caption-attachment-2564" loading="lazy" class="size-full wp-image-2564" src="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04.png" alt="tvheadend - muxes" width="610" height="399" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04.png 610w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04.png 150w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04.png 300w" sizes="(max-width: 610px) 100vw, 610px" /></a>
   
   <p id="caption-attachment-2564" class="wp-caption-text">
     tvheadend &#8211; muxes
@@ -356,7 +356,7 @@ Click **Save & Next** to get to the next page.
 ### <span id="Scan_status">Scan status</span>
 
 <div id="attachment_2565" style="width: 620px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a-1.png"><img aria-describedby="caption-attachment-2565" loading="lazy" class="size-full wp-image-2565" src="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a-1.png" alt="tvheadend - scan status" width="610" height="406" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a-1.png 610w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a-1-150x100.png 150w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a-1-300x200.png 300w" sizes="(max-width: 610px) 100vw, 610px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a.png"><img aria-describedby="caption-attachment-2565" loading="lazy" class="size-full wp-image-2565" src="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a.png" alt="tvheadend - scan status" width="610" height="406" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a.png 610w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a.png 150w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a.png 300w" sizes="(max-width: 610px) 100vw, 610px" /></a>
   
   <p id="caption-attachment-2565" class="wp-caption-text">
     tvheadend &#8211; scan status
@@ -366,7 +366,7 @@ Click **Save & Next** to get to the next page.
 The scan will now commence. It will search for &#8220;muxes&#8221; and &#8220;services&#8221; that are distributed via those muxes. Note, a service is a TV channel. When the scan hits 100% you&#8217;ll be able to see how many muxes and services it&#8217;s picked up.
 
 <div id="attachment_2566" style="width: 620px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b-1.png"><img aria-describedby="caption-attachment-2566" loading="lazy" class="size-full wp-image-2566" src="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b-1.png" alt="tvheadend - scan status (100% completed)" width="610" height="406" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b-1.png 610w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b-1-150x100.png 150w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b-1-300x200.png 300w" sizes="(max-width: 610px) 100vw, 610px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b.png"><img aria-describedby="caption-attachment-2566" loading="lazy" class="size-full wp-image-2566" src="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b.png" alt="tvheadend - scan status (100% completed)" width="610" height="406" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b.png 610w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b.png 150w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b.png 300w" sizes="(max-width: 610px) 100vw, 610px" /></a>
   
   <p id="caption-attachment-2566" class="wp-caption-text">
     tvheadend &#8211; scan status (100% completed)
@@ -378,7 +378,7 @@ Click **Save & Next** to get to the next page
 ### <span id="Service_mapping">Service mapping</span>
 
 <div id="attachment_2567" style="width: 618px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06-1.png"><img aria-describedby="caption-attachment-2567" loading="lazy" class="size-full wp-image-2567" src="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06-1.png" alt="tvheadend - service mapping" width="608" height="409" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06-1.png 608w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06-1-150x101.png 150w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06-1-300x202.png 300w" sizes="(max-width: 608px) 100vw, 608px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06.png"><img aria-describedby="caption-attachment-2567" loading="lazy" class="size-full wp-image-2567" src="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06.png" alt="tvheadend - service mapping" width="608" height="409" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06.png 608w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06.png 150w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06.png 300w" sizes="(max-width: 608px) 100vw, 608px" /></a>
   
   <p id="caption-attachment-2567" class="wp-caption-text">
     tvheadend &#8211; service mapping
@@ -392,7 +392,7 @@ Click **Save & Next** to get to the next page.
 ### <span id="Finished">Finished</span>
 
 <div id="attachment_2568" style="width: 618px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07-1.png"><img aria-describedby="caption-attachment-2568" loading="lazy" class="size-full wp-image-2568" src="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07-1.png" alt="tvheadend - setup finished" width="608" height="263" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07-1.png 608w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07-1-150x65.png 150w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07-1-300x130.png 300w" sizes="(max-width: 608px) 100vw, 608px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07.png"><img aria-describedby="caption-attachment-2568" loading="lazy" class="size-full wp-image-2568" src="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07.png" alt="tvheadend - setup finished" width="608" height="263" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07.png 608w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07.png 150w, http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07.png 300w" sizes="(max-width: 608px) 100vw, 608px" /></a>
   
   <p id="caption-attachment-2568" class="wp-caption-text">
     tvheadend &#8211; setup finished
@@ -521,7 +521,7 @@ For example:
 
 ![][21] The tv guide seems to be still using non-utf8 characters. This is still an open issue and I have not yet figured out a way to solve the issue:
 
-[<img loading="lazy" class="size-full wp-image-2569 aligncenter" src="http://www.end2endzone.com/wp-content/uploads/2021/03/EPG-utf-8-bug.png" alt="" width="193" height="293" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/EPG-utf-8-bug.png 193w, http://www.end2endzone.com/wp-content/uploads/2021/03/EPG-utf-8-bug-99x150.png 99w" sizes="(max-width: 193px) 100vw, 193px" />][22] 
+[<img loading="lazy" class="size-full wp-image-2569 aligncenter" src="http://www.end2endzone.com/wp-content/uploads/2021/03/EPG-utf-8-bug.png" alt="" width="193" height="293" srcset="http://www.end2endzone.com/wp-content/uploads/2021/03/EPG-utf-8-bug.png 193w, http://www.end2endzone.com/wp-content/uploads/2021/03/EPG-utf-8-bug.png 99w" sizes="(max-width: 193px) 100vw, 193px" />][22] 
 
 ## <span id="Configure_Kodi_to_connect_to_tvheadend">Configure Kodi to connect to tvheadend</span>
 

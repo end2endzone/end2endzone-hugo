@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2017-05-21T15:26:00+00:00
 url: /assemblage-du-planeur-radian-pro/
-featured_image: /wp-content/uploads/2017/05/Assemblage-du-planeur-Radian-Pro-Featured-image-672x378.jpg
+featured_image: /wp-content/uploads/2017/05/Assemblage-du-planeur-Radian-Pro-Featured-image.jpg
 hits:
   - 221
 categories:

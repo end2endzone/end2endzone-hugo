@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2016-03-26T00:23:05+00:00
 url: /bitreader-an-arduino-library-for-reading-writing-data-as-chunks-of-bits/
-featured_image: /wp-content/uploads/2016/03/Arduino-BitReader-library-672x378.jpg
+featured_image: /wp-content/uploads/2016/03/Arduino-BitReader-library.jpg
 Snippet Title:
   - Downloadable content
 Snippet:

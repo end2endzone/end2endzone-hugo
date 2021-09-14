@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2014-09-12T21:44:59+00:00
 url: /the-hobby-zone-super-cub-lp-rtf-a-good-beginners-rc-plane/
-featured_image: /wp-content/uploads/2014/09/DSC03430-672x378.jpg
+featured_image: /wp-content/uploads/2014/09/DSC03430.jpg
 hits:
   - 294
 categories:

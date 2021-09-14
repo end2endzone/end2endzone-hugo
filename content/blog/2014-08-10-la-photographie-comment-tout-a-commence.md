@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2014-08-10T21:19:14+00:00
 url: /la-photographie-comment-tout-a-commence/
-featured_image: /wp-content/uploads/2014/08/Rocher-Percé-672x504.jpg
+featured_image: /wp-content/uploads/2014/08/Rocher-Percé.jpg
 hits:
   - 55
 english_post_id:

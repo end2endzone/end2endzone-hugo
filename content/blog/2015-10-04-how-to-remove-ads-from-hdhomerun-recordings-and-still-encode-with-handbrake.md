@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-10-04T20:41:01+00:00
 url: /how-to-remove-ads-from-hdhomerun-recordings-and-still-encode-with-handbrake/
-featured_image: /wp-content/uploads/2015/10/Remove-ads-from-HDHomerun-recording-featured-image-672x378.jpg
+featured_image: /wp-content/uploads/2015/10/Remove-ads-from-HDHomerun-recording-featured-image.jpg
 hits:
   - 3885
 categories:
@@ -57,7 +57,7 @@ This plugin allows reading files that are not AVI and works perfectly with Montr
 ## <span id="Open_video_file_in_Virtualdub">Open video file in Virtualdub</span>
 
 <div id="attachment_1157" style="width: 977px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg"><img aria-describedby="caption-attachment-1157" loading="lazy" class="wp-image-1157 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg" alt="VirtualDub default video" width="967" height="492" srcset="http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg 967w, http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video-150x76.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video-300x153.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video-672x342.jpg 672w" sizes="(max-width: 967px) 100vw, 967px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg"><img aria-describedby="caption-attachment-1157" loading="lazy" class="wp-image-1157 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg" alt="VirtualDub default video" width="967" height="492" srcset="http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg 967w, http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg 672w" sizes="(max-width: 967px) 100vw, 967px" /></a>
   
   <p id="caption-attachment-1157" class="wp-caption-text">
     VirtualDub default video
@@ -91,7 +91,7 @@ Virtualdub is the best video editing application I know. It support video resizi
   Click on <em>Edit</em> menu and select <em>Set Selection End</em> to mark the end of the ad. You can also press the <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg"><img loading="lazy" class="alignnone size-full wp-image-1160" src="http://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg" alt="VirtualDub Set Selection End" width="22" height="22" /></a> button.
 </li>
   1. This will highlight the area that will be cut out of the final video: <div id="attachment_1162" style="width: 436px" class="wp-caption alignnone">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg"><img aria-describedby="caption-attachment-1162" loading="lazy" class="size-full wp-image-1162" src="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg" alt="Virtualdub Selection" width="426" height="103" srcset="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg 426w, http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection-150x36.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection-300x73.jpg 300w" sizes="(max-width: 426px) 100vw, 426px" /></a>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg"><img aria-describedby="caption-attachment-1162" loading="lazy" class="size-full wp-image-1162" src="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg" alt="Virtualdub Selection" width="426" height="103" srcset="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg 426w, http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg 300w" sizes="(max-width: 426px) 100vw, 426px" /></a>
       
       <p id="caption-attachment-1162" class="wp-caption-text">
         Virtualdub Selection
@@ -106,7 +106,7 @@ Virtualdub is the best video editing application I know. It support video resizi
 You need to select an appropriate video codec for saving the temporary file. You may be aware that most video codec makes approximation and even tries to encode &#8220;movement&#8221; in the stream to maximize compression. However, they loose quality (some less than other) during each encoding. To prevent any quality loss, a lossless video codec must be selected. As it&#8217;s name implies, the Lagarith video codec is lossless which means that it does not loose quality each time you re-encode a new video.
 
 <div id="attachment_1163" style="width: 551px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg"><img aria-describedby="caption-attachment-1163" loading="lazy" class="wp-image-1163 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg" alt="Virtualdub Lagarith Lossless Video Codec Selection" width="541" height="318" srcset="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg 541w, http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection-150x88.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection-300x176.jpg 300w" sizes="(max-width: 541px) 100vw, 541px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg"><img aria-describedby="caption-attachment-1163" loading="lazy" class="wp-image-1163 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg" alt="Virtualdub Lagarith Lossless Video Codec Selection" width="541" height="318" srcset="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg 541w, http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg 300w" sizes="(max-width: 541px) 100vw, 541px" /></a>
   
   <p id="caption-attachment-1163" class="wp-caption-text">
     Virtualdub Lagarith Lossless Video Codec Selection
@@ -129,7 +129,7 @@ There is no need to use any compression codec for the audio. A typical TV show i
 ## <span id="Save_a_temporary_file">Save a temporary file</span>
 
 <div id="attachment_1164" style="width: 313px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-encoding.jpg"><img aria-describedby="caption-attachment-1164" loading="lazy" class="size-full wp-image-1164" src="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-encoding.jpg" alt="Virtualdub encoding" width="303" height="368" srcset="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-encoding.jpg 303w, http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-encoding-124x150.jpg 124w, http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-encoding-247x300.jpg 247w" sizes="(max-width: 303px) 100vw, 303px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-encoding.jpg"><img aria-describedby="caption-attachment-1164" loading="lazy" class="size-full wp-image-1164" src="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-encoding.jpg" alt="Virtualdub encoding" width="303" height="368" srcset="http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-encoding.jpg 303w, http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-encoding.jpg 124w, http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-encoding.jpg 247w" sizes="(max-width: 303px) 100vw, 303px" /></a>
   
   <p id="caption-attachment-1164" class="wp-caption-text">
     Virtualdub encoding
@@ -148,7 +148,7 @@ There is no need to use any compression codec for the audio. A typical TV show i
 Now you got a nice TV show episode without any ads. Just open the file in Handbrake and encode using your favorite video parameters.
 
 <div id="attachment_1168" style="width: 1025px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg"><img aria-describedby="caption-attachment-1168" loading="lazy" class="wp-image-1168 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg" alt="Handbrake video settings" width="1015" height="675" srcset="http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg 1015w, http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings-672x447.jpg 672w" sizes="(max-width: 1015px) 100vw, 1015px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg"><img aria-describedby="caption-attachment-1168" loading="lazy" class="wp-image-1168 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg" alt="Handbrake video settings" width="1015" height="675" srcset="http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg 1015w, http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg 672w" sizes="(max-width: 1015px) 100vw, 1015px" /></a>
   
   <p id="caption-attachment-1168" class="wp-caption-text">
     Handbrake video settings

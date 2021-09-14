@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2017-05-28T21:06:45+00:00
 url: /libvariant-a-c-library-which-encapsulate-any-value-of-variant-types/
-featured_image: /wp-content/uploads/2016/10/libVariant-cplusplus-library-672x378.jpg
+featured_image: /wp-content/uploads/2016/10/libVariant-cplusplus-library.jpg
 Snippet Title:
   - Downloadable content
 Snippet:

@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2014-12-07T06:49:09+00:00
 url: /how-to-photograph-fireworks-with-a-dslr-camera/
-featured_image: /wp-content/uploads/2014/11/How-to-photograph-fireworks-with-a-DSLR-camera-featured-672x378.jpg
+featured_image: /wp-content/uploads/2014/11/How-to-photograph-fireworks-with-a-DSLR-camera-featured.jpg
 hits:
   - 368
 categories:
@@ -43,7 +43,7 @@ Before ever start looking for the perfect holiday to go outside on a hunt, you n
 ### <span id="Tripod">Tripod</span>
 
 <div id="attachment_544" style="width: 249px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-544" loading="lazy" class="wp-image-544 size-medium" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Manfrotto-190XPROB-Tripod-239x300.jpg" alt="Manfrotto 190XPROB Tripod" width="239" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Manfrotto-190XPROB-Tripod-239x300.jpg 239w, http://www.end2endzone.com/wp-content/uploads/2014/12/Manfrotto-190XPROB-Tripod-119x150.jpg 119w, http://www.end2endzone.com/wp-content/uploads/2014/12/Manfrotto-190XPROB-Tripod-535x672.jpg 535w, http://www.end2endzone.com/wp-content/uploads/2014/12/Manfrotto-190XPROB-Tripod.jpg 637w" sizes="(max-width: 239px) 100vw, 239px" />
+  <img aria-describedby="caption-attachment-544" loading="lazy" class="wp-image-544 size-medium" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Manfrotto-190XPROB-Tripod.jpg" alt="Manfrotto 190XPROB Tripod" width="239" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Manfrotto-190XPROB-Tripod.jpg 239w, http://www.end2endzone.com/wp-content/uploads/2014/12/Manfrotto-190XPROB-Tripod.jpg 119w, http://www.end2endzone.com/wp-content/uploads/2014/12/Manfrotto-190XPROB-Tripod.jpg 535w, http://www.end2endzone.com/wp-content/uploads/2014/12/Manfrotto-190XPROB-Tripod.jpg 637w" sizes="(max-width: 239px) 100vw, 239px" />
   
   <p id="caption-attachment-544" class="wp-caption-text">
     Manfrotto 190XPROB Tripod
@@ -57,7 +57,7 @@ On every perfect firework picture, you can see the light trail of the flare goin
 ### <span id="Remote_shutter_release"><span style="line-height: 1.5;">Remote shutter release</span></span>
 
 <div id="attachment_546" style="width: 310px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-546" loading="lazy" class="wp-image-546 size-medium" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Remote-Switch-RS-60E3-300x256.jpg" alt="Canon Remote Switch RS-60E3" width="300" height="256" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Remote-Switch-RS-60E3-300x256.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Remote-Switch-RS-60E3-150x128.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Remote-Switch-RS-60E3-672x573.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Remote-Switch-RS-60E3.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" />
+  <img aria-describedby="caption-attachment-546" loading="lazy" class="wp-image-546 size-medium" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Remote-Switch-RS-60E3.jpg" alt="Canon Remote Switch RS-60E3" width="300" height="256" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Remote-Switch-RS-60E3.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Remote-Switch-RS-60E3.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Remote-Switch-RS-60E3.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Remote-Switch-RS-60E3.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" />
   
   <p id="caption-attachment-546" class="wp-caption-text">
     Canon Remote Switch RS-60E3
@@ -77,7 +77,7 @@ A remote trigger is the only way to open the shutter on time (just before a fire
 ### <span id="Flashlight">Flashlight</span>
 
 <div id="attachment_548" style="width: 484px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-548" loading="lazy" class="wp-image-548 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/12/9-LED-Mini-Flashlight-1024x576.jpg" alt="9 LED Mini Flashlight" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/9-LED-Mini-Flashlight-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/9-LED-Mini-Flashlight-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/9-LED-Mini-Flashlight-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/9-LED-Mini-Flashlight-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/9-LED-Mini-Flashlight.jpg 1200w" sizes="(max-width: 474px) 100vw, 474px" />
+  <img aria-describedby="caption-attachment-548" loading="lazy" class="wp-image-548 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/12/9-LED-Mini-Flashlight.jpg" alt="9 LED Mini Flashlight" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/9-LED-Mini-Flashlight.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/9-LED-Mini-Flashlight.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/9-LED-Mini-Flashlight.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/9-LED-Mini-Flashlight.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/9-LED-Mini-Flashlight.jpg 1200w" sizes="(max-width: 474px) 100vw, 474px" />
   
   <p id="caption-attachment-548" class="wp-caption-text">
     9 LED Mini Flashlight
@@ -89,7 +89,7 @@ It is going to get dark pretty quickly. It is a good idea to bring with yourself
 ### <span id="Masking_tape"><span style="line-height: 1.5;">Masking tape</span></span>
 
 <div id="attachment_572" style="width: 484px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-572" loading="lazy" class="size-large wp-image-572" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting-1024x663.jpg" alt="Scotch Greener Masking Tape Basic Painting" width="474" height="306" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting-1024x663.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting-150x97.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting-300x194.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting-672x435.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting.jpg 1627w" sizes="(max-width: 474px) 100vw, 474px" />
+  <img aria-describedby="caption-attachment-572" loading="lazy" class="size-large wp-image-572" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting.jpg" alt="Scotch Greener Masking Tape Basic Painting" width="474" height="306" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting.jpg 1627w" sizes="(max-width: 474px) 100vw, 474px" />
   
   <p id="caption-attachment-572" class="wp-caption-text">
     Scotch Greener Masking Tape Basic Painting
@@ -103,7 +103,7 @@ Masking tape is optional but having some can be useful. You can also use it to t
 ### <span id="Filters">Filters</span>
 
 <div id="attachment_550" style="width: 326px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-550" loading="lazy" class="wp-image-550 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Hoya-58.0mm-PL-CIR-filter.jpg" alt="Hoya 58.0mm PL-CIR filter" width="316" height="178" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Hoya-58.0mm-PL-CIR-filter.jpg 316w, http://www.end2endzone.com/wp-content/uploads/2014/12/Hoya-58.0mm-PL-CIR-filter-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Hoya-58.0mm-PL-CIR-filter-300x169.jpg 300w" sizes="(max-width: 316px) 100vw, 316px" />
+  <img aria-describedby="caption-attachment-550" loading="lazy" class="wp-image-550 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Hoya-58.0mm-PL-CIR-filter.jpg" alt="Hoya 58.0mm PL-CIR filter" width="316" height="178" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Hoya-58.0mm-PL-CIR-filter.jpg 316w, http://www.end2endzone.com/wp-content/uploads/2014/12/Hoya-58.0mm-PL-CIR-filter.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Hoya-58.0mm-PL-CIR-filter.jpg 300w" sizes="(max-width: 316px) 100vw, 316px" />
   
   <p id="caption-attachment-550" class="wp-caption-text">
     Hoya 58.0mm PL-CIR filter
@@ -117,7 +117,7 @@ Polarized filters are also not required. There is no need to filter out a specif
 ### <span id="Flash"><span style="line-height: 1.5;">Flash</span></span>
 
 <div id="attachment_568" style="width: 255px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-568" loading="lazy" class="size-full wp-image-568" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Speedlite-Flash-600EX-RT.jpg" alt="Canon Speedlite Flash (600EX-RT)" width="245" height="463" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Speedlite-Flash-600EX-RT.jpg 245w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Speedlite-Flash-600EX-RT-79x150.jpg 79w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Speedlite-Flash-600EX-RT-159x300.jpg 159w" sizes="(max-width: 245px) 100vw, 245px" />
+  <img aria-describedby="caption-attachment-568" loading="lazy" class="size-full wp-image-568" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Speedlite-Flash-600EX-RT.jpg" alt="Canon Speedlite Flash (600EX-RT)" width="245" height="463" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Speedlite-Flash-600EX-RT.jpg 245w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Speedlite-Flash-600EX-RT.jpg 79w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Speedlite-Flash-600EX-RT.jpg 159w" sizes="(max-width: 245px) 100vw, 245px" />
   
   <p id="caption-attachment-568" class="wp-caption-text">
     Canon Speedlite Flash (600EX-RT)
@@ -129,7 +129,7 @@ A flash is also not really required. There is no object close enough that would 
 ### <span id="Expensive_lenses"><span style="line-height: 1.5;">Expensive lenses</span></span>
 
 <div id="attachment_549" style="width: 454px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-549" loading="lazy" class="wp-image-549 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-EF-70-200mm-f2.8L-USM-Standard-Lens.jpg" alt="Canon EF 70-200mm f2.8L USM Standard Lens" width="444" height="250" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-EF-70-200mm-f2.8L-USM-Standard-Lens.jpg 444w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-EF-70-200mm-f2.8L-USM-Standard-Lens-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-EF-70-200mm-f2.8L-USM-Standard-Lens-300x169.jpg 300w" sizes="(max-width: 444px) 100vw, 444px" />
+  <img aria-describedby="caption-attachment-549" loading="lazy" class="wp-image-549 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-EF-70-200mm-f2.8L-USM-Standard-Lens.jpg" alt="Canon EF 70-200mm f2.8L USM Standard Lens" width="444" height="250" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-EF-70-200mm-f2.8L-USM-Standard-Lens.jpg 444w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-EF-70-200mm-f2.8L-USM-Standard-Lens.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-EF-70-200mm-f2.8L-USM-Standard-Lens.jpg 300w" sizes="(max-width: 444px) 100vw, 444px" />
   
   <p id="caption-attachment-549" class="wp-caption-text">
     Canon EF 70-200mm f2.8L USM Standard Lens
@@ -169,7 +169,7 @@ Avoid light sources like street lights or the hot dog stand. Since you are takin
 ## <span id="Focus_to_infinity"><span style="line-height: 1.5;">Focus to infinity</span></span>
 
 <div id="attachment_552" style="width: 484px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-552" loading="lazy" class="wp-image-552 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Focus-on-infinity-1024x576.jpg" alt="Focus on infinity" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Focus-on-infinity-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/Focus-on-infinity-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Focus-on-infinity-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Focus-on-infinity-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/Focus-on-infinity.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" />
+  <img aria-describedby="caption-attachment-552" loading="lazy" class="wp-image-552 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Focus-on-infinity.jpg" alt="Focus on infinity" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Focus-on-infinity.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/Focus-on-infinity.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Focus-on-infinity.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Focus-on-infinity.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/Focus-on-infinity.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" />
   
   <p id="caption-attachment-552" class="wp-caption-text">
     Focus on infinity
@@ -185,7 +185,7 @@ The best method for adjusting your focus is still to search for a far away objec
 ## <span id="Set_camera_in_manual_mode"><span style="line-height: 1.5;">Set camera in manual mode</span></span>
 
 <div id="attachment_553" style="width: 484px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-553" loading="lazy" class="wp-image-553 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual-1024x576.jpg" alt="Canon SL1 Mode Dial to Manual" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" />
+  <img aria-describedby="caption-attachment-553" loading="lazy" class="wp-image-553 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual.jpg" alt="Canon SL1 Mode Dial to Manual" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" />
   
   <p id="caption-attachment-553" class="wp-caption-text">
     Canon SL1 Mode Dial to Manual
@@ -197,7 +197,7 @@ The only mode that can be used for photographing fireworks is the manual mode. A
 ## <span id="Low_ISO"><span style="line-height: 1.5;">Low ISO</span></span>
 
 <div id="attachment_556" style="width: 1010px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-556" loading="lazy" class="wp-image-556 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-ISO-Selection.jpg" alt="Canon SL1 ISO Selection" width="1000" height="771" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-ISO-Selection.jpg 1000w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-ISO-Selection-150x116.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-ISO-Selection-300x231.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-ISO-Selection-672x518.jpg 672w" sizes="(max-width: 1000px) 100vw, 1000px" />
+  <img aria-describedby="caption-attachment-556" loading="lazy" class="wp-image-556 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-ISO-Selection.jpg" alt="Canon SL1 ISO Selection" width="1000" height="771" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-ISO-Selection.jpg 1000w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-ISO-Selection.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-ISO-Selection.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-ISO-Selection.jpg 672w" sizes="(max-width: 1000px) 100vw, 1000px" />
   
   <p id="caption-attachment-556" class="wp-caption-text">
     Canon SL1 ISO Selection
@@ -213,7 +213,7 @@ In case your picture are underexposed, do not increase ISO to 200 but instead us
 ## <span id="Use_a_small_aperture"><span style="line-height: 1.5;">Use a small aperture</span></span>
 
 <div id="attachment_555" style="width: 1010px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-555" loading="lazy" class="wp-image-555 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-aperture-selection.jpg" alt="Canon SL1 aperture selection" width="1000" height="771" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-aperture-selection.jpg 1000w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-aperture-selection-150x116.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-aperture-selection-300x231.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-aperture-selection-672x518.jpg 672w" sizes="(max-width: 1000px) 100vw, 1000px" />
+  <img aria-describedby="caption-attachment-555" loading="lazy" class="wp-image-555 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-aperture-selection.jpg" alt="Canon SL1 aperture selection" width="1000" height="771" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-aperture-selection.jpg 1000w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-aperture-selection.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-aperture-selection.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-aperture-selection.jpg 672w" sizes="(max-width: 1000px) 100vw, 1000px" />
   
   <p id="caption-attachment-555" class="wp-caption-text">
     Canon SL1 aperture selection
@@ -225,7 +225,7 @@ The fireworks are bright enough in the sky to let you use a narrow aperture&nbsp
 ## <span id="Set_camera_to_Bulb_mode"><span style="line-height: 1.5;">Set camera to Bulb mode</span></span>
 
 <div id="attachment_559" style="width: 1010px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-559" loading="lazy" class="wp-image-559 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection.jpg" alt="Canon SL1 Bulb Selection" width="1000" height="771" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection.jpg 1000w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection-150x116.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection-300x231.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection-672x518.jpg 672w" sizes="(max-width: 1000px) 100vw, 1000px" />
+  <img aria-describedby="caption-attachment-559" loading="lazy" class="wp-image-559 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection.jpg" alt="Canon SL1 Bulb Selection" width="1000" height="771" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection.jpg 1000w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection.jpg 672w" sizes="(max-width: 1000px) 100vw, 1000px" />
   
   <p id="caption-attachment-559" class="wp-caption-text">
     Canon SL1 Bulb Selection
@@ -235,7 +235,7 @@ The fireworks are bright enough in the sky to let you use a narrow aperture&nbsp
 Most cameras now have a BULB mode. Bulb mode is a perfect candidate for this task. It allows you to have a variable shutter speed for each shots. In bulb mode, pressing the shutter button will open the shutter to start capturing light and will leave the shutter open as long as you press the shutter button. This is pretty convenient when you are trying to capture an event that you don&#8217;t know how long it will last.
 
 <div id="attachment_558" style="width: 1010px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-558" loading="lazy" class="wp-image-558 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection.jpg" alt="Canon SL1 Bulb Dial Selection" width="1000" height="771" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection.jpg 1000w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection-150x116.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection-300x231.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection-672x518.jpg 672w" sizes="(max-width: 1000px) 100vw, 1000px" />
+  <img aria-describedby="caption-attachment-558" loading="lazy" class="wp-image-558 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection.jpg" alt="Canon SL1 Bulb Dial Selection" width="1000" height="771" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection.jpg 1000w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection.jpg 672w" sizes="(max-width: 1000px) 100vw, 1000px" />
   
   <p id="caption-attachment-558" class="wp-caption-text">
     Canon SL1 Bulb Dial Selection
@@ -247,7 +247,7 @@ This mode is usually found at the end of your shutter speed range (slowest shutt
 ## <span id="Turn_off_ImagenbspstabilizationnbspIS"><span style="line-height: 1.5;">Turn off Image&nbsp;</span><span style="line-height: 36px;">stabilization</span><span style="line-height: 1.5;">&nbsp;(IS)</span></span>
 
 <div id="attachment_560" style="width: 510px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-560" loading="lazy" class="wp-image-560 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg" alt="Image Stabilizer Turned off" width="500" height="281" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg 500w, http://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off-300x169.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
+  <img aria-describedby="caption-attachment-560" loading="lazy" class="wp-image-560 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg" alt="Image Stabilizer Turned off" width="500" height="281" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg 500w, http://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
   
   <p id="caption-attachment-560" class="wp-caption-text">
     Image Stabilizer Turned off
@@ -263,7 +263,7 @@ On Canon lens, the IS switch is usually located on the lens itself.
 ## <span id="Set_your_camera_to_RAW_mode"><span style="line-height: 1.5;">Set your camera to RAW mode</span></span>
 
 <div id="attachment_564" style="width: 1010px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-564" loading="lazy" class="wp-image-564 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/RAW-image-quality.jpg" alt="RAW image quality" width="1000" height="771" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/RAW-image-quality.jpg 1000w, http://www.end2endzone.com/wp-content/uploads/2014/12/RAW-image-quality-150x116.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/RAW-image-quality-300x231.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/RAW-image-quality-672x518.jpg 672w" sizes="(max-width: 1000px) 100vw, 1000px" />
+  <img aria-describedby="caption-attachment-564" loading="lazy" class="wp-image-564 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/RAW-image-quality.jpg" alt="RAW image quality" width="1000" height="771" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/RAW-image-quality.jpg 1000w, http://www.end2endzone.com/wp-content/uploads/2014/12/RAW-image-quality.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/RAW-image-quality.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/RAW-image-quality.jpg 672w" sizes="(max-width: 1000px) 100vw, 1000px" />
   
   <p id="caption-attachment-564" class="wp-caption-text">
     RAW image quality
@@ -283,7 +283,7 @@ However, if you are lucky and get the perfect ISO-aperture-shutter-speed combina
 # <span id="Wait_until_the_show_begins"><span style="line-height: 1.5;">Wait until the show begins</span></span>
 
 <div id="attachment_570" style="width: 484px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-570" loading="lazy" class="size-large wp-image-570" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Kaïn-célèbre-la-Fête-nationale-à-Saint-Jérôme-1024x576.jpg" alt="Kaïn célèbre la Fête nationale à Saint-Jérôme" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Kaïn-célèbre-la-Fête-nationale-à-Saint-Jérôme-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/12/Kaïn-célèbre-la-Fête-nationale-à-Saint-Jérôme-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Kaïn-célèbre-la-Fête-nationale-à-Saint-Jérôme-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Kaïn-célèbre-la-Fête-nationale-à-Saint-Jérôme-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/12/Kaïn-célèbre-la-Fête-nationale-à-Saint-Jérôme.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" />
+  <img aria-describedby="caption-attachment-570" loading="lazy" class="size-large wp-image-570" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Kaïn-célèbre-la-Fête-nationale-à-Saint-Jérôme.jpg" alt="Kaïn célèbre la Fête nationale à Saint-Jérôme" width="474" height="266" />
   
   <p id="caption-attachment-570" class="wp-caption-text">
     Kaïn célèbre la Fête nationale à Saint-Jérôme
@@ -311,7 +311,7 @@ During the firework show, the intensity or size of the fireworks will probably c
 Leave the ISO setting to 100.
 
 <div id="attachment_563" style="width: 1010px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-563" loading="lazy" class="wp-image-563 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial.jpg" alt="Quick Aperture Exposure compensation button With Main Dial" width="1000" height="771" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial.jpg 1000w, http://www.end2endzone.com/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial-150x116.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial-300x231.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial-672x518.jpg 672w" sizes="(max-width: 1000px) 100vw, 1000px" />
+  <img aria-describedby="caption-attachment-563" loading="lazy" class="wp-image-563 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial.jpg" alt="Quick Aperture Exposure compensation button With Main Dial" width="1000" height="771" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial.jpg 1000w, http://www.end2endzone.com/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial.jpg 672w" sizes="(max-width: 1000px) 100vw, 1000px" />
   
   <p id="caption-attachment-563" class="wp-caption-text">
     Quick Aperture Exposure compensation button With Main Dial
@@ -333,7 +333,7 @@ If you are a little more advanced, you can try to photograph the surrounding env
 # <span id="Save_for_the_finale"><span style="font-size: 26px; font-weight: bold; line-height: 1.3846153846;">Save for the finale</span></span>
 
 <div id="attachment_562" style="width: 472px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-562" loading="lazy" class="wp-image-562 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Battery-check-2.jpg" alt="Checking the Battery Level" width="462" height="129" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Battery-check-2.jpg 462w, http://www.end2endzone.com/wp-content/uploads/2014/12/Battery-check-2-150x42.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Battery-check-2-300x84.jpg 300w" sizes="(max-width: 462px) 100vw, 462px" />
+  <img aria-describedby="caption-attachment-562" loading="lazy" class="wp-image-562 size-full" src="http://www.end2endzone.com/wp-content/uploads/2014/12/Battery-check-2.jpg" alt="Checking the Battery Level" width="462" height="129" srcset="http://www.end2endzone.com/wp-content/uploads/2014/12/Battery-check-2.jpg 462w, http://www.end2endzone.com/wp-content/uploads/2014/12/Battery-check-2.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/12/Battery-check-2.jpg 300w" sizes="(max-width: 462px) 100vw, 462px" />
   
   <p id="caption-attachment-562" class="wp-caption-text">
     Checking the Battery Level

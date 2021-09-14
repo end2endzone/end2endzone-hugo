@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2014-09-15T00:27:05+00:00
 url: /final-flight-of-a-super-cub-lp/
-featured_image: /wp-content/uploads/2014/09/DSC034641-672x504.jpg
+featured_image: /wp-content/uploads/2014/09/DSC034641.jpg
 hits:
   - 299
 categories:
@@ -54,7 +54,7 @@ Here the description of the damage:
 Here is some pictures of the wreckage:
 
 <div id="attachment_387" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg"><img aria-describedby="caption-attachment-387" loading="lazy" class="size-large wp-image-387" src="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641-1024x768.jpg" alt="Super Cub LP Crash (wings)" width="474" height="355" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641-1024x768.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641-150x113.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641-300x225.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg 1440w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641-672x504.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg"><img aria-describedby="caption-attachment-387" loading="lazy" class="size-large wp-image-387" src="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg" alt="Super Cub LP Crash (wings)" width="474" height="355" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg 1440w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-387" class="wp-caption-text">
     Super Cub LP Crash (wings)
@@ -62,7 +62,7 @@ Here is some pictures of the wreckage:
 </div>
 
 <div id="attachment_393" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg"><img aria-describedby="caption-attachment-393" loading="lazy" class="size-large wp-image-393" src="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466-1024x768.jpg" alt="Super Cub LP Crash (nose smashed)" width="474" height="355" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466-1024x768.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466-150x113.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466-300x225.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg 1440w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466-672x504.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg"><img aria-describedby="caption-attachment-393" loading="lazy" class="size-large wp-image-393" src="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg" alt="Super Cub LP Crash (nose smashed)" width="474" height="355" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg 1440w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-393" class="wp-caption-text">
     Super Cub LP Crash (nose smashed)
@@ -70,7 +70,7 @@ Here is some pictures of the wreckage:
 </div>
 
 <div id="attachment_394" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg"><img aria-describedby="caption-attachment-394" loading="lazy" class="size-large wp-image-394" src="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468-1024x768.jpg" alt="Super Cub LP Crash (engine smashed)" width="474" height="355" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468-1024x768.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468-150x113.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468-300x225.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg 1440w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468-672x504.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg"><img aria-describedby="caption-attachment-394" loading="lazy" class="size-large wp-image-394" src="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg" alt="Super Cub LP Crash (engine smashed)" width="474" height="355" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg 1440w, http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-394" class="wp-caption-text">
     Super Cub LP Crash (engine smashed)

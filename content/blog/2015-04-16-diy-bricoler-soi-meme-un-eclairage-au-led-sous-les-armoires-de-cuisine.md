@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-04-16T17:11:33+00:00
 url: /diy-bricoler-soi-meme-un-eclairage-au-led-sous-les-armoires-de-cuisine/
-featured_image: /wp-content/uploads/2014/08/IMG_6846-672x448.jpg
+featured_image: /wp-content/uploads/2014/08/IMG_6846.jpg
 hits:
   - 9613
 english_post_id:
@@ -122,7 +122,7 @@ Le design est simple et n&#8217;offre pas vraiment de place pour avoir différen
 
 Tenter de comprendre les connecteurs de l&#8217;alimentation m&#8217;a laissé perplexe. Je dois admettre que j&#8217;ai dû m&#8217;en remettre à chercher sur Internet pour identifier certaines connexions.
 
-[<img loading="lazy" class="aligncenter wp-image-252 size-medium" src="http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270-300x176.jpg" alt="IMG_0270" width="300" height="176" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270-300x176.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270-150x88.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270.jpg 644w" sizes="(max-width: 300px) 100vw, 300px" />][7]
+[<img loading="lazy" class="aligncenter wp-image-252 size-medium" src="http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270.jpg" alt="IMG_0270" width="300" height="176" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270.jpg 644w" sizes="(max-width: 300px) 100vw, 300px" />][7]
 
 Les deux premières connexions identifiées en rouges sont pour les fils &#8220;Vivant&#8221; (Live) et &#8220;neutre&#8221; (Neutral). Il s&#8217;agit des connexions pour la puissance d&#8217;entrée (120v). Le suivant est une connexion de mise à la terre pour le courant murale (si disponible). Comme l&#8217;image ci-dessus le montre, l&#8217;alimentation peut être alimenté sans mise à la terre, mais il est préférable de protéger l&#8217;unité.
 
@@ -136,7 +136,7 @@ Le raccordement du cordon d&#8217;alimentation sur le bloc d&#8217;alimentation 
 
 ## <span id="Les_connexions_augradateur">Les connexions au gradateur</span>
 
-[<img loading="lazy" class="aligncenter size-full wp-image-277" src="http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg" alt="Dimmer2" width="314" height="338" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg 314w, http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2-139x150.jpg 139w, http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2-279x300.jpg 279w" sizes="(max-width: 314px) 100vw, 314px" />][8]Le gradateur dispose de 2 connexions d&#8217;entrée et deux connexions de sortie. Les connexions d&#8217;entrée sont étiquetés comme &#8220;In V- et In V+ &#8221; et les connexions de sortie sont étiquetés comme &#8220;Out V+ et V-&#8220;. Il suffit de connecter une alimentation 12 volts sur la borne d&#8217;entrée et vous obtenez un &#8220;pulse&#8221; (pulsation) variable de 12 volts à la sortie. Pour le reste, je crois que c&#8217;est assez évident et ne nécessite pas d&#8217;explication.
+[<img loading="lazy" class="aligncenter size-full wp-image-277" src="http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg" alt="Dimmer2" width="314" height="338" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg 314w, http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg 139w, http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg 279w" sizes="(max-width: 314px) 100vw, 314px" />][8]Le gradateur dispose de 2 connexions d&#8217;entrée et deux connexions de sortie. Les connexions d&#8217;entrée sont étiquetés comme &#8220;In V- et In V+ &#8221; et les connexions de sortie sont étiquetés comme &#8220;Out V+ et V-&#8220;. Il suffit de connecter une alimentation 12 volts sur la borne d&#8217;entrée et vous obtenez un &#8220;pulse&#8221; (pulsation) variable de 12 volts à la sortie. Pour le reste, je crois que c&#8217;est assez évident et ne nécessite pas d&#8217;explication.
 
 ## <span id="Tester_le_tout">Tester le tout</span>
 
@@ -153,7 +153,7 @@ Branchez le cordon d&#8217;alimentation dans le mur, allumez l&#8217;interrupteu
 ## <span id="Choisirou_mettre_les_composants">Choisir où mettre les composants</span>
 
 <center>
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072-300x300.jpg" alt="DSC04072" width="300" height="300" /></a> <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068-300x300.jpg" alt="DSC04068" width="300" height="300" /></a> <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060-300x300.jpg" alt="DSC04060" width="300" height="300" /></a> <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062-300x300.jpg" alt="DSC04062" width="300" height="300" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg" alt="DSC04072" width="300" height="300" /></a> <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg" alt="DSC04068" width="300" height="300" /></a> <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg" alt="DSC04060" width="300" height="300" /></a> <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg" alt="DSC04062" width="300" height="300" /></a>
 </center>
 
 Je voulais placer l&#8217;interrupteur à un endroit où il peut être atteint facilement avec les doigts mais je voulais aussi le que le commutateur soit invisible à l&#8217;œil. J&#8217;ai décidé d&#8217;installer le commutateur sous les armoires, mais caché derrière les moulures avant. Pour les mêmes raisons, le gradateur est situé au même endroit. J&#8217;ai utilisé du ruban adhésif double face pour coller le gradateur et l&#8217;interrupteur d&#8217;alimentation en place. Le ruban adhésif est assez fort pour garder le l&#8217;interrupteur en place même lorsque quelqu&#8217;un est en train d&#8217;allumer ou d&#8217;éteindre le commutateur.
@@ -162,13 +162,13 @@ J&#8217;ai aussi décidé de positionner l&#8217;alimentation sous l&#8217;armoi
 
 Voici une vue du dessous de l&#8217;armoire:
 
-[<img loading="lazy" class="aligncenter size-large wp-image-278" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-1024x768.jpg" alt="DSC04070" width="474" height="355" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-1024x768.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-150x113.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-300x225.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg 1440w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-672x504.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" />][9]
+[<img loading="lazy" class="aligncenter size-large wp-image-278" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg" alt="DSC04070" width="474" height="355" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg 1440w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" />][9]
 
 ## <span id="Installation_de_la_bande_DEL">Installation de la bande DEL</span>
 
 ### <span id="Coupage">Coupage</span>
 
-[<img loading="lazy" class="aligncenter size-full wp-image-274" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png" alt="DSC04092" width="486" height="228" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png 486w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092-150x70.png 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092-300x141.png 300w" sizes="(max-width: 486px) 100vw, 486px" />][10]
+[<img loading="lazy" class="aligncenter size-full wp-image-274" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png" alt="DSC04092" width="486" height="228" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png 486w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png 300w" sizes="(max-width: 486px) 100vw, 486px" />][10]
 
 Puisque j&#8217;ai trois armoires de cuisine, j&#8217;ai dû couper trois longueurs de bande DEL.  La bande peut être coupé en toute sécurité à tous les 3 DEL. Chaque point de coupure est identifié par les points de contact en cuivre exposés. Il suffit de couper avec des ciseaux perpendiculairement à la bande (au milieu des points de contact) en s&#8217;assurant de laisser suffisamment de cuivre de chaque côté pour bien fixer les connecteurs.
 
@@ -177,14 +177,14 @@ Utilisez un ruban à mesurer souple pour calculer la longueur de chaque section 
 ### <span id="Percage">Perçage</span>
 
 <center>
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086-225x300.jpg" alt="DSC04086" width="225" height="300" /></a> <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085-225x300.jpg" alt="DSC04085" width="225" height="300" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg" alt="DSC04086" width="225" height="300" /></a> <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg" alt="DSC04085" width="225" height="300" /></a>
 </center>
 
 Afin d&#8217;obtenir de l&#8217;électricité d&#8217;une armoire à l&#8217;autre, j&#8217;ai dû parfois percer des trous dans le fond des l&#8217;armoire. C&#8217;était nécessaire pour passer les fils dessus de la hotte de cuisine et au dessus de l&#8217;évier. C&#8217;est le seul changement intrusif que j&#8217;avais à faire pour ce projet.
 
 ### <span id="Collage">Collage</span>
 
-[<img loading="lazy" class="aligncenter wp-image-279 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084-1024x388.jpg" alt="DSC04084" width="474" height="180" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084-1024x388.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084-150x57.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084-300x114.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084-672x254.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084.jpg 1440w" sizes="(max-width: 474px) 100vw, 474px" />][11]C&#8217;est maintenant le temps de coller les DEL sur le panneau avant de chaque armoire. Le côté opposé aux DEL est collant et peut être utilisé pour coller la bande au panneau. Assurez-vous que la surface est propre et sec, puisque vous ne aurez pas plusieurs essais avant que la bande perdre son adhérence. Si la bande ne correspond pas exactement à la longueur de l&#8217;armoire, assurez-vous que vous centrez la bande pour obtenir l&#8217;éclairage désiré.
+[<img loading="lazy" class="aligncenter wp-image-279 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084.jpg" alt="DSC04084" width="474" height="180" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084.jpg 1440w" sizes="(max-width: 474px) 100vw, 474px" />][11]C&#8217;est maintenant le temps de coller les DEL sur le panneau avant de chaque armoire. Le côté opposé aux DEL est collant et peut être utilisé pour coller la bande au panneau. Assurez-vous que la surface est propre et sec, puisque vous ne aurez pas plusieurs essais avant que la bande perdre son adhérence. Si la bande ne correspond pas exactement à la longueur de l&#8217;armoire, assurez-vous que vous centrez la bande pour obtenir l&#8217;éclairage désiré.
 
 ### <span id="Connexion">Connexion</span>
 
@@ -196,7 +196,7 @@ J&#8217;ai décidé d&#8217;utiliser du mastic de fixation (de la &#8220;gommett
 
 Voici une photo du résultat final:
 
-[<img loading="lazy" class="aligncenter wp-image-263 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-1024x683.jpg" alt="IMG_6846" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-1620x1080.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-672x448.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" />][12]
+[<img loading="lazy" class="aligncenter wp-image-263 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg" alt="IMG_6846" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" />][12]
 
 # <span id="Refaire_les_choses_differemment">Refaire les choses différemment?</span>
 

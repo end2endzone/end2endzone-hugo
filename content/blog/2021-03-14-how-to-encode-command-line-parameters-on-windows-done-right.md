@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2021-03-14T14:49:47+00:00
 url: /how-to-encode-command-line-parameters-on-windows-done-right/
-featured_image: /wp-content/uploads/2017/06/How-to-encode-command-line-parameters-on-Windows-–-done-right-672x339.jpg
+featured_image: /wp-content/uploads/2017/06/How-to-encode-command-line-parameters-on-Windows-done-right.jpg
 hits:
   - 31
 categories:

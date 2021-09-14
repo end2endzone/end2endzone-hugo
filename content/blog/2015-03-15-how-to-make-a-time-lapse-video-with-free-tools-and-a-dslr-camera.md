@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-03-15T19:50:02+00:00
 url: /how-to-make-a-time-lapse-video-with-free-tools-and-a-dslr-camera/
-featured_image: /wp-content/uploads/2015/02/How-to-make-a-time-lapse-video-with-free-tools-and-a-DSLR-camera-672x378.jpg
+featured_image: /wp-content/uploads/2015/02/How-to-make-a-time-lapse-video-with-free-tools-and-a-DSLR-camera.jpg
 hits:
   - 2694
 categories:
@@ -345,7 +345,7 @@ The best way to resize your images is to use [David&#8217;s Batch Processor 1.1
 </li>
 
 <div id="attachment_776" style="width: 244px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png"><img aria-describedby="caption-attachment-776" loading="lazy" class="size-medium wp-image-776" src="http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done-234x300.png" alt="David Batch Processor Done" width="234" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done-234x300.png 234w, http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done-117x150.png 117w, http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png 400w" sizes="(max-width: 234px) 100vw, 234px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png"><img aria-describedby="caption-attachment-776" loading="lazy" class="size-medium wp-image-776" src="http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png" alt="David Batch Processor Done" width="234" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png 234w, http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png 117w, http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png 400w" sizes="(max-width: 234px) 100vw, 234px" /></a>
   
   <p id="caption-attachment-776" class="wp-caption-text">
     David Batch Processor Done
@@ -361,7 +361,7 @@ In the next sections, I will explain 2 methods that you can use to combine phot
 This sections explains how to process your captured images into a video using Windows Movie Maker.
 
 <div id="attachment_788" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg"><img aria-describedby="caption-attachment-788" loading="lazy" class="size-medium wp-image-788" src="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-300x163.jpg" alt="Windows Movie Maker screenshot" width="300" height="163" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-300x163.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-150x81.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-672x364.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg 965w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg"><img aria-describedby="caption-attachment-788" loading="lazy" class="size-medium wp-image-788" src="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg" alt="Windows Movie Maker screenshot" width="300" height="163" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg 965w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-788" class="wp-caption-text">
     Windows Movie Maker screenshot
@@ -448,7 +448,7 @@ Now that your composition is complete, save your project into an MP4 video by fo
 </li>
 
 <div id="attachment_789" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png"><img aria-describedby="caption-attachment-789" loading="lazy" class="size-medium wp-image-789" src="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed-300x120.png" alt="Windows Movie Maker Export Completed" width="300" height="120" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed-300x120.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed-150x60.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png 541w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png"><img aria-describedby="caption-attachment-789" loading="lazy" class="size-medium wp-image-789" src="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png" alt="Windows Movie Maker Export Completed" width="300" height="120" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png 541w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-789" class="wp-caption-text">
     Windows Movie Maker Export Completed
@@ -488,7 +488,7 @@ Importing your images as a video in VirtualDub is also really easy: simply follo
   5. Verify that the timeline length (in video frames) matches the total number of captured images in your project.
 
 <div id="attachment_802" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png"><img aria-describedby="caption-attachment-802" loading="lazy" class="size-medium wp-image-802" src="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing-300x135.png" alt="VirtualDub editing" width="300" height="135" srcset="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing-300x135.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing-150x67.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing-1024x460.png 1024w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing-672x302.png 672w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png 1209w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png"><img aria-describedby="caption-attachment-802" loading="lazy" class="size-medium wp-image-802" src="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png" alt="VirtualDub editing" width="300" height="135" srcset="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png 1024w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png 672w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png 1209w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-802" class="wp-caption-text">
     VirtualDub editing
@@ -541,7 +541,7 @@ If you see flickering in your video, a filter can be applied to the video to red
 </li>
 
 <div id="attachment_804" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png"><img aria-describedby="caption-attachment-804" loading="lazy" class="size-medium wp-image-804" src="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter-300x208.png" alt="VirtualDub Deflicker filter" width="300" height="208" srcset="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter-300x208.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter-150x104.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png 529w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png"><img aria-describedby="caption-attachment-804" loading="lazy" class="size-medium wp-image-804" src="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png" alt="VirtualDub Deflicker filter" width="300" height="208" srcset="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png 529w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-804" class="wp-caption-text">
     VirtualDub Deflicker filter
@@ -569,7 +569,7 @@ If you want to add fade-in or fade-off effects you can use the FadeFX filter wit
 </li>
 
 <div id="attachment_801" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png"><img aria-describedby="caption-attachment-801" loading="lazy" class="size-medium wp-image-801" src="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter-300x208.png" alt="VirtualDub Fade In Fade Out filter" width="300" height="208" srcset="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter-300x208.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter-150x104.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png 529w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png"><img aria-describedby="caption-attachment-801" loading="lazy" class="size-medium wp-image-801" src="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png" alt="VirtualDub Fade In Fade Out filter" width="300" height="208" srcset="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png 529w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-801" class="wp-caption-text">
     VirtualDub Fade In Fade Out filter
@@ -610,7 +610,7 @@ As explained in the [Lossless video codec][15] section, VirtualDub is not the be
 </li>
 
 <div id="attachment_803" style="width: 257px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png"><img aria-describedby="caption-attachment-803" loading="lazy" class="size-medium wp-image-803" src="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding-247x300.png" alt="VirtualDub encoding" width="247" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding-247x300.png 247w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding-124x150.png 124w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png 303w" sizes="(max-width: 247px) 100vw, 247px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png"><img aria-describedby="caption-attachment-803" loading="lazy" class="size-medium wp-image-803" src="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png" alt="VirtualDub encoding" width="247" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png 247w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png 124w, http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png 303w" sizes="(max-width: 247px) 100vw, 247px" /></a>
   
   <p id="caption-attachment-803" class="wp-caption-text">
     VirtualDub encoding

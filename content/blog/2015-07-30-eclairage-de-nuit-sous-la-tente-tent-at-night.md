@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-07-31T00:29:37+00:00
 url: /eclairage-de-nuit-sous-la-tente-tent-at-night/
-featured_image: /wp-content/uploads/2015/07/IMG_5287-Featured-Image-672x378.jpg
+featured_image: /wp-content/uploads/2015/07/IMG_5287-Featured-Image.jpg
 hits:
   - 76
 categories:

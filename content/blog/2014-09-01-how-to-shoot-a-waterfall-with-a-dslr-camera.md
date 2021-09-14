@@ -134,7 +134,7 @@ If you do not have access to a copy of [Lightroom][3], you can do the same effec
 
 In contrast, here is a static image of the same waterfall with motion freeze on automatic settings.
 
-[<img loading="lazy" class="aligncenter wp-image-338 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579-1024x683.jpg" alt="IMG_8579" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579-672x448.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579.jpg 1080w" sizes="(max-width: 474px) 100vw, 474px" />][6]
+[<img loading="lazy" class="aligncenter wp-image-338 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579.jpg" alt="IMG_8579" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579.jpg 1080w" sizes="(max-width: 474px) 100vw, 474px" />][6]
 
 # <span id="What_I_would_change_for_next_time">What I would change for next time ?</span>
 

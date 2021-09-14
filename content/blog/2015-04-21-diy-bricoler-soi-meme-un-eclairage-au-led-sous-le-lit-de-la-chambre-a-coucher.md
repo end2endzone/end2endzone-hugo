@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-04-21T16:57:52+00:00
 url: /diy-bricoler-soi-meme-un-eclairage-au-led-sous-le-lit-de-la-chambre-a-coucher/
-featured_image: /wp-content/uploads/2014/09/IMG_0846-672x448.jpg
+featured_image: /wp-content/uploads/2014/09/IMG_0846.jpg
 hits:
   - 5351
 english_post_id:
@@ -112,7 +112,7 @@ Le temps de préparation est simple, il nécessite de tester tous le circuit ava
 
 Les étapes de construction sont tout aussi simple. Voici une photo du circuit en entier:
 
-[<img loading="lazy" class="aligncenter size-full wp-image-351" src="http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png" alt="Bedroom led lighting circuit" width="433" height="223" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png 433w, http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit-150x77.png 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit-300x155.png 300w" sizes="(max-width: 433px) 100vw, 433px" />][7]
+[<img loading="lazy" class="aligncenter size-full wp-image-351" src="http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png" alt="Bedroom led lighting circuit" width="433" height="223" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png 433w, http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png 300w" sizes="(max-width: 433px) 100vw, 433px" />][7]
 
 ## <span id="Tester_le_tout">Tester le tout</span>
 
@@ -126,7 +126,7 @@ Cette section définit les raisons fondamentales qui conduisent à la conception
 
 ### <span id="Orientation_desDEL">Orientation des DEL</span>
 
-<a style="color: #41a62a; outline: #000000;" href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg"><img loading="lazy" class="size-medium wp-image-359 alignleft" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-200x300.jpg" alt="IMG_7135" width="200" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-200x300.jpg 200w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-100x150.jpg 100w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-448x672.jpg 448w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg 480w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+<a style="color: #41a62a; outline: #000000;" href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg"><img loading="lazy" class="size-medium wp-image-359 alignleft" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg" alt="IMG_7135" width="200" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg 200w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg 100w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg 448w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg 480w" sizes="(max-width: 200px) 100vw, 200px" /></a>
 
 L&#8217;emplacement des DEL est évident. Cependant, je ne savais pas si je devais coller les DEL sur la plateforme et les orienter vers le bas ou les collés sur la base et les orienter vers l&#8217;extérieur. Si vous choisissez la deuxième option (vers l&#8217;extérieur), toute la partie inférieure de la chambre sera illuminé et la lumière ne sera pas aussi élevée que si les DEL sont orientés vers le bas.
 
@@ -139,7 +139,7 @@ L&#8217;emplacement des DEL est évident. Cependant, je ne savais pas si je deva
 
 ### <span id="Commutateurs"><span style="font-size: 22px; font-weight: bold; line-height: 1.0909090909;">Commutateurs</span></span>
 
-<a style="color: #41a62a; outline: #000000;" href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg"><img loading="lazy" class="aligncenter wp-image-357 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125-1024x683.jpg" alt="IMG_7125" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125-672x448.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+<a style="color: #41a62a; outline: #000000;" href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg"><img loading="lazy" class="aligncenter wp-image-357 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg" alt="IMG_7125" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
 
 <span class="notranslate">J&#8217;ai eu de la difficulté à déterminer où je est-ce que je mettrais les interrupteurs et le gradateur.</span> <span class="notranslate">Ils devaient être facilement disponibles et ne devraient pas trop encombrer la tête du lit. Je voulais être capable de trouver les interrupteurs avec seulement mes mains, sans avoir à regarder d&#8217;avances où ils se trouvaient.</span> Vous aurez justement besoin de les retrouver rapidement au milieu de la nuit lorsque que vous n&#8217;êtes pas tout à fait réveillé!
 
@@ -149,7 +149,7 @@ L&#8217;emplacement des DEL est évident. Cependant, je ne savais pas si je deva
 
 ### <span id="Gradateur"><span style="font-size: 22px; font-weight: bold; line-height: 1.0909090909;">Gradateur</span></span>
 
-<a style="color: #41a62a; outline: #000000;" href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg"><img loading="lazy" class="size-medium wp-image-356 alignleft" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099-200x300.jpg" alt="IMG_7099" width="200" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099-200x300.jpg 200w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099-100x150.jpg 100w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099-448x672.jpg 448w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg 480w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+<a style="color: #41a62a; outline: #000000;" href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg"><img loading="lazy" class="size-medium wp-image-356 alignleft" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg" alt="IMG_7099" width="200" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg 200w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg 100w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg 448w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg 480w" sizes="(max-width: 200px) 100vw, 200px" /></a>
 
 <span class="notranslate">Le gradateur n&#8217;est pas souvent utilisé. </span><span class="notranslate">La plupart du temps, vous voulez que l&#8217;intensité de la lumière soit à son niveau de luminosité minimum.</span> <span class="notranslate">Dans certains scénarios, vous voulez obtenir plus de lumière et c&#8217;est là que le gradateur est utile.</span>
 
@@ -170,7 +170,7 @@ L&#8217;emplacement des DEL est évident. Cependant, je ne savais pas si je deva
 
 ### <span id="Collage">Collage</span>
 
-<a style="color: #41a62a; outline: #000000;" href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg"><img loading="lazy" class="aligncenter wp-image-360 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136-1024x683.jpg" alt="IMG_7136" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136-672x448.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg 1080w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+<a style="color: #41a62a; outline: #000000;" href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg"><img loading="lazy" class="aligncenter wp-image-360 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg" alt="IMG_7136" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg 1080w" sizes="(max-width: 474px) 100vw, 474px" /></a>
 
 C&#8217;est maintenant le temps de coller les DEL à la base du lit. Le côté opposé de la bande est adhésif et peut être utilisée pour coller la bande sur une surface. Assurez-vous que la surface de montage est propre et sec puisque vous ne pourrez pas plusieurs essais avant que la bande perdre sa capacité à adhérer à la paroi. Si la bande ne correspond pas exactement à la longueur de la base, n&#8217;oubliez pas de centrer la bande pour obtenir l&#8217;éclairage approprié.
 
@@ -178,7 +178,7 @@ C&#8217;est maintenant le temps de coller les DEL à la base du lit. Le côté o
 
 ### <span id="Connexion_entre_les_bandes">Connexion entre les bandes</span>
 
-<img loading="lazy" class="aligncenter wp-image-358 size-large" style="text-align: justify;" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133-1024x683.jpg" alt="IMG_7133" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133-672x448.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133.jpg 1080w" sizes="(max-width: 474px) 100vw, 474px" /> 
+<img loading="lazy" class="aligncenter wp-image-358 size-large" style="text-align: justify;" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133.jpg" alt="IMG_7133" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133.jpg 1080w" sizes="(max-width: 474px) 100vw, 474px" /> 
 
 <span class="notranslate">Utilisez les connecteurs pour relier ensemble chacune des bandes.</span> <span class="notranslate">Les connecteurs sont spécifiquement conçus pour connecter des bandes DEL ensemble.</span> <span class="notranslate">Vous avez juste à ouvrir une porte, faites glisser la bande en place et fermez la porte ce qui tiendra la bande en place.</span> <span class="notranslate">Lors de la liaison, assurez-vous que vous alignez la borne positive (rouge) et la borne négative (noire) de la bande avec le code de couleur appropriée du connecteur.</span>
 
@@ -189,7 +189,7 @@ C&#8217;est maintenant le temps de coller les DEL à la base du lit. Le côté o
 Voici une photo du résultat final:
 
 <div id="attachment_369" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg"><img aria-describedby="caption-attachment-369" loading="lazy" class="wp-image-369 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-1024x683.jpg" alt="DIY Bedroom under the bed led lighting" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-672x448.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg"><img aria-describedby="caption-attachment-369" loading="lazy" class="wp-image-369 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg" alt="DIY Bedroom under the bed led lighting" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-369" class="wp-caption-text">
     DIY Bedroom under the bed led lighting

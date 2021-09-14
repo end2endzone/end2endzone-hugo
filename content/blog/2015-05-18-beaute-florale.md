@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-05-19T01:00:27+00:00
 url: /beaute-florale/
-featured_image: /wp-content/uploads/2015/05/IMG_1918-672x378.jpg
+featured_image: /wp-content/uploads/2015/05/IMG_1918.jpg
 hits:
   - 49
 categories:

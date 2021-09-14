@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-01-31T01:27:33+00:00
 url: /msbuildreorder-how-to-reorder-a-visual-studio-build-log-for-easy-reading/
-featured_image: /wp-content/uploads/2015/01/MSBuildReorder-How-to-reorder-a-Visual-Studio-build-log-for-easy-reading-672x378.png
+featured_image: /wp-content/uploads/2015/01/MSBuildReorder-How-to-reorder-a-Visual-Studio-build-log-for-easy-reading.png
 hits:
   - 62
 categories:
@@ -44,7 +44,7 @@ It&#8217;s main features are:
 # <span id="Screenshot"><span style="line-height: 1.5;">Screenshot</span></span>
 
 <div id="attachment_641" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot.png"><img aria-describedby="caption-attachment-641" loading="lazy" class="size-medium wp-image-641" src="http://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot-300x130.png" alt="msbuildreorder screenshot" width="300" height="130" srcset="http://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot-300x130.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot-150x65.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot-672x291.png 672w, http://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot.png 773w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot.png"><img aria-describedby="caption-attachment-641" loading="lazy" class="size-medium wp-image-641" src="http://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot.png" alt="msbuildreorder screenshot" width="300" height="130" srcset="http://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot.png 672w, http://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot.png 773w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-641" class="wp-caption-text">
     msbuildreorder screenshot

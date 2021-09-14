@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2016-03-30T17:05:59+00:00
 url: /rcreceiversignal-an-arduino-library-for-retreiving-the-rc-transmitter-value-from-an-rc-receiver-pulse/
-featured_image: /wp-content/uploads/2016/03/Arduino-RcReceiverSignal-library-672x378.jpg
+featured_image: /wp-content/uploads/2016/03/Arduino-RcReceiverSignal-library.jpg
 Snippet Title:
   - Downloadable content
 Snippet:

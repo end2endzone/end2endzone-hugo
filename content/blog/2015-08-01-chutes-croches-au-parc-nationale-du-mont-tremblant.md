@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-08-01T19:40:57+00:00
 url: /chutes-croches-au-parc-nationale-du-mont-tremblant/
-featured_image: /wp-content/uploads/2015/08/IMG_5452_LR5-672x378.jpg
+featured_image: /wp-content/uploads/2015/08/IMG_5452_LR5.jpg
 hits:
   - 123
 categories:

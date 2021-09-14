@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2016-03-20T15:16:54+00:00
 url: /nonblockingrtttl-a-non-blocking-arduino-library-for-playing-rtttl-melodies/
-featured_image: /wp-content/uploads/2016/03/Arduino-non-blocking-rtttl-library-672x378.jpg
+featured_image: /wp-content/uploads/2016/03/Arduino-non-blocking-rtttl-library.jpg
 hits:
   - 1262
 Snippet Title:

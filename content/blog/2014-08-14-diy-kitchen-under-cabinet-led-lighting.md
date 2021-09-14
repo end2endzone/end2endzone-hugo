@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2014-08-14T17:30:40+00:00
 url: /diy-kitchen-under-cabinet-led-lighting/
-featured_image: /wp-content/uploads/2014/08/IMG_6846-672x448.jpg
+featured_image: /wp-content/uploads/2014/08/IMG_6846.jpg
 hits:
   - 1095
 french_post_id:
@@ -123,7 +123,7 @@ The design is pretty strait forward. There is only the location of the power swi
 
 Understanding the connectors on the power supply left me puzzled. I have to admit that I had to search the internet to identify some connections.
 
-[<img loading="lazy" class="aligncenter wp-image-252 " src="http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270-300x176.jpg" alt="IMG_0270" width="300" height="176" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270-300x176.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270-150x88.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270.jpg 644w" sizes="(max-width: 300px) 100vw, 300px" />][7]The first two connections identified in red stands for &#8220;Live&#8221; (or &#8220;Hot&#8221;) and &#8220;Neutral&#8221; wires. These are for the input power (120v). The next one is a ground connection for the wall power (if available).  As the picture above shows it, the power supply can be powered without a ground connection but it is preferable to protect the unit.
+[<img loading="lazy" class="aligncenter wp-image-252 " src="http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270.jpg" alt="IMG_0270" width="300" height="176" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270.jpg 644w" sizes="(max-width: 300px) 100vw, 300px" />][7]The first two connections identified in red stands for &#8220;Live&#8221; (or &#8220;Hot&#8221;) and &#8220;Neutral&#8221; wires. These are for the input power (120v). The next one is a ground connection for the wall power (if available).  As the picture above shows it, the power supply can be powered without a ground connection but it is preferable to protect the unit.
 
 The two next connections labels as &#8220;COM&#8221; and &#8220;+V&#8221; stand for the 12v output power. The output connection label as &#8220;COM&#8221; is the negative side of the 12v. This is where you should connect the negative lead of the LED strip. The output &#8220;+V&#8221; is the positive side of the 12v.
 
@@ -135,7 +135,7 @@ Connecting the power cord on the power supply is easy. You need to identify the 
 
 ## <span id="Dimmer_connections">Dimmer connections</span>
 
-[<img loading="lazy" class="aligncenter size-full wp-image-277" src="http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg" alt="Dimmer2" width="314" height="338" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg 314w, http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2-139x150.jpg 139w, http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2-279x300.jpg 279w" sizes="(max-width: 314px) 100vw, 314px" />][8]The dimmer has 2 input connections and 2 output connections. The input connections are labeled as &#8220;Input V- and Input V+&#8221; and output connections are labelled as &#8220;Output V+ and Output V-&#8220;. I think this is pretty obvious and does not requires any explanations.
+[<img loading="lazy" class="aligncenter size-full wp-image-277" src="http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg" alt="Dimmer2" width="314" height="338" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg 314w, http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg 139w, http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg 279w" sizes="(max-width: 314px) 100vw, 314px" />][8]The dimmer has 2 input connections and 2 output connections. The input connections are labeled as &#8220;Input V- and Input V+&#8221; and output connections are labelled as &#8220;Output V+ and Output V-&#8220;. I think this is pretty obvious and does not requires any explanations.
 
 ## <span id="Testing_everything_together">Testing everything together</span>
 
@@ -152,7 +152,7 @@ Plug the power cord into the wall, turn on the switch and your LED should turn o
 ## <span id="Deciding_where_to_put_your_stuff">Deciding where to put your stuff</span>
 
 <center>
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072-300x300.jpg" alt="DSC04072" width="300" height="300" /></a> <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068-300x300.jpg" alt="DSC04068" width="300" height="300" /></a><br /> <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060-300x300.jpg" alt="DSC04060" width="300" height="300" /></a> <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062-300x300.jpg" alt="DSC04062" width="300" height="300" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg" alt="DSC04072" width="300" height="300" /></a> <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg" alt="DSC04068" width="300" height="300" /></a><br /> <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg" alt="DSC04060" width="300" height="300" /></a> <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg" alt="DSC04062" width="300" height="300" /></a>
 </center>
 
 I wanted to position the switch at a location where is can be reached easily with your fingers but I also wanted the switch to be invisible to the eye. I decided to install the switch below the cabinets but hidden behind the front panel under the cabinets. For the same reasons, the dimmer is located at the same location. I used double sided tape to stick the dimmer and the power switch in place. The tape is strong enough to keep the switch in place even when someone is turning the lights on or off.
@@ -161,27 +161,27 @@ I also decided to position the power supply below the cabinet, at the back. This
 
 Here is a view from below the cabinet:
 
-[<img loading="lazy" class="aligncenter size-large wp-image-278" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-1024x768.jpg" alt="DSC04070" width="474" height="355" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-1024x768.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-150x113.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-300x225.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg 1440w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-672x504.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" />][9]
+[<img loading="lazy" class="aligncenter size-large wp-image-278" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg" alt="DSC04070" width="474" height="355" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg 1440w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" />][9]
 
 ## <span id="LED_strip_installation">LED strip installation</span>
 
 ### <span id="Cutting">Cutting</span>
 
-[<img loading="lazy" class="aligncenter size-full wp-image-274" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png" alt="DSC04092" width="486" height="228" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png 486w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092-150x70.png 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092-300x141.png 300w" sizes="(max-width: 486px) 100vw, 486px" />][10]Since I have 3 kitchen cabinets, I had to cut 3 slices of strip. The strip can be cut safely at every 3 LEDs. Each cut point is identified by the contact points in copper.Simply cut in the middle of the contact points to leave enough copper for the 2-pins connectors.
+[<img loading="lazy" class="aligncenter size-full wp-image-274" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png" alt="DSC04092" width="486" height="228" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png 486w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png 300w" sizes="(max-width: 486px) 100vw, 486px" />][10]Since I have 3 kitchen cabinets, I had to cut 3 slices of strip. The strip can be cut safely at every 3 LEDs. Each cut point is identified by the contact points in copper.Simply cut in the middle of the contact points to leave enough copper for the 2-pins connectors.
 
 Use a flexible measuring tape to calculate the length of each cabinet and cut a section of the strip for each cabinet sections. If the length of the cabinet does not match a cut point, do not hesitate to get a smaller length since 3 missing LEDs wont make a difference. You just have to center the strip into the cabinet for proper lighting.
 
 ### <span id="Drilling">Drilling</span>
 
 <center>
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085-225x300.jpg" alt="DSC04085" width="225" height="300" /></a> <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086-225x300.jpg" alt="DSC04086" width="225" height="300" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg" alt="DSC04085" width="225" height="300" /></a> <a href="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg"><img loading="lazy" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg" alt="DSC04086" width="225" height="300" /></a>
 </center>
 
 In order to get electricity from one cabinet to another, I had to drill holes in the bottom of the cabinet. This is the only intrusive change that I had to do for this project. I had to drill holes to get the wires above the kitchen hood and above the sink.
 
 ### <span id="Sticking">Sticking</span>
 
-[<img loading="lazy" class="aligncenter wp-image-279 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084-1024x388.jpg" alt="DSC04084" width="474" height="180" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084-1024x388.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084-150x57.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084-300x114.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084-672x254.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084.jpg 1440w" sizes="(max-width: 474px) 100vw, 474px" />][11]Now is the time to stick the LEDs to the front plate of each cabinet. The opposite side of the LEDs is sticky and can be used to stick the LED to a wall surface. Make sure that the mounting surface is dry and clean since you won&#8217;t have multiple tries before the surface loose the ability to stick to the wall. If the strip does not exactly match the length of the cabinet, make sure that you center the strip for appropriate lighting.
+[<img loading="lazy" class="aligncenter wp-image-279 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084.jpg" alt="DSC04084" width="474" height="180" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084.jpg 1440w" sizes="(max-width: 474px) 100vw, 474px" />][11]Now is the time to stick the LEDs to the front plate of each cabinet. The opposite side of the LEDs is sticky and can be used to stick the LED to a wall surface. Make sure that the mounting surface is dry and clean since you won&#8217;t have multiple tries before the surface loose the ability to stick to the wall. If the strip does not exactly match the length of the cabinet, make sure that you center the strip for appropriate lighting.
 
 ### <span id="Connecting">Connecting</span>
 
@@ -193,7 +193,7 @@ I decided to use mounting putty gum (&#8220;sticker gum&#8221;) for holding the 
 
 Here is the final result:
 
-[<img loading="lazy" class="aligncenter wp-image-263 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-1024x683.jpg" alt="IMG_6846" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-1620x1080.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-672x448.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" />][12]
+[<img loading="lazy" class="aligncenter wp-image-263 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg" alt="IMG_6846" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg 1620w, http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg 672w" sizes="(max-width: 474px) 100vw, 474px" />][12]
 
 # <span id="Made_anything_differently">Made anything differently?</span>
 

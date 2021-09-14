@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-07-31T02:28:10+00:00
 url: /barrage-du-lac-escalier-nord/
-featured_image: /wp-content/uploads/2015/07/IMG_5333_LR5-672x378.jpg
+featured_image: /wp-content/uploads/2015/07/IMG_5333_LR5.jpg
 hits:
   - 89
 Snippet Title:

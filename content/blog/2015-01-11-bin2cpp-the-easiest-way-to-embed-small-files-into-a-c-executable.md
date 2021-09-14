@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-01-12T03:56:17+00:00
 url: /bin2cpp-the-easiest-way-to-embed-small-files-into-a-c-executable/
-featured_image: /wp-content/uploads/2015/01/bin2cpp-featured-image-672x378.png
+featured_image: /wp-content/uploads/2015/01/bin2cpp-featured-image.png
 hits:
   - 213
 categories:
@@ -54,7 +54,7 @@ bin2cpp \[inputfile\] \[output folder\] \[header filename\] \[function identifie
 # <span id="Screenshots"><span style="line-height: 1.5;">Screenshots</span></span>
 
 <div id="attachment_575" style="width: 847px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png"><img aria-describedby="caption-attachment-575" loading="lazy" class="wp-image-575 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png" alt="bin2cpp v1.3 Sample" width="837" height="342" srcset="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png 837w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done-150x61.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done-300x123.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done-672x275.png 672w" sizes="(max-width: 837px) 100vw, 837px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png"><img aria-describedby="caption-attachment-575" loading="lazy" class="wp-image-575 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png" alt="bin2cpp v1.3 Sample" width="837" height="342" srcset="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png 837w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png 672w" sizes="(max-width: 837px) 100vw, 837px" /></a>
   
   <p id="caption-attachment-575" class="wp-caption-text">
     bin2cpp v1.3 Sample
@@ -62,7 +62,7 @@ bin2cpp \[inputfile\] \[output folder\] \[header filename\] \[function identifie
 </div>
 
 <div id="attachment_576" style="width: 1023px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png"><img aria-describedby="caption-attachment-576" loading="lazy" class="wp-image-576 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png" alt="bin2cpp v1.3 Usage" width="1013" height="359" srcset="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png 1013w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage-150x53.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage-300x106.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage-672x238.png 672w" sizes="(max-width: 1013px) 100vw, 1013px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png"><img aria-describedby="caption-attachment-576" loading="lazy" class="wp-image-576 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png" alt="bin2cpp v1.3 Usage" width="1013" height="359" srcset="http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png 1013w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png 672w" sizes="(max-width: 1013px) 100vw, 1013px" /></a>
   
   <p id="caption-attachment-576" class="wp-caption-text">
     bin2cpp v1.3 Usage

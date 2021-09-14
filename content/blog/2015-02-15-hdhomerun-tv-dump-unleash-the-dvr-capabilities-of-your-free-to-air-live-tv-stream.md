@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-02-16T02:24:14+00:00
 url: /hdhomerun-tv-dump-unleash-the-dvr-capabilities-of-your-free-to-air-live-tv-stream/
-featured_image: /wp-content/uploads/2015/02/HDHomeRun-TV-Dump-672x378.jpg
+featured_image: /wp-content/uploads/2015/02/HDHomeRun-TV-Dump.jpg
 hits:
   - 681
 categories:
@@ -39,7 +39,7 @@ _HDHomeRun TV Dump_ should also work with devices that supports the  MPEG4/H.26
 <div id='gallery-5' class='gallery galleryid-707 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-scan-completed.png" title="HDHomeRun Tv Dump - Main Window with Scan" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-scan-completed-150x132.png" width="150" height="132" alt="HDHomeRun Tv Dump - Main Window scan completed" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-scan-completed.png" rel="nolightbox" target="_blank">295x260</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-scan-completed.png" title="HDHomeRun Tv Dump - Main Window with Scan" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-scan-completed.png" width="150" height="132" alt="HDHomeRun Tv Dump - Main Window scan completed" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-scan-completed.png" rel="nolightbox" target="_blank">295x260</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption721">
@@ -49,7 +49,7 @@ _HDHomeRun TV Dump_ should also work with devices that supports the  MPEG4/H.26
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog.png" title="HDHomeRun Tv Dump - Manual Recording Dialog" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog-108x150.png" width="108" height="150" alt="HDHomeRun Tv Dump - Manual Recording Dialog" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog.png" rel="nolightbox" target="_blank">260x360</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog.png" title="HDHomeRun Tv Dump - Manual Recording Dialog" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog.png" width="108" height="150" alt="HDHomeRun Tv Dump - Manual Recording Dialog" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog.png" rel="nolightbox" target="_blank">260x360</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption724">
@@ -59,7 +59,7 @@ _HDHomeRun TV Dump_ should also work with devices that supports the  MPEG4/H.26
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor.png" title="HDHomeRun Tv Dump - Recording monitor" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor-150x114.png" width="150" height="114" alt="HDHomeRun Tv Dump - Recording monitor" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor.png" rel="nolightbox" target="_blank">295x225</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor.png" title="HDHomeRun Tv Dump - Recording monitor" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor.png" width="150" height="114" alt="HDHomeRun Tv Dump - Recording monitor" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor.png" rel="nolightbox" target="_blank">295x225</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption727">
@@ -71,7 +71,7 @@ _HDHomeRun TV Dump_ should also work with devices that supports the  MPEG4/H.26
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-console.png" title="HDHomeRun Tv Dump - Recording console" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-console-150x76.png" width="150" height="76" alt="HDHomeRun Tv Dump - Recording console" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-console.png" rel="nolightbox" target="_blank">677x342</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-console.png" title="HDHomeRun Tv Dump - Recording console" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-console.png" width="150" height="76" alt="HDHomeRun Tv Dump - Recording console" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-console.png" rel="nolightbox" target="_blank">677x342</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption726">
@@ -81,7 +81,7 @@ _HDHomeRun TV Dump_ should also work with devices that supports the  MPEG4/H.26
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List.png" title="HDHomeRun Tv Dump - Scheduled Recording List" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List-150x80.png" width="150" height="80" alt="HDHomeRun Tv Dump - Scheduled Recording List" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List.png" rel="nolightbox" target="_blank">504x270</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List.png" title="HDHomeRun Tv Dump - Scheduled Recording List" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List.png" width="150" height="80" alt="HDHomeRun Tv Dump - Scheduled Recording List" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List.png" rel="nolightbox" target="_blank">504x270</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption729">
@@ -91,7 +91,7 @@ _HDHomeRun TV Dump_ should also work with devices that supports the  MPEG4/H.26
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png" title="HDHomeRun Tv Dump - New Scheduled Recording" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording-108x150.png" width="108" height="150" alt="HDHomeRun Tv Dump - New Scheduled Recording" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png" rel="nolightbox" target="_blank">260x360</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png" title="HDHomeRun Tv Dump - New Scheduled Recording" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png" width="108" height="150" alt="HDHomeRun Tv Dump - New Scheduled Recording" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png" rel="nolightbox" target="_blank">260x360</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption725">
@@ -103,7 +103,7 @@ _HDHomeRun TV Dump_ should also work with devices that supports the  MPEG4/H.26
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduler.png" title="HDHomeRun Tv Dump - Scheduler" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduler-150x127.png" width="150" height="127" alt="HDHomeRun Tv Dump - Scheduler" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduler.png" rel="nolightbox" target="_blank">433x367</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduler.png" title="HDHomeRun Tv Dump - Scheduler" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduler.png" width="150" height="127" alt="HDHomeRun Tv Dump - Scheduler" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduler.png" rel="nolightbox" target="_blank">433x367</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption730">
@@ -113,7 +113,7 @@ _HDHomeRun TV Dump_ should also work with devices that supports the  MPEG4/H.26
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png" title="HDHomeRun Tv Dump - Watching Tuner 0" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0-150x132.png" width="150" height="132" alt="HDHomeRun Tv Dump - Watching Tuner 0" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png" rel="nolightbox" target="_blank">295x260</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png" title="HDHomeRun Tv Dump - Watching Tuner 0" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png" width="150" height="132" alt="HDHomeRun Tv Dump - Watching Tuner 0" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png" rel="nolightbox" target="_blank">295x260</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption736">
@@ -123,7 +123,7 @@ _HDHomeRun TV Dump_ should also work with devices that supports the  MPEG4/H.26
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01.png" title="HDHomeRun Tv Dump - VLC playing" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01-150x100.png" width="150" height="100" alt="HDHomeRun Tv Dump - VLC playing" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01.png" rel="nolightbox" target="_blank">438x291</a></span>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01.png" title="HDHomeRun Tv Dump - VLC playing" rel="gallery1"><img src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01.png" width="150" height="100" alt="HDHomeRun Tv Dump - VLC playing" /></a><span><a class="void" href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01.png" rel="nolightbox" target="_blank">438x291</a></span>
     </dt>
     
     <dd class="gallery-caption" id="caption732">
@@ -177,7 +177,7 @@ On the first application launch, users must execute a scan by pressing the <span
 When the scan is completed, the other activity buttons will activate and the <span class="button3D_outter"><span class="button3D_inner">Watch</span></span>, <span class="button3D_outter"><span class="button3D_inner">Record</span></span> and <span class="button3D_outter"><span class="button3D_inner">Program</span></span> buttons will be available. The channel list will also be updated:
 
 <div id="attachment_722" style="width: 305px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png"><img aria-describedby="caption-attachment-722" loading="lazy" class="wp-image-722 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png" alt="HDHomeRun Tv Dump - Main Window showing channels" width="295" height="260" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png 295w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels-150x132.png 150w" sizes="(max-width: 295px) 100vw, 295px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png"><img aria-describedby="caption-attachment-722" loading="lazy" class="wp-image-722 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png" alt="HDHomeRun Tv Dump - Main Window showing channels" width="295" height="260" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png 295w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png 150w" sizes="(max-width: 295px) 100vw, 295px" /></a>
   
   <p id="caption-attachment-722" class="wp-caption-text">
     HDHomeRun Tv Dump &#8211; Main Window showing channels
@@ -191,7 +191,7 @@ This button allows you to watch live TV using the [VLC][1] application. Select 
 A VLC window will open which will play the live TV stream:
 
 <div id="attachment_732" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01.png"><img aria-describedby="caption-attachment-732" loading="lazy" class="wp-image-732 size-medium" src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01-300x199.png" alt="HDHomeRun Tv Dump - VLC 01" width="300" height="199" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01-300x199.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01-150x100.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01.png 438w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01.png"><img aria-describedby="caption-attachment-732" loading="lazy" class="wp-image-732 size-medium" src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01.png" alt="HDHomeRun Tv Dump - VLC 01" width="300" height="199" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01.png 438w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-732" class="wp-caption-text">
     HDHomeRun Tv Dump &#8211; VLC playing
@@ -201,7 +201,7 @@ A VLC window will open which will play the live TV stream:
 During this time, a play icon will be displayed on the _HDHomeRun TV Dump_ window next to the selected tuner that is sending content to the VLC application:
 
 <div id="attachment_736" style="width: 305px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png"><img aria-describedby="caption-attachment-736" loading="lazy" class="size-full wp-image-736" src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png" alt="HDHomeRun Tv Dump - Watching Tuner 0" width="295" height="260" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png 295w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0-150x132.png 150w" sizes="(max-width: 295px) 100vw, 295px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png"><img aria-describedby="caption-attachment-736" loading="lazy" class="size-full wp-image-736" src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png" alt="HDHomeRun Tv Dump - Watching Tuner 0" width="295" height="260" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png 295w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png 150w" sizes="(max-width: 295px) 100vw, 295px" /></a>
   
   <p id="caption-attachment-736" class="wp-caption-text">
     HDHomeRun Tv Dump &#8211; Watching Tuner 0
@@ -213,7 +213,7 @@ During this time, a play icon will be displayed on the _HDHomeRun TV Dump_ wind
 _HDHomeRun TV Dump_ can also be used to start a recording of the TV stream. Select your desired device & channel in the available lists and press <span class="button3D_outter"><span class="button3D_inner">Record</span></span>. The following user dialog will be displayed:
 
 <div id="attachment_724" style="width: 227px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog.png"><img aria-describedby="caption-attachment-724" loading="lazy" class="size-medium wp-image-724" src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog-217x300.png" alt="HDHomeRun Tv Dump - Manual Recording Dialog" width="217" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog-217x300.png 217w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog-108x150.png 108w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog.png 260w" sizes="(max-width: 217px) 100vw, 217px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog.png"><img aria-describedby="caption-attachment-724" loading="lazy" class="size-medium wp-image-724" src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog.png" alt="HDHomeRun Tv Dump - Manual Recording Dialog" width="217" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog.png 217w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog.png 108w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog.png 260w" sizes="(max-width: 217px) 100vw, 217px" /></a>
   
   <p id="caption-attachment-724" class="wp-caption-text">
     HDHomeRun Tv Dump &#8211; Manual Recording Dialog
@@ -223,7 +223,7 @@ _HDHomeRun TV Dump_ can also be used to start a recording of the TV stream. Sel
 This dialog allows a user to enter the total recording time which _HDHomeRun TV Dump_ is using to automatically stop the recording. Pressing the <span class="button3D_outter"><span class="button3D_inner">OK</span></span> button to initiate a recording request to the device. A recording status windows will be displayed for each recording:
 
 <div id="attachment_727" style="width: 305px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor.png"><img aria-describedby="caption-attachment-727" loading="lazy" class="size-full wp-image-727" src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor.png" alt="HDHomeRun Tv Dump - Recording monitor" width="295" height="225" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor.png 295w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor-150x114.png 150w" sizes="(max-width: 295px) 100vw, 295px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor.png"><img aria-describedby="caption-attachment-727" loading="lazy" class="size-full wp-image-727" src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor.png" alt="HDHomeRun Tv Dump - Recording monitor" width="295" height="225" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor.png 295w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor.png 150w" sizes="(max-width: 295px) 100vw, 295px" /></a>
   
   <p id="caption-attachment-727" class="wp-caption-text">
     HDHomeRun Tv Dump &#8211; Recording monitor
@@ -235,7 +235,7 @@ This window help users keep track of the recording program and shows the elapsed
 During this time, a busy icon will be displayed on the _HDHomeRun TV Dump_ window next to the selected tuner that is used for recording:
 
 <div id="attachment_731" style="width: 305px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Tuner-0-Recording.png"><img aria-describedby="caption-attachment-731" loading="lazy" class="size-full wp-image-731" src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Tuner-0-Recording.png" alt="HDHomeRun Tv Dump - Tuner 0 Recording" width="295" height="260" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Tuner-0-Recording.png 295w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Tuner-0-Recording-150x132.png 150w" sizes="(max-width: 295px) 100vw, 295px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Tuner-0-Recording.png"><img aria-describedby="caption-attachment-731" loading="lazy" class="size-full wp-image-731" src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Tuner-0-Recording.png" alt="HDHomeRun Tv Dump - Tuner 0 Recording" width="295" height="260" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Tuner-0-Recording.png 295w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Tuner-0-Recording.png 150w" sizes="(max-width: 295px) 100vw, 295px" /></a>
   
   <p id="caption-attachment-731" class="wp-caption-text">
     HDHomeRun Tv Dump &#8211; Tuner 0 Recording
@@ -247,7 +247,7 @@ During this time, a busy icon will be displayed on the _HDHomeRun TV Dump_ wind
 The application can be used as a DVR helping users to program a recording based on a schedule. Press the <span class="button3D_outter"><span class="button3D_inner">Program</span></span> button for displaying the scheduled recordings dialog:
 
 <div id="attachment_729" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List.png"><img aria-describedby="caption-attachment-729" loading="lazy" class="size-medium wp-image-729" src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List-300x161.png" alt="HDHomeRun Tv Dump - Scheduled Recording List" width="300" height="161" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List-300x161.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List-150x80.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List.png 504w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List.png"><img aria-describedby="caption-attachment-729" loading="lazy" class="size-medium wp-image-729" src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List.png" alt="HDHomeRun Tv Dump - Scheduled Recording List" width="300" height="161" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List.png 300w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List.png 504w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-729" class="wp-caption-text">
     HDHomeRun Tv Dump &#8211; Scheduled Recording List
@@ -261,7 +261,7 @@ The application can be used as a DVR helping users to program a recording based
 To add a new scheduled recording to the list, press the <span class="button3D_outter"><span class="button3D_inner">Add</span></span> button. This will display the _Add a new recording_ dialog which allows a user to select a specific recording schedule:
 
 <div id="attachment_725" style="width: 227px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png"><img aria-describedby="caption-attachment-725" loading="lazy" class="size-medium wp-image-725" src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording-217x300.png" alt="HDHomeRun Tv Dump - New Scheduled Recording" width="217" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording-217x300.png 217w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording-108x150.png 108w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png 260w" sizes="(max-width: 217px) 100vw, 217px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png"><img aria-describedby="caption-attachment-725" loading="lazy" class="size-medium wp-image-725" src="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png" alt="HDHomeRun Tv Dump - New Scheduled Recording" width="217" height="300" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png 217w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png 108w, http://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png 260w" sizes="(max-width: 217px) 100vw, 217px" /></a>
   
   <p id="caption-attachment-725" class="wp-caption-text">
     HDHomeRun Tv Dump &#8211; New Scheduled Recording

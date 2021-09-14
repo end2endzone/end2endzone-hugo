@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2017-06-25T16:02:08+00:00
 url: /libargvcodec-a-c-library-which-properly-encode-and-decode-command-line-arguments/
-featured_image: /wp-content/uploads/2017/06/libArgvCodec-cplusplus-library-672x378.jpg
+featured_image: /wp-content/uploads/2017/06/libArgvCodec-cplusplus-library.jpg
 hits:
   - 249
 Snippet Title:

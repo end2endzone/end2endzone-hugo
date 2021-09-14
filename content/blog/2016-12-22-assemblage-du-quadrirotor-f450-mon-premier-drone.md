@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2016-12-22T22:45:25+00:00
 url: /assemblage-du-quadrirotor-f450-mon-premier-drone/
-featured_image: /wp-content/uploads/2016/10/Assemblage-du-quadrirotor-F450-–-Mon-premier-drone-672x378.jpg
+featured_image: /wp-content/uploads/2016/10/Assemblage-du-quadrirotor-F450-Mon-premier-drone.jpg
 hits:
   - 198
 categories:

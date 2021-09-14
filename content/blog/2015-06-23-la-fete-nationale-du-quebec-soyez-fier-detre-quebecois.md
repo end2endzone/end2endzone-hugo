@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-06-24T03:06:54+00:00
 url: /la-fete-nationale-du-quebec-soyez-fier-detre-quebecois/
-featured_image: /wp-content/uploads/2015/06/LR5_IMG_2880-Featured-672x378.jpg
+featured_image: /wp-content/uploads/2015/06/LR5_IMG_2880-Featured.jpg
 hits:
   - 43
 categories:

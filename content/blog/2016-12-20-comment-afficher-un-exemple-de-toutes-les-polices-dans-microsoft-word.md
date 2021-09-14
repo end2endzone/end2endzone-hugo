@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2016-12-21T02:28:38+00:00
 url: /comment-afficher-un-exemple-de-toutes-les-polices-dans-microsoft-word/
-featured_image: /wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word-672x378.jpg
+featured_image: /wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg
 Snippet Title:
   - Downloadable content
 Snippet:
@@ -110,7 +110,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
 <li style="text-align: justify;">
   Un nouveau noeud nommé <em><strong>Modules</strong></em> sera créer. Sous <strong><em>Modules</em></strong>, vous pourrez apercevoir le nouveau module: <em><strong>ListInstalledFont</strong></em>. <p>
     <div id="attachment_2355" style="width: 190px" class="wp-caption alignnone">
-      <a href="http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Module-installé-sous-Normal.jpg" rel="attachment wp-att-2355"><img aria-describedby="caption-attachment-2355" loading="lazy" class="size-full wp-image-2355" src="http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Module-installé-sous-Normal.jpg" alt="ListInstalledFonts - Module installé sous Normal" width="180" height="197" srcset="http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Module-installé-sous-Normal.jpg 180w, http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Module-installé-sous-Normal-137x150.jpg 137w" sizes="(max-width: 180px) 100vw, 180px" /></a>
+      <a href="http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Module-installé-sous-Normal.jpg" rel="attachment wp-att-2355"><img aria-describedby="caption-attachment-2355" loading="lazy" class="size-full wp-image-2355" src="http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Module-installé-sous-Normal.jpg" alt="ListInstalledFonts - Module installé sous Normal" width="180" height="197" /></a>
       
       <p id="caption-attachment-2355" class="wp-caption-text">
         ListInstalledFonts &#8211; Module installé sous Normal
@@ -216,7 +216,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
       <li style="text-align: justify;">
         Sélectionner la macro <em><strong>ListInstalledFonts</strong></em>. <p>
           <div id="attachment_2357" style="width: 560px" class="wp-caption alignnone">
-            <a href="http://www.end2endzone.com/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée.jpg" rel="attachment wp-att-2357"><img aria-describedby="caption-attachment-2357" loading="lazy" class="size-full wp-image-2357" src="http://www.end2endzone.com/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée.jpg" alt="Éditeur de macro Microsoft Word - Macro ListInstalledFonts sélectionnée" width="550" height="371" srcset="http://www.end2endzone.com/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée.jpg 550w, http://www.end2endzone.com/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée-150x101.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée-300x202.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a>
+            <a href="http://www.end2endzone.com/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée.jpg" rel="attachment wp-att-2357"><img aria-describedby="caption-attachment-2357" loading="lazy" class="size-full wp-image-2357" src="http://www.end2endzone.com/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée.jpg" alt="Éditeur de macro Microsoft Word - Macro ListInstalledFonts sélectionnée" width="550" height="371" /></a>
             
             <p id="caption-attachment-2357" class="wp-caption-text">
               Éditeur de macro Microsoft Word &#8211; Macro ListInstalledFonts sélectionnée
@@ -229,7 +229,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
           <li style="text-align: justify;">
             La fenêtre suivante s&#8217;ouvrira: <p>
               <div id="attachment_2354" style="width: 383px" class="wp-caption alignnone">
-                <a href="http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Sélection-dun-exemple-de-texte.jpg" rel="attachment wp-att-2354"><img aria-describedby="caption-attachment-2354" loading="lazy" class="size-full wp-image-2354" src="http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Sélection-dun-exemple-de-texte.jpg" alt="ListInstalledFonts - Sélection d'un exemple de texte" width="373" height="158" srcset="http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Sélection-dun-exemple-de-texte.jpg 373w, http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Sélection-dun-exemple-de-texte-150x64.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Sélection-dun-exemple-de-texte-300x127.jpg 300w" sizes="(max-width: 373px) 100vw, 373px" /></a>
+                <a href="http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Sélection-dun-exemple-de-texte.jpg" rel="attachment wp-att-2354"><img aria-describedby="caption-attachment-2354" loading="lazy" class="size-full wp-image-2354" src="http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Sélection-dun-exemple-de-texte.jpg" alt="ListInstalledFonts - Sélection d'un exemple de texte" width="373" height="158" /></a>
                 
                 <p id="caption-attachment-2354" class="wp-caption-text">
                   ListInstalledFonts &#8211; Sélection d&#8217;un exemple de texte
@@ -257,7 +257,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
               
               <p>
                 <div id="attachment_2350" style="width: 863px" class="wp-caption alignnone">
-                  <a href="http://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg" rel="attachment wp-att-2350"><img aria-describedby="caption-attachment-2350" loading="lazy" class="size-full wp-image-2350" src="http://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg" alt="Exemple de d'affichage toutes les polices" width="853" height="480" srcset="http://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg 853w, http://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word-768x432.jpg 768w, http://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word-672x378.jpg 672w" sizes="(max-width: 853px) 100vw, 853px" /></a>
+                  <a href="http://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg" rel="attachment wp-att-2350"><img aria-describedby="caption-attachment-2350" loading="lazy" class="size-full wp-image-2350" src="http://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg" alt="Exemple de d'affichage toutes les polices" width="853" height="480" srcset="http://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg 853w, http://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg 768w, http://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg 672w" sizes="(max-width: 853px) 100vw, 853px" /></a>
                   
                   <p id="caption-attachment-2350" class="wp-caption-text">
                     Exemple de d&#8217;affichage toutes les polices

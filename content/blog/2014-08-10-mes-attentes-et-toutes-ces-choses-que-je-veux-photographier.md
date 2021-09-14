@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2014-08-11T00:36:44+00:00
 url: /mes-attentes-et-toutes-ces-choses-que-je-veux-photographier/
-featured_image: /wp-content/uploads/2014/08/My-expectations-and-things-I-would-like-to-shoot-672x372.jpg
+featured_image: /wp-content/uploads/2014/08/My-expectations-and-things-I-would-like-to-shoot.jpg
 hits:
   - 79
 english_post_id:

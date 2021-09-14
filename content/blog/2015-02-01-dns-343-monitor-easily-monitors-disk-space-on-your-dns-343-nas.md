@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2015-02-01T13:58:08+00:00
 url: /dns-343-monitor-easily-monitors-disk-space-on-your-dns-343-nas/
-featured_image: /wp-content/uploads/2015/02/DNS-343-Monitor-logo-672x378.png
+featured_image: /wp-content/uploads/2015/02/DNS-343-Monitor-logo.png
 hits:
   - 74
 categories:
@@ -46,7 +46,7 @@ It&#8217;s main features are:
 # <span id="Screenshots"><span style="line-height: 1.5;">Screenshots</span></span>
 
 <div id="attachment_659" style="width: 460px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png"><img aria-describedby="caption-attachment-659" loading="lazy" class="wp-image-659 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png" alt="DNS-343 Monitor (Idle)" width="450" height="290" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png 450w, http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle-150x97.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle-300x193.png 300w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png"><img aria-describedby="caption-attachment-659" loading="lazy" class="wp-image-659 size-full" src="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png" alt="DNS-343 Monitor (Idle)" width="450" height="290" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png 450w, http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png 300w" sizes="(max-width: 450px) 100vw, 450px" /></a>
   
   <p id="caption-attachment-659" class="wp-caption-text">
     DNS-343 Monitor (Idle)
@@ -54,7 +54,7 @@ It&#8217;s main features are:
 </div>
 
 <div id="attachment_660" style="width: 460px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png"><img aria-describedby="caption-attachment-660" loading="lazy" class="size-full wp-image-660" src="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png" alt="DNS-343 Monitor (Searching)" width="450" height="290" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png 450w, http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching-150x97.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching-300x193.png 300w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png"><img aria-describedby="caption-attachment-660" loading="lazy" class="size-full wp-image-660" src="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png" alt="DNS-343 Monitor (Searching)" width="450" height="290" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png 450w, http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png 300w" sizes="(max-width: 450px) 100vw, 450px" /></a>
   
   <p id="caption-attachment-660" class="wp-caption-text">
     DNS-343 Monitor (Searching)
@@ -62,7 +62,7 @@ It&#8217;s main features are:
 </div>
 
 <div id="attachment_661" style="width: 460px" class="wp-caption alignnone">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png"><img aria-describedby="caption-attachment-661" loading="lazy" class="size-full wp-image-661" src="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png" alt="DNS-343 Monitor (Usage)" width="450" height="290" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png 450w, http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage-150x97.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage-300x193.png 300w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png"><img aria-describedby="caption-attachment-661" loading="lazy" class="size-full wp-image-661" src="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png" alt="DNS-343 Monitor (Usage)" width="450" height="290" srcset="http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png 450w, http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png 150w, http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png 300w" sizes="(max-width: 450px) 100vw, 450px" /></a>
   
   <p id="caption-attachment-661" class="wp-caption-text">
     DNS-343 Monitor (Usage)

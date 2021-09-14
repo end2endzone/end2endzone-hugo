@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2014-10-13T15:03:21+00:00
 url: /recommended-modifications-to-the-avistar-elite-46-arf-by-great-planes/
-featured_image: /wp-content/uploads/2014/10/DSC00129-672x378.jpg
+featured_image: /wp-content/uploads/2014/10/DSC00129.jpg
 hits:
   - 2525
 categories:
@@ -25,7 +25,7 @@ Here are all the modifications that I did to make this trainer the perfect plane
 ## <span id="Small_battery_pack">Small battery pack</span>
 
 <div id="attachment_421" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1095.jpg"><img aria-describedby="caption-attachment-421" loading="lazy" class="size-large wp-image-421" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1095-1024x576.jpg" alt="Avistar Elite battery socket replacement" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1095-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1095-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1095-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1095-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1095.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1095.jpg"><img aria-describedby="caption-attachment-421" loading="lazy" class="size-large wp-image-421" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1095.jpg" alt="Avistar Elite battery socket replacement" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1095.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1095.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1095.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1095.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1095.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-421" class="wp-caption-text">
     Avistar Elite battery socket replacement
@@ -39,7 +39,7 @@ The solution to this issue was to change the battery pack for a bigger one. I us
 ## <span id="Battery_holder">Battery holder</span>
 
 <div id="attachment_429" style="width: 490px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1115.jpg"><img aria-describedby="caption-attachment-429" loading="lazy" class="size-full wp-image-429" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1115.jpg" alt="Avistar Elite with battery pack installed" width="480" height="720" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1115.jpg 480w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1115-100x150.jpg 100w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1115-200x300.jpg 200w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1115-448x672.jpg 448w" sizes="(max-width: 480px) 100vw, 480px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1115.jpg"><img aria-describedby="caption-attachment-429" loading="lazy" class="size-full wp-image-429" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1115.jpg" alt="Avistar Elite with battery pack installed" width="480" height="720" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1115.jpg 480w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1115.jpg 100w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1115.jpg 200w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1115.jpg 448w" sizes="(max-width: 480px) 100vw, 480px" /></a>
   
   <p id="caption-attachment-429" class="wp-caption-text">
     Avistar Elite with battery pack installed
@@ -53,7 +53,7 @@ Since I changed the battery pack, the space at the bottom was now too narrow to 
 Here is a picture of the foam holder without the battery pack:
 
 <div id="attachment_430" style="width: 490px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1132.jpg"><img aria-describedby="caption-attachment-430" loading="lazy" class="size-full wp-image-430" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1132.jpg" alt="Avistar Elite without battery pack installed" width="480" height="720" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1132.jpg 480w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1132-100x150.jpg 100w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1132-200x300.jpg 200w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1132-448x672.jpg 448w" sizes="(max-width: 480px) 100vw, 480px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1132.jpg"><img aria-describedby="caption-attachment-430" loading="lazy" class="size-full wp-image-430" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1132.jpg" alt="Avistar Elite without battery pack installed" width="480" height="720" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1132.jpg 480w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1132.jpg 100w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1132.jpg 200w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1132.jpg 448w" sizes="(max-width: 480px) 100vw, 480px" /></a>
   
   <p id="caption-attachment-430" class="wp-caption-text">
     Avistar Elite without battery pack installed
@@ -63,7 +63,7 @@ Here is a picture of the foam holder without the battery pack:
 ## <span id="Fuel_tank">Fuel tank</span>
 
 <div id="attachment_422" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1123.jpg"><img aria-describedby="caption-attachment-422" loading="lazy" class="wp-image-422 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1123-1024x683.jpg" alt="Avistar Elite fuel tank" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1123-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1123-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1123-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1123-672x448.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1123.jpg 1080w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1123.jpg"><img aria-describedby="caption-attachment-422" loading="lazy" class="wp-image-422 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1123.jpg" alt="Avistar Elite fuel tank" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1123.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1123.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1123.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1123.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1123.jpg 1080w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-422" class="wp-caption-text">
     Avistar Elite fuel tank
@@ -79,7 +79,7 @@ To solve the issue, I glued a small piece of balsa wood behind the fuel tank as 
 ## <span id="Propeller">Propeller</span>
 
 <div id="attachment_423" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1107.jpg"><img aria-describedby="caption-attachment-423" loading="lazy" class="size-large wp-image-423" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1107-1024x576.jpg" alt="Avistar Elite default properller" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1107-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1107-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1107-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1107-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1107.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1107.jpg"><img aria-describedby="caption-attachment-423" loading="lazy" class="size-large wp-image-423" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1107.jpg" alt="Avistar Elite default properller" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1107.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1107.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1107.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1107.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1107.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-423" class="wp-caption-text">
     Avistar Elite default properller
@@ -97,7 +97,7 @@ This type of props is cheap (low price) but made with high quality plastic. Each
 ## <span id="Front_wheel">Front wheel</span>
 
 <div id="attachment_424" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1100.jpg"><img aria-describedby="caption-attachment-424" loading="lazy" class="size-large wp-image-424" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1100-1024x576.jpg" alt="Avistar Elite replacement wheel" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1100-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1100-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1100-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1100-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1100.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1100.jpg"><img aria-describedby="caption-attachment-424" loading="lazy" class="size-large wp-image-424" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1100.jpg" alt="Avistar Elite replacement wheel" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1100.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1100.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1100.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1100.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-424" class="wp-caption-text">
     Avistar Elite replacement wheel
@@ -109,7 +109,7 @@ The same thing applies with the front wheel. The stock 2¼&#8221; wheel is not b
 ## <span id="Elevator_Tail">Elevator Tail</span>
 
 <div id="attachment_425" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1125.jpg"><img aria-describedby="caption-attachment-425" loading="lazy" class="size-large wp-image-425" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1125-1024x576.jpg" alt="Avistar Elite tail view" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1125-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1125-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1125-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1125-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1125.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1125.jpg"><img aria-describedby="caption-attachment-425" loading="lazy" class="size-large wp-image-425" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1125.jpg" alt="Avistar Elite tail view" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1125.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1125.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1125.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1125.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1125.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-425" class="wp-caption-text">
     Avistar Elite tail view
@@ -123,7 +123,7 @@ If you follow the assembly guide, it is actually really easy to assemble the ele
 This method secures all the tail parts with each other but it does not prevent the tail from moving. To solve this problem, I simply glued the horizontal tail with the fuselage using epoxy. Here is a close up of the result:
 
 <div id="attachment_426" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1128.jpg"><img aria-describedby="caption-attachment-426" loading="lazy" class="size-large wp-image-426" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1128-1024x576.jpg" alt="Avistar Elite Tail close up view" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1128-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1128-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1128-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1128-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1128.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1128.jpg"><img aria-describedby="caption-attachment-426" loading="lazy" class="size-large wp-image-426" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1128.jpg" alt="Avistar Elite Tail close up view" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1128.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1128.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1128.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1128.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1128.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-426" class="wp-caption-text">
     Avistar Elite Tail close up view
@@ -135,7 +135,7 @@ This choice is preventing me from dissembling the tail after a crash to make rep
 ## <span id="Wings">Wings</span>
 
 <div id="attachment_420" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/DSC00129.jpg"><img aria-describedby="caption-attachment-420" loading="lazy" class="size-large wp-image-420" src="http://www.end2endzone.com/wp-content/uploads/2014/10/DSC00129-1024x576.jpg" alt="Avistar Elite black wing stripes" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/DSC00129-1024x576.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/10/DSC00129-150x84.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/10/DSC00129-300x169.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/10/DSC00129-672x378.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/10/DSC00129.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/DSC00129.jpg"><img aria-describedby="caption-attachment-420" loading="lazy" class="size-large wp-image-420" src="http://www.end2endzone.com/wp-content/uploads/2014/10/DSC00129.jpg" alt="Avistar Elite black wing stripes" width="474" height="266" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/DSC00129.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/10/DSC00129.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/10/DSC00129.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/10/DSC00129.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/10/DSC00129.jpg 1280w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-420" class="wp-caption-text">
     Avistar Elite black wing stripes
@@ -149,7 +149,7 @@ I modified the appearance of the bottom side of the wings and added two black Mo
 ## <span id="Silicone_exhaust_deflector">Silicone exhaust deflector</span>
 
 <div id="attachment_427" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136.jpg"><img aria-describedby="caption-attachment-427" loading="lazy" class="wp-image-427 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136-1024x683.jpg" alt="Avistar Elite Silicone exhaust deflector" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136-1024x683.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136-150x100.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136-300x200.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136-672x448.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136.jpg 1080w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136.jpg"><img aria-describedby="caption-attachment-427" loading="lazy" class="wp-image-427 size-large" src="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136.jpg" alt="Avistar Elite Silicone exhaust deflector" width="474" height="316" srcset="http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136.jpg 1024w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136.jpg 150w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136.jpg 300w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136.jpg 672w, http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136.jpg 1080w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p id="caption-attachment-427" class="wp-caption-text">
     Avistar Elite Silicone exhaust deflector

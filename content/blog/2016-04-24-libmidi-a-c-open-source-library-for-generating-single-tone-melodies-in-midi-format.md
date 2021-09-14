@@ -4,7 +4,7 @@ author: end2end
 type: post
 date: 2016-04-24T16:42:27+00:00
 url: /libmidi-a-c-open-source-library-for-generating-single-tone-melodies-in-midi-format/
-featured_image: /wp-content/uploads/2016/04/libMidi-cplusplus-library-672x378.jpg
+featured_image: /wp-content/uploads/2016/04/libMidi-cplusplus-library.jpg
 Snippet Title:
   - Downloadable content
 Snippet:
