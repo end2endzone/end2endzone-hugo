@@ -227,6 +227,17 @@ article, .post {
 
 
 
+.renamep {
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: left;
+    border: 2px solid #4c941c;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+
+
 .pleasenote2 {
   padding:2px;
   border: 1px solid;
