@@ -110,7 +110,7 @@ disableLanguages        = []
   [params.meta]
     description         = "end2end zone"
     author              = "Antoine Beauchamp"
-    favicon             = false
+    favicon             = true
     svg                 = true
     faviconVersion      = "1"
     msColor             = "#ffffff"
