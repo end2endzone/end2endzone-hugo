@@ -1,0 +1,17 @@
+{{/*
+   Inspired from https://github.com/matcornic/hugo-theme-learn/blob/master/layouts/shortcodes/expand.html
+   License: MIT License
+*/}}{{ $_hugo_config := `{ "version": 1 }` }}
+<div class="expand">
+    <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+        <i style="font-size:x-small;" class="fas fa-chevron-right"></i>
+        <span>
+          Table of contents
+        </span>
+    </div>
+    <div class="expand-content" style="display: none;">
+      <aside>
+        {{ .Page.TableOfContents }}
+      </aside>
+    </div>
+</div>

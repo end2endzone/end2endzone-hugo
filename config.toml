@@ -10,8 +10,18 @@ googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = []
 
+
 [markup]
+
+  # https://gohugo.io/content-management/toc/
+  # https://gohugo.io/getting-started/configuration-markup/#table-of-contents
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 5
+    ordered = true
+
   defaultMarkdownHandler = 'goldmark'
+  
   [markup.asciidocExt]
     backend = 'html5'
     extensions = []
@@ -60,7 +70,9 @@ disableLanguages        = []
 
     [markup.goldmark.renderer]
       hardWraps = false
-      unsafe = false
+      unsafe = true 
+      # `unsafe = true` is required to enable shortcode inside other shortcodes.
+      # https://stackoverflow.com/questions/62129365/how-to-nest-shortcodes-with-hugo-raw-html-ommitted
       xhtml = false
 
   # https://www.brycewray.com/posts/2021/02/new-hugo-easier-writing/

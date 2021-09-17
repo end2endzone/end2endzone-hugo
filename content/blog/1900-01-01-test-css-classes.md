@@ -6,6 +6,7 @@ categories:
   - test
 tags:
   - test
+draft: true
 ---
 
 hey this is my text default color
