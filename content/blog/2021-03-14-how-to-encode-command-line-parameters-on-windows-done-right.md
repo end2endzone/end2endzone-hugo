@@ -42,7 +42,7 @@ Examples:
 
 ## <span id="Rule_2_8211_Strings"><a id="rule2"></a>Rule #2 - Strings</span>
 
-Double quotes character (`"`) starts or ends a string. Strings allows one to insert a delimiter (or separators) character to an argument.&nbsp;The double quotes character is omitted from the argument.
+Double quotes character (`"`) starts or ends a string. Strings allows one to insert a delimiter (or separators) character to an argument. The double quotes character is omitted from the argument.
 
 {{< pleasenote >}}
   Note that strings ***may**&nbsp;**not***&nbsp;always be ended (the end of the command line may be hit without the end-of-string character)
@@ -55,9 +55,9 @@ Examples:
 
 | Command Line      | Arg #1 | Arg #2 | Arg #3 |
 |-------------------|--------|--------|--------|
-| &quot;a b c&quot; | a b c  |        |        |
-| a&quot; b&quot; c | a b    | c      |        |
-| &quot;a &quot;b c | a b    | c      |        |
+| "a b c" | a b c  |        |        |
+| a" b" c | a b    | c      |        |
+| "a "b c | a b    | c      |        |
 
 
 ### Rule #2.1 - Plain double quotes
@@ -70,11 +70,11 @@ Examples:
 
 | Command Line                  | Arg #1    | Arg #2  | Arg #3 |
 |-------------------------------|-----------|---------|--------|
-| a \&quot;b c                  | a         | &quot;b | c      |
-| &quot;a \&quot;b&quot; c      | a &quot;b | c       |        |
-| &quot;a &quot;&quot;b&quot; c | a &quot;b | c       |        |
-| a &quot;&quot;b c             | a         | b       | c      |
-| &quot;&quot;&quot;&quot;      | &quot;    |         |        |
+| a \"b c                  | a         | "b | c      |
+| "a \"b" c      | a "b | c       |        |
+| "a ""b" c | a "b | c       |        |
+| a ""b c             | a         | b       | c      |
+| """"      | "    |         |        |
 
 
 ### Rule #2.2 - Caret-String
@@ -92,13 +92,13 @@ Examples:
 
 | Command Line        | Arg #1 | Arg #2 | Arg #3 |
 |---------------------|--------|--------|--------|
-| ^&quot;a b^&quot; c | a b    | c      |        |
-| ^&quot;a b&quot; c  | a b    | c      |        |
-| ^&quot;a b^&quot;c  | a bc   |        |        |
-| a^&quot;b c^&quot;  | ab c   |        |        |
-| ^&quot;a b c^&quot; | a b c  |        |        |
-| a^&quot; b^&quot; c | a b    | c      |        |
-| ^&quot;a ^&quot;b c | a b    | c      |        |
+| ^"a b^" c | a b    | c      |        |
+| ^"a b" c  | a b    | c      |        |
+| ^"a b^"c  | a bc   |        |        |
+| a^"b c^"  | ab c   |        |        |
+| ^"a b c^" | a b c  |        |        |
+| a^" b^" c | a b    | c      |        |
+| ^"a ^"b c | a b    | c      |        |
 
 
 ### <span id="Rule_23_8211_Plain_double_quotes_Caret-String"><a id="rule2_3"></a>Rule #2.3 - Plain double quotes  (Caret-String)</span>
@@ -114,9 +114,9 @@ Examples:
 
 | Command Line                 | Arg #1      | Arg #2   | Arg #3 |
 |------------------------------|-------------|----------|--------|
-| ^&quot;a \^&quot; b^&quot; c | a &quot; b  | c        |        |
-| ^&quot;a \&quot; b^&quot; c  | a &quot; b^ | c        |        |
-| a b\^&quot;c                 | a           | b&quot;c |        |
+| ^"a \^" b^" c | a " b  | c        |        |
+| ^"a \" b^" c  | a " b^ | c        |        |
+| a b\^"c                 | a           | b"c |        |
 
 
 ## Rule #3 - The \ character
@@ -128,20 +128,20 @@ Examples:
 | Command Line               | Arg #1      | Arg #2 | Arg #3 |
 |----------------------------|-------------|--------|--------|
 | a\\b                       | a\\b        |        |        |
-| &quot;a\\b&quot;           | a\\b        |        |        |
-| a\\&quot;b c               | a\b c       |        |        |
-| a\&quot;b c                | a&quot;b    | c      |        |
-| a\\&quot;b c&quot;         | a\b c       |        |        |
-| &quot;a\\\&quot;b c&quot;  | a\&quot;b c |        |        |
-| a\\^&quot;b c              | a\b c       |        |        |
-| a\\^&quot;b c&quot;        | a\b c       |        |        |
-| &quot;a\\\^&quot;b c&quot; | a\\\^b      | c      |        |
+| "a\\b"           | a\\b        |        |        |
+| a\\"b c               | a\b c       |        |        |
+| a\"b c                | a"b    | c      |        |
+| a\\"b c"         | a\b c       |        |        |
+| "a\\\"b c"  | a\"b c |        |        |
+| a\\^"b c              | a\b c       |        |        |
+| a\\^"b c"        | a\b c       |        |        |
+| "a\\\^"b c" | a\\\^b      | c      |        |
 
 
 ## Rule #4 - Shell characters
 
 The following characters are **special shell characters**:  
-**&**,&nbsp;**<**,&nbsp;**>**, **(**, **)**, **|**, **%** or **!**
+**&**, **<**, **>**, **(**, **)**, **|**, **%** or **!**
 
 ### Rule #4.1 (in string)
 
@@ -151,8 +151,8 @@ Examples:
 
 | Command Line         | Arg #1 | Arg #2 | Arg #3 |
 |----------------------|--------|--------|--------|
-| &quot;a < b&quot; c  | a < b  | c      |        |
-| &quot;a ^< b&quot; c | a ^< b | c      |        |
+| "a < b" c  | a < b  | c      |        |
+| "a ^< b" c | a ^< b | c      |        |
 
 
 ### Rule #4.2 (in caret-string)
@@ -172,26 +172,26 @@ Examples:
     <td>a ^< b</td>
     <td>a</td>
     <td>
-      &nbsp;<
+       <
     </td>
     <td>b</td>
   </tr>
   <tr>
-    <td>^&quot;a ^< b^&quot; c</td>
+    <td>^"a ^< b^" c</td>
     <td>a < b</td>
     <td>c</td>
     <td></td>
   </tr>
   <tr>
-    <td>^&quot;a < b^&quot; c</td>
+    <td>^"a < b^" c</td>
     <td colspan="3">The system cannot find the file specified.</td>
   </tr>
   <tr>
-    <td>^&quot;a & b^&quot; c</td>
-    <td colspan="3">'b&quot;' is not recognized as an internal or external command, operable program or batch file.</td>
+    <td>^"a & b^" c</td>
+    <td colspan="3">'b"' is not recognized as an internal or external command, operable program or batch file.</td>
   </tr>
   <tr>
-    <td>^&quot;a &whoami^&quot;</td>
+    <td>^"a &whoami^"</td>
     <td colspan="3">outputs: %USERDOMAIN%\%USERNAME%</td>
   </tr>
 </table>
@@ -205,7 +205,7 @@ Examples:
 | Command Line        | Arg #1 | Arg #2 | Arg #3 |
 |---------------------|--------|--------|--------|
 | ^a^b ^c             | ab     | c      |        |
-| &quot;^a^b&quot; ^c | ^a^b   |        |        |
+| "^a^b" ^c | ^a^b   |        |        |
 
 
 ## Rule #5 - Empty arguments
@@ -221,15 +221,15 @@ Examples:
 
 | Command Line       | Arg #1  | Arg #2  | Arg #3  |
 |--------------------|---------|---------|---------|
-| a &quot;&quot; b   | a       | [empty] | c       |
-| &quot;&quot; a b   | [empty] | a       | b       |
-| a b &quot;&quot;   | a       | b       | [empty] |
-| a ^&quot;^&quot; b | a       | [empty] | b       |
-| ^&quot;^&quot; a b | [empty] | a       | b       |
-| a b ^&quot;^&quot; | a       | b       | [empty] |
-| a ^&quot;&quot; b  | a       | [empty] | b       |
-| ^&quot;&quot; a b  | [empty] | a       | b       |
-| a b ^&quot;&quot;  | a       | b       | [empty] |
+| a "" b   | a       | [empty] | c       |
+| "" a b   | [empty] | a       | b       |
+| a b ""   | a       | b       | [empty] |
+| a ^"^" b | a       | [empty] | b       |
+| ^"^" a b | [empty] | a       | b       |
+| a b ^"^" | a       | b       | [empty] |
+| a ^"" b  | a       | [empty] | b       |
+| ^"" a b  | [empty] | a       | b       |
+| a b ^""  | a       | b       | [empty] |
 
 
 ## <span id="Rule_6_8211_Juxtaposed_strings"><a id="rule6"></a>Rule #6 - Juxtaposed strings</span>
@@ -242,11 +242,11 @@ Examples:
 
 | Command Line                       | Arg #1                                         | Arg #2 | Arg #3 |
 |------------------------------------|------------------------------------------------|--------|--------|
-| &quot;a b&quot;&quot;c d&quot;     | a b&quot;c d<br /> (as with [rule #2](#rule2)) |        |        |
-| ^&quot;a b^&quot;^&quot;c d^&quot; | a b&quot;c d                                   |        |        |
-| ^&quot;a b^&quot;&quot;c d&quot;   | a b&quot;c d                                   |        |        |
-| &quot;a b&quot;^&quot;c d^&quot;   | a b&quot;c d                                   |        |        |
-| &quot;a b^&quot;^&quot;c d&quot;   | a b^&quot;c d                                  |        |        |
+| "a b""c d"     | a b"c d<br /> (as with [rule #2](#rule2)) |        |        |
+| ^"a b^"^"c d^" | a b"c d                                   |        |        |
+| ^"a b^""c d"   | a b"c d                                   |        |        |
+| "a b"^"c d^"   | a b"c d                                   |        |        |
+| "a b^"^"c d"   | a b^"c d                                  |        |        |
 
 
 ## Rule #7 - Any other characters
@@ -257,7 +257,7 @@ All other characters must be read as plain text.
 
 ### Exception #1
 
-`&lt;strong>\"&lt;/strong>` characters sequence inside a caret-string.&nbsp;This formatting is against [rule #2.3](#rule2_3)&nbsp;which states that double quote character `"` should be entered as `\^"`&nbsp;or againt [rule #3](#rule3) which states that `\` characters should be entered as `\\"`.
+`&lt;strong>\"&lt;/strong>` characters sequence inside a caret-string. This formatting is against [rule #2.3](#rule2_3)&nbsp;which states that double quote character `"` should be entered as `\^"`&nbsp;or againt [rule #3](#rule3) which states that `\` characters should be entered as `\\"`.
 
 Erroneous `&lt;strong>\"&lt;/strong>` sequence in a caret-string should be read as **_[end caret-string]_** and **_[start string]_** which as of [rule #6](#rule6)&nbsp;also inserts a plain `"` character.
 
@@ -272,28 +272,28 @@ Examples:
   </tr>
   <tr>
     <td>
-      ^&quot;test\&quot;<test&whoami^&quot;
+      ^"test\"<test&whoami^"
     </td>
     <td>
-      &nbsp;test&quot;<test&whoami^
+       test"<test&whoami^
     </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>^&quot;ab cd \&quot; ef^&quot;</td>
-    <td>ab cd &quot; ef^</td>
+    <td>^"ab cd \" ef^"</td>
+    <td>ab cd " ef^</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>^&quot;ab cd \^&quot; ef^&quot;</td>
-    <td>ab cd &quot; ef</td>
+    <td>^"ab cd \^" ef^"</td>
+    <td>ab cd " ef</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>^&quot;ab cd \\&quot; ef^&quot;</td>
+    <td>^"ab cd \\" ef^"</td>
     <td>ab cd \</td>
     <td>ef^</td>
     <td></td>
@@ -322,60 +322,60 @@ For the list of all verification tests executed with libArgvCodec, please see th
 
 | Command Line                           | Arg #1               | Arg #2      | Arg #3 |
 |----------------------------------------|----------------------|-------------|--------|
-| aaa&quot;                              | aaa                  |             |        |
-| aaa\&quot;                             | aaa&quot;            |             |        |
-| aaa\\&quot;                            | aaa\                 |             |        |
-| aaa\\\&quot;                           | aaa\&quot;           |             |        |
-| &quot;aaa\&quot;                       | aaa&quot;            |             |        |
-| &quot;aaa\\&quot;                      | aaa\                 |             |        |
-| &quot;aaa\\\&quot;                     | aaa\&quot;           |             |        |
-| a&quot;bc                              | abc                  |             |        |
-| a&quot;bc\                             | abc\                 |             |        |
-| a&quot;bc\\                            | abc\\                |             |        |
-| a&quot;bc\\\                           | abc\\\               |             |        |
-| a&quot;bc\&quot;d                      | abc&quot;d           |             |        |
-| a&quot;bc\\ ddd&quot; e                | abc\\ ddd            | e           |        |
-| a&quot;bc\&quot;\ ddd&quot; e          | abc&quot;\ ddd       | e           |        |
+| aaa"                              | aaa                  |             |        |
+| aaa\"                             | aaa"            |             |        |
+| aaa\\"                            | aaa\                 |             |        |
+| aaa\\\"                           | aaa\"           |             |        |
+| "aaa\"                       | aaa"            |             |        |
+| "aaa\\"                      | aaa\                 |             |        |
+| "aaa\\\"                     | aaa\"           |             |        |
+| a"bc                              | abc                  |             |        |
+| a"bc\                             | abc\                 |             |        |
+| a"bc\\                            | abc\\                |             |        |
+| a"bc\\\                           | abc\\\               |             |        |
+| a"bc\"d                      | abc"d           |             |        |
+| a"bc\\ ddd" e                | abc\\ ddd            | e           |        |
+| a"bc\"\ ddd" e          | abc"\ ddd       | e           |        |
 | ab\\c d                                | ab\\c                | d           |        |
 | ab\\ c                                 | ab\\                 | c           |        |
 | \\ab c                                 | \\ab                 | c           |        |
-| a &quot;&quot;bc\&quot;o&quot; e&quot; | a                    | bc&quot;o e |        |
-| a &quot;bc\&quot;o&quot; e&quot;       | a                    | bc&quot;o   | e      |
-| &quot;a&quot;&quot;&quot;b             | a&quot;b             |             |        |
-| &quot;a&quot;&quot;&quot;b&quot;       | a&quot;b             |             |        |
-| &quot;a\&quot;b&quot;                  | a&quot;b             |             |        |
-| &quot;a&quot;&quot;&quot; b&quot;      | a&quot;              | b           |        |
-| &quot;&quot;&quot;                     | &quot;               |             |        |
-| &quot;&quot;&quot;&quot;               | &quot;               |             |        |
-| &quot;&quot;&quot;&quot;&quot;         | &quot;&quot;         |             |        |
-| &quot;&quot;&quot;&quot;&quot;&quot;   | &quot;&quot;         |             |        |
-| ^&quot;ab cd\^&quot;^&echo foo^&quot;  | ab cd&quot;&echo foo |             |        |
-| &quot;ab cd\^&quot;^&echo foo^&quot;   | ab cd\^&echo         | foo         |        |
-| ^&quot;ab cd\^&quot; ee&quot;          | ab cd&quot; ee       |             |        |
-| &quot;ab cd\&quot; ee&quot;            | ab cd&quot; ee       |             |        |
-| &quot;ab cd\^&quot; ee&quot;           | ab cd\^              | ee          |        |
-| &quot;a^b&quot; c                      | a^b                  | c           |        |
-| ^&quot;a^b&quot; c                     | ab                   | c           |        |
-| ^&quot;ab^&quot; c                     | ab                   | c           |        |
-| ^&quot;ab^&quot;&quot; c               | ab&quot; c           |             |        |
+| a ""bc\"o" e" | a                    | bc"o e |        |
+| a "bc\"o" e"       | a                    | bc"o   | e      |
+| "a"""b             | a"b             |             |        |
+| "a"""b"       | a"b             |             |        |
+| "a\"b"                  | a"b             |             |        |
+| "a""" b"      | a"              | b           |        |
+| """                     | "               |             |        |
+| """"               | "               |             |        |
+| """""         | ""         |             |        |
+| """"""   | ""         |             |        |
+| ^"ab cd\^"^&echo foo^"  | ab cd"&echo foo |             |        |
+| "ab cd\^"^&echo foo^"   | ab cd\^&echo         | foo         |        |
+| ^"ab cd\^" ee"          | ab cd" ee       |             |        |
+| "ab cd\" ee"            | ab cd" ee       |             |        |
+| "ab cd\^" ee"           | ab cd\^              | ee          |        |
+| "a^b" c                      | a^b                  | c           |        |
+| ^"a^b" c                     | ab                   | c           |        |
+| ^"ab^" c                     | ab                   | c           |        |
+| ^"ab^"" c               | ab" c           |             |        |
 | a \bb c                                | a                    | \bb         | c      |
-| a \&quot;bb c&quot; d                  | a                    | &quot;bb    | c d    |
-| a ^&quot;bb^&quot; c&quot; d           | a                    | bb          | c d    |
-| a \&quot;b c                           | a                    | &quot;b     | c      |
-| a&quot;&quot;b c                       | ab                   | c           |        |
-| a\&quot;b c                            | a&quot;b             | c           |        |
-| &quot;a&quot;&quot;b&quot; c           | a&quot;b             | c           |        |
-| &quot;a\&quot;b&quot; c                | a&quot;b             | c           |        |
-| a ^&quot;&quot; b                      | a                    |             | b      |
-| a ^&quot;^&quot; b                     | a                    |             | b      |
-| ^&quot;&quot; a                        |                      | a           |        |
-| ^&quot;^&quot; a                       |                      | a           |        |
-| ^&quot;test\^&quot;^&whoami^&quot;     | test&quot;&whoami    |             |        |
-| ^&quot;test\\^&quot;^&whoami^&quot;    | test\&whoami         |             |        |
-| ^&quot;test\&quot;^&whoami^&quot;      | test&quot;^&whoami^  |             |        |
-| a\\\\&quot;b                           | a\\b                 |             |        |
-| ^&quot;a\\\\&quot;b&quot;              | a\\b                 |             |        |
-| ^&quot;a\^\^\\&quot;b&quot;            | a\\b                 |             |        |
-| ^&quot;a\^\\^\&quot;b&quot;            | a\\b                 |             |        |
-| ^&quot;a\^\\\^&quot;b&quot;            | a\\b                 |             |        |
+| a \"bb c" d                  | a                    | "bb    | c d    |
+| a ^"bb^" c" d           | a                    | bb          | c d    |
+| a \"b c                           | a                    | "b     | c      |
+| a""b c                       | ab                   | c           |        |
+| a\"b c                            | a"b             | c           |        |
+| "a""b" c           | a"b             | c           |        |
+| "a\"b" c                | a"b             | c           |        |
+| a ^"" b                      | a                    |             | b      |
+| a ^"^" b                     | a                    |             | b      |
+| ^"" a                        |                      | a           |        |
+| ^"^" a                       |                      | a           |        |
+| ^"test\^"^&whoami^"     | test"&whoami    |             |        |
+| ^"test\\^"^&whoami^"    | test\&whoami         |             |        |
+| ^"test\"^&whoami^"      | test"^&whoami^  |             |        |
+| a\\\\"b                           | a\\b                 |             |        |
+| ^"a\\\\"b"              | a\\b                 |             |        |
+| ^"a\^\^\\"b"            | a\\b                 |             |        |
+| ^"a\^\\^\"b"            | a\\b                 |             |        |
+| ^"a\^\\\^"b"            | a\\b                 |             |        |
 

@@ -68,7 +68,7 @@ There is two things I would like to try when shooting the stars.
 
 The first one is obvious: it's experimenting with a super long shutter speed. I am also expecting difficulties from the earth rotation that might create trails or blurry spots instead or bright stars. I also remember seeing gears that can counter the rotation of the earth to get a fixed point of view on a region of the sky. That might come handy sometime.
 
-The second thing I would like to shoot is what's called &quot;star trails&quot; (<http://en.wikipedia.org/wiki/Star_trail>). There is a star in the sky that has a fixed point over time in the sky. That star is Polaris (also called the North Star). The objective is to take time lapse pictures of this area and then use a computer software (don't know which one!) to &quot;merge&quot; all the picture together. The results is a fixed star and a multitude of circles around it (the results of the orbit of each star in the field of view).
+The second thing I would like to shoot is what's called "star trails" (<http://en.wikipedia.org/wiki/Star_trail>). There is a star in the sky that has a fixed point over time in the sky. That star is Polaris (also called the North Star). The objective is to take time lapse pictures of this area and then use a computer software (don't know which one!) to "merge" all the picture together. The results is a fixed star and a multitude of circles around it (the results of the orbit of each star in the field of view).
 
 # A waterfall
 
@@ -104,7 +104,7 @@ Before I could manage to get a nice video I need to get more shooting experience
 
 There is actually 2 things I would like to shoot using light trails. The first obvious one is car light trails in a scene where the background seems alive like the night life of a city. This have been visited by other photographers many times and I don't think you need explanation on what I would like to achieve. I might need to start with a boring spot not too far from home to make tests and see what kind of results I can expect.
 
-The next thing I want to try is creating my own light trails with a laser pointing on the ground. You can actually &quot;write&quot; something nice with a long enough exposure. Do it with multiple color lasers (red, blue and green) to create more dramatic effects.
+The next thing I want to try is creating my own light trails with a laser pointing on the ground. You can actually "write" something nice with a long enough exposure. Do it with multiple color lasers (red, blue and green) to create more dramatic effects.
 
 # Tilt shift
 

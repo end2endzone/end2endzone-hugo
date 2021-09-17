@@ -255,7 +255,7 @@ The block size must also have a minimum size to account for the same effect. If 
 [Mixes](#Mixes) section for more details. 
 
 ## Block size
-Based on my observation, the best values for block size and dead zone size are as follow: A block size of 10 steps is big enough to allow multiplexing a high amount of switches while leaving enough space for a reasonable dead zone between blocks. At the same time, a block size of 10 steps allows the blocks to be rounded easily which makes blocks offsets easy to calculate. The acceptable dead zone size (considering the average precision of most micro-controller and receivers), does not need to be bigger than 2 steps. This configuration leaves two blocks spaced by 4 steps which is enough to prevent issues. The following values are then considered &quot;safe and tested&quot; to get good and stable results: 
+Based on my observation, the best values for block size and dead zone size are as follow: A block size of 10 steps is big enough to allow multiplexing a high amount of switches while leaving enough space for a reasonable dead zone between blocks. At the same time, a block size of 10 steps allows the blocks to be rounded easily which makes blocks offsets easy to calculate. The acceptable dead zone size (considering the average precision of most micro-controller and receivers), does not need to be bigger than 2 steps. This configuration leaves two blocks spaced by 4 steps which is enough to prevent issues. The following values are then considered "safe and tested" to get good and stable results: 
 
 | <!-- -->       | <!-- --> | <!-- --> |
 |----------------|----------|----------|
@@ -2080,9 +2080,9 @@ Use the
 	[ Cheat Sheet for Multiplexing three 3-position switches (339 downloads) ](http://www.end2endzone.com/download/1484/ "Version 1.0") for calculating all block offset when multiplexing three 3-position switches. 
 
 ## Decoding
-Decoding the switches configuration is relatively easy: First identify the block number matching the signal's value using a sequence of &quot;
+Decoding the switches configuration is relatively easy: First identify the block number matching the signal's value using a sequence of "
 
-_if_&quot; statements. Then, update switches state based on the currently selected block. Refer to tables above for offsets & switches states for each selected block. 
+_if_" statements. Then, update switches state based on the currently selected block. Refer to tables above for offsets & switches states for each selected block. 
 
 {{< pleasenote >}}
   Note that if you get a signal value that is within the dead zone, it probably means that you have an issue with your transmitter mixes. Verify your mixes and try again.
@@ -2424,7 +2424,7 @@ Use the
 	[ Cheat Sheet for Multiplexing an Analog Knob with a 2-position and a 3-position switch (309 downloads) ](http://www.end2endzone.com/download/1510/ "Version 1.0") for calculating all block offset when multiplexing an analog value with a 2-position and a 3-position switch. 
 
 ## Decoding
-Decoding an analog value with switches configuration is different: First identify the block number matching the signal's value using a sequence of &quot;if&quot; statements. Then 
+Decoding an analog value with switches configuration is different: First identify the block number matching the signal's value using a sequence of "if" statements. Then 
 
 [clamp](https://www.google.com/?q=clamp+integer+c%2B%2B) the value within the effective block area. This is required since the signal can get close to a dead zone (or even reach a dead zone!). To get the actual analog value, you must also offset the block's effective range to get a constant 0-39 range. Finally, update switches state based on the currently selected block. Refer to tables above for offsets & switches states for each selected block. 
 

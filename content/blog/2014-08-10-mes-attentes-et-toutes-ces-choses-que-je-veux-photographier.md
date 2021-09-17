@@ -86,7 +86,7 @@ Cependant, la difficulté avec ce genre de prise de vue est d'attendre un évén
 
 Je n'ai pas eu le temps de débuté avec la photographie macro, mais je pense que ce sera le genre de chose que je vais apprécier grandement. Il se pourrait bien que je devienne accro à ce sujet. Je vais aimer prendre des photos en prise de vue rapprochée d'objets que les gens ne s'attendent pas à voir d'aussi près. Je suis assez sûr que la photographie macro est l'une des premières choses que les débutants apprennent car il ça ne nécessite pas trop de défi technique. Je crains avoir besoin d'acheter un autre objectif pour de bonnes prises de vue macro.
 
-C'est quelque chose que je voudrais d'abord essayer pour briser la glace avec mon appareil. Je pourrais aussi faire quelques sujet cliché &nbsp;comme les fleurs et les insectes! haha
+C'est quelque chose que je voudrais d'abord essayer pour briser la glace avec mon appareil. Je pourrais aussi faire quelques sujet cliché  comme les fleurs et les insectes! haha
 
 # Gouttelette d’eau
 
@@ -94,21 +94,21 @@ C'est quelque chose qui m'interpelle beaucoup! Je pense que je pourrais être in
 
 # Time lapse
 
-La photographie &quot;Time lapse&quot; est quelque chose que j'ai essayé avant (il y a longtemps) mais je suis jamais arrivé jusqu'à un produit final tout simplement parce que je me suis fatigué de travaillé sur le même projet.&nbsp;Quand vous regardez le vidéo final, cela semble facile, mais j'ai tendance à oublier la quantité de temps nécessaire pour obtenir le produit final. Pour être en mesure d'obtenir quelque chose de viable, vous devez vous préparer adéquatement avant de prendre des photos parce que si vous ne le faites pas, vous aurez du mal à fusionner toutes les photos ensemble.
+La photographie "Time lapse" est quelque chose que j'ai essayé avant (il y a longtemps) mais je suis jamais arrivé jusqu'à un produit final tout simplement parce que je me suis fatigué de travaillé sur le même projet. Quand vous regardez le vidéo final, cela semble facile, mais j'ai tendance à oublier la quantité de temps nécessaire pour obtenir le produit final. Pour être en mesure d'obtenir quelque chose de viable, vous devez vous préparer adéquatement avant de prendre des photos parce que si vous ne le faites pas, vous aurez du mal à fusionner toutes les photos ensemble.
 
-Cependant, je j'aime bien la photographie &quot;time lapse&quot; parce que vous pouvez prendre d'un événement anodin (ou presque ennuyeux) et le rendre beaucoup plus dramatique. Par exemple, je voudrais photographier ma maison (ou tout autre sujet) pendant un laps de temps de 24 heures (pour obtenir le lever et le coucher du soleil dans la même vidéo) juste pour voir à quoi cela ressemblerait.
+Cependant, je j'aime bien la photographie "time lapse" parce que vous pouvez prendre d'un événement anodin (ou presque ennuyeux) et le rendre beaucoup plus dramatique. Par exemple, je voudrais photographier ma maison (ou tout autre sujet) pendant un laps de temps de 24 heures (pour obtenir le lever et le coucher du soleil dans la même vidéo) juste pour voir à quoi cela ressemblerait.
 
-Avant que je puisse réussir à obtenir une belle vidéo, j'ai besoin d'obtenir plus d'expérience avec le &quot;time lapse&quot; si je ne veux pas trop être en colère avec plein d'images mal réglées! Je pourrais essayer d'abord à l'intérieur, comme la création de vidéo où je déballe une boîte que j'ai acheté ou me prendre en train de laver ma voiture juste pour apprendre à connaître le processus au complet et être prêt quand j'en aurai vraiment besoin.
+Avant que je puisse réussir à obtenir une belle vidéo, j'ai besoin d'obtenir plus d'expérience avec le "time lapse" si je ne veux pas trop être en colère avec plein d'images mal réglées! Je pourrais essayer d'abord à l'intérieur, comme la création de vidéo où je déballe une boîte que j'ai acheté ou me prendre en train de laver ma voiture juste pour apprendre à connaître le processus au complet et être prêt quand j'en aurai vraiment besoin.
 
 # Tracé de lumière (Light trails)
 
-Il y a en fait deux choses que je voudrais prendre en photos avec des tracés de lumière. La première est évidement des lumières de voiture le soir avec un arrière plan de ville où l'on peut voir le &quot;night life&quot; de la ville. Cet idée a été visité par d'autres photographes de nombreuses fois et je ne pense pas que d'autre explications soit nécessaire. Je pourrais commencer par un endroit ennuyeux pas trop loin de la maison pour faire des tests et voir quel genre de résultats que je peux m'attendre.
+Il y a en fait deux choses que je voudrais prendre en photos avec des tracés de lumière. La première est évidement des lumières de voiture le soir avec un arrière plan de ville où l'on peut voir le "night life" de la ville. Cet idée a été visité par d'autres photographes de nombreuses fois et je ne pense pas que d'autre explications soit nécessaire. Je pourrais commencer par un endroit ennuyeux pas trop loin de la maison pour faire des tests et voir quel genre de résultats que je peux m'attendre.
 
-La prochaine chose que je veux essayer est de crée mes propres tracés de lumière avec un pointeur laser pointé sur le sol. En  déplaçant le pointeur sur le sol, vous pouvez littéralement &quot;écrire&quot; quelque chose avec une exposition suffisante à long. On peut aussi le faire avec plusieurs lasers de couleur différente (rouge, bleu et vert) pour créer des effets plus dramatiques.
+La prochaine chose que je veux essayer est de crée mes propres tracés de lumière avec un pointeur laser pointé sur le sol. En  déplaçant le pointeur sur le sol, vous pouvez littéralement "écrire" quelque chose avec une exposition suffisante à long. On peut aussi le faire avec plusieurs lasers de couleur différente (rouge, bleu et vert) pour créer des effets plus dramatiques.
 
 # Tilt shift
 
-Le &quot;tilt shift&quot; donne un effet vraiment unique à vos photos. Ce traitement produit un effet d'optique qui semble tout réduire vos sujets à l'état de miniatures. Une image d'un stationnement remplis de voiture ressemblerait à des jouets pour un petit garçon. Cependant, je crois que les lentilles pour créer cet effet sont très dispendieuses. Je m'attend aussi à une courbe d'apprentissage énorme pour obtenir de bons résultats. C'est probablement la dernière chose que je vais essayer avec la photographie. hehe
+Le "tilt shift" donne un effet vraiment unique à vos photos. Ce traitement produit un effet d'optique qui semble tout réduire vos sujets à l'état de miniatures. Une image d'un stationnement remplis de voiture ressemblerait à des jouets pour un petit garçon. Cependant, je crois que les lentilles pour créer cet effet sont très dispendieuses. Je m'attend aussi à une courbe d'apprentissage énorme pour obtenir de bons résultats. C'est probablement la dernière chose que je vais essayer avec la photographie. hehe
 
 # Panoramique (Panning)
 
@@ -116,7 +116,7 @@ Le panoramique est une autre façon de capturer le mouvement dans une image. L'i
 
 # HDR
 
-HDR veut dire &quot;High dynamic range&quot; c-a-d que les photos prisent avec se mode comportent beaucoup de détails dans les zones claires et sombres. Il s'agit d'une technique de post-traitement qui donne des images vraiment spectaculaires impossible à avoir avec une seule prise (exposition). Le processus nécessite de prendre 3 photos de la même scène: la première sous-exposée, l'autre avec une bonne exposition et une finale qui est surexposé. Ensuite on fusionne toutes les images ensemble pour obtenir une bonne exposition des zones sombres et claires. Par exemple, prendre une photo d'une voiture avec le soleil en arrière-plan obtient habituellement une voiture sombre avec un bon ciel. Avec HDR, vous obtenez une bonne exposition pour les deux.
+HDR veut dire "High dynamic range" c-a-d que les photos prisent avec se mode comportent beaucoup de détails dans les zones claires et sombres. Il s'agit d'une technique de post-traitement qui donne des images vraiment spectaculaires impossible à avoir avec une seule prise (exposition). Le processus nécessite de prendre 3 photos de la même scène: la première sous-exposée, l'autre avec une bonne exposition et une finale qui est surexposé. Ensuite on fusionne toutes les images ensemble pour obtenir une bonne exposition des zones sombres et claires. Par exemple, prendre une photo d'une voiture avec le soleil en arrière-plan obtient habituellement une voiture sombre avec un bon ciel. Avec HDR, vous obtenez une bonne exposition pour les deux.
 
 # Chronophotographie
 
@@ -137,4 +137,4 @@ Je ne sait pas si ce serait possible ou non, mais j'aimerais bien être capable 
   * De la fumée
   * Prenez une photo de la maison pendant toutes les saisons du même point de vue
   * Attacher un appareil photo sur un ballon ou un cerf-volant et prendre une photo de moi depuis le haut des airs.
-  * Faire un vidéo &quot;step motion&quot;. Prenez plusieurs photos de moi sur un joli fond où je saute avec mes genoux pliés et me déplace en gardant toujours les deux genoux pliés.
+  * Faire un vidéo "step motion". Prenez plusieurs photos de moi sur un joli fond où je saute avec mes genoux pliés et me déplace en gardant toujours les deux genoux pliés.

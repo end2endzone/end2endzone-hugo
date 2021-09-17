@@ -31,7 +31,7 @@ tags:
 
 Here is another arduino library that I have written.
 
-As a desktop developer, I am not used to have memory (or even CPU) requirements as most developers will not look at memory consumption as an arduino developer would.&nbsp;Memory &&nbsp;CPU is cheap. If your application is struggling to run on today's computer, it will run smoothly in 1-2 years.
+As a desktop developer, I am not used to have memory (or even CPU) requirements as most developers will not look at memory consumption as an arduino developer would. Memory &&nbsp;CPU is cheap. If your application is struggling to run on today's computer, it will run smoothly in 1-2 years.
 
 As most arduino developers have faced, the amount of memory available on embedded devices is pretty limited. Having a way to save bits or our precious memory is interesting.
 
@@ -76,9 +76,9 @@ Then call the _write()_ method for writing bits to the assigned buffer or call t
 
 ## Making text strings shorter
 
-Storing words composed of only lower case letters, spaces and dots requires only 5 bits per characters instead of 8 bits (which saves 3 bits per character). The phase &quot;_hello my name is antoine. i wrote the bitreader library._&quot; takes 56 bytes as an array of char but uses 35 bytes as 5 bits chunks.
+Storing words composed of only lower case letters, spaces and dots requires only 5 bits per characters instead of 8 bits (which saves 3 bits per character). The phase "_hello my name is antoine. i wrote the bitreader library._" takes 56 bytes as an array of char but uses 35 bytes as 5 bits chunks.
 
-Allow 6 bits per characters and you can also include capital letters and numbers: &quot;_Hello my name is Antoine. I wrote the BitReader library when I was 34 years old._&quot; takes 80 bytes as an array of char but only requires 60 bytes as 6 bits chunks.
+Allow 6 bits per characters and you can also include capital letters and numbers: "_Hello my name is Antoine. I wrote the BitReader library when I was 34 years old._" takes 80 bytes as an array of char but only requires 60 bytes as 6 bits chunks.
 
 ## Shorter structures definition
 
@@ -114,7 +114,7 @@ struct Person2 {
      //uint8_t : 3; //birthYear (low)
      //uint8_t : 8; //birthYear (high)
    };
-  &nbsp;struct //aligned on 32 bits
+   struct //aligned on 32 bits
    {
      uint32_t padding1 :13; //padding for birthDay, children, birthMonth, maried
      uint32_t birthYear :12; //allows years from 0 to 4095.
@@ -150,7 +150,7 @@ In the last 2 scenarios (_Person2_ and _Person3_), the BitReader library allows 
 
 Consider an algorithm that plays a [Morse code](https://en.wikipedia.org/wiki/Morse_code). Morse code defines 3 symbols that can be played: dots, dashes and pauses.
 
-For example, the following string &quot;_Hello my name is Antoine. I wrote the BitReader library when I was 34 years old._&quot; (56 bytes) translate into Morse code as
+For example, the following string "_Hello my name is Antoine. I wrote the BitReader library when I was 34 years old._" (56 bytes) translate into Morse code as
 
 
 ```
@@ -183,11 +183,11 @@ This library is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
 **DISCLAIMER:**  
-This software is furnished &quot;as is&quot;, without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 
 You can download the BitReader arduino library by clicking on the following link:
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1688/" rel="nofollow"> Download &ldquo;BitReader v1.1.110 arduino library&rdquo; <small>BitReader-v1.1.110.zip &ndash; Downloaded 404 times &ndash; 10 KB</small> </a>
+		[ Download "BitReader v1.1.110 arduino library" BitReader-v1.1.110.zip - Downloaded 404 times - 10 KB ](http://www.end2endzone.com/download/1688/)

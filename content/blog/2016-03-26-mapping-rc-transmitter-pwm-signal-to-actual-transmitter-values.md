@@ -43,7 +43,7 @@ Using benchmark data, I managed to find approximation functions that works for m
 
 # What is expected
 
-If you search on the internet, you will find information regarding [servos](https://en.wikipedia.org/wiki/Servo_%28radio_control%29) which typically uses the same &quot;_kind&quot;_ of PWM signal.&nbsp; However, as you will see in the next section, the minimum and maximum values for a servo does not match their counterpart on a RC transmitter.
+If you search on the internet, you will find information regarding [servos](https://en.wikipedia.org/wiki/Servo_%28radio_control%29) which typically uses the same "_kind"_ of PWM signal.  However, as you will see in the next section, the minimum and maximum values for a servo does not match their counterpart on a RC transmitter.
 
 ## Theoretical values
 
@@ -150,7 +150,7 @@ This library allows the arduino to attach interrupts on multiple pins.
 
 ### [eRCaGuy_Timer2_Counter](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html)
 
-This library configures the arduino's timer2 to 0.5µs precision. It is used for a &quot;micros()&quot; function replacement and allows times calculations that are far more precise (8 times!) than the default's 4µs resolution.
+This library configures the arduino's timer2 to 0.5µs precision. It is used for a "micros()" function replacement and allows times calculations that are far more precise (8 times!) than the default's 4µs resolution.
 
 ## PWM capture code
 
@@ -902,7 +902,7 @@ The two tables above shows two polynomial functions (see highlighted columns) th
 {{< /pleasenote >}}
 
 
-In other words, reading the PWM length or the _Tactic TTX600 Tx & Tactic TR624 Rx combination_&nbsp;can only be used for detecting if the sticks are &quot;up&quot;, &quot;centered&quot; or &quot;down&quot; but not really &quot;how much up or down&quot;.
+In other words, reading the PWM length or the _Tactic TTX600 Tx & Tactic TR624 Rx combination_&nbsp;can only be used for detecting if the sticks are "up", "centered" or "down" but not really "how much up or down".
 
 The following polynomial functions offers the best performance to compute the Tactic TTX600 Tx transmitter value from the Tactic TR624 Rx pulse length:
 
@@ -970,7 +970,7 @@ The CCPM Servo Tester shows a PWM range from **900 µs** to **2210 µs**. The fo
 </table>
 
 {{< pleasenote >}}
-  Note that values for the CCPM Server Tester (100, -100) are assumptions and represents clockwise and counterclockwise positions of the potentiometer.&nbsp;In fact, based on the observed PWM values, the values should be more in the (133, -133) range according the _[Spektrum DX9 Tx & Orange R620X Rx](#Spektrum_DX9_Tx_Orange_R620X_Rx)_&nbsp;results or in (150, -150) range according the _[Spektrum DX9 Tx & Spektrum AR8000 Rx](#Spektrum_DX9_Tx_Spektrum_AR8000_Rx)_ results.
+  Note that values for the CCPM Server Tester (100, -100) are assumptions and represents clockwise and counterclockwise positions of the potentiometer. In fact, based on the observed PWM values, the values should be more in the (133, -133) range according the _[Spektrum DX9 Tx & Orange R620X Rx](#Spektrum_DX9_Tx_Orange_R620X_Rx)_&nbsp;results or in (150, -150) range according the _[Spektrum DX9 Tx & Spektrum AR8000 Rx](#Spektrum_DX9_Tx_Spektrum_AR8000_Rx)_ results.
 {{< /pleasenote >}}
 
 

@@ -80,13 +80,13 @@ The [RCA connector](https://www.google.ca/search?q=RCA+connectors&tbm=isch)s use
 
 ## Total cost of the project
 
-Like the kitchen project, this project can be completed at a pretty cheap price.&nbsp;The total cost of the project is less than 35$.
+Like the kitchen project, this project can be completed at a pretty cheap price. The total cost of the project is less than 35$.
 
 Here is the detailed price of each items:
 
   * $8.13 - LED strips from ebay. See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/LED-strip.png).
   * $2.29 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips from ebay. See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/Connectors.png).
-  * $7.15 -&nbsp;36 Watts power supply from ebay.&nbsp;See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/Power-supply.png).
+  * $7.15 -&nbsp;36 Watts power supply from ebay. See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/Power-supply.png).
   * $0.00 -&nbsp;Power cord. (I have many lying around)
   * $6.02 -&nbsp;LED dimmer from ebay. See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer.png).
   * $3.98 - 3-way power switch from the hardware store.
@@ -123,7 +123,7 @@ This section defines the basic reasons that lead to the final design.
 
 The location of the LEDs is obvious. However, I didn't know if I had to stick the LEDs facing down or facing out of the base. If you stick the LEDs facing out, all the lower section of the room get illuminated but the light does not go as high as if the LEDs were facing down.
 
-Turns out that best method for me was to stick them facing down.&nbsp;Choose the option that is best for you.
+Turns out that best method for me was to stick them facing down. Choose the option that is best for you.
 
 **Note:**  
 Both options do not illuminate the people sleeping and should not disturb your lover's sleep.
@@ -138,7 +138,7 @@ I had a hard time figuring out where I would put the switches and the dimmer. Th
 
 My first idea was to install the switch through the headboard by drilling small holes the size of the switch and use switch plates to cover everything. That was not accepted as a viable solution because we though that it will be too intrusive. It would also be hard finding the switch in almost total darkness.
 
-I opted to position the circuit of the switches at the same level than the bed's headboard. The moving part of the switch is raised a little bit above the headboard.&nbsp;This option is perfect because it is really easy to turn on the lights even when lying on the bed. You simply have to slide your hand on the top of the headboard from left to right (or right to left).
+I opted to position the circuit of the switches at the same level than the bed's headboard. The moving part of the switch is raised a little bit above the headboard. This option is perfect because it is really easy to turn on the lights even when lying on the bed. You simply have to slide your hand on the top of the headboard from left to right (or right to left).
 
 ### Dimmer
 

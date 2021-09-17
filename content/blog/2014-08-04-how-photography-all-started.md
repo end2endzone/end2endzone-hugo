@@ -35,7 +35,7 @@ I have spent hundreds of dollars on useless cameras that did not always shoot hi
 
 # Time for a change
 
-I understood that I needed a professional camera and that I had to move away from the &quot;automatic mode&quot; to the manual modes available with a DSLR camera.&nbsp; I had to make some savings and finally bough a Canon EOS Rebel SL1.
+I understood that I needed a professional camera and that I had to move away from the "automatic mode" to the manual modes available with a DSLR camera.  I had to make some savings and finally bough a Canon EOS Rebel SL1.
 
 Sooner I started to like the artistic aspect of photography and get curious about the technical aspect of every picture I came across.
 

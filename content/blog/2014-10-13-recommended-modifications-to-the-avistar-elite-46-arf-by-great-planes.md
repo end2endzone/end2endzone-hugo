@@ -40,7 +40,7 @@ Avistar Elite with battery pack installed
 
 The stock battery is held in place at the bottom of the plane with a velcro strap. It is not easy to access and remove the batteries with my big hands is harder than it should be.
 
-Since I changed the battery pack, the space at the bottom was now too narrow to store the new battery pack and I had to improvise a new way for holding the pack in place. I decided to squeeze the battery pack in a piece of foam hold in place with a wooden plate.&nbsp; That method revealed to be a quick and easy way to install or take off the pack for charging.
+Since I changed the battery pack, the space at the bottom was now too narrow to store the new battery pack and I had to improvise a new way for holding the pack in place. I decided to squeeze the battery pack in a piece of foam hold in place with a wooden plate.  That method revealed to be a quick and easy way to install or take off the pack for charging.
 
 Here is a picture of the foam holder without the battery pack:
 
@@ -80,7 +80,7 @@ This type of props is cheap (low price) but made with high quality plastic. Each
 
 Avistar Elite replacement wheel
 
-The same thing applies with the front wheel. The stock 2¼&quot; wheel is not bad and does its job. However, since I wanted to clear as much space as possible with the ground, I decided to go for a bigger front wheel and installed a 2¾&quot; wheel.
+The same thing applies with the front wheel. The stock 2¼" wheel is not bad and does its job. However, since I wanted to clear as much space as possible with the ground, I decided to go for a bigger front wheel and installed a 2¾" wheel.
 
 ## Elevator Tail
 
@@ -116,7 +116,7 @@ I modified the appearance of the bottom side of the wings and added two black Mo
 
 Avistar Elite Silicone exhaust deflector
 
-The plane does not comes pre-equiped with a silicon exhaust deflector.&nbsp; Flying without a deflector is a mess because the side of the fuselage ends up full of oil. Simply add a deflector helps the plane stay clean and last longer. At the same time, the rubber extension is prefect for putting a cap to prevent any fuel leaks while the plane is stored.
+The plane does not comes pre-equiped with a silicon exhaust deflector.  Flying without a deflector is a mess because the side of the fuselage ends up full of oil. Simply add a deflector helps the plane stay clean and last longer. At the same time, the rubber extension is prefect for putting a cap to prevent any fuel leaks while the plane is stored.
 
 # Final note
 

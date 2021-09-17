@@ -28,7 +28,7 @@ tags:
 
 The subversion application does not offer native support for identifying changes to subversion properties as easily as changes to files.
 
-The purpose of this script is to allows a subversion user to find all revisions where a change to a specific property occurred. In other words, it's a &quot;_show log for subversion properties_&quot;.<!--more-->
+The purpose of this script is to allows a subversion user to find all revisions where a change to a specific property occurred. In other words, it's a "_show log for subversion properties_".<!--more-->
 
 Skip to the [download section](#Download) for quick download.
 
@@ -49,7 +49,7 @@ The script has 5 command line arguments which are:
 
 ## Execution (command line)
 
-The script is written in [VBScript](http://en.wikipedia.org/wiki/VBScript). &nbsp;Use the following to execute the script from a batch file (*.bat) :
+The script is written in [VBScript](http://en.wikipedia.org/wiki/VBScript).  Use the following to execute the script from a batch file (*.bat) :
 
 
 ```batch
@@ -109,11 +109,11 @@ This library is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
 **DISCLAIMER:**  
-This software is furnished &quot;as is&quot;, without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 
 You can download **_svnpropertylog_** by clicking on the following link:
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1908/" rel="nofollow"> Download &ldquo;svnpropertylog v1.1.29&rdquo; <small>svnpropertylog-v1.1.29.zip &ndash; Downloaded 346 times &ndash; 8 KB</small> </a>
+		[ Download "svnpropertylog v1.1.29" svnpropertylog-v1.1.29.zip - Downloaded 346 times - 8 KB ](http://www.end2endzone.com/download/1908/)

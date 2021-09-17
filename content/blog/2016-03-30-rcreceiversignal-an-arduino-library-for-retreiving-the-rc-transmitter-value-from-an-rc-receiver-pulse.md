@@ -44,7 +44,7 @@ The RcReceiverSignal library allows one to easily configure an input pin to read
 
 It allows the main loop to retrieve the latest received pulse length (PWM) and convert the pulse length back to the actual transmitter signal value (ranging from -150% to 150%).
 
-The library supports automatic PWM signal change detection.&nbsp;The library's ability to convert a PWM value to the actual transmitter numeric value is based on empirical tests available at _**[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/ "Edit “Mapping RC Transmitter PWM signal to actual transmitter values”"){.row-title}.**_
+The library supports automatic PWM signal change detection. The library's ability to convert a PWM value to the actual transmitter numeric value is based on empirical tests available at _**[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/ "Edit “Mapping RC Transmitter PWM signal to actual transmitter values”"){.row-title}.**_
 
 # Library features
 
@@ -78,7 +78,7 @@ This library configures the arduino's timer2 to 0.5µs precision. It is used for
 
 # Usage
 
-Use the DECLARE_RECEIVER_SIGNAL macro to declare an instance of RcReceiverSignal.&nbsp;ie:
+Use the DECLARE_RECEIVER_SIGNAL macro to declare an instance of RcReceiverSignal. ie:
 
 
 ```cpp
@@ -104,7 +104,7 @@ receiver_throttle_handler_setup(RECEIVER_THROTTLE_IN_PIN);
 
 In the loop function, one can call the _hasChanged() m_ethod to know if the PWM value has changed since the last call or call the _getPwmValue()_ function to get the last PWM value observed by the _RcReceiverSignal_ instance.
 
-From a PWM value,&nbsp;one can call the _getSignalValue()_ or _getDeviceSignalValue()_ methods to convert a given PWM signal from a known device combination to a transmitter value (within -150% to +150%).
+From a PWM value, one can call the _getSignalValue()_ or _getDeviceSignalValue()_ methods to convert a given PWM signal from a known device combination to a transmitter value (within -150% to +150%).
 
 ## Demo
 
@@ -123,11 +123,11 @@ This library is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
 **DISCLAIMER:**  
-This software is furnished &quot;as is&quot;, without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 
 You can download the RcReceiverSignal arduino library by clicking on the following link:
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1792/" rel="nofollow"> Download &ldquo;RcReceiverSignal arduino library v1.1.203&rdquo; <small>RcReceiverSignal-v1.1.203.zip &ndash; Downloaded 664 times &ndash; 59 KB</small> </a>
+		[ Download "RcReceiverSignal arduino library v1.1.203" RcReceiverSignal-v1.1.203.zip - Downloaded 664 times - 59 KB ](http://www.end2endzone.com/download/1792/)

@@ -23,9 +23,9 @@ tags:
 ---
 # **Introduction **
 
-Following the birth of a child and after the celebration is all the stuff you have to buy to protect the house of &quot;potential dangers&quot;. Quickly, you realize that you need to buy a baby gate.
+Following the birth of a child and after the celebration is all the stuff you have to buy to protect the house of "potential dangers". Quickly, you realize that you need to buy a baby gate.
 
-I looked at several models and I have not found a model that can suit my needs and my situation.&nbsp;I needed a baby gate that can:  
+I looked at several models and I have not found a model that can suit my needs and my situation. I needed a baby gate that can:  
 <!--more-->
 
   * Cover a length of at least 52 inches.
@@ -73,7 +73,7 @@ Sand all parts before assembly.
 
 ## **Assembly**
 
-There is nothing special to say to assemble the posts. Each one is screwed to the top and bottom rails. Each one is spaced by 4 inches which &nbsp;is a regular space for a stair railing.
+There is nothing special to say to assemble the posts. Each one is screwed to the top and bottom rails. Each one is spaced by 4 inches which  is a regular space for a stair railing.
 
 ### **Fixing the ramp**
 

@@ -33,7 +33,7 @@ tags:
 ---
 # Introduction
 
-The following article is about yet another Arduino library that I have written. AnyRtttl is a feature rich arduino library for playing RTTTL melodies. The library offers much more interesting features than relying on the widely available `void play_rtttl(char *p)` function.&nbsp;The AnyRtttl is a feature rich library which supports all best RTTTL features.<!--more-->
+The following article is about yet another Arduino library that I have written. AnyRtttl is a feature rich arduino library for playing RTTTL melodies. The library offers much more interesting features than relying on the widely available `void play_rtttl(char *p)` function. The AnyRtttl is a feature rich library which supports all best RTTTL features.<!--more-->
 
 Skip to the [download section](#Download) for quick download.
 
@@ -46,11 +46,11 @@ See this post for a [quick recall of the RTTTL format](/nonblockingrtttl-a-non-b
 {{< /pleasenote >}}
 
 
-After publishing my NonBlockingRtttl arduino library, I started using the library in more complex projects which was requiring other libraries. I quickly ran into the hell of library dependencies and library conflicts.&nbsp;I realized that I needed more features that could help me prototype faster.
+After publishing my NonBlockingRtttl arduino library, I started using the library in more complex projects which was requiring other libraries. I quickly ran into the hell of library dependencies and library conflicts. I realized that I needed more features that could help me prototype faster.
 
-Other libraries available which allows you to &quot;play&quot; a melody in [RTTTL f](#Quick_recall_of_the_RTTTL_format)ormat suffer the same issue: they are based on blocking APIs or the RTTTL data is not optimized for space.
+Other libraries available which allows you to "play" a melody in [RTTTL f](#Quick_recall_of_the_RTTTL_format)ormat suffer the same issue: they are based on blocking APIs or the RTTTL data is not optimized for space.
 
-AnyRtttl is different since it packs multiple RTTTL related features in a single library. It supports [blocking](https://en.wikipedia.org/wiki/Blocking_(computing)) & [non-blocking](http://en.wikipedia.org/wiki/Non-blocking_algorithm) API which makes it suitable to be used by more advanced algorithm. For instance, when using the non-blocking API, the melody can be stopped when a button is pressed.&nbsp;The library is also compatible with _external Tone libraries_ and it supports highly compressed RTTTL binary formats.
+AnyRtttl is different since it packs multiple RTTTL related features in a single library. It supports [blocking](https://en.wikipedia.org/wiki/Blocking_(computing)) & [non-blocking](http://en.wikipedia.org/wiki/Non-blocking_algorithm) API which makes it suitable to be used by more advanced algorithm. For instance, when using the non-blocking API, the melody can be stopped when a button is pressed. The library is also compatible with _external Tone libraries_ and it supports highly compressed RTTTL binary formats.
 
 # Library features
 
@@ -66,15 +66,15 @@ Here is a list of all library features:
 
 ## Non-Blocking
 
-Most of the code that can &quot;play&quot; a melody on internet are all build the same way: sequential calls to `tone()` and `delay()` functions using hardcoded values.&nbsp;This type of implementation might be good for robots but not for realtime application or projects that needs to monitor pins while the song is playing.
+Most of the code that can "play" a melody on internet are all build the same way: sequential calls to `tone()` and `delay()` functions using hardcoded values. This type of implementation might be good for robots but not for realtime application or projects that needs to monitor pins while the song is playing.
 
-With AnyRtttl non-blocking mode, your program can read/write IOs pins while playing and react on changes.&nbsp;Implementing a &quot;stop&quot; or &quot;next song&quot; push button is a breeze!
+With AnyRtttl non-blocking mode, your program can read/write IOs pins while playing and react on changes. Implementing a "stop" or "next song" push button is a breeze!
 
 ## External Tone or Timer #0 libraries
 
 The AnyRtttl library is also flexible by allowing you to use the build-in arduino `tone()`&nbsp;and `noTone()` functions or an implementation from any external library which makes it compatible with any _Tone library_ in the market.
 
-The library also supports custom `delay()` and `millis()` functions.&nbsp;If a projects requires modification to the microcontroller’s build-in Timer #0,&nbsp;the `millis()` function may be impacted and behave incorrectly. To maximize compatibility, one can supply a custom function which behaves like the original to prevent altering playback.
+The library also supports custom `delay()` and `millis()` functions. If a projects requires modification to the microcontroller’s build-in Timer #0, the `millis()` function may be impacted and behave incorrectly. To maximize compatibility, one can supply a custom function which behaves like the original to prevent altering playback.
 
 ## Binary RTTTL
 
@@ -184,7 +184,7 @@ anyrtttl::setDelayFunction(&serialDelay);
 ```
 
 
-Use the `anyrtttl::blocking::play()`&nbsp;API for &quot;playing&quot; an RTTTL melody and monitor the output of the serial port to see the actual arduino code generated by the library.
+Use the `anyrtttl::blocking::play()`&nbsp;API for "playing" an RTTTL melody and monitor the output of the serial port to see the actual arduino code generated by the library.
 
 Demo
 
@@ -212,12 +212,12 @@ The first 16 bits stores the RTTTL default section which is defined as the follo
 
 Next is each note's of the melody. Each note is encoded as 10 bits (or 16 bits) per note and is defined as the following:
 
-  1. **Duration index**, 3 bits, with values within [0, 7] range, &nbsp;matches the index used for `getNoteDurationFromIndex()` API.
-  2. **Note letter index**, 3 bits, with values within [0, 7] range,&nbsp;matches the index used for `getNoteLetterFromIndex()` API.
+  1. **Duration index**, 3 bits, with values within [0, 7] range,  matches the index used for `getNoteDurationFromIndex()` API.
+  2. **Note letter index**, 3 bits, with values within [0, 7] range, matches the index used for `getNoteLetterFromIndex()` API.
   3. **Pound**, 1 bit, defines if the note is pounded or not.
   4. **Dotted**, 1 bit, defines if the note is dotted or not.
-  5. **Octave index**, 2 bits, with values within [0, 3] range,&nbsp;matches the index used for `getNoteOctaveFromIndex()` API.
-  6. **Padding**, 6 bits, **optional**.&nbsp;See sections below.
+  5. **Octave index**, 2 bits, with values within [0, 3] range, matches the index used for `getNoteOctaveFromIndex()` API.
+  6. **Padding**, 6 bits, **optional**. See sections below.
 
 {{< pleasenote >}}
   The last field of a note (defined as _Padding_) is an **optional 6 bits** field. The AnyRtttl library supports both 10 bits per note and 16 bits per note definitions. Use the appropriate API for playing both format.
@@ -228,13 +228,13 @@ Next is each note's of the melody. Each note is encoded as 10 bits (or 16 bits) 
 
 Each RTTTL note is encoded into 10 bits which is the minimum size of a note. This storage method is the best compression method for storing RTTTL melodies and reduces the usage of the dynamic memory to the minimum.
 
-However, since all notes are not aligned on multiple of 8 bits, addressing each note by an offset is impossible which makes the playback harder.&nbsp;Each notes must be [deserialized](http://en.wikipedia.org/wiki/Serialization) one after the other. An additional library is required for deserializing a note from a buffer using blocks of 10 bits which may increase the program storage space&nbsp;footprint.
+However, since all notes are not aligned on multiple of 8 bits, addressing each note by an offset is impossible which makes the playback harder. Each notes must be [deserialized](http://en.wikipedia.org/wiki/Serialization) one after the other. An additional library is required for deserializing a note from a buffer using blocks of 10 bits which may increase the program storage space footprint.
 
-An external arduino library must also be used to allow the AnyRtttl library to consume bits as needed.&nbsp;The [arduino BitReader library](/bitreader-an-arduino-library-for-reading-writing-data-as-chunks-of-bits/)&nbsp;may be used for handling bit deserialization but any library that can extract a given number of bits from a buffer would work.
+An external arduino library must also be used to allow the AnyRtttl library to consume bits as needed. The [arduino BitReader library](/bitreader-an-arduino-library-for-reading-writing-data-as-chunks-of-bits/)&nbsp;may be used for handling bit deserialization but any library that can extract a given number of bits from a buffer would work.
 
 ## 16 bits per note (with padding)
 
-Each RTTTL note is encoded into 16 bits which is much better than the average 3.28 bytes per note text format.&nbsp;This storage method is optimum for storing RTTTL melodies and reduces the usage of the dynamic memory&nbsp;without increasing to much program storage space.
+Each RTTTL note is encoded into 16 bits which is much better than the average 3.28 bytes per note text format. This storage method is optimum for storing RTTTL melodies and reduces the usage of the dynamic memory without increasing to much program storage space.
 
 All notes are aligned on 16 bits. Addressing each note by an offset allows an easy playback. Only the first 10 bits of each 16 bits block is used. The value of the padding field is undefined.
 
@@ -254,11 +254,11 @@ This library is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
 **DISCLAIMER:**  
-This software is furnished &quot;as is&quot;, without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 
 You can download the AnyRtttl library by clicking on the following link:
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1988/" rel="nofollow"> Download &ldquo;AnyRtttl v2.1.229 arduino library&rdquo; <small>AnyRtttl-v2.1.229.zip &ndash; Downloaded 571 times &ndash; 54 KB</small> </a>
+		[ Download "AnyRtttl v2.1.229 arduino library" AnyRtttl-v2.1.229.zip - Downloaded 571 times - 54 KB ](http://www.end2endzone.com/download/1988/)

@@ -27,7 +27,7 @@ tags:
 There is something missing in most kitchens I have seen in my life and it is not a huge free space or a smart refrigerator. It is much simpler than that. I am talking about good lighting. All kitchen that I have used had decent lighting when used during a bright shiny day but was lacking appropriate lighting during a rainy days or nights. Most of then were also missing under cabinet lighting.  
 <!--more-->
 
-It has been a long time since I wanted to get more light available under the kitchen cabinets. However, I never felt ready to install some lights by myself for many reasons. One of them was that I was missing the proper tools and knowledge. I also didn't like the idea of drilling holes in the cabinet or through the kitchen counter to get the electricity and finally, when I was looking at a kitchen with under cabinet lights, the lights that were used was producing too much heat that I could almost burn myself.&nbsp;This project was &quot;on hold&quot; until a super easy to install solution came to my mind: LED strips.
+It has been a long time since I wanted to get more light available under the kitchen cabinets. However, I never felt ready to install some lights by myself for many reasons. One of them was that I was missing the proper tools and knowledge. I also didn't like the idea of drilling holes in the cabinet or through the kitchen counter to get the electricity and finally, when I was looking at a kitchen with under cabinet lights, the lights that were used was producing too much heat that I could almost burn myself. This project was "on hold" until a super easy to install solution came to my mind: LED strips.
 
 LED strips are an alternative to fluorescent, halogen or xenon lights. LED are becoming more and more popular and are super easy to install and adapt to many situations. Some LED strips can be used outside too but that is for another post! They provide the following benefits in a kitchen:
 
@@ -40,7 +40,7 @@ LED strips are an alternative to fluorescent, halogen or xenon lights. LED are b
   * Operates at 12 volts. No need for wall AC current which could lead to accidents.
   * Use less electricity (much fewer current than alternative lighting options).
 
-In this post, I will explain how I installed in my kitchen a custom under cabinet LED lighting solution.&nbsp;
+In this post, I will explain how I installed in my kitchen a custom under cabinet LED lighting solution. 
 
 {{< pleasenote >}}
   **Note:** Handling wall electricity can be dangerous. If you do not have basic electricity skills, I strongly recommend that you do not complete this project. Proceed at your own risk.
@@ -76,7 +76,7 @@ Theoretically, only a 24 Watts power supply is required for powering the whole L
 The dimmer module is optional but I strongly recommend to use one. Without the dimmer module, the LED strip is too bright for many situations. Full brightness is only required for cutting vegetables. For all other scenarios, you will need to reduce the intensity of the light if you want to create ambient lighting during the night or if you need a low-light in the morning. Even a warm white (compared to a cool/cold white) strip is too bright when I get out of the bed. Anyway, for the price of the module, it should be a no brainer.
 
 {{< pleasenote >}}
-  Please note that a &quot;normal&quot; wall dimmer cannot be used to power the LED strip since LED can only be dimmed with a [PWM module](http://www.google.ca/#q=12v%20pwm%20dimmer) and not by a variable resistance in the circuit.
+  Please note that a "normal" wall dimmer cannot be used to power the LED strip since LED can only be dimmed with a [PWM module](http://www.google.ca/#q=12v%20pwm%20dimmer) and not by a variable resistance in the circuit.
 {{< /pleasenote >}}
 
 
@@ -92,13 +92,13 @@ You only need 3 LED connectors for this project. You need 2 connectors for linki
 
 ## Total cost of the project
 
-As I said before, this project can be completed at a pretty cheap price.&nbsp;The total cost of the project is less than 30$. I had to say that I bought all major items (strips, dimmer and power supply) from ebay for a ridiculous amount of money. &nbsp;Don't make the mistake and buy this stuff at an electrical or lighting store because you could easily double or triple the cost of the project!
+As I said before, this project can be completed at a pretty cheap price. The total cost of the project is less than 30$. I had to say that I bought all major items (strips, dimmer and power supply) from ebay for a ridiculous amount of money.  Don't make the mistake and buy this stuff at an electrical or lighting store because you could easily double or triple the cost of the project!
 
 Here is the detailed price of each items:
 
   * $8.13 - LED strips from ebay. See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/LED-strip.png).
   * $2.29 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips from ebay. See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/Connectors.png).
-  * $7.15 -&nbsp;36 Watts power supply from ebay.&nbsp;See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/Power-supply.png).
+  * $7.15 -&nbsp;36 Watts power supply from ebay. See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/Power-supply.png).
   * $0.00 -&nbsp;Power cord. (I had one lying around. I usually salvage all of them when recycling old appliance.
   * $6.02 -&nbsp;LED dimmer from ebay. See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer.png).
   * $1.25 - Power switch from the hardware store.
@@ -117,7 +117,7 @@ The preparation time is simple, it requires to test all the circuit before fixin
 
 Construction steps are very simple. Screw, wire everything up and enjoy. Here is a picture of the circuit that you need to assemble:
 
-[![Dimmer2](http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg)The dimmer has 2 input connections and 2 output connections. The input connections are labeled as &quot;Input V- and Input V+&quot; and output connections are labelled as &quot;Output V+ and Output V-&quot;. I think this is pretty obvious and does not requires any explanations.
+[![Dimmer2](http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg)The dimmer has 2 input connections and 2 output connections. The input connections are labeled as "Input V- and Input V+" and output connections are labelled as "Output V+ and Output V-". I think this is pretty obvious and does not requires any explanations.
 
 ## Testing everything together
 
@@ -125,9 +125,9 @@ This section defines how to connect all the components together.
 
 Connect the power cord with the power supply. Screw the wires on the power supply as described above. Do not connect the power cord until the complete circuit is assembled.
 
-Connect the positive output of the power supply to one side of the switch. Screw another wire from the other side of the switch to the &quot;IN V+&quot; connector of the dimmer. Get another wire from the dimmer's &quot;IN V-&quot; back to the power supply negative output.
+Connect the positive output of the power supply to one side of the switch. Screw another wire from the other side of the switch to the "IN V+" connector of the dimmer. Get another wire from the dimmer's "IN V-" back to the power supply negative output.
 
-Connect the dimmer's &quot;OUT V+ to the positive lead of the LED strip and connect the negative lead of the strip back to the dimmer's &quot;OUT V-&quot;.
+Connect the dimmer's "OUT V+ to the positive lead of the LED strip and connect the negative lead of the strip back to the dimmer's "OUT V-".
 
 Plug the power cord into the wall, turn on the switch and your LED should turn on. Turn the knob of the dimmer to test the intensity.
 

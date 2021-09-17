@@ -71,11 +71,11 @@ Comme je l'ai expliqué précédemment, l'équipement est presque identique à c
 
 ### Commutateur à 3 voies
 
-La seule pièce d'équipement qui est différent est le type de commutateurs utilisés. Pour ce projet, il y &nbsp;a deux interrupteurs soit un pour chaque partenaire. Le type de commutateurs est également différent et nécessite des interrupteurs à 3 voies. Bref, il devrait y avoir 3 bornes (vis) de visible sur chaque commutateur au lieu de 2. Ce type de commutateur permet de contrôler les lumières sur les deux côtés du lit: un partenaire peut allumer les lumières et l'autre peut les désactiver ou vice-versa.
+La seule pièce d'équipement qui est différent est le type de commutateurs utilisés. Pour ce projet, il y  a deux interrupteurs soit un pour chaque partenaire. Le type de commutateurs est également différent et nécessite des interrupteurs à 3 voies. Bref, il devrait y avoir 3 bornes (vis) de visible sur chaque commutateur au lieu de 2. Ce type de commutateur permet de contrôler les lumières sur les deux côtés du lit: un partenaire peut allumer les lumières et l'autre peut les désactiver ou vice-versa.
 
 ### Connecteur RCA
 
-Les [connecteur RCA](https://www.google.ca/search?q=RCA+connectors&tbm=isch)&nbsp;sont nécessaires afin de pouvoir déconnecter la bande DEL du reste du circuit. La tête de lit et la base de mon lit ne sont pas attachés ensemble.&nbsp;La base est parfois éloigné de la tête pour nettoyer le sol ou changer les draps. Puisque la bande est collée sous la base de lit et que le circuit principal est fixé en arrière de la tête du lit, j'ai besoin d'un moyen de séparer les deux pour fins d'entretien (sans devoir arracher la bande!) J'ai décidé d'utiliser des connecteur RCA à cette fin parce qu'ils sont pour la plupart disponibles dans tous les magasins électroniques. Ils peuvent être récupérés à partir de nombreuses sources. Si vous ne disposez pas connecteur RCA, n'importe lequel autre type de connecteur qui se débranche lorsque l'on tire dessus peut faire l'affaire.
+Les [connecteur RCA](https://www.google.ca/search?q=RCA+connectors&tbm=isch)&nbsp;sont nécessaires afin de pouvoir déconnecter la bande DEL du reste du circuit. La tête de lit et la base de mon lit ne sont pas attachés ensemble. La base est parfois éloigné de la tête pour nettoyer le sol ou changer les draps. Puisque la bande est collée sous la base de lit et que le circuit principal est fixé en arrière de la tête du lit, j'ai besoin d'un moyen de séparer les deux pour fins d'entretien (sans devoir arracher la bande!) J'ai décidé d'utiliser des connecteur RCA à cette fin parce qu'ils sont pour la plupart disponibles dans tous les magasins électroniques. Ils peuvent être récupérés à partir de nombreuses sources. Si vous ne disposez pas connecteur RCA, n'importe lequel autre type de connecteur qui se débranche lorsque l'on tire dessus peut faire l'affaire.
 
 ## Coût total du projet
 
@@ -122,7 +122,7 @@ Cette section définit les raisons fondamentales qui conduisent à la conception
 
 L'emplacement des DEL est évident. Cependant, je ne savais pas si je devais coller les DEL sur la plateforme et les orienter vers le bas ou les collés sur la base et les orienter vers l'extérieur. Si vous choisissez la deuxième option (vers l'extérieur), toute la partie inférieure de la chambre sera illuminé et la lumière ne sera pas aussi élevée que si les DEL sont orientés vers le bas.
 
-Il s'avère que pour moi, la meilleure méthode était de les coller vers le bas.&nbsp;Naturellement, choisissez l'option qui vous convient le mieux.
+Il s'avère que pour moi, la meilleure méthode était de les coller vers le bas. Naturellement, choisissez l'option qui vous convient le mieux.
 
 **Remarque:**<br /> Chacune des deux options n'éclairent pas les gens lorsqu'ils dorment et ne perturbe pas le sommeil de votre partenaire.
 
@@ -132,7 +132,7 @@ Il s'avère que pour moi, la meilleure méthode était de les coller vers le bas
 
 [![IMG_7125](http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg)
 
-J'ai eu de la difficulté à&nbsp;déterminer où je est-ce que je mettrais les interrupteurs et le gradateur. Ils devaient être facilement disponibles et ne devraient pas trop encombrer la tête du lit. Je voulais être capable de trouver les interrupteurs avec seulement mes mains, sans avoir à regarder d'avances où ils se trouvaient.&nbsp;Vous aurez justement besoin de les retrouver rapidement au milieu de la nuit lorsque que vous n'êtes pas tout à fait réveillé!
+J'ai eu de la difficulté à&nbsp;déterminer où je est-ce que je mettrais les interrupteurs et le gradateur. Ils devaient être facilement disponibles et ne devraient pas trop encombrer la tête du lit. Je voulais être capable de trouver les interrupteurs avec seulement mes mains, sans avoir à regarder d'avances où ils se trouvaient. Vous aurez justement besoin de les retrouver rapidement au milieu de la nuit lorsque que vous n'êtes pas tout à fait réveillé!
 
 Ma première idée était d'installer l'interrupteur à travers la tête de lit en perçant de petits trous de la taille de l'interrupteur et d'utiliser des plaques d'interrupteur pour tout couvrir. Cela n'a pas été accepté comme une solution viable parce que nous trouvions cela trop intrusif. Il serait également difficile de trouver l'interrupteur dans l'obscurité.
 
@@ -164,7 +164,7 @@ Utilisez un ruban à mesurer pour calculer la longueur de chaque côté de la ba
 
 C'est maintenant le temps de coller les DEL à la base du lit. Le côté opposé de la bande est adhésif et peut être utilisée pour coller la bande sur une surface. Assurez-vous que la surface de montage est propre et sec puisque vous ne pourrez pas plusieurs essais avant que la bande perdre sa capacité à adhérer à la paroi. Si la bande ne correspond pas exactement à la longueur de la base, n'oubliez pas de centrer la bande pour obtenir l'éclairage approprié.
 
-J'ai décidé d'utiliser de la colle chaude pour fixer le début de la bande à la base du lit.&nbsp;C'est une très bonne idée et cela aide à prévenir les incidents. La colle tient la bande en place et d'évite tout dommage. Dans le cas où l'on aurait oublié de débrancher le circuit, si l'on déplace la base de lit loin de la tête, la bande sera suffisamment collée pour résister au coup et s'est le connecteur RCA qui se déconnectera.
+J'ai décidé d'utiliser de la colle chaude pour fixer le début de la bande à la base du lit. C'est une très bonne idée et cela aide à prévenir les incidents. La colle tient la bande en place et d'évite tout dommage. Dans le cas où l'on aurait oublié de débrancher le circuit, si l'on déplace la base de lit loin de la tête, la bande sera suffisamment collée pour résister au coup et s'est le connecteur RCA qui se déconnectera.
 
 ### Connexion entre les bandes
 

@@ -48,7 +48,7 @@ Here is a list of all library features:
   * Supports `int argc, char* argv[]` argument parsing.
   * Supports case sensitive and case insensitive searches within lists of arguments.
   * Quickly identify unknown arguments.
-  * Supports any type of argument prefixes like: slashes, single dash,&nbsp;&nbsp;double dash, etc.
+  * Supports any type of argument prefixes like: slashes, single dash,  double dash, etc.
   * Encodes multiple single arguments into a full command line.
   * Decodes a command line into individual arguments.
 * Supports both Windows shell (command prompt) and Windows [CreateProcess()](http://msdn.microsoft.com/en-us/library/windows/desktop/ms682425(v=vs.85).aspx) encoding/decoding.
@@ -81,7 +81,7 @@ The `ArgumentList` class is used as a container for arguments. It supports all C
 
 ## Encoding arguments and decoding command line
 
-The encoding and decoding of command line arguments is  with `&lt;span style="font-size: medium;">IArgumentEncoder&lt;/span>` and `&lt;span style="font-size: medium;">IArgumentDecoder&lt;/span>` interfaces. To interact with the interfaces,&nbsp;the `ArgumentList` class is used as input data or output data.
+The encoding and decoding of command line arguments is  with `&lt;span style="font-size: medium;">IArgumentEncoder&lt;/span>` and `&lt;span style="font-size: medium;">IArgumentDecoder&lt;/span>` interfaces. To interact with the interfaces, the `ArgumentList` class is used as input data or output data.
 
 The library provides the following classes which implements both interfaces:
 
@@ -101,7 +101,7 @@ This library is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
 **DISCLAIMER:**  
-This software is furnished &quot;as is&quot;, without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 
@@ -109,7 +109,7 @@ You can download the libArgvCodec library by clicking on the following link:
 
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/2480/" rel="nofollow"> Download &ldquo;libArgvCodec v1.0.104 (source code)&rdquo; <small>libArgvCodec-x86-v1.0.104-src.zip &ndash; Downloaded 526 times &ndash; 99 KB</small> </a>
+		[ Download "libArgvCodec v1.0.104 (source code)" libArgvCodec-x86-v1.0.104-src.zip - Downloaded 526 times - 99 KB ](http://www.end2endzone.com/download/2480/)
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/2482/" rel="nofollow"> Download &ldquo;libArgvCodec v1.0.104 binaries (vs2008, x86, portable)&rdquo; <small>libArgvCodec-x86-v1.0.104-portable.zip &ndash; Downloaded 518 times &ndash; 204 KB</small> </a>
+		[ Download "libArgvCodec v1.0.104 binaries (vs2008, x86, portable)" libArgvCodec-x86-v1.0.104-portable.zip - Downloaded 518 times - 204 KB ](http://www.end2endzone.com/download/2482/)

@@ -56,7 +56,7 @@ Project files are available for Visual Studio 2008 only.
 The following instructions show how to easily test an arduino library using the Google Test framework. It assumes that you are already familiar with the test API.
 
 * Create an executable project and configure the `main()` function to launch Google Test's `RUN_ALL_TESTS()` macro.
-* Create a static library project which will &quot;wrap&quot; all the arduino files of the library you need to test.
+* Create a static library project which will "wrap" all the arduino files of the library you need to test.
 * Modify the static library's `Additionnal Include Directories` to point to win32Arduino library. This allows the wrapping library to resolve all `arduino.h` includes and all arduino symbols using the win32Arduino library.
 
 The project should compile properly without errors or unresolved extensions allowing you to properly unit test each functionality.
@@ -79,7 +79,7 @@ This library is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
 **DISCLAIMER:**  
-This software is furnished &quot;as is&quot;, without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 

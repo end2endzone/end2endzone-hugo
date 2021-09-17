@@ -23,7 +23,7 @@ tags:
 ---
 # Introduction
 
-Ce qui suit la naissance d'un enfant après les réjouissances c'est tous les trucs qu'il faut acheter pour protéger la maison des &quot;dangers potentiels&quot;. Rapidement, on doit acheter une barrière pour bébé.
+Ce qui suit la naissance d'un enfant après les réjouissances c'est tous les trucs qu'il faut acheter pour protéger la maison des "dangers potentiels". Rapidement, on doit acheter une barrière pour bébé.
 
 J'ai regardé plusieurs modèles et je n'ai pas trouvé un modèle qui puisse convenir à mes besoins et à ma situation soit:  
 <!--more-->

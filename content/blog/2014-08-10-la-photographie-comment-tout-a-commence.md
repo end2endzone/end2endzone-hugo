@@ -33,7 +33,7 @@ J'ai dépensé des centaines de dollars sur des caméras inutiles qui ne prenaie
 
 # Le temps d'un changement
 
-J'ai compris que j'avais besoin d'un appareil photo professionnel et que je devais sortir du confort du &quot;mode automatique&quot; pour commencer à utiliser le mode manuel disponible avec un appareil photo reflex numérique. J'ai eu à faire des économies et j'ai finalement acheté un appareil Canon EOS Rebel SL1.
+J'ai compris que j'avais besoin d'un appareil photo professionnel et que je devais sortir du confort du "mode automatique" pour commencer à utiliser le mode manuel disponible avec un appareil photo reflex numérique. J'ai eu à faire des économies et j'ai finalement acheté un appareil Canon EOS Rebel SL1.
 
 Rapidement, j'ai commencé à aimer l'aspect artistique de la photographie et je suis devenu très curieux sur l'aspect technique de chaque photo sur laquelle je suis tombé.
 

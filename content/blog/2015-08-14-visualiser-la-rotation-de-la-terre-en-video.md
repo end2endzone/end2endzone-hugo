@@ -20,7 +20,7 @@ Je caresse depuis longtemps l'idée de faire des photos du ciel et des étoiles.
 
 J'ai donc décidé de sortir en douce de la maison une fois de plus pour pouvoir aller prendre de bonnes photos. La pollution lumineuse des villes environnantes est très nuisible pour se type de projet. Par contre, j'ai réussi à trouver un endroit à Mirabel qui est suffisamment loin de St-Jérôme et de Blainville.
 
-Une fois sur le site, j'ai installé tout mon équipement et pointé la caméra vers le Nord.&nbsp; J'ai capturé des photos des étoiles de façon continue de 1h13 am jusqu'au levé de soleil à 4h30 am.
+Une fois sur le site, j'ai installé tout mon équipement et pointé la caméra vers le Nord.  J'ai capturé des photos des étoiles de façon continue de 1h13 am jusqu'au levé de soleil à 4h30 am.
 
 **Quelques statistiques**:
 

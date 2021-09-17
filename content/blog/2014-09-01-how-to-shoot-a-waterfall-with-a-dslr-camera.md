@@ -23,14 +23,14 @@ tags:
 ---
 # Introduction
 
-Shooting a waterfall with a DSLR camera is not that hard. As usual in photography, you need a lot a patience. The perfect picture is all about managing a long exposure of the waterfall. This will get you a nice look as if the waterfall would be a silk river. In this guide, I will explain how I managed to get this picture of the &quot;Chute du Diable&quot;.  
+Shooting a waterfall with a DSLR camera is not that hard. As usual in photography, you need a lot a patience. The perfect picture is all about managing a long exposure of the waterfall. This will get you a nice look as if the waterfall would be a silk river. In this guide, I will explain how I managed to get this picture of the "Chute du Diable".  
 <!--more-->
 
 # Context
 
 During summer 2014, I went camping with my family to Mont-Tremblant and as always, I have brought my camera with me. I was lucky enough to bring all my camera gears since I was not expecting that I would have to use almost all of them to get a nice picture of a waterfall.
 
-The &quot;Chute du Diable&quot; is located in Canada, Québec, Mont-Tremblant which is around 2 hours North of Montreal. If you still don't know where it is, here is the precise location where I got this shot:
+The "Chute du Diable" is located in Canada, Québec, Mont-Tremblant which is around 2 hours North of Montreal. If you still don't know where it is, here is the precise location where I got this shot:
 
 Latitude:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 46.3828892  
 Longitude: -74.4716262
@@ -61,7 +61,7 @@ You are actually trying to shoot water falling from a high point. There will be 
 
 ## Find your best point of view
 
-Take your time to &quot;read&quot; the area. Is it better from a high point of view or a lower point of view ?
+Take your time to "read" the area. Is it better from a high point of view or a lower point of view ?
 
 Consider the fact that there might be time that are too windy (which would result in blurred leaves in trees) so you might need to find a spot where you do not see too much leaves or at least find a spot where they are not too close to the camera.
 
@@ -104,7 +104,7 @@ Most important of all, do not forget to enjoy what you are doing!
 
 After the capturing process, you may find your pictures are correctly exposed for the waterfall but all the vegetation and rocks around it might be underexposed. To correct this issue, you need to make a manual exposition correction in order to darken highly exposed areas while lightening underexposed areas. This is why it is important to shoot in RAW. The correction can be done with [Lightroom](http://www.adobe.com/ca/products/photoshop-lightroom.html) easily.
 
-If you do not have access to a copy of [Lightroom](http://www.adobe.com/ca/products/photoshop-lightroom.html), you can do the same effect (almost) with free tools. The same effect can be achieved by applying a &quot;Contrast Mask&quot; on the image using the free image editor [Gimp](http://www.gimp.org/). The process is described here: &quot;[GIMP - Creating a Contrast Mask](http://www.gimp.org/tutorials/ContrastMask/)&quot;.
+If you do not have access to a copy of [Lightroom](http://www.adobe.com/ca/products/photoshop-lightroom.html), you can do the same effect (almost) with free tools. The same effect can be achieved by applying a "Contrast Mask" on the image using the free image editor [Gimp](http://www.gimp.org/). The process is described here: "[GIMP - Creating a Contrast Mask](http://www.gimp.org/tutorials/ContrastMask/)".
 
 **EDIT:** See below for a Lightroom corrected image.
 
@@ -134,10 +134,10 @@ Went I shot this waterfall, I had to get there at noon. During this time of the 
 
 The perfect time of the day to get a nice shot is to go soon after sunrise or a little before sunset. These are the best time because the light is even for both the waterfall and the surrounding. You may also realize that you may not need ND filters and be able to correct the exposure just by managing a narrower aperture.
 
-Another good time of the day would be during &quot;Grey days&quot;. When there is enough clouds in the sky to create a constant diffuse light. That kind of lighting would be better than bright sunny days at noon!
+Another good time of the day would be during "Grey days". When there is enough clouds in the sky to create a constant diffuse light. That kind of lighting would be better than bright sunny days at noon!
 
 ## Better composition
 
-When I was on site, I was overwhelmed by the waterfall and all the noise and the mist it was making. &nbsp;I completely forgot to manage to properly frame the waterfall in it's context. I picture with more vegetation and showing the trees around it would have better showed the waterfall in it's context and would have made a better picture.
+When I was on site, I was overwhelmed by the waterfall and all the noise and the mist it was making.  I completely forgot to manage to properly frame the waterfall in it's context. I picture with more vegetation and showing the trees around it would have better showed the waterfall in it's context and would have made a better picture.
 
 

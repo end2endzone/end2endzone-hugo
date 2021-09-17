@@ -26,7 +26,7 @@ Il s'agit d'une version clone du F450 de DJI. Je l'utilise depuis plus de 2 ans 
 
 L'assemblage du quadrirotor s'effectue sur 2 jours. Comme dans tous les projets, on n'est jamais suffisamment préparé. Forcément, lors de ma première journée...
 
-&quot;Il me manque des connecteurs pour les moteurs.<br /> On remballe le tout!<br /> C'est terminé pour aujourd'hui...&quot;
+"Il me manque des connecteurs pour les moteurs.<br /> On remballe le tout!<br /> C'est terminé pour aujourd'hui..."
 
 À&nbsp;titre d'information, il s'agit du quadrirotor sur lequel [j'ai ajouté un LED ultra-puissant et une alarme](/diy-lost-plane-alarm-finder-and-10-watts-led-visual-aids-for-easy-orientation/)&nbsp;afin de pouvoir le retrouver en cas de crash inattendu.
 

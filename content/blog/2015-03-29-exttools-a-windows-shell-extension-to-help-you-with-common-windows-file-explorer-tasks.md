@@ -24,7 +24,7 @@ It's main features are:
   * Advanced clipboard support (copy, append or modify).
   * File operation queuing (batch copy or paste).
   * Better & quicker file deletions.
-  * Powerful&nbsp;file renaming algorithms.
+  * Powerful file renaming algorithms.
   * XP like search tool (simple search tool).
   * Extends Windows File Explorer by registering as a Shell Extension.
 
@@ -77,11 +77,11 @@ Below is all the tools that are included in extTools. A quick description is ava
 
 extFileRenamer screenshot (pattern #1)
 
-extFileRenamer is a powerful file renaming manager. This application can rename a bunch of files according to a pattern (with increasing numbers) or rename files using a &quot;search & replace&quot; technique to remove the same word(s) from multiple files.
+extFileRenamer is a powerful file renaming manager. This application can rename a bunch of files according to a pattern (with increasing numbers) or rename files using a "search & replace" technique to remove the same word(s) from multiple files.
 
 extFileRenamer has the following features:
 
-  * Allows you to rename files using a pattern or with a &quot;search & replace&quot; through the file names.
+  * Allows you to rename files using a pattern or with a "search & replace" through the file names.
   * Manually select target files to rename.
   * Live preview of renamed files.
   * Automatic detection of renaming conflict (before renaming files!)
@@ -196,7 +196,7 @@ extDelete supports 3 deletion modes:
 
 extDelete screenshot (normal delete mode)
 
-This mode is the standard mode. It is really similar to the default Windows folder delete implementation. Before actually deleting files, it will first try to &quot;discover&quot; all the files within the target folder to compute the number of files to be deleted. A nice progress bar is also displayed to show the completion of the task.
+This mode is the standard mode. It is really similar to the default Windows folder delete implementation. Before actually deleting files, it will first try to "discover" all the files within the target folder to compute the number of files to be deleted. A nice progress bar is also displayed to show the completion of the task.
 
 ### Fast
 
@@ -204,9 +204,9 @@ This mode is the standard mode. It is really similar to the default Windows fold
 
 extDelete screenshot (fast delete mode)
 
-This is the main feature of extDelete. This mode allow a user to retrieve the deleted space as soon as possible. A nice GUI shows the amount of files and the retrieved size from deleted files &quot;so far&quot;.
+This is the main feature of extDelete. This mode allow a user to retrieve the deleted space as soon as possible. A nice GUI shows the amount of files and the retrieved size from deleted files "so far".
 
-It is designed to be the opposite behavior of the default Windows delete process which has to &quot;discover&quot; all the files in the target folder to show the total space to be deleted and an accurate &quot;remaining time&quot;. The discovering process can take forever when dealing with folders that has many files.
+It is designed to be the opposite behavior of the default Windows delete process which has to "discover" all the files in the target folder to show the total space to be deleted and an accurate "remaining time". The discovering process can take forever when dealing with folders that has many files.
 
 This mode is convenient when your are copying a huge amount of files from a remote drive to a local drive and finding out that you may not have enough space left.
 
@@ -228,7 +228,7 @@ Please note that extDelete _**secure**_ deletion mode is not safe when deleting 
 This mode allows a user to destroy the content of every file ([Zeroisation](http://en.wikipedia.org/wiki/Zeroisation)) before deleting it preventing any file recovery ([Undelete](http://en.wikipedia.org/wiki/Undeletion)). Each file deleted in secured mode will see its data lost forever. If a user successfully undeletes a file, the content of the file will all be 0.
 
 {{< pleasenote >}}
-  **Note:** This mode has to &quot;discover&quot; the files first.
+  **Note:** This mode has to "discover" the files first.
 {{< /pleasenote >}}
 
 
@@ -240,7 +240,7 @@ extFileSplitter screenshot (split)
 
 extFileSplitter is a file splitting and joining application. It allows you to split a file to multiple smaller parts for easier management and join them back together later.
 
-Supported split values are bytes, kilobytes, megabytes, gigabytes or &quot;files&quot; which split the file evenly into the specified amount of files.
+Supported split values are bytes, kilobytes, megabytes, gigabytes or "files" which split the file evenly into the specified amount of files.
 
 Each file is split into smaller files which have the same name as the original with a sequential number append at the end. For instance, big\_file.mp4 will be split into big\_file.mp4.001, big\_file.mp4.002, big\_file.mp4.003, big_file.mp4.004 and so forth.
 
@@ -257,7 +257,7 @@ extFileSplitter is really useful for splitting a huge file on multiple medias (C
 {{< /pleasenote >}}
 
 
-## &nbsp;extImageEncoder
+##  extImageEncoder
 
 [![extImageEncoder screenshot](http://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot.png)
 
@@ -338,7 +338,7 @@ static const GUID <<name>> =
 
 extAnsiPrinter screenshot (apple)
 
-extAnsiPrinter a command prompt only application (no GUI). It is an implementation of the old DOS driver ANSI.SYS. This driver is not available anymore on recent windows operating systems.&nbsp;This tools bring back this functionality and allows you to render ANSI files (*.ans) on a windows command prompt (win32).
+extAnsiPrinter a command prompt only application (no GUI). It is an implementation of the old DOS driver ANSI.SYS. This driver is not available anymore on recent windows operating systems. This tools bring back this functionality and allows you to render ANSI files (*.ans) on a windows command prompt (win32).
 
 **Usage:** extAnsiPrinter [ansi file] 
 

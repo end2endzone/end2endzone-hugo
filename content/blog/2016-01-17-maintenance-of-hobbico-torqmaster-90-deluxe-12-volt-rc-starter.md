@@ -41,12 +41,12 @@ This is a Hobbico Torqmaster 90 Deluxe 12 Volt Starter. It is designed for start
 
 The rubber insert can be changed 
 
-**without** dissembling the whole unit. &nbsp;The insert is not glued or screwed into the drive cone but is inserted by pressure. Removing the insert can be done using one of the following ways: If the old rubber insert can be disposed, then the easiest way is to use long nose pliers and try to &quot;pluck&quot; the rubber material around the hex screw until the insert can be removed with your hands. Here is a picture of the insert removed with this method: 
+**without** dissembling the whole unit.  The insert is not glued or screwed into the drive cone but is inserted by pressure. Removing the insert can be done using one of the following ways: If the old rubber insert can be disposed, then the easiest way is to use long nose pliers and try to "pluck" the rubber material around the hex screw until the insert can be removed with your hands. Here is a picture of the insert removed with this method: 
 
 [![Hobbico TorqMaster old / used Rubber Insert](http://www.end2endzone.com/wp-content/uploads/2015/09/IMG_6819_LR5.jpg)](http://www.end2endzone.com/wp-content/uploads/2015/09/IMG_6819_LR5.jpg)
 
 Hobbico TorqMaster old / used Rubber Insert
-Another way is to try to unscrew the Drive Cone from the shaft of the unit. Use the 10 mm hex socket and try to push against the rubber to force the socket to get between the nut and the rubber and unscrew.&nbsp;Once you removed the screw from the cone, you will have enough free space for the rubber insert to be pushed to the inside of cone and then you can &quot;pinch&quot; it with long nose pliers and pull it out. The new Hobbico TorqMaster Rubber Insert (Air) can be inserted by pressure into the Driver Cone without difficulty. 
+Another way is to try to unscrew the Drive Cone from the shaft of the unit. Use the 10 mm hex socket and try to push against the rubber to force the socket to get between the nut and the rubber and unscrew. Once you removed the screw from the cone, you will have enough free space for the rubber insert to be pushed to the inside of cone and then you can "pinch" it with long nose pliers and pull it out. The new Hobbico TorqMaster Rubber Insert (Air) can be inserted by pressure into the Driver Cone without difficulty. 
 
 ## Opening the case
 The case is held in place by 2 screws. Both screws are 4 inches long (goes through the whole body) and have a 8 mm hexadecimal head. To open the case, remove the 2 screws then pull out the back cover. 
@@ -79,7 +79,7 @@ Here is a few tricks that may help you assemble the unit. What you need to do is
 Use masking tape and tape the switch to keep all the moving parts into a single piece. Once the unit is assembled, you can pull on the tape which will slide under the switch and easily be removed without leaving a greasy or sticky finish. 
 
 ### The brushes
-Installing the brushes back on the rotor is probably the hardest part to do. The problem is that the spring of the brush must be compressed almost completely to be able to insert the rotor between the two brushes.&nbsp;I am also suspecting that you may need a special tool for doing it. However, I found out a nice and easy trick for keeping the springs compressed while having your hands free for putting the rotor back in place: use paperclips. The goal is to use small and easily bendable paper clips to &quot;hold&quot; the compressed brushes leaving enough free space for the rotor.&nbsp;Then, you bend each clips so they go through the bolt hole of the back cover. The following image shows the paper clips in place: 
+Installing the brushes back on the rotor is probably the hardest part to do. The problem is that the spring of the brush must be compressed almost completely to be able to insert the rotor between the two brushes. I am also suspecting that you may need a special tool for doing it. However, I found out a nice and easy trick for keeping the springs compressed while having your hands free for putting the rotor back in place: use paperclips. The goal is to use small and easily bendable paper clips to "hold" the compressed brushes leaving enough free space for the rotor. Then, you bend each clips so they go through the bolt hole of the back cover. The following image shows the paper clips in place: 
 
 [![Paper clips blocking the Hobbico TorqMaster 90 brushes](http://www.end2endzone.com/wp-content/uploads/2016/01/IMG_1986_LR5.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/01/IMG_1986_LR5.jpg)
 

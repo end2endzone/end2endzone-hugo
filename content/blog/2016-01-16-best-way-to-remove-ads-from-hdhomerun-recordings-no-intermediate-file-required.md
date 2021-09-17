@@ -62,14 +62,14 @@ By default, VirtualDub is only able to read AVI files which is not helpful becau
 [NFO available here](/wp-content/uploads/2015/10/Montreal-CBFT-DT-Codec-NFO.nfo). This plugin allows reading files that are not AVI and works perfectly with Montreal's CBFT-DT MPEG 2 files. The installation is pretty strait forward, simply run the installer and select the location of where VirtualDub is installed. Once the process is completed, you should see the plugin available (*.vdf) within the _plugins32_ folder. 
 
 ## Avisynth
-Avisynth as its name implies is an AVI file generator. The Avisynth web site describes their tool as &quot;
+Avisynth as its name implies is an AVI file generator. The Avisynth web site describes their tool as "
 
-_a scripting language and a collection of filters for simple (and not so simple!) non-linear video editing tasks. It frameserves video to applications_&quot;.&nbsp;In this scenario, Avisynth is used to parse VirtualDub's frame server reference file (*.vdr) and wrap the results as an AVI file for AVFS to use. To install, run the installer and follow the on-screen instructions. 
+_a scripting language and a collection of filters for simple (and not so simple!) non-linear video editing tasks. It frameserves video to applications_". In this scenario, Avisynth is used to parse VirtualDub's frame server reference file (*.vdr) and wrap the results as an AVI file for AVFS to use. To install, run the installer and follow the on-screen instructions. 
 
 ## Pismo File Mount Audit Package
-&quot;
+"
 
-_Pismo File Mount is an operating system extension that enables application controlled virtual and user mode file systems. Using Pismo File Mount, applications can expose all kinds of program and user data through the file system interface_&quot;. This software does not have any interaction with the user but it is required by AVFS to create the virtual folder containing the virtual files (\*.AVI, \*.WAV). 
+_Pismo File Mount is an operating system extension that enables application controlled virtual and user mode file systems. Using Pismo File Mount, applications can expose all kinds of program and user data through the file system interface_". This software does not have any interaction with the user but it is required by AVFS to create the virtual folder containing the virtual files (\*.AVI, \*.WAV). 
 
 [![Pismo File Mount Audit Package Install](http://www.end2endzone.com/wp-content/uploads/2015/12/Pismo-File-Mount-Audit-Package-Install.jpg)](http://www.end2endzone.com/wp-content/uploads/2015/12/Pismo-File-Mount-Audit-Package-Install.jpg)
 
@@ -81,7 +81,7 @@ _pfmap-173-win.exe_ and following the on-screen instructions.
 ## AVFS
 AVFS is the heart of the whole process. It allows the user to create a virtual file from an Avisynth script file using the 
 
-_Pismo File Mount_ system extension. &quot;_AVFS is a virtual file system that exposes the output of Avisynth scripts through the file system as a set of virtual media files. This allows Avisynth to feed media applications and converters that do not use the VFW API_&quot;. In this scenario, AVFS is used to create the virtual AVI file for Handbrake to use. 
+_Pismo File Mount_ system extension. "_AVFS is a virtual file system that exposes the output of Avisynth scripts through the file system as a set of virtual media files. This allows Avisynth to feed media applications and converters that do not use the VFW API_". In this scenario, AVFS is used to create the virtual AVI file for Handbrake to use. 
 
 ### Installing version 1.0.0.5 (and previous versions)
 Version 1.0.0.5 (and previous versions) are released with 
@@ -140,9 +140,9 @@ Virtualdub is the best video editing application I know. It supports video resiz
   6. Save your modifications to a VirtualDub script file (*.vdscript) file
 
 ## Video codec selection
-Since we are chaining application one into the other, there is no need to use video codec compression between application. Compressing frames between application will only slow down the speed at which each frames are pushed in the chain. You computer is more than capable dealing with uncompressed frames even in full HD resolution. You also reduce the risk of loosing quality between applications so leave the video compression to &quot;
+Since we are chaining application one into the other, there is no need to use video codec compression between application. Compressing frames between application will only slow down the speed at which each frames are pushed in the chain. You computer is more than capable dealing with uncompressed frames even in full HD resolution. You also reduce the risk of loosing quality between applications so leave the video compression to "
 
-_Uncompressed RGB/YCbCr_&quot;. The final video compression will occur within Handbrake. 
+_Uncompressed RGB/YCbCr_". The final video compression will occur within Handbrake. 
 
 [![Virtualdub Uncompressed RGB Video Codec Selection](http://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png)](http://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png)
 
@@ -173,19 +173,19 @@ VirtualDub Frameserver Options Window
 [![VirtualDub Frameserver Mode](http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png)](http://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png)
 
 VirtualDub Frameserver Mode
-The frameserver is now ready to provide frames to other applications.&nbsp;Leave the dialog running until the encoding with handbrake is complete.&nbsp;Press 
+The frameserver is now ready to provide frames to other applications. Leave the dialog running until the encoding with handbrake is complete. Press 
 
-_Stop serving_ button to return to VirtualDub's editing mode. A safe way to know if VirtualDub is done serving frames is to look at the &quot;_Number of frames served_&quot; value. If it stopped increasing, it means that Handbrake and the frameclient is done processing all frames. *** Warning:** Pressing _Stop serving_&nbsp;button while the frame server is serving frames to Handbrake might corrupt your output (compressed) video. 
+_Stop serving_ button to return to VirtualDub's editing mode. A safe way to know if VirtualDub is done serving frames is to look at the "_Number of frames served_" value. If it stopped increasing, it means that Handbrake and the frameclient is done processing all frames. *** Warning:** Pressing _Stop serving_&nbsp;button while the frame server is serving frames to Handbrake might corrupt your output (compressed) video. 
 
 ### Missing frameclients issue ?
 
-**Note:** if you see &quot;_Frameclients installed: AVIFile only_&quot;, you can skip this section. What ? My screenshot says &quot;_Frameclients installed: None_&quot;. What does that means ? This message means that your system does not have a valid AVIFile handler installed. You probably missed a step in the [Register VirtualDub AVIFile handler](#Register_VirtualDub_AVIFile_handler) section. 
+**Note:** if you see "_Frameclients installed: AVIFile only_", you can skip this section. What ? My screenshot says "_Frameclients installed: None_". What does that means ? This message means that your system does not have a valid AVIFile handler installed. You probably missed a step in the [Register VirtualDub AVIFile handler](#Register_VirtualDub_AVIFile_handler) section. 
 
 ## AviSynth Custom Script
 Now that VirtualDub is ready to server frames to the next application, you need to create an AviSynth file that will wrap the VirtualDub AVIFile signpost (*.vdr) file and generate a valid AVI stream. 
 
   1. Create a text file next to the VirtualDub AVIFile signpost (\*.vdr) file with the avs file extension (\*.avs). It is a good practice to use the same path & filename as the *.vdr file.
-  2. Enter the following text in the file: _AviSource(&quot;full\_path\_to_vdr&quot;)_ (replace _full\_path\_to_vdr_&nbsp;by the actual full path to your vdr file).
+  2. Enter the following text in the file: _AviSource("full\_path\_to_vdr")_ (replace _full\_path\_to_vdr_&nbsp;by the actual full path to your vdr file).
   3. Save the file. Here is an example of a valid AviSynth Script file (*.avs): 
 
 {{< hightlight-static-file file="/static/wp-content/uploads/2015/11/1021_20150405183000.avs" lang="cpp" >}}
@@ -270,4 +270,4 @@ The AVI file is now ready for encoding using Handbrake. Enjoy your TV show episo
 Handbrake video settings
 
 # What you get
-In the end, you get a perfectly encoded video without any ADS! A 1 hour recording of Montreal's CBFT-DT which is in 720p MPEG 2 format is 7.72 GB.&nbsp; Removing ads from this recording and encoding with Handbrake using a quality based profile will reduce the file size to 1.20 GB.
+In the end, you get a perfectly encoded video without any ADS! A 1 hour recording of Montreal's CBFT-DT which is in 720p MPEG 2 format is 7.72 GB.  Removing ads from this recording and encoding with Handbrake using a quality based profile will reduce the file size to 1.20 GB.

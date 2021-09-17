@@ -48,7 +48,7 @@ This section defines the list of required software for the project. Follow the i
 ## Write Raspberry Pi OS image file to your SD card
 
   1. Launch the  _**Raspberry Pi Imager**_ for writing the  _**Raspberry Pi OS**_ image file to your SD card. There are plenty of online tutorial for this operation
-  2. Turn on the Raspberry Pi and follow &quot;first launch&quot; instructions on screen.
+  2. Turn on the Raspberry Pi and follow "first launch" instructions on screen.
 
 ## Update the Raspberry Pi firmware
 
@@ -133,7 +133,7 @@ The following instructions explains how to reduce the size of the OS partition:
   5. Create a partition for the remaining space of the SSD.  
     Format the partition as **ext4**. This is to make sure we get the best read and write performance.  
     For reference, the Rraspberry Pi 4 is capable of the following writing speeds: 
-    &nbsp;
+     
     
       * 85 mb/s to an external usb 3.0 SSD with an ext4 partition.
       * 26 mb/s to an external usb 3.0 SSD with an NTFS partition.
@@ -323,7 +323,7 @@ tvheadend - network settings
 
 Leave the _IPTV_ fields from _Network 1_ blank.
 
-At this point, tbheadend should have already discovered both _HDHomeRun ATSC-T Tuner #0 and #1_ identified in &quot;**Network 2**&quot; and &quot;**Network 3**&quot; sections. Select **ATSC-T Network** in the _Network type_ fields for each network.
+At this point, tbheadend should have already discovered both _HDHomeRun ATSC-T Tuner #0 and #1_ identified in "**Network 2**" and "**Network 3**" sections. Select **ATSC-T Network** in the _Network type_ fields for each network.
 
 Click **Save & Next** to get to the next page.
 
@@ -333,7 +333,7 @@ Click **Save & Next** to get to the next page.
 
 tvheadend - muxes
 
-We now have to set the &quot;muxes&quot;. To save you from manually entering muxes, Tvheadend includes predefined mux lists. For best results in Montreal area, select the following muxes: **United States: us-ATSC-center-frequencies-8VSB**
+We now have to set the "muxes". To save you from manually entering muxes, Tvheadend includes predefined mux lists. For best results in Montreal area, select the following muxes: **United States: us-ATSC-center-frequencies-8VSB**
 
 Click **Save & Next** to get to the next page.
 
@@ -343,7 +343,7 @@ Click **Save & Next** to get to the next page.
 
 tvheadend - scan status
 
-The scan will now commence. It will search for &quot;muxes&quot; and &quot;services&quot; that are distributed via those muxes. Note, a service is a TV channel. When the scan hits 100% you'll be able to see how many muxes and services it's picked up.
+The scan will now commence. It will search for "muxes" and "services" that are distributed via those muxes. Note, a service is a TV channel. When the scan hits 100% you'll be able to see how many muxes and services it's picked up.
 
 [![tvheadend - scan status (100% completed)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b.png)
 

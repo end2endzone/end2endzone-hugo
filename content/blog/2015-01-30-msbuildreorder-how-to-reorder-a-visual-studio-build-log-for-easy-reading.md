@@ -26,9 +26,9 @@ tags:
 
 ![](https://img.shields.io/badge/License-MIT-yellow.svg)![](https://img.shields.io/github/release/end2endzone/msbuildreorder.svg)![](https://ci.appveyor.com/api/projects/status/911ry08o97ubv506/branch/master?svg=true)![](https://img.shields.io/appveyor/tests/end2endzone/msbuildreorder/master.svg)![](https://img.shields.io/github/downloads/end2endzone/msbuildreorder/total.svg) 
 
-MSBuildReorder is a tool for &quot;reordering&quot; (buildorder) a multi-process C++&nbsp;build log. It allows a developer to convert the build log as if it was generated with a single processor.<!--more-->
+MSBuildReorder is a tool for "reordering" (buildorder) a multi-process C++&nbsp;build log. It allows a developer to convert the build log as if it was generated with a single processor.<!--more-->
 
-Building a solution that has multiple projects can quickly become bloated with too many lines that are not related to each other. For this reason, finding the actual cause of a build fail is harder than it should be. &nbsp;MSBuildReorder is able to read the log and reorder the projects in a sequential order.
+Building a solution that has multiple projects can quickly become bloated with too many lines that are not related to each other. For this reason, finding the actual cause of a build fail is harder than it should be.  MSBuildReorder is able to read the log and reorder the projects in a sequential order.
 
 It's main features are:
 

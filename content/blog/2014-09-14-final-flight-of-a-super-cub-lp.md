@@ -18,7 +18,7 @@ tags:
 ---
 # The Good
 
-After 1½ month of flying the plane, I was feeling a little more confident and I trusted enough myself for doing loops. &nbsp;So at the end of the 2013 season,&nbsp;I went flying with a friend with my Super Cub LP. I wasn't expecting any disaster...  
+After 1½ month of flying the plane, I was feeling a little more confident and I trusted enough myself for doing loops.  So at the end of the 2013 season, I went flying with a friend with my Super Cub LP. I wasn't expecting any disaster...  
 <!--more-->
 
 It was a little cloudy & windy but I went flying anyway because I was too much confident that nothing could happen since I had 6-7 flights of experience!<br /> 
@@ -37,7 +37,7 @@ Here is the video of the crash:
 
 # The explanation
 
-During my encounter with the trees, one of the servo got loose in its socket and the glue (silicon) that was holding the servo to the fuselage was not holding anything anymore! During the flight, the servo pushed itself&nbsp;out of its socket instead of pushing on the elevator rod resulting in a hard crash.
+During my encounter with the trees, one of the servo got loose in its socket and the glue (silicon) that was holding the servo to the fuselage was not holding anything anymore! During the flight, the servo pushed itself out of its socket instead of pushing on the elevator rod resulting in a hard crash.
 
 # The damage
 
@@ -67,4 +67,4 @@ Super Cub LP Crash (engine smashed)
 
 # Final note
 
-This adventure stopped me from flying during the 2013 season. I wasn't mad that it happened.&nbsp;This event made me realize that repairing your model is also part of the hobby.&nbsp;In a future post, I will show you how I repaired everything to get the Super Cub LP back into the air.
+This adventure stopped me from flying during the 2013 season. I wasn't mad that it happened. This event made me realize that repairing your model is also part of the hobby. In a future post, I will show you how I repaired everything to get the Super Cub LP back into the air.

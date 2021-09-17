@@ -28,7 +28,7 @@ The basic idea is to convert the code to their lowest common denominator which i
 
 ## Handling structured or logical code
 
-Some programs are written in an optimized fashion where reapeated sections of a melody are extracted into a function.&nbsp;ie: `playRefrain()`. The function is then called multiple times to play the whole melody.&nbsp;This method is an effective way to reduce code size but [libRtttl](http://www.end2endzone.com/librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/) gui is unable to parse this code.
+Some programs are written in an optimized fashion where reapeated sections of a melody are extracted into a function. ie: `playRefrain()`. The function is then called multiple times to play the whole melody. This method is an effective way to reduce code size but [libRtttl](http://www.end2endzone.com/librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/) gui is unable to parse this code.
 
 Other programs could also use `tone()` or `delay()` calls using `Constants`. A typical usage of this method is to use predefined note names for frequencies which makes the code easier to read. However, constants are also hard to extract by [libRtttl](http://www.end2endzone.com/librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/) gui which does not yet support this feature.
 
@@ -55,7 +55,7 @@ To hande these kind of program, the following code can be added at the beginning
 
 
 {{< pleasenote >}}
-  Note that the code above is later refered to as &quot;_Arduino tone and delay functions overrides_&quot;.
+  Note that the code above is later refered to as "_Arduino tone and delay functions overrides_".
 {{< /pleasenote >}}
 
 
@@ -71,7 +71,7 @@ Source code:
   * Code from pastebin:&nbsp;<http://pastebin.com/q76D0asp>
   * Cache version here:&nbsp;[FULL Game of Thrones Theme Song on Arduino](http://www.end2endzone.com/wp-content/uploads/2016/05/FULL-Game-of-Thrones-Theme-Song-on-Arduino.ino)
 
-Modify the code by adding the _&quot;Arduino tone and delay functions overrides&quot;_ to the code. Once done, the code should be looking like this:
+Modify the code by adding the _"Arduino tone and delay functions overrides"_ to the code. Once done, the code should be looking like this:
 
 {{< hightlight-static-file file="/static/wp-content/uploads/2016/05/FULL-Game-of-Thrones-Theme-Song-on-Arduino-call-extraction-version.ino" lang="" >}}
 
@@ -102,7 +102,7 @@ Source code:
   * Code from pasted: <http://pasted.co/e525c1b2>
   * Cache version here:&nbsp;[Star_Wars_-_The_imperial_March](http://www.end2endzone.com/wp-content/uploads/2016/05/Star_Wars_-_The_imperial_March.ino)
 
-Modify the code by adding the &quot;_Arduino tone and delay functions overrides_&quot; to the code. Once done, the code should be looking like this:
+Modify the code by adding the "_Arduino tone and delay functions overrides_" to the code. Once done, the code should be looking like this:
 
 {{< hightlight-static-file file="/static/wp-content/uploads/2016/05/Star_Wars_-_The_imperial_March-modified.ino" lang="cpp" >}}
 
@@ -133,7 +133,7 @@ Source code:
   * Code from GitHub: <https://raw.githubusercontent.com/tsukisan/Arduino/master/WiiClassicSoundboard/WiiClassicSoundboard.ino>
   * Cache version here:&nbsp;[WiiClassicSoundboard - Super Mario Bros. themes](http://www.end2endzone.com/wp-content/uploads/2016/11/WiiClassicSoundboard.ino)
 
-Modify the code by adding the &quot;_Arduino tone and delay functions overrides_&quot; to the code. Once done, the code should be looking like this:
+Modify the code by adding the "_Arduino tone and delay functions overrides_" to the code. Once done, the code should be looking like this:
 
 {{< hightlight-static-file file="/static/wp-content/uploads/2016/11/WiiClassicSoundboard-Super-Mario-Bros.-themes-modified.ino" lang="cpp" >}}
 
@@ -142,7 +142,7 @@ which result in the following data outputted on the serial port:
 {{< hightlight-static-file file="/static/wp-content/uploads/2016/11/Super-Mario-Bros.-themes-function-calls.txt" lang="cpp" >}}
 
 {{< pleasenote >}}
-  Note that output contains the following function calls:&nbsp;`tone(12,0,something);`. Unfortunately, the libRtttl does not properly identify these lines as &quot;silence pin 12&quot; but they can safely be removed from the output without any issue.
+  Note that output contains the following function calls:&nbsp;`tone(12,0,something);`. Unfortunately, the libRtttl does not properly identify these lines as "silence pin 12" but they can safely be removed from the output without any issue.
 {{< /pleasenote >}}
 
 

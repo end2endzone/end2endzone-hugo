@@ -25,7 +25,7 @@ tags:
 
 ---
 # Introduction
-If you look on the internet for &quot;mixing&quot;, you will usually find posts and articles of people asking for things like &quot;what is the best mix I should use for this or that&quot; which I think is not helpful. I think it is far more helpful to actually understand what mixing is and how it can help you improve your skills as a pilot. Lately I wanted to understand how mixing could help me in a personal project. I took this opportunity to learn something new and try to demystifying RC Transmitter Mixing.
+If you look on the internet for "mixing", you will usually find posts and articles of people asking for things like "what is the best mix I should use for this or that" which I think is not helpful. I think it is far more helpful to actually understand what mixing is and how it can help you improve your skills as a pilot. Lately I wanted to understand how mixing could help me in a personal project. I took this opportunity to learn something new and try to demystifying RC Transmitter Mixing.
 
 <!--more-->
 
@@ -68,8 +68,8 @@ In other words, mixing allows you to affect a Slave Channel based on the input o
 # When to not use mixes
 There is a lot of situations where using mixes is not recommended: 
 
-* If you are flying a &quot;trainer&quot;. It is called a trainer for a reason. It means you should train yourself as a pilot to make the corrections yourself.
-* If you are a new pilot (flying for less than 2-3 years).&nbsp;Using mixes wont make you a better pilot. In fact it will make things worst.&nbsp;Is is only recommended to learn to fly first without any help from your transmitter and then experiment at a higher skill level. Using mixes is not the best thing for the development of your skills. Learn to fly without any mix first to learn the proper technique. As for personal development, it is far more rewarding to not use mixes at all. It will pay off and you will thank yourself in the future. Keep in mind that mixes does not solve everything. In fact, the more mixes you have, the bigger your problem could get. If you add a Ailerons to Rudder mix to get good coordinated turns, imagine trying to land in a cross wind situation or flying inverted. Things can get ugly pretty quick. It is also strongly suggested to assign a switch to a mix in order to toggle the mix ON and OFF. This way, if something is wrong with the mix, you can get back to the normal behavior of your transmitter. 
+* If you are flying a "trainer". It is called a trainer for a reason. It means you should train yourself as a pilot to make the corrections yourself.
+* If you are a new pilot (flying for less than 2-3 years). Using mixes wont make you a better pilot. In fact it will make things worst. Is is only recommended to learn to fly first without any help from your transmitter and then experiment at a higher skill level. Using mixes is not the best thing for the development of your skills. Learn to fly without any mix first to learn the proper technique. As for personal development, it is far more rewarding to not use mixes at all. It will pay off and you will thank yourself in the future. Keep in mind that mixes does not solve everything. In fact, the more mixes you have, the bigger your problem could get. If you add a Ailerons to Rudder mix to get good coordinated turns, imagine trying to land in a cross wind situation or flying inverted. Things can get ugly pretty quick. It is also strongly suggested to assign a switch to a mix in order to toggle the mix ON and OFF. This way, if something is wrong with the mix, you can get back to the normal behavior of your transmitter. 
 
 # Basic mixes
 There are some basic mixes that you may be interested into. Here are some example: 
@@ -89,7 +89,7 @@ This is for a twin engine plane where each ESC is controlled by a separate chann
 This one is only available if your flaps can move up. It wont work if your flaps only goes down. Mixing your ailerons to your flaps will allow your flaps to follow its matching aileron effectively turning the whole trailing edge of the wing into one long aileron. This is useful for some high aerobatic maneuvers. 
 
 ## Flaps to Elevator
-Mix a small amount of Flaps in Elevator (the opposite way) to prevent the &quot;bump&quot; caused by enabling the flaps. 
+Mix a small amount of Flaps in Elevator (the opposite way) to prevent the "bump" caused by enabling the flaps. 
 
 # Useful mixes
 
@@ -106,7 +106,7 @@ This trick can come valuable in some situation.
 ## Forcing a value
 A mix can be used to force a given value to a channel. A typical use is triggering Failsafe flight mode. Say you have the following flight modes: 
 
-**\[gps\] \[failsafe\] \[attitude\] \[failsafe\] [manual]**. Assuming that the first Failsafe mode is identical to the second Failsafe, you need to assign two 2-position switches to implement all possible modes. In this case, no mix is required. Another way of implementing this is to use a 3-position switch and assign the **[gps]**, **[attitude]** and **[manual]**&nbsp;flight modes to this switch and use a second 2-position switch as a &quot;panic&quot; switch that triggers \[Failsafe\] (while also disabling the flight mode switch).&nbsp;A mix is required to cancel out the first switch and a second mix to force the flight mode channel to move to [Failsafe] position. See also [Cancelling a switch](#Cancelling_a_switch). 
+**\[gps\] \[failsafe\] \[attitude\] \[failsafe\] [manual]**. Assuming that the first Failsafe mode is identical to the second Failsafe, you need to assign two 2-position switches to implement all possible modes. In this case, no mix is required. Another way of implementing this is to use a 3-position switch and assign the **[gps]**, **[attitude]** and **[manual]**&nbsp;flight modes to this switch and use a second 2-position switch as a "panic" switch that triggers \[Failsafe\] (while also disabling the flight mode switch). A mix is required to cancel out the first switch and a second mix to force the flight mode channel to move to [Failsafe] position. See also [Cancelling a switch](#Cancelling_a_switch). 
 
 ## Throttle cut mix
 By combining 

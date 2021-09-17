@@ -24,7 +24,7 @@ Le tout présenté en time lapse.
 
 # Description
 
-Le Radian Pro est un planeur de 78.5 pouces d'envergure. Le fuselage mesure 45 pouces.&nbsp;Il est motorisé ce qui veut dire qu'il n'a pas besoin d'être remorqué pour prendre son envol et qu'il peut par lui même reprendre de l'altitude lorsque nécessaire.
+Le Radian Pro est un planeur de 78.5 pouces d'envergure. Le fuselage mesure 45 pouces. Il est motorisé ce qui veut dire qu'il n'a pas besoin d'être remorqué pour prendre son envol et qu'il peut par lui même reprendre de l'altitude lorsque nécessaire.
 
 La fiche technique peut être retrouvée à cette adresse: <http://www.parkzone.com/Products/Default.aspx?ProdID=PKZ5480>
 

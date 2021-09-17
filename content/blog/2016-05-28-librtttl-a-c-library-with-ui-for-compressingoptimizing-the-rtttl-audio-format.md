@@ -47,7 +47,7 @@ See this post for a [quick recall of the RTTTL format](/nonblockingrtttl-a-non-b
 
 # Purpose
 
-RTTTL songs available on the internet are not optimized for the smallest size.&nbsp;Still they are readable by a human but they are far from optimized for the arduino embedded device. Most RTTTL song can be optimized (without quality loss) and have their size reduced by ~20%. Conversion to binary allows even better compression but it wont be human readable anymore.
+RTTTL songs available on the internet are not optimized for the smallest size. Still they are readable by a human but they are far from optimized for the arduino embedded device. Most RTTTL song can be optimized (without quality loss) and have their size reduced by ~20%. Conversion to binary allows even better compression but it wont be human readable anymore.
 
 The library also allows one to convert an RTTTL song to hardcoded function calls (`tone()` and `delay()` calls). This is really useful if your dynamic memory is almost completely full and you would like to move the load from dynamic memory to program storage space.
 
@@ -92,7 +92,7 @@ The library has some compilation requirements and library dependencies which are
 * Requires the [wxWidgets Cross-Platform GUI Library](http://www.wxwidgets.org/)&nbsp;v2.8.12 for compiling.
 * The UI design files must be edited with [wxFormBuilder](http://sourceforge.net/projects/wxformbuilder/)&nbsp; v3.0.57 (a RAD tool for wxWidgets GUI design). This tools is not required for compilation.
 * [NSIS: Nullsoft Scriptable Install System](http://sourceforge.net/projects/nsis/)&nbsp;is required for generating the installation package.
-* The Play RTTTL&nbsp;& RTTTL 2 MIDI functionalities require the Windows platform for runtime.
+* The Play RTTTL & RTTTL 2 MIDI functionalities require the Windows platform for runtime.
 * The code uses some compiler-dependent instructions for debugging the UI under Windows.
 * All non-portable code is protected with `#ifdef _WIN32` to be cross-platform friendly.
 
@@ -106,16 +106,16 @@ Start the UI by launching rtttlOptimizerGui.exe.
 
 rtttlOptimizerGui with default options
 
-Copy & paste the input data in the Command Input&nbsp;text area.&nbsp;Click on one of the available command buttons. The output result will be displayed in the Command Output area.
+Copy & paste the input data in the Command Input text area. Click on one of the available command buttons. The output result will be displayed in the Command Output area.
 
 ## Optimize
 
 Copy &&nbsp;paste a valid song in RTTTL format in the Command Input section.  
-Press the Optimize&nbsp;button to compress the RTTTL code to its shortest form.
+Press the Optimize button to compress the RTTTL code to its shortest form.
 
-During optimization, the library will convert the input RTTTL song to &quot;_raw_&quot; data and re-encode the result back to RTTTL using all possible combinations of default duration, default octave and BPM (Beats per minute).
+During optimization, the library will convert the input RTTTL song to "_raw_" data and re-encode the result back to RTTTL using all possible combinations of default duration, default octave and BPM (Beats per minute).
 
-From all combination possibilities, the library will select the shortest one.&nbsp;For example, the following RTTTL code from _The Legend of Zelda _:
+From all combination possibilities, the library will select the shortest one. For example, the following RTTTL code from _The Legend of Zelda _:
 
 
 ```
@@ -149,7 +149,7 @@ which reduces the original code length by 89 bytes (from 446 bytes to 357 bytes)
 ## Play RTTTL
 
 Copy & paste a valid song in RTTTL format in the Command Input section.  
-Press the Play RTTTL&nbsp;button to play the melody.
+Press the Play RTTTL button to play the melody.
 
 {{< pleasenote >}}
   Note that application will momentary freeze during the playback. The application will respond again once the melody is done playing.
@@ -159,7 +159,7 @@ Press the Play RTTTL&nbsp;button to play the melody.
 ## RTTTL to MIDI
 
 Copy & paste a valid song in RTTTL format in the Command Input section.  
-Press the RTTTL 2 MIDI&nbsp;button to convert the melody to the MIDI sound format and automatically play the melody.
+Press the RTTTL 2 MIDI button to convert the melody to the MIDI sound format and automatically play the melody.
 
 {{< pleasenote >}}
   Note that MIDI sound format offers much better playback capabilities and sound quality than beeping each tone. See my post about my MIDI library for more details: [libMIDI - A C++ open-source library for generating single tone melodies in MIDI format](/libmidi-a-c-open-source-library-for-generating-single-tone-melodies-in-midi-format/).
@@ -169,7 +169,7 @@ Press the RTTTL 2 MIDI&nbsp;button to convert the melody to the MIDI sound forma
 ## tone() to RTTTL
 
 Copy & paste a valid song in arduino code (`tone()` and `delay()`&nbsp;function calls)&nbsp;in the Command Input section.  
-Press the tone() 2 RTTTL&nbsp;button to encode the melody into RTTTL.
+Press the tone() 2 RTTTL button to encode the melody into RTTTL.
 
 For example, the following arduino code:
 
@@ -207,12 +207,12 @@ unknown:d=8,o=6,b=140:g,16p,16g.,2a#,32p,a,g,f,a,2g
 ```
 
 
-This feature is useful for moving data from program storage space&nbsp;to dynamic memory.
+This feature is useful for moving data from program storage space to dynamic memory.
 
 ## RTTTL to tone()
 
 Copy & paste a valid song in RTTTL format in the Command Input section.  
-Press the RTTTL 2 tone() button to decode the input song to &quot;_raw_&quot; data (note with frequency and duration) and generate the arduino code required to play the song.
+Press the RTTTL 2 tone() button to decode the input song to "_raw_" data (note with frequency and duration) and generate the arduino code required to play the song.
 
 This process is really useful if your dynamic memory is almost completely full and you would like to move the load from dynamic memory to program storage space.
 
@@ -245,7 +245,7 @@ void playMario1up(int pin) {
 ## RTTTL to Binary (10 bits)
 
 Copy & paste a valid song in RTTTL format in the Command Input section.  
-Press the RTTTL 2 Binary (10 bits)&nbsp;button to decode the input RTTTL song and encode the same melody into a binary RTTTL format where each note is encoded into 10 bits.&nbsp;The bits definition is already documented in section [RTTTL binary format definition](http://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/#Binary_RTTTL_format_definition)&nbsp;of [AnyRtttl library](http://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) post.
+Press the RTTTL 2 Binary (10 bits)&nbsp;button to decode the input RTTTL song and encode the same melody into a binary RTTTL format where each note is encoded into 10 bits. The bits definition is already documented in section [RTTTL binary format definition](http://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/#Binary_RTTTL_format_definition)&nbsp;of [AnyRtttl library](http://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) post.
 
 The [AnyRtttl](/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/)&nbsp;library can be used to play the compressed RTTTL data.
 
@@ -268,7 +268,7 @@ which reduces the original code length by 104 bytes (from 159 bytes to 55 bytes)
 ## RTTTL to Binary (16 bits)
 
 Copy & paste a valid song in RTTTL format in the Command Input section.  
-Press the RTTTL 2 Binary (16 bits)&nbsp;button to decode the input RTTTL song and encode the same melody into a binary RTTTL format where each note is encoded into 16 bits.&nbsp;The bits definition is already documented in section [RTTTL binary format definition](http://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/#Binary_RTTTL_format_definition)&nbsp;of [AnyRtttl library](http://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) post.
+Press the RTTTL 2 Binary (16 bits)&nbsp;button to decode the input RTTTL song and encode the same melody into a binary RTTTL format where each note is encoded into 16 bits. The bits definition is already documented in section [RTTTL binary format definition](http://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/#Binary_RTTTL_format_definition)&nbsp;of [AnyRtttl library](http://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) post.
 
 The [AnyRtttl](/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/)&nbsp;library can be used to play the compressed RTTTL data.
 
@@ -297,30 +297,30 @@ The code & updates for the library can be found on http://end2endzone.com
 **AUTHOR/LICENSE:**  
 This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version.
 
-This library is distributed in the hope that it will be useful,&nbsp;but WITHOUT ANY WARRANTY; without even the implied warranty of  
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU &nbsp;Lesser General Public License (LGPL-3.0) for more details.
+This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of  
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU  Lesser General Public License (LGPL-3.0) for more details.
 
 You should have received a copy of the GNU Lesser General Public  
 License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
 **DISCLAIMER:**  
-This software is furnished &quot;as is&quot;, without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 
 You can download the libRTTTL library /&nbsp;rtttlOptimizer by clicking on the following links:
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/2035/" rel="nofollow"> Download &ldquo;rtttlOptimizer v1.2.195 Source Code&rdquo; <small>rtttlOptimizer-v1.2.195-src.zip &ndash; Downloaded 343 times &ndash; 186 KB</small> </a>
+		[ Download "rtttlOptimizer v1.2.195 Source Code" rtttlOptimizer-v1.2.195-src.zip - Downloaded 343 times - 186 KB ](http://www.end2endzone.com/download/2035/)
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1863/" rel="nofollow"> Download &ldquo;rtttlOptimizer v1.2.195 win32 portable&rdquo; <small>rtttlOptimizer-v1.2.195-win32-portable.zip &ndash; Downloaded 350 times &ndash; 720 KB</small> </a>
+		[ Download "rtttlOptimizer v1.2.195 win32 portable" rtttlOptimizer-v1.2.195-win32-portable.zip - Downloaded 350 times - 720 KB ](http://www.end2endzone.com/download/1863/)
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1861/" rel="nofollow"> Download &ldquo;rtttlOptimizer v1.2.195 win32 Setup&rdquo; <small>rtttlOptimizer-v1.2.195-win32-Setup.exe &ndash; Downloaded 453 times &ndash; 834 KB</small> </a>
+		[ Download "rtttlOptimizer v1.2.195 win32 Setup" rtttlOptimizer-v1.2.195-win32-Setup.exe - Downloaded 453 times - 834 KB ](http://www.end2endzone.com/download/1861/)
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1859/" rel="nofollow"> Download &ldquo;rtttlOptimizer v1.2.195 x64 portable&rdquo; <small>rtttlOptimizer-v1.2.195-x64-portable.zip &ndash; Downloaded 350 times &ndash; 847 KB</small> </a>
+		[ Download "rtttlOptimizer v1.2.195 x64 portable" rtttlOptimizer-v1.2.195-x64-portable.zip - Downloaded 350 times - 847 KB ](http://www.end2endzone.com/download/1859/)
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/1857/" rel="nofollow"> Download &ldquo;rtttlOptimizer v1.2.195 x64 Setup&rdquo; <small>rtttlOptimizer-v1.2.195-x64-Setup.exe &ndash; Downloaded 482 times &ndash; 969 KB</small> </a>
+		[ Download "rtttlOptimizer v1.2.195 x64 Setup" rtttlOptimizer-v1.2.195-x64-Setup.exe - Downloaded 482 times - 969 KB ](http://www.end2endzone.com/download/1857/)

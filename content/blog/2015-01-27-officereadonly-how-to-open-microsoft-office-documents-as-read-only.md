@@ -21,7 +21,7 @@ OfficeReadOnly is a tool that allows a user to open any Office Documents as a Re
 
 It's main features are:
 
-  * Integrates into Windows File Explorer or the with the &quot;Send to&quot; folder.
+  * Integrates into Windows File Explorer or the with the "Send to" folder.
   * Supports Documents, Workbooks, Presentations and Diagrams.
   * Supports both Microsoft Office 2003 (*.doc) and Microsoft Office 2010 file extensions (*.doc, and *.docx).
   * Can be used from the command prompt.
@@ -30,11 +30,11 @@ Microsoft Office does not supports opening files as read-only when right-clickin
 
 OfficeReadOnly was created to solve this issue.<!--more-->
 
-The only way to open a document read-only is to first open the appropriate application for the document and then use the &quot;_**File**_&quot; menu and select &quot;_**Open**_&quot;. Then, user has to browse to the actual file and change the opening mode from &quot;**_Open_**&quot; to &quot;**_Open Read-Only_**&quot; and finally click the file. That is a long process for a task that should be simpler.
+The only way to open a document read-only is to first open the appropriate application for the document and then use the "_**File**_" menu and select "_**Open**_". Then, user has to browse to the actual file and change the opening mode from "**_Open_**" to "**_Open Read-Only_**" and finally click the file. That is a long process for a task that should be simpler.
 
-OfficeReadOnly makes it easy to open a document as read-only right from the File Explorer. Simply right-click a document and select &quot;**_Open with Office Read-Only_**&quot;.
+OfficeReadOnly makes it easy to open a document as read-only right from the File Explorer. Simply right-click a document and select "**_Open with Office Read-Only_**".
 
-OfficeReadOnly also helps developers by keeping the file intact! Since OfficeReadOnly allows a user to open a file **directly** in read-only, it prevents the application from doing unintentional modifications to the file: every time a user opens an Office Document, the application will modify the document (without your knowledge) to change some meta-data. &nbsp;The meta-data change will happens even if you do not press &quot;_**Save**_&quot;. The only way to prevent this is to open the file as read-only.
+OfficeReadOnly also helps developers by keeping the file intact! Since OfficeReadOnly allows a user to open a file **directly** in read-only, it prevents the application from doing unintentional modifications to the file: every time a user opens an Office Document, the application will modify the document (without your knowledge) to change some meta-data.  The meta-data change will happens even if you do not press "_**Save**_". The only way to prevent this is to open the file as read-only.
 
 **Usage:<br /> **OfficeRO [inputfile]
 

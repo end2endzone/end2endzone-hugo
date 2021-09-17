@@ -110,7 +110,7 @@ Construction steps are very simple. Screw, wire everything up, solder and enjoy.
 
 This is the first step and allows you to verify if your camera will properly react to the auto-focus and shutter commands.
 
-Use the audio plug and take off the protective cover of the 2.5 mm stereo plug leaving the connectors naked and connect it into your camera. Use a small wire or a metal object and short-circuit (connect) the longest pin with one of the shortest pin for half a second. If you are afraid of breaking something, you can use the multimeter set to &quot;Continuity&quot; and connect the probes to each pins. One pin should activate the auto-focus feature and let you ear the easily recognizable beeping sound. The other should activate the shutter and trigger the camera to take a photo.
+Use the audio plug and take off the protective cover of the 2.5 mm stereo plug leaving the connectors naked and connect it into your camera. Use a small wire or a metal object and short-circuit (connect) the longest pin with one of the shortest pin for half a second. If you are afraid of breaking something, you can use the multimeter set to "Continuity" and connect the probes to each pins. One pin should activate the auto-focus feature and let you ear the easily recognizable beeping sound. The other should activate the shutter and trigger the camera to take a photo.
 
 ## Soldering the audio plug
 
@@ -138,11 +138,11 @@ Audio plug 2.5 mm pins usage
 
 ## Drilling
 
-Next you have to drill two holes in the project box to insert the switches.&nbsp;Take your time to look for the best location for inserting your switches. I made my holes at a 90 degrees angle so that I could activate auto-focus with my index and activate the shutter with my thumb.
+Next you have to drill two holes in the project box to insert the switches. Take your time to look for the best location for inserting your switches. I made my holes at a 90 degrees angle so that I could activate auto-focus with my index and activate the shutter with my thumb.
 
 A third hole is also required at the bottom of the box to insert the cable.
 
-If you project box is too fragile, you may have to drill many times the same hole using bigger and bigger drill bits.&nbsp;Another option is to use your soldering iron to melt holes in the plastic.
+If you project box is too fragile, you may have to drill many times the same hole using bigger and bigger drill bits. Another option is to use your soldering iron to melt holes in the plastic.
 
 ## Wiring
 

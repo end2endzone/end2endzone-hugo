@@ -18,7 +18,7 @@ tags:
   - moon
 
 ---
-Je vous présente l'éclipse totale de lune ou plus communément appelée &quot;lune de sang&quot;.<!--more-->
+Je vous présente l'éclipse totale de lune ou plus communément appelée "lune de sang".<!--more-->
 
 Une photo d'une éclipse lunaire est très différent d'[une photo traditionnelle de la lune](/lune-de-paques-easter-moon/). Il y a beaucoup moins de lumière disponible! Il faut donc compenser avec un temps d'exposition plus long et une sensibilité ISO beaucoup plus haute. Dans ce cas ci, 1.3 secondes et ISO 400. En conséquence, la photo est un peu plus flou et granuleuse qu'une photo traditionnelle.
 

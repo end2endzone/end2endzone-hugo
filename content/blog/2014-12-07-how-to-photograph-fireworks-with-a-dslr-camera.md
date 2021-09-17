@@ -20,13 +20,13 @@ Do you plan to take photographs of fireworks during the next few weeks? If so yo
 
 Getting a nice firework picture is it not as simple as going outside, finding a firework display and starting to shoot bits of lights in the sky. There are things you can do to increase your chances of success or fine tune the end result.
 
-Of course, it is also temping to take picture of the fireworks with a decent phone or point & shoot camera if you have a &quot;firework&quot; option, but those kind of picture often comes out as grainy/noisy or worst blurry.
+Of course, it is also temping to take picture of the fireworks with a decent phone or point & shoot camera if you have a "firework" option, but those kind of picture often comes out as grainy/noisy or worst blurry.
 
 In this article, I will guide you to make the most stunning photography of fireworks with your DSLR camera.<!--more-->
 
 That kind of event do not occurs pretty often. Roughly 1 or 2 times a year during summer depending where you live. That is why I have written this guide: so that next time you get outside hunting a firework display, you will be well documented and prepared for most situations.
 
-In Québec, we have 2 holidays that are good opportunities to shoot fireworks which are Canada Day (Memorial Day), and St. Jean Baptiste Day. If you live near Montreal, you have access to the L'international des feux Loto-Québec &nbsp;(<s>http://www.laronde.com/larondeen/linternational-des-feux/overview</s>, previously <s>http://internationaldesfeuxloto-quebec.com/en/</s>) festival which is prefect for making spectacular photos.
+In Québec, we have 2 holidays that are good opportunities to shoot fireworks which are Canada Day (Memorial Day), and St. Jean Baptiste Day. If you live near Montreal, you have access to the L'international des feux Loto-Québec  (<s>http://www.laronde.com/larondeen/linternational-des-feux/overview</s>, previously <s>http://internationaldesfeuxloto-quebec.com/en/</s>) festival which is prefect for making spectacular photos.
 
 Keep up reading and be ready.
 
@@ -57,9 +57,9 @@ On every perfect firework picture, you can see the light trail of the flare goin
 
 Canon Remote Switch RS-60E3
 
-A remote trigger is also mandatory. You must have a remote trigger and there is no acceptable alternative. You can't simply use the &quot;delay&quot; option on your camera. For most [other photography project](/category/photography/) (like [shooting waterfalls](/how-to-shoot-a-waterfall-with-a-dslr-camera/)), using the &quot;delay&quot; option on your camera is often a good choice as an alternative to a remote trigger.
+A remote trigger is also mandatory. You must have a remote trigger and there is no acceptable alternative. You can't simply use the "delay" option on your camera. For most [other photography project](/category/photography/) (like [shooting waterfalls](/how-to-shoot-a-waterfall-with-a-dslr-camera/)), using the "delay" option on your camera is often a good choice as an alternative to a remote trigger.
 
-However, when you are shooting fireworks, it is pretty hard to know when the burst will explode which mean you won't be able to accurately predict when you have to start the delay. The length of each burst is also unpredictable which means that you can't use &quot;Shutter speed priority&quot; to automatically close the shutter. You will have to physically press/release a button to close the shutter.
+However, when you are shooting fireworks, it is pretty hard to know when the burst will explode which mean you won't be able to accurately predict when you have to start the delay. The length of each burst is also unpredictable which means that you can't use "Shutter speed priority" to automatically close the shutter. You will have to physically press/release a button to close the shutter.
 
 If you do not own a remote trigger, you could make one yourself. Here is a simple guide that I have written that could help you making your own remote trigger:&nbsp;[DIY Remote trigger shutter release cable for your Canon DSLR camera](/diy-remote-trigger-shutter-release-cable-for-your-canon-dslr-camera/)
 
@@ -147,7 +147,7 @@ Focus on infinity
 
 If your lens has auto-focus, turn it off. It is best to use manual focus in this situation. The fireworks are far enough to set your lens to infinity.
 
-As a personal suggestion, you should not trust the infinity symbol/mark on your lenses. The focus ring can sometimes moves &quot;beyond infinity&quot; which would make picture as bad as out of focus ones. This is because the infinity point can move depending on the ambient temperature which means that the infinity symbol position is set somewhere between the lens operating temperature range. It may not always be accurate for your situation.
+As a personal suggestion, you should not trust the infinity symbol/mark on your lenses. The focus ring can sometimes moves "beyond infinity" which would make picture as bad as out of focus ones. This is because the infinity point can move depending on the ambient temperature which means that the infinity symbol position is set somewhere between the lens operating temperature range. It may not always be accurate for your situation.
 
 The best method for adjusting your focus is still to search for a far away object and focus on it.
 
@@ -165,7 +165,7 @@ The only mode that can be used for photographing fireworks is the manual mode. A
 
 Canon SL1 ISO Selection
 
-Since you are capturing images over a perfect black background, noise can quickly become an issue. It will also be really perceptible.&nbsp;It will be easy to distinguish noise on dark areas so it is best to use a low ISO setting to reduce noise as much as possible.
+Since you are capturing images over a perfect black background, noise can quickly become an issue. It will also be really perceptible. It will be easy to distinguish noise on dark areas so it is best to use a low ISO setting to reduce noise as much as possible.
 
 ISO 100 is the recommended value to use.
 
@@ -200,7 +200,7 @@ This mode is usually found at the end of your shutter speed range (slowest shutt
 
 Image Stabilizer Turned off
 
-Since you are using a tripod, turn off Image Stabilization (IS, Vibration Reduction on Nikon). Tripod and IS is always bad combination and you don't need it. Leaving it on probably does more harm than good. IS mechanism works by feeling the vibration the lens from your hands and creates a counter &quot;vibration&quot; to reduce the effect on the final image. It is better to switch off IS to prevent your lens stabilization mechanism from trying to stabilize a stabilized image which would result in image vibration (camera shake).
+Since you are using a tripod, turn off Image Stabilization (IS, Vibration Reduction on Nikon). Tripod and IS is always bad combination and you don't need it. Leaving it on probably does more harm than good. IS mechanism works by feeling the vibration the lens from your hands and creates a counter "vibration" to reduce the effect on the final image. It is better to switch off IS to prevent your lens stabilization mechanism from trying to stabilize a stabilized image which would result in image vibration (camera shake).
 
 Some lens can successfully detect the use of a tripod and prevent adding more vibration to the equation but in doubt, just leave it off.
 

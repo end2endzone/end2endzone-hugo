@@ -31,13 +31,13 @@ tags:
 ---
 # Introduction
 
-The following article is about my simplest library that I wrote for the arduino: _SoftTimers_. The _SoftTimers_ arduino library allows one to properly time multiple events and know when each &quot;timer&quot; expires meaning that an action is required.<!--more-->
+The following article is about my simplest library that I wrote for the arduino: _SoftTimers_. The _SoftTimers_ arduino library allows one to properly time multiple events and know when each "timer" expires meaning that an action is required.<!--more-->
 
 Skip to the [download section](#Download) for quick download.
 
-When I first learned programming the arduino, I learned the &quot;_hello world_&quot; of the arduino: turning a LED on and off. &nbsp;As expected, I used `delay()` to define how long the LED should be on and off.
+When I first learned programming the arduino, I learned the "_hello world_" of the arduino: turning a LED on and off.  As expected, I used `delay()` to define how long the LED should be on and off.
 
-However, this approach is bad since it break the &quot;realtime&quot; property of the software to react to other event. If I want to make the LED instantly turn off when pressing a button, I had to wait for the delay to complete before processing the button. (I know you could use interrupts and update with LED pin within the interrupt but that is out of scope for now.)
+However, this approach is bad since it break the "realtime" property of the software to react to other event. If I want to make the LED instantly turn off when pressing a button, I had to wait for the delay to complete before processing the button. (I know you could use interrupts and update with LED pin within the interrupt but that is out of scope for now.)
 
 Another issue is extensibility. Making 3 LEDs blink at different time interval is much harder with delays. How about 40 LEDs? Impossible?
 
@@ -45,13 +45,13 @@ This is where SoftTimers arduino library becomes helpful.
 
 # Purpose
 
-The SoftTimers allows one to properly time multiple events and know when each &quot;timer&quot; expires meaning that an action is required. In this example above, a SoftTimer expires when it is time to toggle an LED.
+The SoftTimers allows one to properly time multiple events and know when each "timer" expires meaning that an action is required. In this example above, a SoftTimer expires when it is time to toggle an LED.
 
 SoftTimers also provide the elapsed time since an event occurred. In case of an interruption, the elapsed time can be used as debugging information. It can also be used as a countdown information displayed to the user.
 
-The library regroups basic timer functionalities into a single class.&nbsp;The usual way to get the same functionality is to create multiple variables for each single timer. This way is hard to maintain when you need multiple timers are required to run at the same time.
+The library regroups basic timer functionalities into a single class. The usual way to get the same functionality is to create multiple variables for each single timer. This way is hard to maintain when you need multiple timers are required to run at the same time.
 
-SoftTimer classes are designed to be keep &quot;simple & stupid&quot;. No software interrupts. Non-blocking. Each timer must be polled within the loop() to know their status.
+SoftTimer classes are designed to be keep "simple & stupid". No software interrupts. Non-blocking. Each timer must be polled within the loop() to know their status.
 
 # Library features
 
@@ -76,7 +76,7 @@ At any moment, call `getElapsedTime()`&nbsp;to get the absolute elapsed time sin
 
 ## Fade a LED
 
-Fading a LED like [arduino's Built-in Fade Example](https://www.arduino.cc/en/Tutorial/Fade) is trivial using SoftTimers. The library helps in defining the constant speed at which the LED will fade by defining the total length of the process and by easily mapping the timer &quot;progress&quot; to the amount of fade (PWM) used with the output pin. All of this in a non-blocking manner.
+Fading a LED like [arduino's Built-in Fade Example](https://www.arduino.cc/en/Tutorial/Fade) is trivial using SoftTimers. The library helps in defining the constant speed at which the LED will fade by defining the total length of the process and by easily mapping the timer "progress" to the amount of fade (PWM) used with the output pin. All of this in a non-blocking manner.
 
 The following example increases the intensity of a LED from OFF to ON in 1 second and then decreases the intensity of the LED back to OFF in 1 second.
 
@@ -150,7 +150,7 @@ This library is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
 **DISCLAIMER:**  
-This software is furnished &quot;as is&quot;, without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 
@@ -158,4 +158,4 @@ You can download the SoftTimers arduino library by clicking on the following lin
 
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/2089/" rel="nofollow"> Download &ldquo;SoftTimers arduino library v1.1.219&rdquo; <small>SoftTimers-v1.1.219.zip &ndash; Downloaded 430 times &ndash; 41 KB</small> </a>
+		[ Download "SoftTimers arduino library v1.1.219" SoftTimers-v1.1.219.zip - Downloaded 430 times - 41 KB ](http://www.end2endzone.com/download/2089/)

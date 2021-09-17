@@ -34,7 +34,7 @@ Skip to the [download section](#Download) for quick download.
 
 # Purpose
 
-The libVariant library allows one to create an instance of Variant class.&nbsp;The class is a type safe and value safe union between all known basic c++ types. An instance of a Variant class encapsulates a single value of any c++ type:&nbsp;signed and unsigned integers, floating points & strings.
+The libVariant library allows one to create an instance of Variant class. The class is a type safe and value safe union between all known basic c++ types. An instance of a Variant class encapsulates a single value of any c++ type:&nbsp;signed and unsigned integers, floating points & strings.
 
 The class can easily convert between any type of data when required and automatically handles all conversion combinations and minimizes lost of data.
 
@@ -48,7 +48,7 @@ Typical usage of the Variant class involves the following:
 
 ## Implement a query language
 
-Each column of a &quot;ResultSet&quot; may be of different type. Storing values in a Variant type is a perfect candidate for type abstraction.
+Each column of a "ResultSet" may be of different type. Storing values in a Variant type is a perfect candidate for type abstraction.
 
 ## Provide GUI-editable properties in a generic manner
 
@@ -91,7 +91,7 @@ The class is designed to prevent erroneous conversion issues which could lead to
 {{< /pleasenote >}}
 
 
-For instance, if a Variant class with an internal type set to `SINT16`&nbsp;with a value of -3, is then retrieved as an `UINT16`&nbsp;the class will &quot;clamp&quot; the returned value to 0 since -3 cannot be represented as an `UINT16`.
+For instance, if a Variant class with an internal type set to `SINT16`&nbsp;with a value of -3, is then retrieved as an `UINT16`&nbsp;the class will "clamp" the returned value to 0 since -3 cannot be represented as an `UINT16`.
 
 Variant var;<br /> var.setSInt16(-3);<br /> var.getUInt16() ⇒ clamped to minimum value of uint16 (0)
 
@@ -101,7 +101,7 @@ Variant var;<br /> var.setUInt16(65500);<br /> var.getSInt16() ⇒ clamped to ma
 
 To prevent any data loss and conversion clamping, it is suggested to retrieve the internal value of a Variant using the same type as its internal type.
 
-Keep in mind that for most other scenarios,&nbsp;keeping the internal value of a Variant to be restricted to positive signed integers is largely enough for most scenarios allowing values ranging from 0 to +2147483647.
+Keep in mind that for most other scenarios, keeping the internal value of a Variant to be restricted to positive signed integers is largely enough for most scenarios allowing values ranging from 0 to +2147483647.
 
 ## Out of range value clamping
 
@@ -118,7 +118,7 @@ Variant var;<br /> var.setSInt16(32000);<br /> var = var * 10;<br /> var ⇒ sin
 If the internal value of a Variant is set to any unsigned value and a mathematical operator is applied to the Variant using a signed value then the internal type of the Variant will change from unsigned to signed.
 
 {{< pleasenote >}}
-  Note that the expected value from the mathematical operation is always preserved.&nbsp;The only change that may be unnoticed is the internal type changing from unsigned to signed.
+  Note that the expected value from the mathematical operation is always preserved. The only change that may be unnoticed is the internal type changing from unsigned to signed.
 {{< /pleasenote >}}
 
 
@@ -156,18 +156,18 @@ The code & updates for the library can be found on http://end2endzone.com
 **AUTHOR/LICENSE:**  
 This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version.
 
-This library is distributed in the hope that it will be useful,&nbsp;but WITHOUT ANY WARRANTY; without even the implied warranty of  
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU &nbsp;Lesser General Public License (LGPL-3.0) for more details.
+This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of  
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU  Lesser General Public License (LGPL-3.0) for more details.
 
 You should have received a copy of the GNU Lesser General Public  
 License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
 **DISCLAIMER:**  
-This software is furnished &quot;as is&quot;, without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 
 You can download the libVariant library by clicking on the following link:
 
 
-		<a class="aligncenter download-button" href="http://www.end2endzone.com/download/2328/" rel="nofollow"> Download &ldquo;libVariant-v2.0.114.zip&rdquo; <small>libVariant-v2.0.114.zip &ndash; Downloaded 526 times &ndash; 99 KB</small> </a>
+		[ Download "libVariant-v2.0.114.zip" libVariant-v2.0.114.zip - Downloaded 526 times - 99 KB ](http://www.end2endzone.com/download/2328/)

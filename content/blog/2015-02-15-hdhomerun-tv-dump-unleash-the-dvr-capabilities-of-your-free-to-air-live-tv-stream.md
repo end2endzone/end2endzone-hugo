@@ -32,7 +32,7 @@ It's main features are:
   * Scheduled recording support (enables DVR capabilities with the HDHomeRun)
   * Watch live TV streams.
 
-_HDHomeRun TV Dump_ should also work with devices that supports the &nbsp;MPEG4/H.264 video codec but this functionality is still untested.
+_HDHomeRun TV Dump_ should also work with devices that supports the  MPEG4/H.264 video codec but this functionality is still untested.
 
 # Screenshots
 
@@ -68,7 +68,7 @@ The following is required to take full control of _HDHomeRun TV Dump_:
 
 # Usage
 
-Using _HDHomeRun TV Dump_&nbsp;is very easy, you just need to click the button that correspond to your desired activity:&nbsp;Scan,&nbsp;Watch, Record and Program.  
+Using _HDHomeRun TV Dump_&nbsp;is very easy, you just need to click the button that correspond to your desired activity:&nbsp;Scan, Watch, Record and Program.  
 The step by step instructions are as follows:
 
 ## Scan
@@ -143,7 +143,7 @@ This dialog allows a user assign a name to the recording for better future refer
   * _**Unique**_:  
     Simply specify a date and time.
   * _**Repetitive**_:  
-    A value is used for repeating on minutes, hours, days,&nbsp; weeks and months starting on specified date and time.
+    A value is used for repeating on minutes, hours, days,  weeks and months starting on specified date and time.
   * _**Daily**_:  
     Specify the type from Everyday, Week days and Week ends starting on the specified date and time.
   * _**Weekly**_:  

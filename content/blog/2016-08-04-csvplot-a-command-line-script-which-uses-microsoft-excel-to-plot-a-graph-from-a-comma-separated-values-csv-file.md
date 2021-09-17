@@ -52,7 +52,7 @@ The script has some limitations which are explained here.
 
 ## Output image
 
-The resolution of the output image may be +- 1 pixels different than what is requested on command line. This is a limitation of how Excel processes image dimensions since it uses &quot;points&quot; as base unit and not actual pixels. A conversion from pixels to points must be calculated which may contains small accuracy error.
+The resolution of the output image may be +- 1 pixels different than what is requested on command line. This is a limitation of how Excel processes image dimensions since it uses "points" as base unit and not actual pixels. A conversion from pixels to points must be calculated which may contains small accuracy error.
 
 The only supported image format is PNG. It is still unknown if Excel actually support JPG for exporting graphs but PNG seems to be the perfect candidate since its a lossless compressed format.
 
@@ -85,7 +85,7 @@ The command for launching the script is as follows. The script must be called wi
 
 ## Execution (command line)
 
-The script is written in [VBScript](http://en.wikipedia.org/wiki/VBScript). &nbsp;Use the following to execute the script from a batch file (*.bat) :
+The script is written in [VBScript](http://en.wikipedia.org/wiki/VBScript).  Use the following to execute the script from a batch file (*.bat) :
 
 
 ```batch
@@ -137,7 +137,7 @@ The following section shows some example of using cvsplot to plot a series
 
 ## Apple Share Prices
 
-The following example show the Apple Share Prices closing value over the year 2015.&nbsp;The data is provided by Nasdaq at the following address:  
+The following example show the Apple Share Prices closing value over the year 2015. The data is provided by Nasdaq at the following address:  
 <http://www.nasdaq.com/symbol/aapl/historical>.
 
 The CSV data can be downloaded here:  
@@ -179,7 +179,7 @@ This library is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
 **DISCLAIMER:**  
-This software is furnished &quot;as is&quot;, without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 

@@ -28,7 +28,7 @@ tags:
 ---
 # Introduction
 
-À chaque fois que je travail en graphisme et que je dois ajouter du texte à une image, je me retrouve toujours avec le même problème: &quot;Comment faire pour identifier rapidement la meilleure police pour mon affiche ?&quot;
+À chaque fois que je travail en graphisme et que je dois ajouter du texte à une image, je me retrouve toujours avec le même problème: "Comment faire pour identifier rapidement la meilleure police pour mon affiche ?"
 
 Je crois maintenant avoir finalement trouver la solution à ce problème.<!--more-->
 
@@ -43,8 +43,8 @@ Il suffit d'ouvrir Microsoft Word et d'exécuter le script téléchargeable. Cel
 La liste suivante décrit les fonctionnalités du script:
 
 * Détecte toutes les polices installées du système.
-* Donne un exemple de tous les styles pour chacune des polices soit: &nbsp;Normal, Italique, Gras et Gras Italique.
-* Supporte vos propre exemples de texte. Si omis, le pangramme &quot;_The quick brown fox jumps over the lazy dog_&quot; est utilisé, soit l'équivalent anglophone de &quot;_Voix ambiguë d'un cœur qui, au zéphyr, préfère les jattes de kiwis_&quot;.
+* Donne un exemple de tous les styles pour chacune des polices soit:  Normal, Italique, Gras et Gras Italique.
+* Supporte vos propre exemples de texte. Si omis, le pangramme "_The quick brown fox jumps over the lazy dog_" est utilisé, soit l'équivalent anglophone de "_Voix ambiguë d'un cœur qui, au zéphyr, préfère les jattes de kiwis_".
 
 # Limitations
 
@@ -97,7 +97,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
       Copier coller le script
     </h2>
     
-    Certain fureteur ou antivirus ne permettent pas le téléchargement de module Microsoft Word (*.bas).&nbsp;L'option de téléchargement du module n'est donc pas possible. Dans ce cas, l'option copier-coller doit être utilisé.
+    Certain fureteur ou antivirus ne permettent pas le téléchargement de module Microsoft Word (*.bas). L'option de téléchargement du module n'est donc pas possible. Dans ce cas, l'option copier-coller doit être utilisé.
     
     Pour ce faire, copier le code suivant dans le presse-papier :
     
@@ -133,7 +133,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
     <ol>
       * Ouvrir _**Microsoft Word**_.
       * Naviguer au menu _**Affichage**_ du _**ruban**_.
-      * Cliquer sur le bouton _**Macros**_.&nbsp;L'éditeur de macro Microsoft Visual Basic s’ouvrira.
+      * Cliquer sur le bouton _**Macros**_. L'éditeur de macro Microsoft Visual Basic s’ouvrira.
       <li>
         Sélectionner la macro _**ListInstalledFonts**_. <p>
           <div id="attachment_2357" style="width: 560px" class="wp-caption alignnone">
@@ -145,7 +145,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
           </div>
 </li> 
           
-          * Cliquer sur le bouton Exécuter&nbsp;pour lancer l'exécution du script.
+          * Cliquer sur le bouton Exécuter pour lancer l'exécution du script.
           <li>
             La fenêtre suivante s'ouvrira: <p>
               <div id="attachment_2354" style="width: 383px" class="wp-caption alignnone">
@@ -157,7 +157,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
               </div>
 </li> 
               
-              * Entrer un exemple de texte puis cliquer sur le bouton OK. Laissez le champ vide et cliquer sur le bouton OK pour utiliser le pangramme anglophone &quot;_The quick brown fox jumps over the lazy dog_&quot;.
+              * Entrer un exemple de texte puis cliquer sur le bouton OK. Laissez le champ vide et cliquer sur le bouton OK pour utiliser le pangramme anglophone "_The quick brown fox jumps over the lazy dog_".
               * Patientez environ 30 secondes pendant l'exécution du script.</ol> 
               
               Le document sera complété avec votre exemple de texte pour chacune des polices installées sur votre ordinateur.
@@ -193,7 +193,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
               
               You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
               
-              **DISCLAIMER:**<br /> This software is furnished &quot;as is&quot;, without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+              **DISCLAIMER:**<br /> This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
               
               <h1>
                 Téléchargement
@@ -203,6 +203,6 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
               
               <p>
                 <p>
-                  <a class="aligncenter download-button" href="http://www.end2endzone.com/download/2339/" rel="nofollow"> Download &ldquo;MsWordListInstalledFont.bas&rdquo; <small>MsWordListInstalledFont.bas &ndash; Downloaded 1068 times &ndash; 3 KB</small> </a>
+                  [ Download "MsWordListInstalledFont.bas" MsWordListInstalledFont.bas - Downloaded 1068 times - 3 KB ](http://www.end2endzone.com/download/2339/)
                 </p>
               </p>

@@ -83,13 +83,13 @@ As opposed to smooth transitions, hard transitions between each photos means a l
 
 A low frame rate (between 1 fps to 15 fps) in the final video would result to a final video with hard transitions.
 
-If you make your calculations for a video with too hard transitions, the viewer could get confused about what just happened since frames have a tendency to &quot;jump&quot; from one to another.
+If you make your calculations for a video with too hard transitions, the viewer could get confused about what just happened since frames have a tendency to "jump" from one to another.
 
 Usual examples are building constructions or rotting fruits.
 
 ## Calculating the best interval
 
-Once you have defined what kind of transitions you want, and the &quot;amount&quot; of movement you want to show in your final video, here's how to perfectly define the right interval time to get very smooth or hard transitions.
+Once you have defined what kind of transitions you want, and the "amount" of movement you want to show in your final video, here's how to perfectly define the right interval time to get very smooth or hard transitions.
 
 You first need to define the following:
 
@@ -97,7 +97,7 @@ You first need to define the following:
   * How long the final video would be ?
   * What is the final video frame rate ? That is 15 or less for hard and 24 and over for smooth.
 
-Now open [Photography time-lapse calculator](http://www.end2endzone.com/wp-content/uploads/2015/02/Photography-time-lapse-calculator.xls)&nbsp;(that's an Excel sheet) and take a look at the &quot;interval calculator&quot;. Use the same number in the appropriate fields and the sheet will do the math to give you the perfect interval time for the desired smooth/hard transition effect.
+Now open [Photography time-lapse calculator](http://www.end2endzone.com/wp-content/uploads/2015/02/Photography-time-lapse-calculator.xls)&nbsp;(that's an Excel sheet) and take a look at the "interval calculator". Use the same number in the appropriate fields and the sheet will do the math to give you the perfect interval time for the desired smooth/hard transition effect.
 
 # Gear setup
 
@@ -197,7 +197,7 @@ In other words, you basically need to reorder each block to the following:
 
 to get the target range IMG\_0000.jpg [...] IMG\_3345.jpg.
 
-The easiest way to do this is to use the following script. Copy and paste the content of the following window and create a file located next to the images called &quot;rename.vbs&quot;.
+The easiest way to do this is to use the following script. Copy and paste the content of the following window and create a file located next to the images called "rename.vbs".
 
 {{< pleasenote >}}
   Take note that the .vbs file extension is mandatory for Windows to recognize the file as a runnable script.

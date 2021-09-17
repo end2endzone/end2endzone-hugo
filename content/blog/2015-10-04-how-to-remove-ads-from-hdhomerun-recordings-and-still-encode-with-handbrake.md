@@ -74,7 +74,7 @@ Virtualdub is the best video editing application I know. It support video resizi
 
 ## Lossless video codec
 
-You need to select an appropriate video codec for saving the temporary file. You may be aware that most video codec makes approximation and even tries to encode &quot;movement&quot; in the stream to maximize compression. However, they loose quality (some less than other) during each encoding. To prevent any quality loss, a lossless video codec must be selected. As it's name implies, the Lagarith video codec is lossless which means that it does not loose quality each time you re-encode a new video.
+You need to select an appropriate video codec for saving the temporary file. You may be aware that most video codec makes approximation and even tries to encode "movement" in the stream to maximize compression. However, they loose quality (some less than other) during each encoding. To prevent any quality loss, a lossless video codec must be selected. As it's name implies, the Lagarith video codec is lossless which means that it does not loose quality each time you re-encode a new video.
 
 [![Virtualdub Lagarith Lossless Video Codec Selection](http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg)](http://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg)
 
