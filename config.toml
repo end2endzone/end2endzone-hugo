@@ -107,7 +107,7 @@ disableLanguages        = []
 
 [params]
   enableCDN             = false
-  cssFiles              = ["default", "css/end2endzone.css", "css/syntax.css"]
+  cssFiles              = ["default", "css/end2endzone.css", "css/button.css", "css/syntax.css"]
   jsFiles               = ["default"]
   highlightjs           = true
   highlightjsTheme      = ""
