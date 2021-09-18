@@ -131,7 +131,7 @@ enableRobotsTXT = true
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "end2end zone"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true

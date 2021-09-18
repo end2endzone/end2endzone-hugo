@@ -14,6 +14,29 @@ body {
 
 
 
+/* Language menu */
+#lang-menu {
+  background: RGB(46,52,54); /* darker grey */
+}
+#lang-menu a {
+  color: white;
+  opacity: 0.6;
+}
+#lang-menu a:hover {
+  color: white;
+  opacity: 1.0;
+}
+
+
+
+
+/* share-menu */
+#share-menu {
+  background: RGB(46,52,54); /* darker grey */
+}
+
+
+
 /* Colors of hyperlinks */
 #site-intro a,
 #site-sidebar a,
