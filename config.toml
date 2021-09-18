@@ -11,6 +11,8 @@ pluralizeListTitles     = false
 disableLanguages        = []
 
 
+enableRobotsTXT = true
+
 [markup]
 
   # https://gohugo.io/content-management/toc/
