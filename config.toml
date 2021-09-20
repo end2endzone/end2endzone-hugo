@@ -4,6 +4,7 @@ baseurl                 = "http://www.end2endzone.com"
 DefaultContentLanguage  = "en"
 title                   = "end2end zone"
 theme                   = "hugo-future-imperfect-slim"
+#theme                   = "soho-master"
 paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = ""
@@ -82,10 +83,12 @@ enableRobotsTXT = true
     block = true
     title = true
       
+  # https://gohugo.io/content-management/syntax-highlighting/
   # https://gohugo.io/getting-started/configuration-markup#highlight
   # https://gohugo.io/content-management/syntax-highlighting/#generate-syntax-highlighter-css
+  # https://xyproto.github.io/splash/docs/
   [markup.highlight]
-    anchorLineNos = true
+    anchorLineNos = false
     codeFences = true
     guessSyntax = false
     hl_Lines = ''
@@ -94,7 +97,7 @@ enableRobotsTXT = true
     lineNos = true
     lineNumbersInTable = false
     noClasses = false
-    style = 'monokai'
+    #style = 'monokai' # This field is not required when noClasses == false.
     tabWidth = 2
 
 

@@ -1,0 +1,9 @@
+/*
+
+Disable `hljs` styles introduced by `hugo-future-imperfect-slim` theme.
+
+Overrides the content of the following files:
+* `hugo-future-imperfect-slim\assets\css\default.css`
+* `themes\hugo-future-imperfect-slim\assets\css\dark.css`
+
+*/
