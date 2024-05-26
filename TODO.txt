@@ -4,3 +4,4 @@
   - Discus : https://disqus.com/
   - https://simplystatic.com/tutorials/comments-on-a-static-site/
   - https://getshifter.io/static-site-comments/
+- Show a message in "acceuil" page that links to all blog posts in english site.
