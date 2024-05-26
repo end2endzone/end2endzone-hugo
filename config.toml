@@ -155,7 +155,7 @@ enableRobotsTXT = true
       alt                 = "Hey that's me"
 
   [params.sidebar]
-    about               = "Hey I'm Antoine author of end2end zone. Take a couple of minutes to get to know me a little better."
+    about               = "Hey! I'm Antoine author of end2end zone. Take a couple of minutes to get to know me a little better."
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
@@ -295,6 +295,12 @@ enableRobotsTXT = true
       url               = "contact"
       pre               = "<i class='far fa-envelope'></i>"
       weight            = 6
+
+    [Languages.fr.params.sidebar]
+      about               = "Salut! Je suis Antoine auteur de end2end zone. Prenez quelques minutes pour mieux me connaître"
+      postAmount          = 5
+      categories          = true
+      categoriesByCount   = true
 
 [social]
   # Coding Communities
