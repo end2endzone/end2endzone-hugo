@@ -14,8 +14,8 @@ body {
 
 
 
-/* Input field in forms should be visible */
-input,select,textarea {
+/* Input fields in forms should be visible */
+form input,select,textarea {
 	color: white;
 }
 
@@ -179,6 +179,11 @@ article, .post {
   background: RGB(46,52,54); /* darker grey */
 }
 
+
+
+.search-input {
+    width: 600px;
+}
 
 
 /* When paragraph should be displayed as warning notes */
