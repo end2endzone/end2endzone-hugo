@@ -1,0 +1,1 @@
+- Search posts for &#8217; instead of `'` character.
