@@ -18,6 +18,7 @@ categories:
   - Model Aeronautics
   - Photography
 tags:
+  - français
   - nature
   - photography
 

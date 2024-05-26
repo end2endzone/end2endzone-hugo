@@ -10,6 +10,7 @@ hits:
 categories:
   - Photography
 tags:
+  - français
   - animals
   - nature
   - photography

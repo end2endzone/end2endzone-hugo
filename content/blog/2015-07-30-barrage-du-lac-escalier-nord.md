@@ -14,6 +14,7 @@ Snippet:
 categories:
   - Photography
 tags:
+  - français
   - long exposure
   - nature
   - waterfall

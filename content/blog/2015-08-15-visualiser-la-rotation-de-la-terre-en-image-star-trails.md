@@ -14,6 +14,7 @@ tags:
   - nature
   - photography
   - stars
+  - français
 
 ---
 Suite à [ce vidéo](/visualiser-la-rotation-de-la-terre-en-video/), j'ai aussi fusionné (ou plutôt cumulé) toutes les images en une seule. Le résultat est ce que l'on appelle une image "Star Trails" (ou Filé d'étoiles en français).<!--more-->

@@ -14,6 +14,7 @@ hits:
 categories:
   - Photography
 tags:
+  - français
   - nature
   - photography
 
