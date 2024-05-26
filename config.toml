@@ -238,9 +238,21 @@ enableRobotsTXT = true
   [Languages.fr]
     LanguageCode        = "fr"
     LanguageName        = "Français"
-    title               = "end2end zone"
-    description         = "Ma vie posté en ligne."
     weight              = 2
+
+    [Languages.fr.params.intro]
+      header                = "end2end zone"
+      paragraph             = "Ma vie posté en ligne."
+      rssIntro              = true
+      socialIntro           = true
+      hideWhenSingleColumn  = false
+      alwaysOnHomepage      = false
+
+      [Languages.fr.params.intro.pic]
+        src                 = "img/main/logo.jpg"
+        shape               = "circle"
+        width               = ""
+        alt                 = "Hey that's me"
 
     [[Languages.fr.menu.main]]
       name              = "Accueil"
