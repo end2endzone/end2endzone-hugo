@@ -2,12 +2,22 @@
   <article>
     <div class="post">
       {{ .Render "header" }}
-      <div id="socnet-share">
-        {{ partial "share-buttons" . }}
-      </div>
+	  
+      {{/* end2endzone override: enable or disable share buttons on a per page setting */}}
+      {{ if not ( eq .Params.share_buttons false) }}
+        <div id="socnet-share">
+          {{ partial "share-buttons" . }}
+        </div>
+      {{ end }}
+	  
       <div class="content">
         {{ .Render "featured" }}
-        {{ partial "toc" . }}
+		
+        {{/* end2endzone override: enable or disable share buttons on a per page setting */}}
+        {{ if not ( eq .Params.toc false) }}
+          {{ partial "toc" . }}
+        {{ end }}
+		
         {{ .Content }}
       </div>
       <footer>

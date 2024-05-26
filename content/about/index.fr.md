@@ -3,8 +3,9 @@ title: À Propos
 author: end2end
 type: page
 date: 2014-04-12T16:08:19+00:00
-hits:
-  - 492
+comments: false
+share_buttons: false
+toc: false
 
 ---
 # Permettez-moi de me présenter
