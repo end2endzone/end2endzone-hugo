@@ -1,1 +1,6 @@
 - Search posts for &#8217; instead of `'` character.
+- Evaluate comments options:
+  - staticman: https://staticman.net/
+  - Discus : https://disqus.com/
+  - https://simplystatic.com/tutorials/comments-on-a-static-site/
+  - https://getshifter.io/static-site-comments/
