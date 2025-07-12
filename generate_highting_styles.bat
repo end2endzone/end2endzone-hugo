@@ -13,7 +13,7 @@
 ::
 
 @echo off
-set PATH=C:\Hugo\bin;%PATH%
+set PATH=D:\Apps\Hugo\0.87.0\bin;%PATH%
 
 echo Generating styles...
 @echo on
