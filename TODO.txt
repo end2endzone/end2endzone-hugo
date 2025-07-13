@@ -5,5 +5,4 @@
   - https://getshifter.io/static-site-comments/
   - https://www.youtube.com/watch?v=K0WJRApcKCA
   - https://www.youtube.com/watch?v=jvgtbgQBjlM
-- Change font for headers to not be always capital case.
 - Modify source code blocks to be syntax highlighted.
