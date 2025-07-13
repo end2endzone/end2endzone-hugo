@@ -3,9 +3,9 @@
 baseurl                 = "http://www.end2endzone.com"
 DefaultContentLanguage  = "en"
 title                   = "end2end zone"
-theme                   = "hugo-future-imperfect-slim"
+theme                   = "Hirashiki.hugo-future-imperfect-slim"
 #theme                   = "soho-master"
-paginate                = 3
+pagination.pagerSize    = 3
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
