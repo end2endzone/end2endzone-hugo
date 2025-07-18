@@ -10,3 +10,6 @@
 [submodule "themes/Hirashiki.hugo-future-imperfect-slim"]
 	path = themes/Hirashiki.hugo-future-imperfect-slim
 	url = https://github.com/Hirashiki/hugo-future-imperfect-slim.git
+[submodule "themes/end2endzone.hugo-future-imperfect-slim"]
+	path = themes/end2endzone.hugo-future-imperfect-slim
+	url = https://github.com/end2endzone/hugo-future-imperfect-slim.git
