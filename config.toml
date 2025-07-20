@@ -3,14 +3,15 @@
 baseurl                 = "http://www.end2endzone.com"
 DefaultContentLanguage  = "en"
 title                   = "end2end zone"
-theme                   = "Hirashiki.hugo-future-imperfect-slim"
-#theme                   = "soho-master"
+theme                   = "end2endzone.hugo-future-imperfect-slim"
 pagination.pagerSize    = 3
 disqusShortname         = ""
-googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = []
 
+[services]
+[services.googleAnalytics]
+id = ""
 
 enableRobotsTXT = true
 
@@ -83,22 +84,10 @@ enableRobotsTXT = true
     block = true
     title = true
       
-  # https://gohugo.io/content-management/syntax-highlighting/
-  # https://gohugo.io/getting-started/configuration-markup#highlight
-  # https://gohugo.io/content-management/syntax-highlighting/#generate-syntax-highlighter-css
-  # https://xyproto.github.io/splash/docs/
+  # Disable Hugo's built-in syntax highlighting
   [markup.highlight]
-    anchorLineNos = false
-    codeFences = true
     guessSyntax = false
-    hl_Lines = ''
-    lineAnchors = ''
-    lineNoStart = 1
-    lineNos = true
-    lineNumbersInTable = false
     noClasses = false
-    #style = 'monokai' # This field is not required when noClasses == false.
-    tabWidth = 2
 
 
   
@@ -112,10 +101,15 @@ enableRobotsTXT = true
 
 [params]
   enableCDN             = false
-  cssFiles              = ["default", "css/end2endzone.css", "css/button.css", "css/syntax.css"]
+  cssFiles              = ["default", "css/end2endzone.css", "css/button.css"]
   jsFiles               = ["default"]
   highlightjs           = true
-  highlightjsTheme      = ""
+
+  #highlightjsTheme      = "github-dark"
+  #highlightjsTheme      = "stackoverflow-dark"
+  #highlightjsTheme      = "androidstudio"
+  highlightjsTheme      = "a11y-dark"
+
   highlightjsLang       = []
   viewMorePostsLink     = "blog"
   readingTime           = true

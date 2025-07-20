@@ -9,6 +9,23 @@ tags:
 draft: true
 ---
 
+## Tables
+
+Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
+
+   Name | Age
+--------|------
+    Bob | 27
+  Alice | 23
+
+
+#### Inline Markdown within tables
+
+| Inline&nbsp;&nbsp;&nbsp;     | Markdown&nbsp;&nbsp;&nbsp;  | In&nbsp;&nbsp;&nbsp;                | Table      |
+| ---------- | --------- | ----------------- | ---------- |
+| *italics*  | **bold**  | ~~strikethrough~~&nbsp;&nbsp;&nbsp; | `code`     |
+
+
 # cpp - code fences
 ```cpp
 // Simple C++ program to display "Hello World"
