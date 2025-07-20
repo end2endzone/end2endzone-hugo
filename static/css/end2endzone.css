@@ -3,6 +3,8 @@ CSS Selector cheat sheet:
    article       --> Select by tag name: all <article> tags
    .post         --> Select by class: all tags with the 'post' class assigned.
    #site-sidebar --> Select by id: all tags that has the id 'site-sidebar'.
+   pre table     --> Select table tags that are embeded in a pre tag.
+   pre>table     --> Select table tags that are directly under a pre tag.
 */
 
 
@@ -132,26 +134,26 @@ input:focus, select:focus, textarea:focus {
 
 
 /* Tables */
-table {
+table:not(pre>code>table) {
   background: black; /* space between space is the table background */
   color: black;
   border: 0; /* border around the whole table */
 }
-table thead {
+table:not(pre>code>table) thead {
   font-weight: bold;
   background: RGB(253,160,47); /* orange-like */
 }
-table tbody {
+table:not(pre>code>table) tbody {
   font-weight: normal;
   background: white;
 }
-table>tbody>tr>td:first-child {
+table:not(pre>code>table)>tbody>tr>td:first-child {
   font-weight: normal; /* disable first row in bold in theme */
 }
-table>tbody>tr:nth-child(even) {
+table:not(pre>code>table)>tbody>tr:nth-child(even) {
   background-color: #e8e8e8;
 }
-table tbody tr:hover {
+table:not(pre>code>table) tbody tr:hover {
   background: #fdd19d; /* really light orange */
 }
 
