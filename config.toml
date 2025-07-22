@@ -1,6 +1,6 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "http://www.end2endzone.com"
+baseurl                 = "https://end2endzone.github.io/"
 DefaultContentLanguage  = "en"
 title                   = "end2end zone"
 theme                   = "end2endzone.hugo-future-imperfect-slim"
