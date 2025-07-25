@@ -158,6 +158,48 @@ table:not(pre>code>table) tbody tr:hover {
 }
 
 
+/* Image galleries */
+/* Disable default table CSS */
+.image-gallery figure,
+.image-gallery table,
+.image-gallery table thead,
+.image-gallery table tr:nth-child(even),
+.image-gallery table tr:nth-child(odd),
+.image-gallery table:not(pre>code>table) tbody {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.image-gallery {
+  /* center in content */
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 0px;
+}
+
+.image-gallery figure {
+  max-width: 100%;
+}
+
+.image-gallery figure figcaption p {
+  margin: 0px;
+  text-align: justify;
+  color: white;
+  line-height: 1.5em;
+}
+
+.image-grid img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px; /* Optional rounded corners */
+}
+
 
 /* Define all the sidebars with black background. Select by id */
 #site-intro, #site-sidebar, #site-footer, .mini-post {
@@ -192,8 +234,8 @@ article, .post {
 .pleasenote {
   text-align: justify;
   background: RGB(253,160,47); /* orange-like */
-  border: 3px solid;
-  border-color: lightgrey;
+  border: 1px solid;
+  border-color: black;
   padding: 10px;
   border-radius: 5px;
   margin-left: 20px;

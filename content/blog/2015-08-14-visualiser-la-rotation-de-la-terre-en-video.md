@@ -33,3 +33,5 @@ Afin de bien voir la rotation de la terre (ou des étoiles selon de notre point 
 
 **Voici le résultat!**  
 (Pour une meilleur immersion/expérience, vous devez visualiser le vidéo en haute définition 1080p)
+
+{{< youtube Hy6k6CZVbfw >}}

@@ -21,6 +21,16 @@ J'ai apporté mon appareil photo lors d'une séance de vol à mon club d'aviatio
 
 Il existe deux moyen de faire un flou d'hélice. Le premier étant un peu plus traditionnelle correspond à faire une photo avec une longue exposition (typiquement dans les 1/30 seconde). Cette méthode permet de bien voir la dimension des pales de l'hélice et forme d'impressionnants cercles homogènes complets. Le résultat est d'autant plus beau lorsque les hélices ont des motifs de couleur ce qui rend les cercles encore plus beaux.
 
+![](http://www.end2endzone.com/wp-content/uploads/2015/06/Aviat_Aircraft_Pitts_S-2C_306919-300x188.png)
+
+Le deuxième moyen est de capturer une image avec une très courte exposition. L’objectif de cette méthode est d’essayer de “geler” le mouvement de l’hélice. Une fois que l’on arrive à figer son mouvement, il suffit de ralentir un peu le temps d’exposition pour obtenir un flou du mouvement partiel de l’hélice.
+
+![](http://www.end2endzone.com/wp-content/uploads/2015/06/P-51_Mustang-300x169.jpg)
+
+# Ça tourne vite!
+
+La vitesse moyenne de rotation du moteur est de 2300 à 2400 tour/min lorsque le moteur est “idle”. Malheureusement, ma caméra n’est pas assez rapide pour essayer de “geler” l’image au delà de cette vitesse.
+
 ![IMG_1896_2370_rpm](http://www.end2endzone.com/wp-content/uploads/2015/06/IMG_1896_2370_rpm-300x225.jpg)](https://www.flickr.com/photos/154618444@N05/37279895100/in/album-72157687655209073/)
 
 # Notez la courbure de l'hélice!

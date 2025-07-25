@@ -35,3 +35,5 @@ J'ai tout de même décidé de partager le vidéo. J'espère que vous apprécier
 Antoine
 
 Capturé le 13 juin 2014 entre 15h49 et 22h00 avec 556 photos et 15 secondes d'intervalle entre chaque photo visualisé à 10 images par seconde.
+
+{{< youtube 5vVap8qza-0 >}}

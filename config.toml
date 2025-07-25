@@ -74,7 +74,7 @@ enableRobotsTXT = true
 
     [markup.goldmark.renderer]
       hardWraps = false
-      unsafe = true 
+      unsafe = true    # Allow raw HTML in Markdown files
       # `unsafe = true` is required to enable shortcode inside other shortcodes.
       # https://stackoverflow.com/questions/62129365/how-to-nest-shortcodes-with-hugo-raw-html-ommitted
       xhtml = false

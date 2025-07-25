@@ -32,10 +32,10 @@ During summer 2014, I went camping with my family to Mont-Tremblant and as alway
 
 The "Chute du Diable" is located in Canada, Québec, Mont-Tremblant which is around 2 hours North of Montreal. If you still don't know where it is, here is the precise location where I got this shot:
 
-Latitude:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 46.3828892  
+Latitude:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 46.3828892  
 Longitude: -74.4716262
 
-
+<div style="width: 100%"><iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=46.3828892,-74.4716262+(Chute%20du%20Diable)&amp;t=&amp;z=11&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.mapsdirections.info/fr/calculer-la-population-sur-une-carte">calculer la population sur la carte</a></iframe></div>
 
 # Required gears
 

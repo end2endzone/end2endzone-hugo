@@ -193,8 +193,7 @@ Canon SL1 Bulb Dial Selection
 
 This mode is usually found at the end of your shutter speed range (slowest shutter speed). You can activate it by increasing the shutter speed higher/longer than 30 seconds. On many DSLR camera, the knob controls the shutter speed in manual mode so rolling it will increase the shutter speed and will usually get you to activate bulb mode.
 
-## Turn off Image stabilization
-&nbsp;(IS)
+## Turn off Image stabilization (IS)
 
 ![Image Stabilizer Turned off](http://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg)
 
@@ -288,9 +287,11 @@ Take your time.
 Here are the final results of my firework images:  
 Enjoy!
 
+{{< image-gallery >}}
 | <!-- -->                                                                                                                                                                                                                    | <!-- -->                                                                                                                                                                                                    | <!-- -->                                                                                                                                                                                                                            |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![Pop over the fire](http://www.end2endzone.com/wp-content/uploads/2014/11/firework06-IMG_8540_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396785601/in/album-72157686721348930/ "Pop over the fire") | [![Red giant](http://www.end2endzone.com/wp-content/uploads/2014/11/firework04-IMG_8501_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396786961/in/album-72157686721348930/ "Red giant") | [![The big bang (4 pops)](http://www.end2endzone.com/wp-content/uploads/2014/11/firework07-IMG_8553_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/36687836454/in/album-72157686721348930/ "The big bang (4 pops)") |
 | [![Green over blue](http://www.end2endzone.com/wp-content/uploads/2014/11/firework03-IMG_8500_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396788021/in/album-72157686721348930/ "Green over blue")     | [![RGB](http://www.end2endzone.com/wp-content/uploads/2014/11/firework02-IMG_8493_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396788931/in/album-72157686721348930/ "RGB")             | [![Purple Medley](http://www.end2endzone.com/wp-content/uploads/2014/11/firework05-IMG_8539_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396786031/in/album-72157686721348930/ "Purple Medley")                 |
 | [![Two colors in one](http://www.end2endzone.com/wp-content/uploads/2014/11/firework01-IMG_8483_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396789821/in/album-72157686721348930/ "Two colors in one") |                                                                                                                                                                                                             |                                                                                                                                                                                                                                     |
+{{< /image-gallery >}}
 
