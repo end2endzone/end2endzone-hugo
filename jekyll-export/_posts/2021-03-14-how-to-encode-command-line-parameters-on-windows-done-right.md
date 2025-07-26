@@ -21,7 +21,9 @@ This post is a follow up on command line arguments. I recently published a C++ l
 
 The [libArgvCodec](/libargvcodec-a-c-library-which-properly-encode-and-decode-command-line-arguments/) library can be used for free and is released as Open Source. The code is available [here](/download/2480/). Feel free to download the library to use it in your own projects. # Encoding and Decoding rules
 
-If you do not want to use the library, the following section shows the rules that are implemented into the library for properly handling all situations and special characters. Feel free to use these rules to implement your own library. ## Rule #1 - Delimiters
+If you do not want to use the library, the following section shows the rules that are implemented into the library for properly handling all situations and special characters. Feel free to use these rules to implement your own library.
+
+## Rule #1 - Delimiters
 
 Tabs or \[space\] characters are argument delimiters (separators) but **\*only\*** when outside a string and outside a caret-string. Examples: | Command Line | Arg #1 | Arg #2 | Arg #3 |
 |---|---|---|---|
@@ -139,7 +141,9 @@ Two juxtaposed strings (not separated by a delimiter character), will insert a p
 
 ## Rule #7 - Any other characters
 
-All other characters must be read as plain text. ## <span style="font-size: 24px; font-weight: bold;">Exceptions:</span>
+All other characters must be read as plain text.
+
+## <span style="font-size: 24px; font-weight: bold;">Exceptions:</span>
 
 ### Exception #1
 

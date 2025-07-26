@@ -27,13 +27,19 @@ tags:
 
 ### Tripod
 
-This one is obvious. You need a tripod to make sure that all images are aligned the same directions. The field of view must be identical for all captured images. You do not want to see the background of the event moving during the video but only your subject. ### Intervalometer
+This one is obvious. You need a tripod to make sure that all images are aligned the same directions. The field of view must be identical for all captured images. You do not want to see the background of the event moving during the video but only your subject.
 
-An intervalometer is a remote trigger with the added capacity to trigger the camera shutter at regular intervals. It is mandatory if you want to do time-lapse image capturing. It is not used to reduce camera shake since the photographer does not take any actions on the camera during the capturing process. ## Useful stuff
+### Intervalometer
+
+An intervalometer is a remote trigger with the added capacity to trigger the camera shutter at regular intervals. It is mandatory if you want to do time-lapse image capturing. It is not used to reduce camera shake since the photographer does not take any actions on the camera during the capturing process.
+
+## Useful stuff
 
 ### Calculator
 
-A calculator is useful if you go out in the field for your capturing session. For most time-lapse projects related to capturing the nature, it would be wise to bring a camera with you for calculating the perfect interval for your desired effect. See the section [*Calculating the best interval*](#Calculating_the_bestinterval) for details. ## Tools you won’t need
+A calculator is useful if you go out in the field for your capturing session. For most time-lapse projects related to capturing the nature, it would be wise to bring a camera with you for calculating the perfect interval for your desired effect. See the section [*Calculating the best interval*](#Calculating_the_bestinterval) for details.
+
+## Tools you won’t need
 
 ### Flashes
 
@@ -43,9 +49,13 @@ Don't go out and try to shot anything as quickly as possible. I recommend that y
 
 ## Smooth transitions
 
-Smooth transitions between each photos means a short interval between each capture. Is is used when you want your subject to move slowly or show few changes between each frame so the user can understand the subject movement over time. A high frame rate (at least 24 fps, 30 fps is best) in the final video is required for smooth transitions. If you make your calculations for a video that is too smooth, the subject will appear frozen which is not something that we want on a time-lapse video. Usual examples are melting ice, clouds or sunsets/sunrise, or mostly any kind or subject movement. ## Hard transitions
+Smooth transitions between each photos means a short interval between each capture. Is is used when you want your subject to move slowly or show few changes between each frame so the user can understand the subject movement over time. A high frame rate (at least 24 fps, 30 fps is best) in the final video is required for smooth transitions. If you make your calculations for a video that is too smooth, the subject will appear frozen which is not something that we want on a time-lapse video. Usual examples are melting ice, clouds or sunsets/sunrise, or mostly any kind or subject movement.
 
-As opposed to smooth transitions, hard transitions between each photos means a longer time interval between each capture. It is used in situation where the user do not have to follow movement like when you want to show the different steps or the increasing progress of a project. A low frame rate (between 1 fps to 15 fps) in the final video would result to a final video with hard transitions. If you make your calculations for a video with too hard transitions, the viewer could get confused about what just happened since frames have a tendency to "jump" from one to another. Usual examples are building constructions or rotting fruits. ## Calculating the best interval
+## Hard transitions
+
+As opposed to smooth transitions, hard transitions between each photos means a longer time interval between each capture. It is used in situation where the user do not have to follow movement like when you want to show the different steps or the increasing progress of a project. A low frame rate (between 1 fps to 15 fps) in the final video would result to a final video with hard transitions. If you make your calculations for a video with too hard transitions, the viewer could get confused about what just happened since frames have a tendency to "jump" from one to another. Usual examples are building constructions or rotting fruits.
+
+## Calculating the best interval
 
 Once you have defined what kind of transitions you want, and the "amount" of movement you want to show in your final video, here's how to perfectly define the right interval time to get very smooth or hard transitions. You first need to define the following: - How long does the real event last ?
 - How long the final video would be ?
@@ -57,29 +67,49 @@ Now open [Photography time-lapse calculator](https://www.end2endzone.com/wp-cont
 
 Set your camera in manual focus. This is also mandatory if your intervals are really close (less than 10 seconds). If you set your camera in auto focus, lets say to capture the movement of your subject when it moves closer and away from the camera, you will end up with some pictures with a blurry background and some with a clear background and that would not be interesting to watch. Also, the auto-focus of your camera can take as much as 1-2 seconds and that delay would be added to the intervals between each shots. You are much better to use a narrower aperture to increase the dept of field instead of using auto-focus. It also saves battery power :) ## Set camera in manual mode
 
-You need to set your camera in manual mode. The objective is to have an identical exposure over all your frames (pictures) during the whole capturing period. The only way to expect this is to use the manual mode in your DSLR. All other modes will make assumptions or estimation of what is the best value for ISO/Aperture/Shutter speed and you may not always get the same value which would create slight variations in the final image exposure. The same applies for any priority modes. ### Shutter speeds
+You need to set your camera in manual mode. The objective is to have an identical exposure over all your frames (pictures) during the whole capturing period. The only way to expect this is to use the manual mode in your DSLR. All other modes will make assumptions or estimation of what is the best value for ISO/Aperture/Shutter speed and you may not always get the same value which would create slight variations in the final image exposure. The same applies for any priority modes.
 
-almost any shutter speed is good for doing time-lapse videos. However, make sure you select a shutter speed that is appropriate for the situation. If your shutter speed that is too fast/quick, all your images will appear frozen which would result in a consecutive list of frozen action images. If your final video have a medium to low frame rate, you could make use of this by selecting a slow shutter speed (read 1/60th to 1/30th). That shutter speed range would create motion blur in your image and ease the transition between 2 video frames. ### Aperture
+### Shutter speeds
 
-Set your aperture as wide as possible (that means the lowest f number as possible) to allows a maximum amount of light to enter the camera. Take consideration for allowing a proper [depth of field](http://www.google.com/?q=aperture+depth+of+field) for your video. If your subject is close to the camera, a wider depth of field is required (to have both the background and the subject at focus) so a narrow aperture (high f number) would be better. If you are capturing a background or a nature scene, the widest aperture would allow more light to come in without sacrificing anything at focus. ### ISO
+almost any shutter speed is good for doing time-lapse videos. However, make sure you select a shutter speed that is appropriate for the situation. If your shutter speed that is too fast/quick, all your images will appear frozen which would result in a consecutive list of frozen action images. If your final video have a medium to low frame rate, you could make use of this by selecting a slow shutter speed (read 1/60th to 1/30th). That shutter speed range would create motion blur in your image and ease the transition between 2 video frames.
 
-As usual, set your ISO to the lowest possible value that is reasonable for giving the right exposure. ## Shoot in JPG
+### Aperture
 
-Set your camera to shoot in JPG not RAW. RAW is really nice for stills but it is way too heavy for multiple captures and considerably reduces your recording time. Besides, you don't really need RAW for time-lapse videos. An average RAW file takes about 26.75 MiB and considering you may be capturing stills at 15 seconds intervals, you will only be able to record 570 frames. In other words, you will only be able to record an event of 2 hours and 22 minutes before fulling the memory card. If you are capturing at 10 seconds interval, that's only 1 hour and 35 minutes of real-time recording before fulling the memory card! Here's the calculations: 16 GB = 16000000000 bytes = 15258 MiB 15258 MiB / 26.75 MiB per photo = 570 frames 570 photos @ 1 frame per 15 seconds = 142.5 minutes = 02:22:30 of real-time recording. 570 photos @ 1 frame per 10 seconds = 95 minutes = 01:35:30 of real-time recording. During this shooting, I use RAW captures without thinking much about this. I had to invest too much time converting and resizing images to JPG. I also had to change the 16 GB memory card for another one at the end of the video which explains why the view angle changes at the end. Save yourself the trouble and use the JPG captures. ## Set reduced image capture size
+Set your aperture as wide as possible (that means the lowest f number as possible) to allows a maximum amount of light to enter the camera. Take consideration for allowing a proper [depth of field](http://www.google.com/?q=aperture+depth+of+field) for your video. If your subject is close to the camera, a wider depth of field is required (to have both the background and the subject at focus) so a narrow aperture (high f number) would be better. If you are capturing a background or a nature scene, the widest aperture would allow more light to come in without sacrificing anything at focus.
 
-This step is optional but doing so could reduce the amount of time in post-processing. If you already know the resolution of the final video (480p, 720p, 1080p, 4K), you can set the camera to automatically resize images to the appropriate resolution that matches the final video resolution. You can also decide to skip this step and reduce images size during post-processing with your [favorite image editor](http://www.gimp.org/downloads/) with the help of a [batch plugin](http://members.ozemail.com.au/~hodsond/dbp.html) or use a live [resize filter](#Applying_additional_filters_optional) when importing images into the video software. ## Turn off Image stabilization (IS)
+### ISO
 
-As usual, since you are using a tripod, set Image Stabilization to off. ## Configure appropriate white balance
+As usual, set your ISO to the lowest possible value that is reasonable for giving the right exposure.
 
-Turn off auto white balance. This is required to reduce flickering to a minimum. It is better to have flickering because the amount of light in the room was varying over time than having your camera trying to detect the best white balance on every capture. Try on auto once, look at the value and use the same for all other captures. In other words, it is best to set all auto features of your camera to off for the same reasons. ## Connect your intervalometer
+## Shoot in JPG
+
+Set your camera to shoot in JPG not RAW. RAW is really nice for stills but it is way too heavy for multiple captures and considerably reduces your recording time. Besides, you don't really need RAW for time-lapse videos. An average RAW file takes about 26.75 MiB and considering you may be capturing stills at 15 seconds intervals, you will only be able to record 570 frames. In other words, you will only be able to record an event of 2 hours and 22 minutes before fulling the memory card. If you are capturing at 10 seconds interval, that's only 1 hour and 35 minutes of real-time recording before fulling the memory card! Here's the calculations: 16 GB = 16000000000 bytes = 15258 MiB 15258 MiB / 26.75 MiB per photo = 570 frames 570 photos @ 1 frame per 15 seconds = 142.5 minutes = 02:22:30 of real-time recording. 570 photos @ 1 frame per 10 seconds = 95 minutes = 01:35:30 of real-time recording. During this shooting, I use RAW captures without thinking much about this. I had to invest too much time converting and resizing images to JPG. I also had to change the 16 GB memory card for another one at the end of the video which explains why the view angle changes at the end. Save yourself the trouble and use the JPG captures.
+
+## Set reduced image capture size
+
+This step is optional but doing so could reduce the amount of time in post-processing. If you already know the resolution of the final video (480p, 720p, 1080p, 4K), you can set the camera to automatically resize images to the appropriate resolution that matches the final video resolution. You can also decide to skip this step and reduce images size during post-processing with your [favorite image editor](http://www.gimp.org/downloads/) with the help of a [batch plugin](http://members.ozemail.com.au/~hodsond/dbp.html) or use a live [resize filter](#Applying_additional_filters_optional) when importing images into the video software.
+
+## Turn off Image stabilization (IS)
+
+As usual, since you are using a tripod, set Image Stabilization to off.
+
+## Configure appropriate white balance
+
+Turn off auto white balance. This is required to reduce flickering to a minimum. It is better to have flickering because the amount of light in the room was varying over time than having your camera trying to detect the best white balance on every capture. Try on auto once, look at the value and use the same for all other captures. In other words, it is best to set all auto features of your camera to off for the same reasons.
+
+## Connect your intervalometer
 
 Connect your intervalometer and configure the appropriate interval time calculated previously for capturing frames. # Capture your scene
 
 Now is the time to take as much shoot as needed for properly capturing your subject's movement or change over time. In the meantime, get yourself a coffee, start downloading required softwares or watch a movie and come back in a hour or so :) # Prepare your image files
 
-After the capturing session is completed and you have transferred all your images to your PC, it is time to make sure your files are prepared for the final product. ## Verify the image sequence order
+After the capturing session is completed and you have transferred all your images to your PC, it is time to make sure your files are prepared for the final product.
 
-In order to import the images to a video application, all images must have the same pattern: a common prefix with a sequential increasing number. All images have to be named in a continuous image sequence. However, in some scenarios, this list could be broken or require modifications. Here's some situation that might happened which would require special attention. ### Reordering, fixing image counter wrap around
+## Verify the image sequence order
+
+In order to import the images to a video application, all images must have the same pattern: a common prefix with a sequential increasing number. All images have to be named in a continuous image sequence. However, in some scenarios, this list could be broken or require modifications. Here's some situation that might happened which would require special attention.
+
+### Reordering, fixing image counter wrap around
 
 In the low probability that you started shooting pictures when your camera's file name counter was close to wrapping around (say IMG\_9xxx.jpg), you might end up with a broken sequence. That means you will have your first block which is IMG\_9000.jpg to IMG\_9999.jpg and your second block which is IMG\_0000.jpg to IMG\_2345.jpg. Most (if not all) video software will try to import each block as independent blocks. To prevent this, you need to reorder your images to a single continuous image sequence. In other words, you basically need to reorder each block to the following: - IMG\_0000.jpg \[...\] IMG\_2345.jpg renamed to IMG\_1000.jpg \[...\] IMG\_3345.jpg
 - IMG\_9000.jpg \[...\] IMG\_9999.jpg renamed to IMG\_0000.jpg \[...\] IMG\_0999.jpg
@@ -135,14 +165,18 @@ This step is optional but it is suggested to resize your images to help Windows 
 
 \[caption id="attachment\_776" align="alignnone" width="234"\][![David Batch Processor Done](https://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done-234x300.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png) David Batch Processor Done\[/caption\] # Combining photos into a movie
 
-In the next sections, I will explain 2 methods that you can use to combine photos into a movie. Each methods has their own required list of software and has their pros and cons. ## Windows Movie Maker
+In the next sections, I will explain 2 methods that you can use to combine photos into a movie. Each methods has their own required list of software and has their pros and cons.
+
+## Windows Movie Maker
 
 This sections explains how to process your captured images into a video using Windows Movie Maker. \[caption id="attachment\_788" align="alignnone" width="300"\][![Windows Movie Maker screenshot](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-300x163.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg) Windows Movie Maker screenshot\[/caption\] ### Download required files
 
 - Windows Movie Maker [online installer](http://windows.microsoft.com/en-ca/windows-live/download-windows-essentials) / [offline installer](http://windows.microsoft.com/en-ca/windows-live/essentials-install-offline-faq) download.
 - or the older version [Windows Movie Maker 2.6](http://www.microsoft.com/en-us/download/details.aspx?id=34).
 
-Download and install each software before processing to the next steps. ### Add photos to movie timeline
+Download and install each software before processing to the next steps.
+
+### Add photos to movie timeline
 
 All your images are ready. Now is the time to import them in Windows Movie Maker by following theses steps: 1. Open ***Windows Movie Maker***.
 2. Importing all images 
@@ -163,14 +197,18 @@ Windows Movie Maker supports adding an audio track to the video. You can use an 
 3. Browse the audio or video file and click on Open button.
 4. You should see a new track with a green background on the timeline view.
 
-If you do not have an audio file on your computer, you can try to find some on the [Creative Commons Search (Music)](http://search.creativecommons.org/) site. ### Saving to MP4 file
+If you do not have an audio file on your computer, you can try to find some on the [Creative Commons Search (Music)](http://search.creativecommons.org/) site.
+
+### Saving to MP4 file
 
 Now that your composition is complete, save your project into an MP4 video by following theses steps: 1. Click on ***Save Movie*** button in the ribbon toolbar.
 2. Select the export settings that matches your needs and file size. For maximum quality, save your movie using the ***For high-definition display*** setting.
 
 \[caption id="attachment\_789" align="alignnone" width="300"\][![Windows Movie Maker Export Completed](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed-300x120.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png) Windows Movie Maker Export Completed\[/caption\] ## VirtualDub
 
-This sections explains how to process your captured images into a video using VirtualDub. ### Download required files
+This sections explains how to process your captured images into a video using VirtualDub.
+
+### Download required files
 
 - [VirtualDub](http://virtualdub.sourceforge.net/) (latest version).
 - [Lagarith Lossless Video Codec](http://lags.leetcode.net/codec.html)
@@ -178,7 +216,9 @@ This sections explains how to process your captured images into a video using Vi
 - [HandBrake](https://handbrake.fr/downloads.php)
 - [FadeFX 1.2](http://home.earthlink.net/~tacosalad/video/fadefx.htm) - Fade Effects for VirtualDub
 
-Download and install each software before processing to the next steps. ### Importing
+Download and install each software before processing to the next steps.
+
+### Importing
 
 Importing your images as a video in VirtualDub is also really easy: simply follow theses steps: 1. Start VirtualDub.
 2. Click on ***File/Open video file*** menu.
@@ -220,7 +260,9 @@ VirtualDub also support adding an audio track from an external audio file. Virtu
 3. If you are importing an MP3 file, ***select*** the type of bitrate of the file. That is CBR or VBR. In case you do not know, select ***Autodetect***.
 4. Press the OK Button.
 
-For free creative commons licensed music, visit the following link: [Creative Commons Search (Music)](http://search.creativecommons.org/). ### Saving to temporary \*.avi file
+For free creative commons licensed music, visit the following link: [Creative Commons Search (Music)](http://search.creativecommons.org/).
+
+### Saving to temporary \*.avi file
 
 As explained in the [Lossless video codec](#Lossless_video_codec) section, VirtualDub is not the best software for encoding your video (compressing). It is better to use Handbrake for this task. To save your video without loosing any detail or data, a temporary AVI file must be created. 1. Click on ***File/Save as AVI*** menu. That will open the ***Save file*** dialog.
 2. ***B******rowse*** to the location where you want to save your video and enter a filename for saving. Click the Save button.

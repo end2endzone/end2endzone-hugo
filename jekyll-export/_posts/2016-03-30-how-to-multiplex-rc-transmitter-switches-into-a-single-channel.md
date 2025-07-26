@@ -44,9 +44,13 @@ For this type of project, 7 channels is usually required. The easiest method wou
 
 ## Design
 
-The following section illustrate the design required for multiplexing as much information as possible into a single channel. ### Create blocks
+The following section illustrate the design required for multiplexing as much information as possible into a single channel.
 
-The generic idea is to divide the whole range of the signal (from -150% to 150%) into blocks or bands. Each block correspond to a unique configuration of all switches. Then you create the required mixes to move/update the signal value to the block corresponding to the switches unique configuration. ### Minimum number of blocks
+### Create blocks
+
+The generic idea is to divide the whole range of the signal (from -150% to 150%) into blocks or bands. Each block correspond to a unique configuration of all switches. Then you create the required mixes to move/update the signal value to the block corresponding to the switches unique configuration.
+
+### Minimum number of blocks
 
 The following explain what is the minimum number of blocks that are required for multiplexing a given amount of switches. The number of required blocks for a given number of switches is defined by the all the unique combinations that are possible with the switches. To calculate this, you multiply the number of combinations of each switch by each other. For instance: To multiplex three 2-position switches, 8 blocks are required (2\*2\*2) which makes 8 unique combinations: | **Block Number** | **Switches** |
 |---|---|
@@ -80,7 +84,9 @@ Note that each switch also requires a mix for working. The amount of switches yo
 
 ## Supporting 3-position switches
 
-In your design, you will have to decide to support or not 3-position switches. If you do, it will reduce the amount of switches you can multiplex into a single channel since each switches requires 3 blocks instead of 2 blocks. An acceptable compromise is to use this switch as a 2-position switch. Position 1 would then be identical as Position 0 (OFF) and Position 2 would be ON. ## Dead Zone
+In your design, you will have to decide to support or not 3-position switches. If you do, it will reduce the amount of switches you can multiplex into a single channel since each switches requires 3 blocks instead of 2 blocks. An acceptable compromise is to use this switch as a 2-position switch. Position 1 would then be identical as Position 0 (OFF) and Position 2 would be ON.
+
+## Dead Zone
 
 Blocks cannot be juxtaposed to each other and dead zones must be inserted between (or within) blocks. This is required since each transmitters and micro-controllers do not offer the same performance and precision. Dead zones are required since a micro-controller might read data from block 5 but the next pulse of the same signal may introduce a 5uS delay, which would correspond to a different block (ie block 6). For instance, if the following blocks are defined: | **Block** | **Min** | **Max** |
 |---|---|---|
@@ -100,7 +106,9 @@ The difference between -131% (block 1) and -130% (block 2) is ~5uS. If blocks wo
 | DEAD | -122% | -113% |  |
 | 3 | -117% | -113% | -115% |
 
-The block size must also have a minimum size to account for the same effect. If the block size is too small, the micro-controller might read data from a dead zone and would not know what to do. The more accurate the receiver and the micro-controller, the smaller the block size and dead zone size can be. Mixes should be created to move the actual signal values to target the middle of the effective block area (not the dead zone). See the [Mixes](#Mixes) section for more details. ## Block size
+The block size must also have a minimum size to account for the same effect. If the block size is too small, the micro-controller might read data from a dead zone and would not know what to do. The more accurate the receiver and the micro-controller, the smaller the block size and dead zone size can be. Mixes should be created to move the actual signal values to target the middle of the effective block area (not the dead zone). See the [Mixes](#Mixes) section for more details.
+
+## Block size
 
 Based on my observation, the best values for block size and dead zone size are as follow: A block size of 10 steps is big enough to allow multiplexing a high amount of switches while leaving enough space for a reasonable dead zone between blocks. At the same time, a block size of 10 steps allows the blocks to be rounded easily which makes blocks offsets easy to calculate. The acceptable dead zone size (considering the average precision of most micro-controller and receivers), does not need to be bigger than 2 steps. This configuration leaves two blocks spaced by 4 steps which is enough to prevent issues. The following values are then considered "safe and tested" to get good and stable results: <div class="rcchannels">| Block size | : | 10 steps |
 |---|---|---|
@@ -164,7 +172,9 @@ As you can see, the sum of all combined mixes matches the middle section of each
 | 14 | 1 | 1 | 1 | 0 | -100 | -46 | 20 | 40 | 80 | -6 |
 | 15 | 1 | 1 | 1 | 1 | -100 | -36 | 20 | 40 | 80 | 4 |
 
-Use the \[download id="1486"\] for calculating all block offset when multiplexing four 2-position switches. ### Three 2-position and one 3-position switches
+Use the \[download id="1486"\] for calculating all block offset when multiplexing four 2-position switches.
+
+### Three 2-position and one 3-position switches
 
 The following table shows the signal range and the middle of the effective area for each block. It is calculated using a block size of 10 steps and a dead zone of 2 steps which makes the effective block size to 6 steps: | Block Number | Block Offsets | Mix Target |
 |---|---|---|
@@ -234,7 +244,9 @@ As you can see, the sum of all combined mixes matches the middle section of each
 | 22 | 1 | 1 | 1 | 1 | -68 | -68 | 0 | 30 | 60 | 120 | 74 |
 | 23 | 1 | 1 | 1 | 2 | -136 | 0 | 10 | 30 | 60 | 120 | 84 |
 
-Use the \[download id="1482"\] for calculating all block offset when multiplexing three 2-position switches and one 3-position switch. ### Three 3-position switches
+Use the \[download id="1482"\] for calculating all block offset when multiplexing three 2-position switches and one 3-position switch.
+
+### Three 3-position switches
 
 The following table shows the signal range and the middle of the effective area for each block. Again, it is calculated using a block size of 10 steps and a dead zone of 2 steps which makes the effective block size to 6 steps: | Block Number | Block Offsets | Mix Target |
 |---|---|---|
@@ -307,13 +319,19 @@ As you can see, the sum of all combined mixes matches the middle section of each
 | 25 | 2 | 2 | 1 | 0 | 30 | 90 | 120 |
 | 26 | 2 | 2 | 2 | 10 | 30 | 90 | 130 |
 
-Use the \[download id="1484"\] for calculating all block offset when multiplexing three 3-position switches. ## Decoding
+Use the \[download id="1484"\] for calculating all block offset when multiplexing three 3-position switches.
+
+## Decoding
 
 Decoding the switches configuration is relatively easy: First identify the block number matching the signal's value using a sequence of "*if*" statements. Then, update switches state based on the currently selected block. Refer to tables above for offsets &amp; switches states for each selected block. Note that if you get a signal value that is within the dead zone, it probably means that you have an issue with your transmitter mixes. Verify your mixes and try again.
 
-Since reading switches states does not imply any analog value, you do not really care if the signal value is within the effective area (or not) so clamping is not necessary beside detecting instability issue in the signal. However, in the low probability that you get a signal within a dead zone, then the first dead zone should be considered as if you read the first value of the effective area and the last dead zone as the last value of the effective area. ### Required Libraries
+Since reading switches states does not imply any analog value, you do not really care if the signal value is within the effective area (or not) so clamping is not necessary beside detecting instability issue in the signal. However, in the low probability that you get a signal within a dead zone, then the first dead zone should be considered as if you read the first value of the effective area and the last dead zone as the last value of the effective area.
 
-<span style="text-decoration: underline;"><span style="font-size: 16pt;">[PinChangeInt ](https://github.com/GreyGnome/PinChangeInt)</span></span>This library allows the arduino to attach interrupts on multiple pins. <span style="text-decoration: underline;"><span style="font-size: 16pt;">[eRCaGuy\_Timer2\_Counter ](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html)</span></span>(optional) This library configures the arduino's timer2 to 0.5µs precision. It is used for a *micros()* function replacement and allows times calculations that are far more precise (8 times!) than the default's 4µs resolution. ### Code sample
+### Required Libraries
+
+<span style="text-decoration: underline;"><span style="font-size: 16pt;">[PinChangeInt ](https://github.com/GreyGnome/PinChangeInt)</span></span>This library allows the arduino to attach interrupts on multiple pins. <span style="text-decoration: underline;"><span style="font-size: 16pt;">[eRCaGuy\_Timer2\_Counter ](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html)</span></span>(optional) This library configures the arduino's timer2 to 0.5µs precision. It is used for a *micros()* function replacement and allows times calculations that are far more precise (8 times!) than the default's 4µs resolution.
+
+### Code sample
 
 The following arduino code (\*.ino) can be used to demultiplex the three scenarios above:
 
@@ -331,11 +349,17 @@ Including an analog value (usually a rotating knob) into the multiplexed signal 
 
 ## Define resolution
 
-Defining the resolution of the analog value means that you must choose the granularity of the value. By default the analog value has at least 200 different values and ranges from -100% to +100%. Since you also want to multiplex switches into the same signal, the resolution must be reduced from 200 different values to a lot less. To support a desired resolution, multiple blocks will need to be sacrificed. I do recommend a resolution of 40 steps (with values from 0 to 39) which is a nice resolution to allow enough details and can also be subdivided into other zones. ## What's different
+Defining the resolution of the analog value means that you must choose the granularity of the value. By default the analog value has at least 200 different values and ranges from -100% to +100%. Since you also want to multiplex switches into the same signal, the resolution must be reduced from 200 different values to a lot less. To support a desired resolution, multiple blocks will need to be sacrificed. I do recommend a resolution of 40 steps (with values from 0 to 39) which is a nice resolution to allow enough details and can also be subdivided into other zones.
 
-The design for including an analog value is different than having only switches. ### Block size
+## What's different
 
-Block size must be increased to allow the desired resolution. The higher the resolution, the less switches you can multiplex. The block size must be big enough to fit both dead zones and the desired resolution. ### Dead zone
+The design for including an analog value is different than having only switches.
+
+### Block size
+
+Block size must be increased to allow the desired resolution. The higher the resolution, the less switches you can multiplex. The block size must be big enough to fit both dead zones and the desired resolution.
+
+### Dead zone
 
 A dead zone of 3 steps is also suggested. For instance, to support a resolution of 40 different steps, the block size must be of 46 steps (3+40+3=46). The following table shows the signal range and the middle of the effective area for each block. It is calculated using a block size of 46 steps and a dead zone of 3 steps which makes the effective block size to 40 steps: | Block Number | Block Offsets |
 |---|---|
@@ -378,7 +402,9 @@ As you can see, the sum of all combined mixes matches the middle section of each
 | 5 | 1 | 2 | 0 | -147 | 0 | 138 | 92 | 83 |
 | 5 | 1 | 2 | 40 | 0 | -108 | 138 | 92 | 122 |
 
-Use the \[download id="1510"\] for calculating all block offset when multiplexing an analog value with a 2-position and a 3-position switch. ## Decoding
+Use the \[download id="1510"\] for calculating all block offset when multiplexing an analog value with a 2-position and a 3-position switch.
+
+## Decoding
 
 Decoding an analog value with switches configuration is different: First identify the block number matching the signal's value using a sequence of "if" statements. Then [clamp](https://www.google.com/?q=clamp+integer+c%2B%2B) the value within the effective block area. This is required since the signal can get close to a dead zone (or even reach a dead zone!). To get the actual analog value, you must also offset the block's effective range to get a constant 0-39 range. Finally, update switches state based on the currently selected block. Refer to tables above for offsets &amp; switches states for each selected block. Note that reading a value (with the micro-controller) that is outside the analog effective area should be considered the same as reading an analog value of 0 or 39 depending on the closest dead zone.
 

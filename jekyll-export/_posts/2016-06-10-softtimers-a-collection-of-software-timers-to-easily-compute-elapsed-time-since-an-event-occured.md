@@ -40,7 +40,9 @@ Here is a list of all library features: - Provides the non-blocking equivalent t
 
 ## Basic Usage
 
-Call `setTimeOutTime()` to setup the non-blocking SoftTimer then call `reset()` to restart the internal counter. Within the `loop()`, use `hasTimedOut()` to know if the timer has expired. At any moment, call `getElapsedTime()` to get the absolute elapsed time since the last `reset()`. ## Fade a LED
+Call `setTimeOutTime()` to setup the non-blocking SoftTimer then call `reset()` to restart the internal counter. Within the `loop()`, use `hasTimedOut()` to know if the timer has expired. At any moment, call `getElapsedTime()` to get the absolute elapsed time since the last `reset()`.
+
+## Fade a LED
 
 Fading a LED like [arduino's Built-in Fade Example](https://www.arduino.cc/en/Tutorial/Fade) is trivial using SoftTimers. The library helps in defining the constant speed at which the LED will fade by defining the total length of the process and by easily mapping the timer "progress" to the amount of fade (PWM) used with the output pin. All of this in a non-blocking manner. The following example increases the intensity of a LED from OFF to ON in 1 second and then decreases the intensity of the LED back to OFF in 1 second. <span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>Click the following to download the example below: (download \[download id="2109" template="title"\])
 

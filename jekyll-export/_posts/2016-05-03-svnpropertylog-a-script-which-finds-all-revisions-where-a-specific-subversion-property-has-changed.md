@@ -45,7 +45,9 @@ pause
 
 ## UI
 
-\[caption id="attachment\_1918" align="alignnone" width="363"\][![svnpropertylog - Select Subversion Property](https://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample.png)](https://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample.png) svnpropertylog - Select Subversion Property\[/caption\] A GUI application is also available. From a [file explorer window](http://upload.wikimedia.org/wikipedia/en/c/cb/Windows_Explorer_Windows_7.png?download), double-click on ***svnpropertylogGui*** and follow on-screen instructions: the UI will prompt the user for each command line argument and then launch the script. ## Output
+\[caption id="attachment\_1918" align="alignnone" width="363"\][![svnpropertylog - Select Subversion Property](https://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample.png)](https://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample.png) svnpropertylog - Select Subversion Property\[/caption\] A GUI application is also available. From a [file explorer window](http://upload.wikimedia.org/wikipedia/en/c/cb/Windows_Explorer_Windows_7.png?download), double-click on ***svnpropertylogGui*** and follow on-screen instructions: the UI will prompt the user for each command line argument and then launch the script.
+
+## Output
 
 On execution, the following output is produced by the script:
 

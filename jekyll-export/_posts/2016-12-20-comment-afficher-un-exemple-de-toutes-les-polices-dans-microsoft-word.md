@@ -37,7 +37,9 @@ Le script a quelques limitations. Celles-ci sont plus bas: ## Possibilité de do
 
 Certaines police ne sont pas disponibles sous certain style. Par exemple, la police ***Wingdings*** n'offre pas de style *Gras* (bien que le style *Italique* soit disponible). Malheureusement, le script ne permet pas de détecter les styles qui ne sont pas disponibles et affichera donc plusieurs fois le même résultats. # Installation
 
-Le script peut-être utilisé de deux façons. Les sections suivantes expliquent chacune d'elle. ## Télécharger le script
+Le script peut-être utilisé de deux façons. Les sections suivantes expliquent chacune d'elle.
+
+## Télécharger le script
 
 Télécharger le script sur votre ordinateur en utilisant le lien suivant \[download id="2339" template="title"\]. Procédez avec les étapes suivantes pour installer le module téléchargé: 1. Ouvrir ***Microsoft Word***.
 2. Naviguer au menu ***Affichage*** du ***ruban***.
@@ -52,7 +54,9 @@ Télécharger le script sur votre ordinateur en utilisant le lien suivant \[down
 11. Cliquer sur le l'icône de sauvegarde ( [![microsoft-word-save-icon](https://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg) ) pour sauvegarder le nouveau module.
 12. Fermer l'éditeur de macro Microsoft Visual Basic.
 
-Le module est maintenant installé sur le système. ## Copier coller le script
+Le module est maintenant installé sur le système.
+
+## Copier coller le script
 
 Certain fureteur ou antivirus ne permettent pas le téléchargement de module Microsoft Word (\*.bas). L'option de téléchargement du module n'est donc pas possible. Dans ce cas, l'option copier-coller doit être utilisé. Pour ce faire, copier le code suivant dans le presse-papier :
 
@@ -86,7 +90,9 @@ Procédez avec les étapes suivantes pour exécuter le module installé: 1. Ouvr
 7. Entrer un exemple de texte puis cliquer sur le bouton <span class="button3D">OK</span>. Laissez le champ vide et cliquer sur le bouton <span class="button3D">OK</span> pour utiliser le pangramme anglophone "*The quick brown fox jumps over the lazy dog*".
 8. Patientez environ 30 secondes pendant l'exécution du script.
 
-Le document sera complété avec votre exemple de texte pour chacune des polices installées sur votre ordinateur. ## Exemple
+Le document sera complété avec votre exemple de texte pour chacune des polices installées sur votre ordinateur.
+
+## Exemple
 
 Après l'exécution du script, vous obtiendrez un document complet: \[caption id="attachment\_2350" align="alignnone" width="853"\][![Exemple de d'affichage toutes les polices](https://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg) Exemple de d'affichage toutes les polices\[/caption\] # Licence
 

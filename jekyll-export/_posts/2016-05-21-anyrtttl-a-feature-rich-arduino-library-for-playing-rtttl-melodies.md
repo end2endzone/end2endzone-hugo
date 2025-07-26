@@ -43,11 +43,15 @@ Here is a list of all library features: - Really small increase in memory &amp; 
 
 Most of the code that can "play" a melody on internet are all build the same way: sequential calls to `tone()` and `delay()` functions using hardcoded values. This type of implementation might be good for robots but not for realtime application or projects that needs to monitor pins while the song is playing. With AnyRtttl non-blocking mode, your program can read/write IOs pins while playing and react on changes. Implementing a "stop" or "next song" push button is a breeze! ## External Tone or Timer #0 libraries
 
-The AnyRtttl library is also flexible by allowing you to use the build-in arduino `tone()` and `noTone()` functions or an implementation from any external library which makes it compatible with any *Tone library* in the market. The library also supports custom `delay()` and `millis()` functions. If a projects requires modification to the microcontroller’s build-in Timer #0, the `millis()` function may be impacted and behave incorrectly. To maximize compatibility, one can supply a custom function which behaves like the original to prevent altering playback. ## Binary RTTTL
+The AnyRtttl library is also flexible by allowing you to use the build-in arduino `tone()` and `noTone()` functions or an implementation from any external library which makes it compatible with any *Tone library* in the market. The library also supports custom `delay()` and `millis()` functions. If a projects requires modification to the microcontroller’s build-in Timer #0, the `millis()` function may be impacted and behave incorrectly. To maximize compatibility, one can supply a custom function which behaves like the original to prevent altering playback.
+
+## Binary RTTTL
 
 The AnyRtttl library also supports playing RTTTL data which is stored as binary data instead of text. This is actually a custom implementation of the RTTTL format. Using these format, one can achieve storing an highly compressed RTTTL melody which saves memory. See the [Binary RTTTL format definition](#Binary_RTTTL_format_definition) section for details. # Usage
 
-Define ANY\_RTTTL\_INFO to enable the debugging of the library state on the serial port. Use ANY\_RTTTL\_VERSION to get the current version of the library. ## Non-blocking mode
+Define ANY\_RTTTL\_INFO to enable the debugging of the library state on the serial port. Use ANY\_RTTTL\_VERSION to get the current version of the library.
+
+## Non-blocking mode
 
 Call `anyrtttl::begin()` to setup the AnyRtttl library in non-blocking mode. Then call `anyrtttl::play()` to update the library's state and play notes as required. Use `anyrtttl::done()` or `anyrtttl::isPlaying()` to know if the library is done playing the given song. Anytime one can call `anyrtttl::stop()` to stop playing the current song. <span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>The following demo show how to use the library in non-blocking mode: (download \[download id="1977"\])
 
@@ -134,9 +138,13 @@ The last field of a note (defined as *Padding*) is an **optional 6 bits** field.
 
 ## 10 bits per note (no padding)
 
-Each RTTTL note is encoded into 10 bits which is the minimum size of a note. This storage method is the best compression method for storing RTTTL melodies and reduces the usage of the <span class="texthighlight1">dynamic memory</span> to the minimum. However, since all notes are not aligned on multiple of 8 bits, addressing each note by an offset is impossible which makes the playback harder. Each notes must be [deserialized](http://en.wikipedia.org/wiki/Serialization) one after the other. An additional library is required for deserializing a note from a buffer using blocks of 10 bits which may increase the <span class="texthighlight1">program storage space</span> footprint. An external arduino library must also be used to allow the AnyRtttl library to consume bits as needed. The [arduino BitReader library](/bitreader-an-arduino-library-for-reading-writing-data-as-chunks-of-bits/) may be used for handling bit deserialization but any library that can extract a given number of bits from a buffer would work. ## 16 bits per note (with padding)
+Each RTTTL note is encoded into 10 bits which is the minimum size of a note. This storage method is the best compression method for storing RTTTL melodies and reduces the usage of the <span class="texthighlight1">dynamic memory</span> to the minimum. However, since all notes are not aligned on multiple of 8 bits, addressing each note by an offset is impossible which makes the playback harder. Each notes must be [deserialized](http://en.wikipedia.org/wiki/Serialization) one after the other. An additional library is required for deserializing a note from a buffer using blocks of 10 bits which may increase the <span class="texthighlight1">program storage space</span> footprint. An external arduino library must also be used to allow the AnyRtttl library to consume bits as needed. The [arduino BitReader library](/bitreader-an-arduino-library-for-reading-writing-data-as-chunks-of-bits/) may be used for handling bit deserialization but any library that can extract a given number of bits from a buffer would work.
 
-Each RTTTL note is encoded into 16 bits which is much better than the average 3.28 bytes per note text format. This storage method is optimum for storing RTTTL melodies and reduces the usage of the <span class="texthighlight1">dynamic memory</span> without increasing to much <span class="texthighlight1">program storage space</span>. All notes are aligned on 16 bits. Addressing each note by an offset allows an easy playback. Only the first 10 bits of each 16 bits block is used. The value of the padding field is undefined. ## Playback
+## 16 bits per note (with padding)
+
+Each RTTTL note is encoded into 16 bits which is much better than the average 3.28 bytes per note text format. This storage method is optimum for storing RTTTL melodies and reduces the usage of the <span class="texthighlight1">dynamic memory</span> without increasing to much <span class="texthighlight1">program storage space</span>. All notes are aligned on 16 bits. Addressing each note by an offset allows an easy playback. Only the first 10 bits of each 16 bits block is used. The value of the padding field is undefined.
+
+## Playback
 
 The following AnyRtttl blocking APIs are available for playing both format: - 10 bits per note: `play10Bits()`.
 - 16 bits per note: `play16Bits()`.

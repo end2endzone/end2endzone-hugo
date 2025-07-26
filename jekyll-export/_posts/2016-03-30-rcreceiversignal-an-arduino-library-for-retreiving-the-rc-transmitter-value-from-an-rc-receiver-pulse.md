@@ -46,7 +46,9 @@ Possible use are: - Allows one to get the latest PWM value sent from the RC rece
 
 ## [PinChangeInt](https://github.com/GreyGnome/PinChangeInt)
 
-This library allows the arduino to attach interrupts on multiple pins. ## [eRCaGuy\_Timer2\_Counter](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html)
+This library allows the arduino to attach interrupts on multiple pins.
+
+## [eRCaGuy\_Timer2\_Counter](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html)
 
 (optional) This library configures the arduino's timer2 to 0.5µs precision. It is used for a *micros()* function replacement and allows times calculations that are far more precise (8 times!) than the default's 4µs resolution. # Usage
 

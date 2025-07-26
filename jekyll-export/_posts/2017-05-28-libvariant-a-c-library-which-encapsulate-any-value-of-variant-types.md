@@ -29,13 +29,21 @@ The libVariant library allows one to create an instance of Variant class. The cl
 
 Typical usage of the Variant class involves the following: ## Implement a query language
 
-Each column of a "ResultSet" may be of different type. Storing values in a Variant type is a perfect candidate for type abstraction. ## Provide GUI-editable properties in a generic manner
+Each column of a "ResultSet" may be of different type. Storing values in a Variant type is a perfect candidate for type abstraction.
 
-The Variant class can be used to implement a similar fashion of C# properties where property editors ([property sheet](http://www.google.ca/search?q=property+sheet&tbm=isch)) can edit any type of property. An application that display a [property sheet](http://www.google.ca/search?q=property+sheet&tbm=isch) UI, must only implement Variant values editing instead of having to implement each specific type of variable. ## Implementing change-independent plugins
+## Provide GUI-editable properties in a generic manner
 
-By defining plugin APIs with Variant class, the plugin author or the application can change their data-type requirements without affecting each other. Plugin developers can change how they process variables with different internal representations (integers, strings, ...) and reuse the same API without doing any changes to the application which uses the plugin. The same applies to users of the plugin which feeds the plugin with data to process. ## Parsing values from text file
+The Variant class can be used to implement a similar fashion of C# properties where property editors ([property sheet](http://www.google.ca/search?q=property+sheet&tbm=isch)) can edit any type of property. An application that display a [property sheet](http://www.google.ca/search?q=property+sheet&tbm=isch) UI, must only implement Variant values editing instead of having to implement each specific type of variable.
 
-Parsing an \*.ini files always used to return string values. Parsing something like `numChild=3` would return a `const char*` with the value `"3"` instead of `int value = 3;`. Text parsers can be designed to always return a Variant when querying for a named variable in a file. In the example above, the method allows the application to read `numChild` value as a string or directly as an integer. ## Implementing [reflection-like](http://en.wikipedia.org/wiki/Reflection_(computer_programming)) APIs on classes
+## Implementing change-independent plugins
+
+By defining plugin APIs with Variant class, the plugin author or the application can change their data-type requirements without affecting each other. Plugin developers can change how they process variables with different internal representations (integers, strings, ...) and reuse the same API without doing any changes to the application which uses the plugin. The same applies to users of the plugin which feeds the plugin with data to process.
+
+## Parsing values from text file
+
+Parsing an \*.ini files always used to return string values. Parsing something like `numChild=3` would return a `const char*` with the value `"3"` instead of `int value = 3;`. Text parsers can be designed to always return a Variant when querying for a named variable in a file. In the example above, the method allows the application to read `numChild` value as a string or directly as an integer.
+
+## Implementing [reflection-like](http://en.wikipedia.org/wiki/Reflection_(computer_programming)) APIs on classes
 
 If each classes of a system provides a list of Variant which encapsulates their attributes, one can modify the attributes of a class using the Variant's internal value. # Functionalities / Features
 
@@ -57,7 +65,9 @@ For instance, if a Variant class with an internal type set to `SINT16` with a va
 
 The same is also true for the other way around: if a Variant is set to value 65500 (`UINT16`) and is retrieved as a `SINT16`, then the returned value would be 32767 which is the maximum value of a `SINT16`. Variant var; var.setUInt16(65500); var.getSInt16() ⇒ clamped to maximum value of sint16 (32767 )
 
-To prevent any data loss and conversion clamping, it is suggested to retrieve the internal value of a Variant using the same type as its internal type. Keep in mind that for most other scenarios, keeping the internal value of a Variant to be restricted to positive signed integers is largely enough for most scenarios allowing values ranging from 0 to +2147483647. ## Out of range value clamping
+To prevent any data loss and conversion clamping, it is suggested to retrieve the internal value of a Variant using the same type as its internal type. Keep in mind that for most other scenarios, keeping the internal value of a Variant to be restricted to positive signed integers is largely enough for most scenarios allowing values ranging from 0 to +2147483647.
+
+## Out of range value clamping
 
 The Variant class is also build to automatically prevent loss of data when applying mathematical operations. For instance, if a Variant class with an internal type set to `SINT16` and a value of 32000 is multiplied by 10 (`SINT16`) then the internal type of the class will automatically be promoted to `SINT32` to be able to hold a value of 320000. However, if the user still requests the internal value as `SINT16`, then the returned value will be clamped to 32767 which is the maximum value of a `SINT16`. Variant var; var.setSInt16(32000); var = var \* 10; var ⇒ sint32 with a value of 320000
 

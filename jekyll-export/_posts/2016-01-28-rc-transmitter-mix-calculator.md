@@ -23,7 +23,9 @@ This is an Excel worksheet I created based on the calculations I found for calcu
 
 ## Usage
 
-Only white cells should be modified. Cells in light blue are the final mix values. ## Screenshot
+Only white cells should be modified. Cells in light blue are the final mix values.
+
+## Screenshot
 
 | **<span style="color: black;">MIXING CALCULATOR</span>** |
 |---|

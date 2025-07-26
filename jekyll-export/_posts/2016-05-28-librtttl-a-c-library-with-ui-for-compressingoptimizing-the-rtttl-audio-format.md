@@ -62,7 +62,9 @@ The library has some compilation requirements and library dependencies which are
 
 # Usage
 
-All functionalities of the library are available through the UI. Start the UI by launching rtttlOptimizerGui.exe. \[caption id="attachment\_1817" align="alignnone" width="746"\][![rtttlOptimizerGui with default options](https://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg) rtttlOptimizerGui with default options\[/caption\] Copy &amp; paste the input data in the <span class="texthighlight1">Command Input</span> text area. Click on one of the available command buttons. The output result will be displayed in the <span class="texthighlight1">Command Output</span> area. ## Optimize
+All functionalities of the library are available through the UI. Start the UI by launching rtttlOptimizerGui.exe. \[caption id="attachment\_1817" align="alignnone" width="746"\][![rtttlOptimizerGui with default options](https://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg) rtttlOptimizerGui with default options\[/caption\] Copy &amp; paste the input data in the <span class="texthighlight1">Command Input</span> text area. Click on one of the available command buttons. The output result will be displayed in the <span class="texthighlight1">Command Output</span> area.
+
+## Optimize
 
 Copy &amp; paste a valid song in RTTTL format in the <span class="texthighlight1">Command Input</span> section. Press the <span class="button3D">Optimize</span> button to compress the RTTTL code to its shortest form. During optimization, the library will convert the input RTTTL song to "*raw*" data and re-encode the result back to RTTTL using all possible combinations of default duration, default octave and BPM (Beats per minute). From all combination possibilities, the library will select the shortest one. For example, the following RTTTL code from *The Legend of Zelda* :
 
@@ -89,7 +91,9 @@ Zelda1:d=8,o=6,b=250:2a#5,2f.5,4a#5,a#5,c,d,d#,1f,4p,4f,f.,2p,
 2f,1c#,2a#5,2c,d,1e,2g,4f,f5,f5,4f5,2p,1f5,f5,4f5,f5,f5,4f5,4f5
 ```
 
-which reduces the original code length by 89 bytes (from 446 bytes to 357 bytes), that is a 19.95% size reduction. ## Play RTTTL
+which reduces the original code length by 89 bytes (from 446 bytes to 357 bytes), that is a 19.95% size reduction.
+
+## Play RTTTL
 
 Copy &amp; paste a valid song in RTTTL format in the <span class="texthighlight1">Command Input</span> section. Press the <span class="button3D">Play RTTTL</span> button to play the melody. Note that application will momentary freeze during the playback. The application will respond again once the melody is done playing.
 
@@ -132,7 +136,9 @@ unknown:d=8,o=6,b=140:g,16p,16g.,2a#,32p,a,g,f,a,2g
 
 ```
 
-This feature is useful for moving data from <span class="texthighlight1">program storage space</span> to <span class="texthighlight1">dynamic memory</span>. ## RTTTL to tone()
+This feature is useful for moving data from <span class="texthighlight1">program storage space</span> to <span class="texthighlight1">dynamic memory</span>.
+
+## RTTTL to tone()
 
 Copy &amp; paste a valid song in RTTTL format in the <span class="texthighlight1">Command Input</span> section. Press the <span class="button3D">RTTTL 2 tone()</span> button to decode the input song to "*raw*" data (note with frequency and duration) and generate the arduino code required to play the song. This process is really useful if your <span class="texthighlight1">dynamic memory</span> is almost completely full and you would like to move the load from <span class="texthighlight1">dynamic memory</span> to <span class="texthighlight1">program storage space</span>. For instance, the RTTTL code from *Super Mario Bros. - 1-up sound* :
 
@@ -176,7 +182,9 @@ is compressed to the following :
 https://www.end2endzone.com/wp-content/uploads/2016/04/Tetris-theme-RTTTL-encoded-as-10-bits-notes.ino
 ```
 
-which reduces the original code length by 104 bytes (from 159 bytes to 55 bytes), that is a 65% size reduction. ## RTTTL to Binary (16 bits)
+which reduces the original code length by 104 bytes (from 159 bytes to 55 bytes), that is a 65% size reduction.
+
+## RTTTL to Binary (16 bits)
 
 Copy &amp; paste a valid song in RTTTL format in the <span class="texthighlight1">Command Input</span> section. Press the <span class="button3D">RTTTL 2 Binary (16 bits)</span> button to decode the input RTTTL song and encode the same melody into a binary RTTTL format where each note is encoded into 16 bits. The bits definition is already documented in section [RTTTL binary format definition](https://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/#Binary_RTTTL_format_definition) of [AnyRtttl library](https://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) post. The [AnyRtttl](/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) library can be used to play the compressed RTTTL data. For example, the same RTTTL code for playing *Tetris* theme song:
 

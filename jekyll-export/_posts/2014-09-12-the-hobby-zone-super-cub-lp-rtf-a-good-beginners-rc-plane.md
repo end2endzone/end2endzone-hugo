@@ -22,15 +22,25 @@ During summer 2013, I have found myself with a high interest in flying an RC pla
 
 ## Everything is included
 
-The plane is available as a RTF model. RTF stands for “Ready To Fly” which means that everything is included and already assembled in the package to get outside and have fun immediately. Even the batteries are included in the package which technically means that you need to charge them before you can get out and fly. ## Small factor
+The plane is available as a RTF model. RTF stands for “Ready To Fly” which means that everything is included and already assembled in the package to get outside and have fun immediately. Even the batteries are included in the package which technically means that you need to charge them before you can get out and fly.
 
-The plane is small enough for most usage. It can fit nicely into the trunk of a car for easy traveling. The plane is only 32.5” in length and the wings are 48” in length. The fuselage and the wings are detachable so you do not have to travel with the plane assembled and risking breaking something. ## Cheap
+## Small factor
 
-This plane is relatively cheap. I got mine for around $200 CA. ## Easy to repair
+The plane is small enough for most usage. It can fit nicely into the trunk of a car for easy traveling. The plane is only 32.5” in length and the wings are 48” in length. The fuselage and the wings are detachable so you do not have to travel with the plane assembled and risking breaking something.
 
-The Super Cub is a trainer for learning to fly. You will eventually crash and will need to repair your plane. This one is made of foam which is super easy to repair. When you get a dent because you crashed into a tree, you can sometimes just soak the foam in hot water and it will retake its original shape. If something breaks because of a crash (ie your wings!), you can easily repair them with wooden skewer sticks. Other basic repairs to the fuselage can be made with hot glue or epoxy while the electronics can be glued back with silicone. In case you breaks something that is not made of foam, you can get many replacement part for a relatively low price so things such as the motor, gears, gear box, firewall, nose and spinner can be replaced at a local hobby shop of by ordering the pieces only. ## Light
+## Cheap
 
-Landing is the hardest task to do for a beginner. Since this plane is made of foam, it is really light. The total weight of the flying plane is 26 oz (715 g) which is really low. Because of that, you don’t need to know how to land the plane. In my experience, the best way to land the plane (besides actually landing the plane on its wheels) is to look for a grass field. My first flight was in a grass field and some places had grass that was 1 foot high which is more than enough to gently slow down the plane when trying to land. ## Expendable
+This plane is relatively cheap. I got mine for around $200 CA.
+
+## Easy to repair
+
+The Super Cub is a trainer for learning to fly. You will eventually crash and will need to repair your plane. This one is made of foam which is super easy to repair. When you get a dent because you crashed into a tree, you can sometimes just soak the foam in hot water and it will retake its original shape. If something breaks because of a crash (ie your wings!), you can easily repair them with wooden skewer sticks. Other basic repairs to the fuselage can be made with hot glue or epoxy while the electronics can be glued back with silicone. In case you breaks something that is not made of foam, you can get many replacement part for a relatively low price so things such as the motor, gears, gear box, firewall, nose and spinner can be replaced at a local hobby shop of by ordering the pieces only.
+
+## Light
+
+Landing is the hardest task to do for a beginner. Since this plane is made of foam, it is really light. The total weight of the flying plane is 26 oz (715 g) which is really low. Because of that, you don’t need to know how to land the plane. In my experience, the best way to land the plane (besides actually landing the plane on its wheels) is to look for a grass field. My first flight was in a grass field and some places had grass that was 1 foot high which is more than enough to gently slow down the plane when trying to land.
+
+## Expendable
 
 This plane is really popular. Eventually, if you decide to go into this hobby, you will change for a more challenging plane for flying since this plane is not made for aerobatic flights. If you search the internet, you will find tons of documentation that explains how to modify the plane to get a second life you your plane. Some of the best mods are “Adding ailerons” to your wings or “Replacing the motor for a brushless motor”. You can also order multiple add-ons for the plane to enjoy a little more of the Super Cub. You can order online (or from your local hobby shop) for a relatively cheap price the following add-ons: - Snow skis to fly the plane during winter.
 - Float set for takeoff and landing on a lake.

@@ -53,15 +53,21 @@ Using mixes is not the best thing for the development of your skills. Learn to f
 
 There are some basic mixes that you may be interested into. Here are some example: ## Throttle to Elevator
 
-In order to keep the same altitude, the amount of elevator may differ depending on your true air speed. By mixing a certain amount of Throttle into the Elevator, this can be adjusted automatically by the transmitter. ## Rudder to Ailerons
+In order to keep the same altitude, the amount of elevator may differ depending on your true air speed. By mixing a certain amount of Throttle into the Elevator, this can be adjusted automatically by the transmitter.
+
+## Rudder to Ailerons
 
 When turning, you usually add a little bit of Rudder to keep the same altitude and make a good coordinated turn. Adding a Rudder to Aileron mix will reduce this effect. This configuration also keeps the ailerons from moving free for greater turns. Keep in mind that this mix may not be recommended. Most trained pilot does not use this kind of mix. Using this mix in calm or medium breeze wind will help but as soon as the wind condition change you will still require good rudder skills to make those turns look nice. I personally never used this one. IMO what defines a good pilot from a great pilot is how he masters the rudder. # Advanced Mixes
 
 ## Differential Thrust
 
-This is for a twin engine plane where each ESC is controlled by a separate channel: left engine channel and right engine channel. Throttle is assigned to Left Engine Channel, a mix is used to drive the Right Engine Channel from Throttle. Another mix is used to mix Rudder into Left or Right Engine Channel. When Rudder is centered, both throttle channels are equals. When Rudder is moved to right, the left engine channel increase power. When Rudder is moved to left, the right engine channel increase power. ## Ailerons to Flaps
+This is for a twin engine plane where each ESC is controlled by a separate channel: left engine channel and right engine channel. Throttle is assigned to Left Engine Channel, a mix is used to drive the Right Engine Channel from Throttle. Another mix is used to mix Rudder into Left or Right Engine Channel. When Rudder is centered, both throttle channels are equals. When Rudder is moved to right, the left engine channel increase power. When Rudder is moved to left, the right engine channel increase power.
 
-This one is only available if your flaps can move up. It wont work if your flaps only goes down. Mixing your ailerons to your flaps will allow your flaps to follow its matching aileron effectively turning the whole trailing edge of the wing into one long aileron. This is useful for some high aerobatic maneuvers. ## Flaps to Elevator
+## Ailerons to Flaps
+
+This one is only available if your flaps can move up. It wont work if your flaps only goes down. Mixing your ailerons to your flaps will allow your flaps to follow its matching aileron effectively turning the whole trailing edge of the wing into one long aileron. This is useful for some high aerobatic maneuvers.
+
+## Flaps to Elevator
 
 Mix a small amount of Flaps in Elevator (the opposite way) to prevent the "bump" caused by enabling the flaps. # Useful mixes
 
@@ -72,9 +78,13 @@ A mix can also be used to cancel a switch assigned to a channel. If you need to 
 | Low | = | -100% |
 | Offset | = | 0% |
 
-</div>This trick can come valuable in some situation. ## Forcing a value
+</div>This trick can come valuable in some situation.
 
-A mix can be used to force a given value to a channel. A typical use is triggering Failsafe flight mode. Say you have the following flight modes: **\[gps\] \[failsafe\] \[attitude\] \[failsafe\] \[manual\]**. Assuming that the first Failsafe mode is identical to the second Failsafe, you need to assign two 2-position switches to implement all possible modes. In this case, no mix is required. Another way of implementing this is to use a 3-position switch and assign the **\[gps\]**, **\[attitude\]** and **\[manual\]** flight modes to this switch and use a second 2-position switch as a "panic" switch that triggers \[Failsafe\] (while also disabling the flight mode switch). A mix is required to cancel out the first switch and a second mix to force the flight mode channel to move to \[Failsafe\] position. See also [Cancelling a switch](#Cancelling_a_switch). ## Throttle cut mix
+## Forcing a value
+
+A mix can be used to force a given value to a channel. A typical use is triggering Failsafe flight mode. Say you have the following flight modes: **\[gps\] \[failsafe\] \[attitude\] \[failsafe\] \[manual\]**. Assuming that the first Failsafe mode is identical to the second Failsafe, you need to assign two 2-position switches to implement all possible modes. In this case, no mix is required. Another way of implementing this is to use a 3-position switch and assign the **\[gps\]**, **\[attitude\]** and **\[manual\]** flight modes to this switch and use a second 2-position switch as a "panic" switch that triggers \[Failsafe\] (while also disabling the flight mode switch). A mix is required to cancel out the first switch and a second mix to force the flight mode channel to move to \[Failsafe\] position. See also [Cancelling a switch](#Cancelling_a_switch).
+
+## Throttle cut mix
 
 By combining [Cancelling a switch](#Cancelling_a_switch) and [Forcing a value](#Forcing_a_value) mixes, one can create mixes slaved to Throttle to achieve a *Throttle Cut* safety by forcing the Throttle channel to -150 which disables the Throttle stick and prevents propeller injuries. # Generic mixes
 
@@ -137,13 +147,19 @@ The following equation will help you solve an endless issue: How to calculate a 
 | Position 1 | : | 0% |
 | Position 2 | : | -50% |
 
-</div>The easiest way to calculate a mix boundaries is to use this [Excel Worksheet](/rc-transmitter-mix-calculator/). ## Combining mixes
+</div>The easiest way to calculate a mix boundaries is to use this [Excel Worksheet](/rc-transmitter-mix-calculator/).
+
+## Combining mixes
 
 ### Mixes of the same Slave Channel are combined
 
-All mixes assigned to the same Slave Channel are combined (added to each other). In other words, if a first mix ranges from -100 to +100 is assigned to AUX1 and a second mix which is also assigned to AUX1 ranges from -25 to +25, then AUX1 effective range will be -125 to +125. ### Mixes are combined with assigned switches
+All mixes assigned to the same Slave Channel are combined (added to each other). In other words, if a first mix ranges from -100 to +100 is assigned to AUX1 and a second mix which is also assigned to AUX1 ranges from -25 to +25, then AUX1 effective range will be -125 to +125.
 
-If a switch is assigned to the same Slave Channel as other mixes, they will be combined. In other words, if switch G is assigned to AUX1 and has travel set to range from -130 to +130 and a mix that ranges from -20 to +20 is also assigned to AUX1, then AUX1 effective range will be -150 to +150. ### Combining mixes to multiplex multiple switches
+### Mixes are combined with assigned switches
+
+If a switch is assigned to the same Slave Channel as other mixes, they will be combined. In other words, if switch G is assigned to AUX1 and has travel set to range from -130 to +130 and a mix that ranges from -20 to +20 is also assigned to AUX1, then AUX1 effective range will be -150 to +150.
+
+### Combining mixes to multiplex multiple switches
 
 Mixes can also be used to multiplex multiple inputs into a single channel. This procedure is covered in its own article: ***\[ARTICLE TO BE PUBLISHED SOON\]***. # Other lectures
 

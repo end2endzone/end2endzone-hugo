@@ -22,7 +22,9 @@ tags:
 
 The following article is written in order to demonstrate how my arduino libraries [libRtttl ](/librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/)&amp; [AnyRtttl ](/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/)can be used to convert arduino code (`tone()` and `delay()` functions calls) into actual RTTTL melodies. This article shows how to convert '*Game of Throne theme*', '*Star Wars - The imperial March*' and most *Super Mario Bros. sound themes* (Main theme, 1-up life sound, Flagpole fanfare, Death and Game Over sounds) into actual playable RTTTL melodies. # Methodology
 
-The basic idea is to convert the code to their lowest common denominator which is tone frequencies and duration (delays). The [libRtttl](https://www.end2endzone.com/librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/) gui program has build-it functionnality to extract the frequencies and delays from arduino code. Using the application, one can convert any melody to RTTTL. ## Handling structured or logical code
+The basic idea is to convert the code to their lowest common denominator which is tone frequencies and duration (delays). The [libRtttl](https://www.end2endzone.com/librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/) gui program has build-it functionnality to extract the frequencies and delays from arduino code. Using the application, one can convert any melody to RTTTL.
+
+## Handling structured or logical code
 
 Some programs are written in an optimized fashion where reapeated sections of a melody are extracted into a function. ie: `playRefrain()`. The function is then called multiple times to play the whole melody. This method is an effective way to reduce code size but [libRtttl](https://www.end2endzone.com/librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/) gui is unable to parse this code. Other programs could also use `tone()` or `delay()` calls using `Constants`. A typical usage of this method is to use predefined note names for frequencies which makes the code easier to read. However, constants are also hard to extract by [libRtttl](https://www.end2endzone.com/librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/) gui which does not yet support this feature. The following code shows the usage of note names as arguments to the `tone()` function:
 
@@ -41,7 +43,9 @@ https://www.end2endzone.com/wp-content/uploads/2016/10/Arduino-tone-and-delay-fu
 
 # Samples
 
-The following section shows example of using libRtttl gui to convert arduino code (`tone()` and `delay()` functions calls) into actual RTTTL melodies. ## Game of Throne
+The following section shows example of using libRtttl gui to convert arduino code (`tone()` and `delay()` functions calls) into actual RTTTL melodies.
+
+## Game of Throne
 
 Source code: - Youtube: [http://www.youtube.com/watch?v=vrzQU\_QbQ5U](http://www.youtube.com/watch?v=vrzQU_QbQ5U)
 - Code from pastebin: <http://pastebin.com/q76D0asp>

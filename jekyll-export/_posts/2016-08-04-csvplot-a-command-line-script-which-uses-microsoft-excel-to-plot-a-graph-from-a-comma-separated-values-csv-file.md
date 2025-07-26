@@ -32,9 +32,13 @@ The following section list the features of ***csvplot*** script: - Supports loss
 
 # Limitations
 
-The script has some limitations which are explained here. ## Output image
+The script has some limitations which are explained here.
 
-The resolution of the output image may be +- 1 pixels different than what is requested on command line. This is a limitation of how Excel processes image dimensions since it uses "points" as base unit and not actual pixels. A conversion from pixels to points must be calculated which may contains small accuracy error. The only supported image format is PNG. It is still unknown if Excel actually support JPG for exporting graphs but PNG seems to be the perfect candidate since its a lossless compressed format. ## Column Titles
+## Output image
+
+The resolution of the output image may be +- 1 pixels different than what is requested on command line. This is a limitation of how Excel processes image dimensions since it uses "points" as base unit and not actual pixels. A conversion from pixels to points must be calculated which may contains small accuracy error. The only supported image format is PNG. It is still unknown if Excel actually support JPG for exporting graphs but PNG seems to be the perfect candidate since its a lossless compressed format.
+
+## Column Titles
 
 It is expected that first row of each column contains the title of the column which will be used as the name of the plotted series within the graph. # Usage
 

@@ -42,7 +42,9 @@ Possible use are: - Really small increase in memory &amp; code footprint compare
 
 # Usage
 
-Call *rtttl::begin()* to setup the non-blocking RTTTL library. Then call *rtttl::play()* to update the library's state and play notes as required. Use *rtttl::done()* or *rtttl::isPlaying()* to know if the library is done playing the given song. Anytime playing, one can call *rtttl::stop()* to stop playing the current song. Define *RTTTL\_NONBLOCKING\_INFO* to enable the debugging of the library state on the serial port. Use *NONBLOCKINGRTTTL\_VERSION* to read the current version of the library. ## Demo
+Call *rtttl::begin()* to setup the non-blocking RTTTL library. Then call *rtttl::play()* to update the library's state and play notes as required. Use *rtttl::done()* or *rtttl::isPlaying()* to know if the library is done playing the given song. Anytime playing, one can call *rtttl::stop()* to stop playing the current song. Define *RTTTL\_NONBLOCKING\_INFO* to enable the debugging of the library state on the serial port. Use *NONBLOCKINGRTTTL\_VERSION* to read the current version of the library.
+
+## Demo
 
 The following demo show how to use the library: (download the \[download id="1676"\])
 
