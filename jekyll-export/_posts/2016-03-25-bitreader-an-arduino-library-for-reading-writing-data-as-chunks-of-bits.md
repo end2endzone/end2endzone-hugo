@@ -48,7 +48,9 @@ Possible use are: - Reduces size of data (strings, structures, arrays) in memory
 
 Storing words composed of only lower case letters, spaces and dots requires only 5 bits per characters instead of 8 bits (which saves 3 bits per character). The phase "*hello my name is antoine. i wrote the bitreader library.*" takes 56 bytes as an array of char but uses 35 bytes as 5 bits chunks. Allow 6 bits per characters and you can also include capital letters and numbers: "*Hello my name is Antoine. I wrote the BitReader library when I was 34 years old.*" takes 80 bytes as an array of char but only requires 60 bytes as 6 bits chunks. ## Shorter structures definition
 
-The library is particularly useful for dealing with [bit-field structures](http://en.cppreference.com/w/cpp/language/bit_field). Consider the following: ```
+The library is particularly useful for dealing with [bit-field structures](http://en.cppreference.com/w/cpp/language/bit_field). Consider the following:
+
+```
 struct Person {
   char name[10];
   char birthDay;
@@ -59,7 +61,9 @@ struct Person {
 };
 ```
 
-The *Person* structure requires 16 bytes in memory (10+1+1+2+1+1) or 128 bits. However, using bit-field structure, the *Person* structure can be defined as the following: ```
+The *Person* structure requires 16 bytes in memory (10+1+1+2+1+1) or 128 bits. However, using bit-field structure, the *Person* structure can be defined as the following:
+
+```
 struct Person2 {
  uint8_t name[10]; //keep 8 bits per letters for compatibility.
  union
@@ -83,7 +87,9 @@ struct Person2 {
 };
 ```
 
-The *Person2* structure contains the same information as the *Person* structure but instead of using 128 bits in memory it only requires 105 bits (80+5+3+4+1+12). A *Person* could also be defined with masks: ```
+The *Person2* structure contains the same information as the *Person* structure but instead of using 128 bits in memory it only requires 105 bits (80+5+3+4+1+12). A *Person* could also be defined with masks:
+
+```
 struct Person3 {
   uint8_t name[10];
   uint32_t buffer;
@@ -98,7 +104,9 @@ static const uint32_t MASK_PADDING = (1<<31 | 1<<30 | 1<<29 | 1<<28 | 1<<27 | 1<
 
 In the last 2 scenarios (*Person2* and *Person3*), the BitReader library allows one to decode a *Person* structure from a binary buffer. ## Make data arrays much shorter
 
-Consider an algorithm that plays a [Morse code](https://en.wikipedia.org/wiki/Morse_code). Morse code defines 3 symbols that can be played: dots, dashes and pauses. For example, the following string "*Hello my name is Antoine. I wrote the BitReader library when I was 34 years old.*" (56 bytes) translate into Morse code as ```
+Consider an algorithm that plays a [Morse code](https://en.wikipedia.org/wiki/Morse_code). Morse code defines 3 symbols that can be played: dots, dashes and pauses. For example, the following string "*Hello my name is Antoine. I wrote the BitReader library when I was 34 years old.*" (56 bytes) translate into Morse code as
+
+```
 .... . .-.. .-.. --- / -- -.-- / -. .- -- . / .. ... / .- -. 
 - --- .. -. . .-.-.- / .. / .-- .-. --- - . / - .... . / -... 
 .. - .-. . .- -.. . .-. / .-.. .. -... .-. .- .-. -.-- / .-- 
@@ -108,7 +116,9 @@ Consider an algorithm that plays a [Morse code](https://en.wikipedia.org/wiki/Mo
 
 according to [this translator](http://morsecode.scphillips.com/translator.html). The whole code takes 267 bytes in memory. However, using 2 bits per code, the whole string can be encoded in a char buffer with only 534 bits (~67 bytes). The same concept applies to all numeric array. ## Demo
 
-The following demo show how to use the library: (download the \[download id="1691"\]) ```
+The following demo show how to use the library: (download the \[download id="1691"\])
+
+```
 sample
 ```
 

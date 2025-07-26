@@ -48,7 +48,9 @@ The library has some compilation requirements and library dependencies which are
 
 # Usage
 
-Each melody is build using a single class called `MidiFile`. Create an instance and sets your basic requirements like name, speed, and MIDI standard, using the appropriate setter functions. Notes can be added one after the other using the `addNote()` method. The melody is built in memory. Once the melody is completed, use the `save()` method to generate a valid MIDI file on disk. For example the following code can be used to generate *Super Mario Bros. 1 up* theme sound: ```
+Each melody is build using a single class called `MidiFile`. Create an instance and sets your basic requirements like name, speed, and MIDI standard, using the appropriate setter functions. Notes can be added one after the other using the `addNote()` method. The melody is built in memory. Once the melody is completed, use the `save()` method to generate a valid MIDI file on disk. For example the following code can be used to generate *Super Mario Bros. 1 up* theme sound:
+
+```
 MidiFile f;
 
 f.setMidiType(MidiFile::MIDI_TYPE_0);

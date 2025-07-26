@@ -49,25 +49,33 @@ The AnyRtttl library also supports playing RTTTL data which is stored as binary 
 
 Define ANY\_RTTTL\_INFO to enable the debugging of the library state on the serial port. Use ANY\_RTTTL\_VERSION to get the current version of the library. ## Non-blocking mode
 
-Call `anyrtttl::begin()` to setup the AnyRtttl library in non-blocking mode. Then call `anyrtttl::play()` to update the library's state and play notes as required. Use `anyrtttl::done()` or `anyrtttl::isPlaying()` to know if the library is done playing the given song. Anytime one can call `anyrtttl::stop()` to stop playing the current song. <span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>The following demo show how to use the library in non-blocking mode: (download \[download id="1977"\]) ```
+Call `anyrtttl::begin()` to setup the AnyRtttl library in non-blocking mode. Then call `anyrtttl::play()` to update the library's state and play notes as required. Use `anyrtttl::done()` or `anyrtttl::isPlaying()` to know if the library is done playing the given song. Anytime one can call `anyrtttl::stop()` to stop playing the current song. <span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>The following demo show how to use the library in non-blocking mode: (download \[download id="1977"\])
+
+```
 sample
 ```
 
 ## Play 16 bits per note RTTTL
 
-Note that this mode requires that an RTTTL melody be already converted to 16-bits per note binary format. Use the `anyrtttl::blocking::play16Bits()` API for playing an RTTTL melody encoded as 16 bits per note. <span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>The following demo show how to use the library with 16-bits per note binary RTTTL: (download \[download id="1981"\]) ```
+Note that this mode requires that an RTTTL melody be already converted to 16-bits per note binary format. Use the `anyrtttl::blocking::play16Bits()` API for playing an RTTTL melody encoded as 16 bits per note. <span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>The following demo show how to use the library with 16-bits per note binary RTTTL: (download \[download id="1981"\])
+
+```
 sample
 ```
 
 ## Play 10 bits per note RTTTL
 
-Note that this mode requires that an RTTTL melody be already converted to 10-bits per note binary format. Create a function that will be used by AnyRtttl library to read bits as required. The signature of the library must look like this: `uint16_t function_name(uint8_t numBits)`. Note that this demo uses the [arduino BitReader library](/bitreader-an-arduino-library-for-reading-writing-data-as-chunks-of-bits/) to extract bits from the RTTTL binary buffer. The implementation of `readNextBits()` function delegates the job to the BitReader's `read()` method. In the `setup()` function, setup the external library that is used for reading bits: `bitreader.setBuffer(tetris10);`Use the `anyrtttl::blocking::play10Bits()` API for playing an RTTTL melody encoded as 10 bits per note. The 3rd argument of the function requires a pointer to the function extracting bits: `&function_name`. <span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>The following demo show how to use the library with 10-bits per note binary RTTTL: (download \[download id="1979"\]) ```
+Note that this mode requires that an RTTTL melody be already converted to 10-bits per note binary format. Create a function that will be used by AnyRtttl library to read bits as required. The signature of the library must look like this: `uint16_t function_name(uint8_t numBits)`. Note that this demo uses the [arduino BitReader library](/bitreader-an-arduino-library-for-reading-writing-data-as-chunks-of-bits/) to extract bits from the RTTTL binary buffer. The implementation of `readNextBits()` function delegates the job to the BitReader's `read()` method. In the `setup()` function, setup the external library that is used for reading bits: `bitreader.setBuffer(tetris10);`Use the `anyrtttl::blocking::play10Bits()` API for playing an RTTTL melody encoded as 10 bits per note. The 3rd argument of the function requires a pointer to the function extracting bits: `&function_name`. <span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>The following demo show how to use the library with 10-bits per note binary RTTTL: (download \[download id="1979"\])
+
+```
 sample
 ```
 
 ## Custom Tone function (a.k.a. RTTTL 2 code)
 
-This demo shows how custom functions can be used by the AnyRtttl library. This example shows how to convert an RTTTL melody to arduino code. First define replacement functions like the following: ```
+This demo shows how custom functions can be used by the AnyRtttl library. This example shows how to convert an RTTTL melody to arduino code. First define replacement functions like the following:
+
+```
 void serialTone(byte pin, uint16_t frequency, uint32_t duration) {
   Serial.print("tone(");
   Serial.print(pin);
@@ -91,14 +99,18 @@ void serialDelay(uint32_t duration) {
 }
 ```
 
-Each new functions prints the function call &amp; arguments to the serial port. In the `setup()` function, setup the AnyRtttl library to use the new functions: ```
+Each new functions prints the function call &amp; arguments to the serial port. In the `setup()` function, setup the AnyRtttl library to use the new functions:
+
+```
 //Use custom functions
 anyrtttl::setToneFunction(&serialTone);
 anyrtttl::setNoToneFunction(&serialNoTone);
 anyrtttl::setDelayFunction(&serialDelay);
 ```
 
-Use the `anyrtttl::blocking::play()` API for "playing" an RTTTL melody and monitor the output of the serial port to see the actual arduino code generated by the library. <span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>The following demo show how to use the library with custom functions: (download \[download id="1983"\]) ```
+Use the `anyrtttl::blocking::play()` API for "playing" an RTTTL melody and monitor the output of the serial port to see the actual arduino code generated by the library. <span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>The following demo show how to use the library with custom functions: (download \[download id="1983"\])
+
+```
 sample
 ```
 

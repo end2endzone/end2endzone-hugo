@@ -105,7 +105,9 @@ Now that VirtualDub is ready to server frames to the next application, you need 
 2. Enter the following text in the file: *AviSource("full\_path\_to\_vdr")* (replace *full\_path\_to\_vdr* by the actual full path to your vdr file).
 3. Save the file.
 
-Here is an example of a valid AviSynth Script file (\*.avs): ```
+Here is an example of a valid AviSynth Script file (\*.avs):
+
+```
 ```
 
 ## Workspace

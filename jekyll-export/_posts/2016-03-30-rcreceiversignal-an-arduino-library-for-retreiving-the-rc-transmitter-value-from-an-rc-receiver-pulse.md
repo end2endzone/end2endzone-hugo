@@ -66,7 +66,9 @@ receiver_throttle_handler_setup(RECEIVER_THROTTLE_IN_PIN);
 
 <span style="line-height: 1.5;">In the loop function, one can call the *hasChanged() m*ethod </span><span style="line-height: 1.5;">to know if the PWM value has changed since the last call or call the *getPwmValue()* function to get the last PWM value observed by the *RcReceiverSignal* instance.</span><span style="line-height: 1.5;">From a PWM value, one can call the *getSignalValue()* or *getDeviceSignalValue()* methods to convert a given PWM signal from a known device combination to a transmitter value (within -150% to +150%).</span>## Demo
 
-The following demo show how to use the library: (download the \[download id="1794"\]) ```
+The following demo show how to use the library: (download the \[download id="1794"\])
+
+```
 https://www.end2endzone.com/wp-content/uploads/2016/03/RcReceiverSignal-v1.1.203-LedUpdate.ino
 ```
 

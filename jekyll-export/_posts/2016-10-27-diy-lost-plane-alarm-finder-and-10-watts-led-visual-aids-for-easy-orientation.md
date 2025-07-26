@@ -129,7 +129,9 @@ The code on the arduino requires multiple external arduino libraries. The follow
 
 ## Arduino sketch
 
-Here is the brain of the project. Source code! Click the following to download the example below: (download \[download id="2263" template="title"\]) ```
+Here is the brain of the project. Source code! Click the following to download the example below: (download \[download id="2263" template="title"\])
+
+```
 sample
 ```
 

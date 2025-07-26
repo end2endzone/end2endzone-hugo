@@ -35,7 +35,9 @@ The script has 5 command line arguments which are: 1. Oldest revision number
 
 ## Execution (command line)
 
-The script is written in [VBScript](http://en.wikipedia.org/wiki/VBScript). Use the following to execute the script from a batch file (\*.bat) : ```
+The script is written in [VBScript](http://en.wikipedia.org/wiki/VBScript). Use the following to execute the script from a batch file (\*.bat) :
+
+```
 @echo off
 cscript //nologo "%~dp0svnpropertylog.vbs" 9 13 "http://localhost/svn/svnpropertylog/tests/folder" "svn:externals" 1
 pause
@@ -45,7 +47,9 @@ pause
 
 \[caption id="attachment\_1918" align="alignnone" width="363"\][![svnpropertylog - Select Subversion Property](https://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample.png)](https://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample.png) svnpropertylog - Select Subversion Property\[/caption\] A GUI application is also available. From a [file explorer window](http://upload.wikimedia.org/wikipedia/en/c/cb/Windows_Explorer_Windows_7.png?download), double-click on ***svnpropertylogGui*** and follow on-screen instructions: the UI will prompt the user for each command line argument and then launch the script. ## Output
 
-On execution, the following output is produced by the script: ```
+On execution, the following output is produced by the script:
+
+```
 svnpropertylog v1.1
 Extracting property svn:externals within revision 9 to 13 from http://localhost/svn/svnpropertylog/tests/folder...
 Extracting... 0%

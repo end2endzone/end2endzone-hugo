@@ -55,7 +55,9 @@ Note that column indice are 1-based and not 0-based. This means that column A is
 
 ## Execution (command line)
 
-The script is written in [VBScript](http://en.wikipedia.org/wiki/VBScript). Use the following to execute the script from a batch file (\*.bat) : ```
+The script is written in [VBScript](http://en.wikipedia.org/wiki/VBScript). Use the following to execute the script from a batch file (\*.bat) :
+
+```
 @echo off
 cscript //nologo "%~dp0csvplot.vbs" path\to\demo.csv path\to\demo.png 800 600 1 2
 pause
@@ -63,7 +65,9 @@ pause
 
 ## Output
 
-On execution, the following output is produced by the script: \[caption id="attachment\_2181" align="alignnone" width="660"\][![csvplot Command Line Output](https://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png)](https://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png) csvplot Command Line Output\[/caption\] ```
+On execution, the following output is produced by the script: \[caption id="attachment\_2181" align="alignnone" width="660"\][![csvplot Command Line Output](https://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png)](https://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png) csvplot Command Line Output\[/caption\]
+
+```
 Microsoft Windows [Version 6.1.7601]
 Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
 

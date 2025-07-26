@@ -54,7 +54,9 @@ Télécharger le script sur votre ordinateur en utilisant le lien suivant \[down
 
 Le module est maintenant installé sur le système. ## Copier coller le script
 
-Certain fureteur ou antivirus ne permettent pas le téléchargement de module Microsoft Word (\*.bas). L'option de téléchargement du module n'est donc pas possible. Dans ce cas, l'option copier-coller doit être utilisé. Pour ce faire, copier le code suivant dans le presse-papier : ```
+Certain fureteur ou antivirus ne permettent pas le téléchargement de module Microsoft Word (\*.bas). L'option de téléchargement du module n'est donc pas possible. Dans ce cas, l'option copier-coller doit être utilisé. Pour ce faire, copier le code suivant dans le presse-papier :
+
+```
 sample code
 ```
 
