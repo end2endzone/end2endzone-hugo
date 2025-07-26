@@ -33,7 +33,9 @@ The following arduino library was written to use the findings found during the *
 
 The RcReceiverSignal library allows one to easily configure an input pin to read a PWM signal sent from a RC receiver by attaching a RcReceiverSignal instance to a pin connected the receiver and automatically monitor each pulse sent by the receiver. It allows the main loop to retrieve the latest received pulse length (PWM) and convert the pulse length back to the actual transmitter signal value (ranging from -150% to 150%). The library supports automatic PWM signal change detection. The library's ability to convert a PWM value to the actual transmitter numeric value is based on empirical tests available at ***[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/ "Edit “Mapping RC Transmitter PWM signal to actual transmitter values”").***# Library features
 
-Possible use are: - Allows one to get the latest PWM value sent from the RC receiver.
+Possible use are:
+
+- Allows one to get the latest PWM value sent from the RC receiver.
 - Automatically handles interrupt protection.
 - Automatic ISR handling. All required code automatically generated.
 - Allows one to convert a pulse length (PWM) back to the original transmitter value.

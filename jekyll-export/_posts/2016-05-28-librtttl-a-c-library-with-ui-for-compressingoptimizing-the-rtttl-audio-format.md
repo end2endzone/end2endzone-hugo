@@ -34,7 +34,9 @@ RTTTL songs available on the internet are not optimized for the smallest size. S
 
 ## Functionalities / Features
 
-Possible use are: - Optimize an existing RTTTL melodies.
+Possible use are:
+
+- Optimize an existing RTTTL melodies.
 - Convert RTTTL melodies to other format: 
     - MIDI.
     - Arduino `tone()` and `delay()` function calls.

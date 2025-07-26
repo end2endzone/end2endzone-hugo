@@ -42,7 +42,9 @@ Landing is the hardest task to do for a beginner. Since this plane is made of fo
 
 ## Expendable
 
-This plane is really popular. Eventually, if you decide to go into this hobby, you will change for a more challenging plane for flying since this plane is not made for aerobatic flights. If you search the internet, you will find tons of documentation that explains how to modify the plane to get a second life you your plane. Some of the best mods are “Adding ailerons” to your wings or “Replacing the motor for a brushless motor”. You can also order multiple add-ons for the plane to enjoy a little more of the Super Cub. You can order online (or from your local hobby shop) for a relatively cheap price the following add-ons: - Snow skis to fly the plane during winter.
+This plane is really popular. Eventually, if you decide to go into this hobby, you will change for a more challenging plane for flying since this plane is not made for aerobatic flights. If you search the internet, you will find tons of documentation that explains how to modify the plane to get a second life you your plane. Some of the best mods are “Adding ailerons” to your wings or “Replacing the motor for a brushless motor”. You can also order multiple add-ons for the plane to enjoy a little more of the Super Cub. You can order online (or from your local hobby shop) for a relatively cheap price the following add-ons:
+
+- Snow skis to fly the plane during winter.
 - Float set for takeoff and landing on a lake.
 - Drop module.
 

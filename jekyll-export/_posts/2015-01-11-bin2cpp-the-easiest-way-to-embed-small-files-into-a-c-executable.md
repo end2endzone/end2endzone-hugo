@@ -21,7 +21,9 @@ tags:
 
 Please note that bin2cpp source code is now moved to GitHub. Source code can be downloaded from [the project's GitHub page](http://github.com/end2endzone/bin2cpp).
 
-![](https://img.shields.io/badge/License-MIT-yellow.svg) ![](https://img.shields.io/github/release/end2endzone/bin2cpp.svg) ![](https://ci.appveyor.com/api/projects/status/q9k0ebb971o475qi/branch/master?svg=true) ![](https://img.shields.io/appveyor/tests/end2endzone/bin2cpp/master.svg) ![](https://img.shields.io/github/downloads/end2endzone/bin2cpp/total.svg)<span style="line-height: 1.5;">bin2cpp is a command line tool for embedding small files (like images, icons or raw data files) into a C++ executable.</span>It's main features are: - <span style="line-height: 1.5;">Easily converts small files as C++ source code for embedding into a C++ executable.</span>
+![](https://img.shields.io/badge/License-MIT-yellow.svg) ![](https://img.shields.io/github/release/end2endzone/bin2cpp.svg) ![](https://ci.appveyor.com/api/projects/status/q9k0ebb971o475qi/branch/master?svg=true) ![](https://img.shields.io/appveyor/tests/end2endzone/bin2cpp/master.svg) ![](https://img.shields.io/github/downloads/end2endzone/bin2cpp/total.svg)<span style="line-height: 1.5;">bin2cpp is a command line tool for embedding small files (like images, icons or raw data files) into a C++ executable.</span>It's main features are:
+
+- <span style="line-height: 1.5;">Easily converts small files as C++ source code for embedding into a C++ executable.</span>
 - <span style="line-height: 1.5;">Content extraction supported by a unique function call for each embedded file.</span>
 - <span style="line-height: 1.5;">Supports a multiple </span>embedded<span style="line-height: 1.5;"> files at once.</span>
 - <span style="line-height: 1.5;">Makes it harder for resource hacker to modify or steal the </span>embedded<span style="line-height: 1.5;"> files.</span>

@@ -27,7 +27,9 @@ The trick is to use VirtualDub's frame server ability and other software to crea
 
 # Download &amp; Install required software
 
-The following software must be downloaded and installed: - [VirtualDub 1.10.4](http://www.virtualdub.org/download.html)
+The following software must be downloaded and installed:
+
+- [VirtualDub 1.10.4](http://www.virtualdub.org/download.html)
 - [Virtualdub FFMpeg Input Plugin](http://sourceforge.net/projects/virtualdubffmpeginputplugin/files/)
 - [Avisynth 2.6](http://sourceforge.net/projects/avisynth2/)
 - [AVFS 1.0.0.5 - Avisynth Virtual File System](http://www.turtlewar.org/avfs/)
@@ -132,7 +134,9 @@ Here is an example of a valid AviSynth Script file (\*.avs):
 
 ## Workspace
 
-Your workspace should contains 4 files: - The original MPEG2 recording file (\*.mpg)
+Your workspace should contains 4 files:
+
+- The original MPEG2 recording file (\*.mpg)
 - The AviSynth Script file (\*.avs)
 - The VirtualDub AVIFile signpost file (\*.vdr)
 - The VirtualDub editing backup file (\*.vdscript)
@@ -152,7 +156,9 @@ Mount the \*.avs file as a virtual folder containing the virtual AVI file.
     2. Open after mount.
 2. Click the *Mount* button.
 
-If the mounting is successful, the AviSynth Script file (\*.avs) should be removed from the file system and be replaced by a folder with the same name as the file. The new folder contains multiple virtual files: - a copy of the AviSynth Script file (\*.avs).
+If the mounting is successful, the AviSynth Script file (\*.avs) should be removed from the file system and be replaced by a folder with the same name as the file. The new folder contains multiple virtual files:
+
+- a copy of the AviSynth Script file (\*.avs).
 - an error log (error.log) containing errors found during the mount operation. If there is no error, this file contains video and audio codec properties.
 - multiple audio file (\*.wav, \*.w64) with the same encoding. As far as I know, they are all identical.
 - an uncompressed video file in the Audio Video Interleave (\*.avi) format.

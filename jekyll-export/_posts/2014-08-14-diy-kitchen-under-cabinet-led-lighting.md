@@ -26,7 +26,9 @@ tags:
 
 # Introduction
 
-There is something missing in most kitchens I have seen in my life and it is not a huge free space or a smart refrigerator. It is much simpler than that. I am talking about good lighting. All kitchen that I have used had decent lighting when used during a bright shiny day but was lacking appropriate lighting during a rainy days or nights. Most of then were also missing under cabinet lighting. It has been a long time since I wanted to get more light available under the kitchen cabinets. However, I never felt ready to install some lights by myself for many reasons. One of them was that I was missing the proper tools and knowledge. I also didn't like the idea of drilling holes in the cabinet or through the kitchen counter to get the electricity and finally, when I was looking at a kitchen with under cabinet lights, the lights that were used was producing too much heat that I could almost burn myself. This project was "on hold" until a super easy to install solution came to my mind: LED strips. LED strips are an alternative to fluorescent, halogen or xenon lights. LED are becoming more and more popular and are super easy to install and adapt to many situations. Some LED strips can be used outside too but that is for another post! They provide the following benefits in a kitchen: - Cheap!
+There is something missing in most kitchens I have seen in my life and it is not a huge free space or a smart refrigerator. It is much simpler than that. I am talking about good lighting. All kitchen that I have used had decent lighting when used during a bright shiny day but was lacking appropriate lighting during a rainy days or nights. Most of then were also missing under cabinet lighting. It has been a long time since I wanted to get more light available under the kitchen cabinets. However, I never felt ready to install some lights by myself for many reasons. One of them was that I was missing the proper tools and knowledge. I also didn't like the idea of drilling holes in the cabinet or through the kitchen counter to get the electricity and finally, when I was looking at a kitchen with under cabinet lights, the lights that were used was producing too much heat that I could almost burn myself. This project was "on hold" until a super easy to install solution came to my mind: LED strips. LED strips are an alternative to fluorescent, halogen or xenon lights. LED are becoming more and more popular and are super easy to install and adapt to many situations. Some LED strips can be used outside too but that is for another post! They provide the following benefits in a kitchen:
+
+- Cheap!
 - Give a proper lighting.
 - Can be dimmed to low levels.
 - Available in multiple colors like warm white or cold/cool white.
@@ -41,7 +43,9 @@ There is something missing in most kitchens I have seen in my life and it is not
 
 ## Equipment
 
-The material for this project is as follows: - A 5 meters LED strip.
+The material for this project is as follows:
+
+- A 5 meters LED strip.
 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips (5 times)
 - A 36 Watts (12 volts, 3 amps) power supply.
 - A 3 pins wall outlet power cord.
@@ -71,7 +75,9 @@ You only need 3 LED connectors for this project. You need 2 connectors for linki
 
 ## <span style="font-size: 24px; font-weight: bold; line-height: 1;">Total cost of the project</span>
 
-As I said before, this project can be completed at a pretty cheap price. The total cost of the project is less than 30$. I had to say that I bought all major items (strips, dimmer and power supply) from ebay for a ridiculous amount of money. Don't make the mistake and buy this stuff at an electrical or lighting store because you could easily double or triple the cost of the project! Here is the detailed price of each items: - $8.13 - LED strips from ebay. See [screenshot here](https://www.end2endzone.com/wp-content/uploads/2014/08/LED-strip.png).
+As I said before, this project can be completed at a pretty cheap price. The total cost of the project is less than 30$. I had to say that I bought all major items (strips, dimmer and power supply) from ebay for a ridiculous amount of money. Don't make the mistake and buy this stuff at an electrical or lighting store because you could easily double or triple the cost of the project! Here is the detailed price of each items:
+
+- $8.13 - LED strips from ebay. See [screenshot here](https://www.end2endzone.com/wp-content/uploads/2014/08/LED-strip.png).
 - $2.29 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips from ebay. See [screenshot here](https://www.end2endzone.com/wp-content/uploads/2014/08/Connectors.png).
 - $7.15 - 36 Watts power supply from ebay. See [screenshot here](https://www.end2endzone.com/wp-content/uploads/2014/08/Power-supply.png).
 - $0.00 - Power cord. (I had one lying around. I usually salvage all of them when recycling old appliance.

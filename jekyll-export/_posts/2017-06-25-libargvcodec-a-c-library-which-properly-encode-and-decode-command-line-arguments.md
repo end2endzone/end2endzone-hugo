@@ -31,7 +31,9 @@ The purpose of the library is not to handle *Argument Parsing* and *Argument Val
 
 # Library features
 
-Here is a list of all library features: - Supports `int argc, char* argv[]` argument parsing.
+Here is a list of all library features:
+
+- Supports `int argc, char* argv[]` argument parsing.
 - Supports case sensitive and case insensitive searches within lists of arguments.
 - Quickly identify unknown arguments.
 - Supports any type of argument prefixes like: slashes, single dash, double dash, etc.
@@ -48,14 +50,18 @@ Parsing the list of arguments for validation is easy with the libArgvCodec. Crea
 
 ## Manipulating an argument list
 
-The `ArgumentList` class is used as a container for arguments. It supports all CRUD operations: - **C**reate (add) with the `insert()` method.
+The `ArgumentList` class is used as a container for arguments. It supports all CRUD operations:
+
+- **C**reate (add) with the `insert()` method.
 - **R**ead (view) with the `getArgument()` method.
 - **U**pdate with the `replace()` method.
 - **D**elete with the `remove()` method.
 
 ## Encoding arguments and decoding command line
 
-The encoding and decoding of command line arguments is with `<span style="font-size: medium;">IArgumentEncoder</span>` and `<span style="font-size: medium;">IArgumentDecoder</span>` interfaces. To interact with the interfaces, the `ArgumentList` class is used as input data or output data. The library provides the following classes which implements both interfaces: - `CmdPromptArgumentCodec` handles encoding/decoding for the Windows command prompt (shell)
+The encoding and decoding of command line arguments is with `<span style="font-size: medium;">IArgumentEncoder</span>` and `<span style="font-size: medium;">IArgumentDecoder</span>` interfaces. To interact with the interfaces, the `ArgumentList` class is used as input data or output data. The library provides the following classes which implements both interfaces:
+
+- `CmdPromptArgumentCodec` handles encoding/decoding for the Windows command prompt (shell)
 - `CreateProcessArgumentCodec` handles encoding/decoding for the Windows [CreateProcess()](http://msdn.microsoft.com/en-us/library/windows/desktop/ms682425(v=vs.85).aspx) api.
 
 Using these classes, one can fill up an `ArgumentList` instance and call the `encodeCommandLine()` method to encode all the arguments in the list into a single command line. Using the same codec classes, one can 'split' a command line into multiple arguments using the `decodeCommandLine()` method which returns a valid `ArgumentList` with the result.

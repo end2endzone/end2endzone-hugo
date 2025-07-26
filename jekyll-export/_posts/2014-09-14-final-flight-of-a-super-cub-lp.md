@@ -30,7 +30,9 @@ After a minute of flying, the elevator stopped responding and violently crashed 
 
 During my encounter with the trees, one of the servo got loose in its socket and the glue (silicon) that was holding the servo to the fuselage was not holding anything anymore! During the flight, the servo <span style="line-height: 1.5;">pushed itself</span><span style="line-height: 1.5;"> </span><span style="line-height: 1.5;">out of its socket instead of pushing on the elevator rod resulting in a hard crash.</span># The damage
 
-As I said earlier in [The Hobby Zone Super Cub LP RTF. A good beginner’s RC plane](/the-hobby-zone-super-cub-lp-rtf-a-good-beginners-rc-plane/), the plane can be repaired easily. As long as your electronics are still working, it is hard to damage the plane beyond repair. Here the description of the damage: - The wings broke in half near the middle.
+As I said earlier in [The Hobby Zone Super Cub LP RTF. A good beginner’s RC plane](/the-hobby-zone-super-cub-lp-rtf-a-good-beginners-rc-plane/), the plane can be repaired easily. As long as your electronics are still working, it is hard to damage the plane beyond repair. Here the description of the damage:
+
+- The wings broke in half near the middle.
 - The nose broke into pieces.
 - The firewall got smashed.
 - The engine and motor gears went through the firewall and almost reached the inside of the fuselage.

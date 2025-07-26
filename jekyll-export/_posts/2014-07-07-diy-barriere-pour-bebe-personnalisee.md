@@ -25,7 +25,9 @@ tags:
 
 # Introduction
 
-Ce qui suit la naissance d'un enfant après les réjouissances c'est tous les trucs qu'il faut acheter pour protéger la maison des "dangers potentiels". Rapidement, on doit acheter une barrière pour bébé. J'ai regardé plusieurs modèles et je n'ai pas trouvé un modèle qui puisse convenir à mes besoins et à ma situation soit: - Couvrir une longueur d'au moins 52 pouces.
+Ce qui suit la naissance d'un enfant après les réjouissances c'est tous les trucs qu'il faut acheter pour protéger la maison des "dangers potentiels". Rapidement, on doit acheter une barrière pour bébé. J'ai regardé plusieurs modèles et je n'ai pas trouvé un modèle qui puisse convenir à mes besoins et à ma situation soit:
+
+- Couvrir une longueur d'au moins 52 pouces.
 - Fonctionnant à un angle de 41.9 degrés.
 - Pouvant se fixer à un mur et à une rampe d'escalier.
 - Non-intrusive (elle ne doit pas laisser de marque sur la rampe une fois enlevée).
@@ -37,7 +39,9 @@ Malheureusement, l'espace à protéger est très grand et je n'ai pas réussi à
 
 ## Matériel
 
-Le matériel pour ce projet est le suivant: - 5 baguettes de 2x2x8' pour les poteaux.
+Le matériel pour ce projet est le suivant:
+
+- 5 baguettes de 2x2x8' pour les poteaux.
 - 2 planches de 1x5½x8' pour les rangées du haut et bas.
 - 1 planche de 2x4x40 pour la fixation à la rampe.
 - Teinture

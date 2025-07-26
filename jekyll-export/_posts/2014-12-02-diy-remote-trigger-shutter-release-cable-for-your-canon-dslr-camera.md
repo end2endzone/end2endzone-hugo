@@ -24,7 +24,9 @@ I have been working on multiple projects since I bought my camera. Most of them 
 
 ## <span style="font-size: 24px; font-weight: bold; line-height: 1;">Equipment</span>
 
-The material for this project is as follows: - 2 momentary switches.
+The material for this project is as follows:
+
+- 2 momentary switches.
 - At least 5 ft of 3-wire cable.
 - A small project box
 - A 2.5 mm male stereo audio plug
@@ -45,7 +47,9 @@ The material for this project is as follows: - 2 momentary switches.
 
 \[gallery link="file" ids="526,525,524,523,522,521" orderby="rand"\] ## <span style="line-height: 1.5;">Total cost of the project</span>
 
-This project is really cheap and can be completed with less than 10$. Here is the detailed price of each items: - 4.00$ - Switches
+This project is really cheap and can be completed with less than 10$. Here is the detailed price of each items:
+
+- 4.00$ - Switches
 - 1.25$ - Cable
 - 1.00$ - Project box
 - 2.00$ - Audio plug

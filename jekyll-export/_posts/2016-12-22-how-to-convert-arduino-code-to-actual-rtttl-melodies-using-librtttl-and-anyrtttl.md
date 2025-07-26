@@ -49,7 +49,9 @@ The following section shows example of using libRtttl gui to convert arduino cod
 
 ## Game of Throne
 
-Source code: - Youtube: [http://www.youtube.com/watch?v=vrzQU\_QbQ5U](http://www.youtube.com/watch?v=vrzQU_QbQ5U)
+Source code:
+
+- Youtube: [http://www.youtube.com/watch?v=vrzQU\_QbQ5U](http://www.youtube.com/watch?v=vrzQU_QbQ5U)
 - Code from pastebin: <http://pastebin.com/q76D0asp>
 - Cache version here: [FULL Game of Thrones Theme Song on Arduino](https://www.end2endzone.com/wp-content/uploads/2016/05/FULL-Game-of-Thrones-Theme-Song-on-Arduino.ino)
 
@@ -81,7 +83,9 @@ GOTv2:d=32,o=4,b=336:2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5
 
 ## Star Wars - The imperial March
 
-Source code: - Instructables: <http://www.instructables.com/id/How-to-easily-play-music-with-buzzer-on-arduino-Th/>
+Source code:
+
+- Instructables: <http://www.instructables.com/id/How-to-easily-play-music-with-buzzer-on-arduino-Th/>
 - Code from pasted: <http://pasted.co/e525c1b2>
 - Cache version here: [Star\_Wars\_-\_The\_imperial\_March](https://www.end2endzone.com/wp-content/uploads/2016/05/Star_Wars_-_The_imperial_March.ino)
 
@@ -113,7 +117,9 @@ unknown:d=8,o=5,b=120:4a4,4a4,4a4,f.4,16c,4a4,f.4,16c,2a4,4e,4e,4e,f.,16c,4g#4,f
 
 ## Super Mario Bros. themes
 
-Source code: - GitHub: <https://github.com/tsukisan/Arduino/blob/master/WiiClassicSoundboard/WiiClassicSoundboard.ino>
+Source code:
+
+- GitHub: <https://github.com/tsukisan/Arduino/blob/master/WiiClassicSoundboard/WiiClassicSoundboard.ino>
 - Code from GitHub: <https://raw.githubusercontent.com/tsukisan/Arduino/master/WiiClassicSoundboard/WiiClassicSoundboard.ino>
 - Cache version here: [WiiClassicSoundboard - Super Mario Bros. themes](https://www.end2endzone.com/wp-content/uploads/2016/11/WiiClassicSoundboard.ino)
 

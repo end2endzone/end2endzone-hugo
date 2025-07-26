@@ -111,7 +111,9 @@ Total cost: $20.40 Note that cost of usual items such as solder paste, soldering
 
 ## <span style="line-height: 1.5;">Preparation time</span>
 
-The whole project can be completed in 5 to 8 hours. This is actually a rough estimated time since I did not build a second controller for another quad that I had. The estimation assumes the following: - You already have all required components. Most of the waiting about this project comes from the fact that all components are purchased from China and takes 4-5 weeks to arrive. However, once you have all materials, the project starts to build itself at a decent pace.
+The whole project can be completed in 5 to 8 hours. This is actually a rough estimated time since I did not build a second controller for another quad that I had. The estimation assumes the following:
+
+- You already have all required components. Most of the waiting about this project comes from the fact that all components are purchased from China and takes 4-5 weeks to arrive. However, once you have all materials, the project starts to build itself at a decent pace.
 - You have basic soldering skills. The duration of this project may change depending on how much you are comfortable with a soldering iron.
 - You are familiar with the arduino prototyping platform. This guide will not cover how to compile the code/libraries and upload it to the arduino. There are plenty of guides and tutorials on the internet that can help you on this matter.
 
@@ -123,11 +125,15 @@ The following section shows the drawings and the schematics used by the controll
 
 ## Fritzing files
 
-\[caption id="attachment\_2266" align="alignnone" width="1024"\][![Fritzing - Open-Source Hardware Initiative Tool](https://www.end2endzone.com/wp-content/uploads/2016/10/fritzing_logo_new-1024x410.png)](https://www.end2endzone.com/wp-content/uploads/2016/10/fritzing_logo_new.png) Fritzing - Open-Source Hardware Initiative Tool\[/caption\] All drawings and diagrams are build using [Fritzing](http://fritzing.org/home/) version 0.9.2b which is an open-source hardware initiative tool that allows developers to document their prototypes and share them with others. The application already features a huge parts library but there is no support for a [Generic Remote Controlled (RC) 6-Channels Receiver](#Components_and_Supplies) and for the [MR16 Constant Current LED Driver](#Components_and_Supplies). The additional parts which are required for rendering the project are available for download: - \[download id="2237" template="title"\]
+\[caption id="attachment\_2266" align="alignnone" width="1024"\][![Fritzing - Open-Source Hardware Initiative Tool](https://www.end2endzone.com/wp-content/uploads/2016/10/fritzing_logo_new-1024x410.png)](https://www.end2endzone.com/wp-content/uploads/2016/10/fritzing_logo_new.png) Fritzing - Open-Source Hardware Initiative Tool\[/caption\] All drawings and diagrams are build using [Fritzing](http://fritzing.org/home/) version 0.9.2b which is an open-source hardware initiative tool that allows developers to document their prototypes and share them with others. The application already features a huge parts library but there is no support for a [Generic Remote Controlled (RC) 6-Channels Receiver](#Components_and_Supplies) and for the [MR16 Constant Current LED Driver](#Components_and_Supplies). The additional parts which are required for rendering the project are available for download:
+
+- \[download id="2237" template="title"\]
 - \[download id="2235" template="title"\]
 - \[download id="2233" template="title"\]
 
-The project files are also available for download. Click the following link to get the *Fritzing project files* for this project: - \[download id="2240" template="title"\]
+The project files are also available for download. Click the following link to get the *Fritzing project files* for this project:
+
+- \[download id="2240" template="title"\]
 
 ## Circuit Diagram
 

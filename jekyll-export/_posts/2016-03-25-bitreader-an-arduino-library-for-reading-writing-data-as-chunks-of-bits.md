@@ -36,7 +36,9 @@ The library is useful for storing or decoding data in binary format using the mi
 
 # Library features
 
-Possible use are: - Reduces size of data (strings, structures, arrays) in memory to the minimum amount of bits required.
+Possible use are:
+
+- Reduces size of data (strings, structures, arrays) in memory to the minimum amount of bits required.
 - Help reading/updating bit-field structures.
 - Handles bit [serialization ](https://en.wikipedia.org/wiki/Serialization)data to/from buffers.
 

@@ -19,7 +19,9 @@ tags:
 
 # OfficeReadOnly
 
-<span style="line-height: 1.5;">OfficeReadOnly is a tool that allows a user to open any Office Documents as a Read-Only document directly from the File Explorer.</span>It's main features are: - <span style="line-height: 1.5;">Integrates into Windows File Explorer or the with the "Send to" folder.</span>
+<span style="line-height: 1.5;">OfficeReadOnly is a tool that allows a user to open any Office Documents as a Read-Only document directly from the File Explorer.</span>It's main features are:
+
+- <span style="line-height: 1.5;">Integrates into Windows File Explorer or the with the "Send to" folder.</span>
 - Supports Documents, Workbooks, Presentations and Diagrams.
 - <span style="line-height: 1.5;">Supports both Microsoft Office 2003 (\*.doc) and Microsoft Office 2010 file extensions (\*.doc, and \*.docx).</span>
 - Can be used from the command prompt.
@@ -28,7 +30,9 @@ Microsoft Office does not supports opening files as read-only when right-clickin
 
 \[caption id="attachment\_635" align="alignnone" width="300"\][![Office Read Only (context menu)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu-300x246.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu.png) Office Read Only (context menu)\[/caption\] \[caption id="attachment\_636" align="alignnone" width="300"\][![Office Read Only (send to menu)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu-300x169.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu.png) Office Read Only (send to menu)\[/caption\] \[caption id="attachment\_637" align="alignnone" width="300"\][![Office Read Only (unsupported file)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file-300x171.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file.png) Office Read Only (unsupported file)\[/caption\] # <span style="line-height: 1.5;">Download</span>
 
-You can download OfficeReadOnly by clicking on the following links: - \[download id="628"\]
+You can download OfficeReadOnly by clicking on the following links:
+
+- \[download id="628"\]
 - \[download id="625"\]
 - \[download id="620"\]
 - \[download id="618"\]

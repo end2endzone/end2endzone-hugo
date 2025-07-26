@@ -29,17 +29,23 @@ I am really new to mixing. I have flown all my planes without ever used any mix.
 
 # What is mixing ?
 
-According to the [User Manual of the Spektrum DX9 Instruction Manual](http://www.horizonhobby.com/pdf/SPMR9900-Manual_EN.pdf), this is the definition of Mixing: <div class="quotesection">Mixing allows control input for a channel to affect more than one channel at a time. Mixing functions support: - Mixing a channel to another channel.
+According to the [User Manual of the Spektrum DX9 Instruction Manual](http://www.horizonhobby.com/pdf/SPMR9900-Manual_EN.pdf), this is the definition of Mixing: <div class="quotesection">Mixing allows control input for a channel to affect more than one channel at a time. Mixing functions support:
+
+- Mixing a channel to another channel.
 - Mixing a channel to itself.
 - Assigning offset to a channel
 - Linking primary to secondary trim.
 
-These mixes are available for each model memory. Select a channel for master and slave. Inputs for the Master Channel control both the master and Slave Channels. For example, Elevator to Flap makes elevator the Master Channel and flap the Slave Channel. Change the offset value to move the effective center position of the Slave Channel. Positive or negative value determines the direction of the offset. Offset is not available for curve mixes. </div>In other words, mixing allows you to affect a Slave Channel based on the input of another (master). By mastering the art of mixing, you will reduce the amount of small corrections you make to get the desired flight pattern. A mix is composed of the following: - Master &amp; Slave Channels.
+These mixes are available for each model memory. Select a channel for master and slave. Inputs for the Master Channel control both the master and Slave Channels. For example, Elevator to Flap makes elevator the Master Channel and flap the Slave Channel. Change the offset value to move the effective center position of the Slave Channel. Positive or negative value determines the direction of the offset. Offset is not available for curve mixes. </div>In other words, mixing allows you to affect a Slave Channel based on the input of another (master). By mastering the art of mixing, you will reduce the amount of small corrections you make to get the desired flight pattern. A mix is composed of the following:
+
+- Master &amp; Slave Channels.
 - High and Low rates value.
 - An offset value.
 - A trim value (not always, not covered in this article)
 
-All mix properties shall be in the following range: - High and Low rates shall be in the range -125 to +125.
+All mix properties shall be in the following range:
+
+- High and Low rates shall be in the range -125 to +125.
 - Offset shall be in the range -100 to +100.
 - Minimum calculated mix value shall be -150.
 - Maximum calculated mix value shall be +150.
@@ -48,7 +54,9 @@ Mixes can also be enabled or disabled based on a switch. This is useful to get d
 
 # When to not use mixes
 
-There is a lot of situations where using mixes is not recommended: - If you are flying a "trainer". It is called a trainer for a reason. It means you should train yourself as a pilot to make the corrections yourself.
+There is a lot of situations where using mixes is not recommended:
+
+- If you are flying a "trainer". It is called a trainer for a reason. It means you should train yourself as a pilot to make the corrections yourself.
 - If you are a new pilot (flying for less than 2-3 years). Using mixes wont make you a better pilot. In fact it will make things worst. Is is only recommended to learn to fly first without any help from your transmitter and then experiment at a higher skill level.
 
 Using mixes is not the best thing for the development of your skills. Learn to fly without any mix first to learn the proper technique. As for personal development, it is far more rewarding to not use mixes at all. It will pay off and you will thank yourself in the future. Keep in mind that mixes does not solve everything. In fact, the more mixes you have, the bigger your problem could get. If you add a Ailerons to Rudder mix to get good coordinated turns, imagine trying to land in a cross wind situation or flying inverted. Things can get ugly pretty quick. It is also strongly suggested to assign a switch to a mix in order to toggle the mix ON and OFF. This way, if something is wrong with the mix, you can get back to the normal behavior of your transmitter.
@@ -112,7 +120,9 @@ Use the following to get an effective range of 100% to 0% to 100%. <div class="r
 | Low | = | -100% |
 | Offset | = | 0% |
 
-</div>In other words: - A knob will show 100% when completely clockwise or counter clockwise but show 0% when halfway turned.
+</div>In other words:
+
+- A knob will show 100% when completely clockwise or counter clockwise but show 0% when halfway turned.
 - A 3-position switch will show 100% in Position 0 and Position 2 but 0% in Position 1.
 - A 2-position switch will always show 100%.
 
@@ -177,5 +187,7 @@ Mixes can also be used to multiplex multiple inputs into a single channel. This 
 
 # Other lectures
 
-Here is more information to better understand mixing: - [Solving the DX8 spectrum mix setting mystery](http://www.helifreak.com/showpost.php?s=bf5c92b4901bbc01862159e89eb118c8&p=5479009&postcount=14) (or [here](http://www.helifreak.com/showthread.php?p=5370251))
+Here is more information to better understand mixing:
+
+- [Solving the DX8 spectrum mix setting mystery](http://www.helifreak.com/showpost.php?s=bf5c92b4901bbc01862159e89eb118c8&p=5479009&postcount=14) (or [here](http://www.helifreak.com/showthread.php?p=5370251))
 - [Mixing - DX9 Wiki - Wikia](http://dx9.wikia.com/wiki/Mixing)

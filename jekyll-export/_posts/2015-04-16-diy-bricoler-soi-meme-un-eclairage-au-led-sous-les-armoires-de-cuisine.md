@@ -26,7 +26,9 @@ tags:
 
 # Introduction
 
-Il manque quelque chose dans la plupart des cuisines que j'ai vus dans ma vie et ce ne est pas un énorme espace de travail pour couper vos légumes ou un réfrigérateur intelligent. Ce qu'il manque souvent est beaucoup plus simple: c'est un éclairage adéquat. Toutes les cuisines que j'ai utilisé avait un éclairage décent lorsqu'elles sont utilisés pendant le jour (beaucoup de fenêtre, une bonne lumière ambiante) mais c'est souvent pas le cas pendant les jours pluvieux ou la nuit. La plupart des cuisines manquent aussi d'un bon éclairage sous les armoires de cuisine. Cela fait bien longtemps que je voulais avoir plus de lumière disponible sous les armoires de cuisine. Malheureusement, je n'ai jamais eu le courage d'installer des lumières supplémentaires pour plusieurs raisons. Une d'entre elles est que je n'avais pas les bons outils et que je manquais de connaissances. Je n'aimais, non plus , aimé l'idée de percer des trous dans les armoires ou à travers le comptoir pour apporter de l'électricité et finalement, lorsque l'on installe des lumières sous les armoires, cela produit beaucoup trop de chaleur (certaines lumières peuvent aussi vous brûler!). Ce projet était donc en attente jusqu'à ce qu'une solution facile à installer a jaillit dans mon esprit: des bandes d'éclairage au DEL. Les bandes de lumières au DEL sont une très bonne alternative au lumières fluorescentes, halogènes ou les lumières aux xénon. Les DEL deviennent de plus en plus populaire et sont souvent facile à installer et à adapter à plusieurs situations. Certaines bandes peuvent aussi être utilisées à l'extérieur (mais ça c'est pour une autre histoire). Ils procurent les avantages suivant dans une cuisine: - Abordable!
+Il manque quelque chose dans la plupart des cuisines que j'ai vus dans ma vie et ce ne est pas un énorme espace de travail pour couper vos légumes ou un réfrigérateur intelligent. Ce qu'il manque souvent est beaucoup plus simple: c'est un éclairage adéquat. Toutes les cuisines que j'ai utilisé avait un éclairage décent lorsqu'elles sont utilisés pendant le jour (beaucoup de fenêtre, une bonne lumière ambiante) mais c'est souvent pas le cas pendant les jours pluvieux ou la nuit. La plupart des cuisines manquent aussi d'un bon éclairage sous les armoires de cuisine. Cela fait bien longtemps que je voulais avoir plus de lumière disponible sous les armoires de cuisine. Malheureusement, je n'ai jamais eu le courage d'installer des lumières supplémentaires pour plusieurs raisons. Une d'entre elles est que je n'avais pas les bons outils et que je manquais de connaissances. Je n'aimais, non plus , aimé l'idée de percer des trous dans les armoires ou à travers le comptoir pour apporter de l'électricité et finalement, lorsque l'on installe des lumières sous les armoires, cela produit beaucoup trop de chaleur (certaines lumières peuvent aussi vous brûler!). Ce projet était donc en attente jusqu'à ce qu'une solution facile à installer a jaillit dans mon esprit: des bandes d'éclairage au DEL. Les bandes de lumières au DEL sont une très bonne alternative au lumières fluorescentes, halogènes ou les lumières aux xénon. Les DEL deviennent de plus en plus populaire et sont souvent facile à installer et à adapter à plusieurs situations. Certaines bandes peuvent aussi être utilisées à l'extérieur (mais ça c'est pour une autre histoire). Ils procurent les avantages suivant dans une cuisine:
+
+- Abordable!
 - Donne un bon éclairage.
 - Peut être atténués à de faible intensité.
 - Disponible en plusieurs couleurs comme le blanc chaud blanc ou froid.
@@ -41,7 +43,9 @@ Il manque quelque chose dans la plupart des cuisines que j'ai vus dans ma vie et
 
 ## Équipment
 
-Les matériaux nécessaires pour ce projet sont les suivants: - Une bande d'éclairage DEL de 5 mètres.
+Les matériaux nécessaires pour ce projet sont les suivants:
+
+- Une bande d'éclairage DEL de 5 mètres.
 - Connecteur à 2 broches (1 seule couleur) pour bande DEL SMD 3528 (5 fois)
 - Une alimentation 36 Watts (12 volts, 3 ampères).
 - Un cordon d’alimentation avec une prise murale à 3 broches
@@ -71,7 +75,9 @@ Vous avez seulement besoin de 3 connecteurs DEL pour ce projet. Deux connecteurs
 
 ## <span style="font-size: 24px; font-weight: bold; line-height: 1;">Coût total du projet</span>
 
-<span class="notranslate">Comme je l'ai déjà dit, ce projet peut être réalisé avec un petit budget.</span> <span class="notranslate">Le coût total du projet est inférieur à 30 $.</span> <span class="notranslate">Je dois dire que j'ai acheté tous les éléments majeurs (bandes DEL, alimentation et gradateur) sur eBay pour vraiment pas très cher.</span> <span class="notranslate">Ne faites pas l'erreur et acheter ce genre de choses dans un magasin d'éclairage (Rona, Multi Luminaire) parce que vous pourriez facilement doubler ou même tripler le coût du projet!</span>Voici le prix détaillée de chacun des éléments: - $8.13 - Bande d'éclairage DEL achetée sur eBay. Voir la [capture d'écran ici](https://www.end2endzone.com/wp-content/uploads/2014/08/LED-strip.png).
+<span class="notranslate">Comme je l'ai déjà dit, ce projet peut être réalisé avec un petit budget.</span> <span class="notranslate">Le coût total du projet est inférieur à 30 $.</span> <span class="notranslate">Je dois dire que j'ai acheté tous les éléments majeurs (bandes DEL, alimentation et gradateur) sur eBay pour vraiment pas très cher.</span> <span class="notranslate">Ne faites pas l'erreur et acheter ce genre de choses dans un magasin d'éclairage (Rona, Multi Luminaire) parce que vous pourriez facilement doubler ou même tripler le coût du projet!</span>Voici le prix détaillée de chacun des éléments:
+
+- $8.13 - Bande d'éclairage DEL achetée sur eBay. Voir la [capture d'écran ici](https://www.end2endzone.com/wp-content/uploads/2014/08/LED-strip.png).
 - $2.29 - Connecteur à 2 broches (1 seule couleur) pour bande DEL SMD 3528 acheté sur eBay. Voir la [capture d'écran ici](https://www.end2endzone.com/wp-content/uploads/2014/08/Connectors.png).
 - $7.15 - Alimentation 36 Watts achetée sur eBay. Voir la [capture d'écran ici](https://www.end2endzone.com/wp-content/uploads/2014/08/Power-supply.png).
 - $0.00 - Cordon d’alimentation avec une prise murale à 3 broches. (J'en ai souvent plusieurs à la maison. Je récupère souvent plusieurs pièce et morceau avant de jeter un appareil aux ordures.

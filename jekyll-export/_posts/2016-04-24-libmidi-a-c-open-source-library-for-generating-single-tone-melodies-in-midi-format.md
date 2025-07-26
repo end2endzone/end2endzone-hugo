@@ -33,7 +33,9 @@ I mostly develop on the Windows platform. When I try to generate basic sounds an
 
 ## Functionalities / Features
 
-Possible use are: - Generate notes using a tone frequency and duration.
+Possible use are:
+
+- Generate notes using a tone frequency and duration.
 - Supports custom delays, volumes, melody name &amp; instruments.
 - Defines multiple speed requirements : 
     - Ticks (or pulses) per quarters notes.
@@ -45,7 +47,9 @@ Possible use are: - Generate notes using a tone frequency and duration.
 
 ## Requirements
 
-The library has some compilation requirements and library dependencies which are: - Only Visual Studio 2008 projects files are available. Files can be manually converted to other version as required. Supporting other compilers is not currently planned.
+The library has some compilation requirements and library dependencies which are:
+
+- Only Visual Studio 2008 projects files are available. Files can be manually converted to other version as required. Supporting other compilers is not currently planned.
 - The [Google Test](http://github.com/google/googletest) v1.6 library is required for running test cases.
 
 # Usage
@@ -78,4 +82,6 @@ libMIDI Library Copyright (C) 2016 Antoine Beauchamp The code &amp; updates for 
 
 # Download
 
-You can download the libMIDI library by clicking on the following link: - \[download id="1893" template="button"\]
+You can download the libMIDI library by clicking on the following link:
+
+- \[download id="1893" template="button"\]

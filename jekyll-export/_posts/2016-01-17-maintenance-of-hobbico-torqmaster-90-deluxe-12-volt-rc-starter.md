@@ -47,7 +47,9 @@ For an unknown reason the front cover of the unit seems to be fixed to the rotor
 
 ## Replacing the motor's brushes
 
-In the RC world, people usually prefer using brushless motors since they do not have brushes. The main disadvantages of using a brushed motor is that the brushes will wear down and you will eventually need to replace them. In most cases you should not have to change the brushes on a 12 volt RC starter since the motor is not used more than a few seconds each time you go to the field. The brushes should last for a very long time if you take care of the starter by: - Not using the starter for a too long period of time.
+In the RC world, people usually prefer using brushless motors since they do not have brushes. The main disadvantages of using a brushed motor is that the brushes will wear down and you will eventually need to replace them. In most cases you should not have to change the brushes on a 12 volt RC starter since the motor is not used more than a few seconds each time you go to the field. The brushes should last for a very long time if you take care of the starter by:
+
+- Not using the starter for a too long period of time.
 - Not applying too much power (voltage or amperage outside the specifications boundaries).
 - Not using the motor in harsh conditions like sand, dust or water.
 

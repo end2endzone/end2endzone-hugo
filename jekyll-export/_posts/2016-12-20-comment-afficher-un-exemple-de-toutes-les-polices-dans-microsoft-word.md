@@ -31,7 +31,9 @@ Il suffit d'ouvrir Microsoft Word et d'exécuter le script téléchargeable. Cel
 
 # Fonctionnalités
 
-La liste suivante décrit les fonctionnalités du script: - Détecte toutes les polices installées du système.
+La liste suivante décrit les fonctionnalités du script:
+
+- Détecte toutes les polices installées du système.
 - Donne un exemple de tous les styles pour chacune des polices soit: Normal, Italique, Gras et Gras Italique.
 - Supporte vos propre exemples de texte. Si omis, le pangramme "*The quick brown fox jumps over the lazy dog*" est utilisé, soit l'équivalent anglophone de "*Voix ambiguë d'un cœur qui, au zéphyr, préfère les jattes de kiwis*".
 

@@ -19,7 +19,9 @@ tags:
 
 # DNS343Monitor
 
-<span style="line-height: 1.5;">DNS-343 Monitor is a tool for monitoring how much space is left on your DNS-343 NAS device.</span><span style="line-height: 1.5;">The [DNS-343](http://www.google.com/?q=dns-343) is a [Network Attached Storage](http://en.wikipedia.org/wiki/Network-attached_storage) (NAS) device that can hold as much as 4 drives. Since all the drives are shared in a Network, each disk can quickly become full. This tools allows you to see the remaining space left on each individual drives.</span>It's main features are: - <span style="line-height: 1.5;">Show space left and used for each drives.</span>
+<span style="line-height: 1.5;">DNS-343 Monitor is a tool for monitoring how much space is left on your DNS-343 NAS device.</span><span style="line-height: 1.5;">The [DNS-343](http://www.google.com/?q=dns-343) is a [Network Attached Storage](http://en.wikipedia.org/wiki/Network-attached_storage) (NAS) device that can hold as much as 4 drives. Since all the drives are shared in a Network, each disk can quickly become full. This tools allows you to see the remaining space left on each individual drives.</span>It's main features are:
+
+- <span style="line-height: 1.5;">Show space left and used for each drives.</span>
 - GUI supported.
 - Compatible with all firmware versions.
 
@@ -33,7 +35,9 @@ tags:
 
 \[caption id="attachment\_659" align="alignnone" width="450"\][![DNS-343 Monitor (Idle)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png) DNS-343 Monitor (Idle)\[/caption\] \[caption id="attachment\_660" align="alignnone" width="450"\][![DNS-343 Monitor (Searching)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png) DNS-343 Monitor (Searching)\[/caption\] \[caption id="attachment\_661" align="alignnone" width="450"\][![DNS-343 Monitor (Usage)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png) DNS-343 Monitor (Usage)\[/caption\] # <span style="line-height: 1.5;">Download</span>
 
-You can download DNS-343 Monitor by clicking on the following links: - \[download id="675"\]
+You can download DNS-343 Monitor by clicking on the following links:
+
+- \[download id="675"\]
 - \[download id="672"\]
 - \[download id="670"\]
 - \[download id="666"\]

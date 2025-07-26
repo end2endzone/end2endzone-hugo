@@ -27,7 +27,9 @@ The trick is to use a temporary (intermediate) file to cut ads and encode this f
 
 # Download &amp; Install required software
 
-The following software must be downloaded and installed: - [VirtualDub 1.10.4](http://www.virtualdub.org/download.html)
+The following software must be downloaded and installed:
+
+- [VirtualDub 1.10.4](http://www.virtualdub.org/download.html)
 - [Virtualdub FFMpeg Input Plugin](http://sourceforge.net/projects/virtualdubffmpeginputplugin/files/)
 - [Lagarith Lossless Video Codec v1.3.27](http://lags.leetcode.net/codec.html)
 - [Handbrake 0.10.2](https://handbrake.fr/downloads.php)

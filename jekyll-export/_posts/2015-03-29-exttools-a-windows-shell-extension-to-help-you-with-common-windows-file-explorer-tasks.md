@@ -30,7 +30,9 @@ extTools allows its users to execute tasks that are not available in a default W
 
 # Download
 
-You can download extTools by clicking on the following links: - \[download id="825"\]
+You can download extTools by clicking on the following links:
+
+- \[download id="825"\]
 - \[download id="822"\] (for Windows XP)
 - \[download id="831"\]
 - \[download id="828"\] (for Windows 7 and over)
@@ -45,7 +47,9 @@ Below is all the tools that are included in extTools. A quick description is ava
 
 ## <span style="line-height: 1.5;">extFileRenamer</span>
 
-\[caption id="attachment\_447" align="alignnone" width="287"\][![extFileRenamer screenshot (pattern #1)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1-287x300.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png) extFileRenamer screenshot (pattern #1)\[/caption\] extFileRenamer is a powerful file renaming manager. This application can rename a bunch of files according to a pattern (with increasing numbers) or rename files using a "search &amp; replace" technique to remove the same word(s) from multiple files. extFileRenamer has the following features: - Allows you to rename files using a pattern or with a "search &amp; replace" through the file names.
+\[caption id="attachment\_447" align="alignnone" width="287"\][![extFileRenamer screenshot (pattern #1)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1-287x300.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png) extFileRenamer screenshot (pattern #1)\[/caption\] extFileRenamer is a powerful file renaming manager. This application can rename a bunch of files according to a pattern (with increasing numbers) or rename files using a "search &amp; replace" technique to remove the same word(s) from multiple files. extFileRenamer has the following features:
+
+- Allows you to rename files using a pattern or with a "search &amp; replace" through the file names.
 - <span style="text-align: justify; line-height: 1.5;">Manually select target files to rename.</span>
 - <span style="text-align: justify; line-height: 1.5;">Live preview of renamed files.</span>
 - <span style="text-align: justify; line-height: 1.5;">Automatic detection of renaming conflict (before renaming files!)</span>
@@ -68,7 +72,9 @@ To change all file extensions from DAT to RAW, set *replace from* field to ***\*
 
 </div>## extSearch
 
-\[caption id="attachment\_456" align="alignnone" width="300"\][![extSearch screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extSearch-screenshot-300x215.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extSearch-screenshot.png) extSearch screenshot\[/caption\] extSearch is a file search application. It's design is identical to Windows XP's search application. If you are using Windows Vista or later and you miss the simplicity that the search application was giving, then extSearch is for you. extSearch allows searching for a file using multiple criteria: - File name or file extension using wildcard characters such as ***\**** or ***?***
+\[caption id="attachment\_456" align="alignnone" width="300"\][![extSearch screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extSearch-screenshot-300x215.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extSearch-screenshot.png) extSearch screenshot\[/caption\] extSearch is a file search application. It's design is identical to Windows XP's search application. If you are using Windows Vista or later and you miss the simplicity that the search application was giving, then extSearch is for you. extSearch allows searching for a file using multiple criteria:
+
+- File name or file extension using wildcard characters such as ***\**** or ***?***
 - <span style="text-align: justify; line-height: 1.5;">Search for a specific word or phrase in a file (matching case or not).</span>
 - <span style="text-align: justify; line-height: 1.5;">Searches sub-folders or not.</span>
 - <span style="text-align: justify; line-height: 1.5;">Searches files based on its last modification date.</span>
@@ -104,7 +110,9 @@ Using extDelete would start deleting files and recovering space right away! ### 
 
 ##  extImageEncoder
 
-\[caption id="attachment\_457" align="alignnone" width="300"\][![extImageEncoder screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot-300x254.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot.png) extImageEncoder screenshot\[/caption\] extImageEncoder is an application that can hide a file/data into a picture. This process is called [steganography](http://en.wikipedia.org/wiki/Steganography). extImageEncoder does not simply append the data at the end of the image file but encodes the data into the actual pixels of the image by creating subtle change in pixel's color. If an unsuspecting user opens an encoded image into an image editor or picture viewer, it won't be able to see that a file is hidden within the image since that each change is so subtle that someone not specifically looking for it is unlikely to notice it. The following features are supported: - Automatically detect the appropriate encoding format to preserve the original image as much as possible (reduce the amount of modified pixels).
+\[caption id="attachment\_457" align="alignnone" width="300"\][![extImageEncoder screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot-300x254.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot.png) extImageEncoder screenshot\[/caption\] extImageEncoder is an application that can hide a file/data into a picture. This process is called [steganography](http://en.wikipedia.org/wiki/Steganography). extImageEncoder does not simply append the data at the end of the image file but encodes the data into the actual pixels of the image by creating subtle change in pixel's color. If an unsuspecting user opens an encoded image into an image editor or picture viewer, it won't be able to see that a file is hidden within the image since that each change is so subtle that someone not specifically looking for it is unlikely to notice it. The following features are supported:
+
+- Automatically detect the appropriate encoding format to preserve the original image as much as possible (reduce the amount of modified pixels).
 - Allows the encoding algorithm to keep modifying the pixels until the end of the image to evenly modify the image which hides the modified part.
 
 extImageEncoder only supports [lossless](http://en.wikipedia.org/wiki/Lossless_compression) image file format (\*.png or \*.bmp) for saving the resulting image. Other image file format are [lossy](http://en.wikipedia.org/wiki/Image_file_formats#Image_file_compression) which means that some details are lost every time an image is saved. Since the data is encoded into pixels, a lossy image format would alterate or even destroy the data.
@@ -115,7 +123,9 @@ extImageEncoder only supports [lossless](http://en.wikipedia.org/wiki/Lossless_c
 
 ## <span style="line-height: 1.5;">extHashCalculator</span>
 
-\[caption id="attachment\_458" align="alignnone" width="300"\][![extHashCalculator screenshot (md5)](https://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5-300x113.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png) extHashCalculator screenshot (md5)\[/caption\] extHashCalculator calculate hashes ([message digests](http://en.wikipedia.org/wiki/Message_digest)) for any kind of file. A file hash is the result of a [file verification](http://en.wikipedia.org/wiki/File_verification) process that confirms the integrity of a file. Web sites that offers downloadable content mostly provide hash values to let users know that the downloaded file is not altered (incomplete, corrupted or modified by a virus). extHashCalculator supports the following hash algorithms: - CRC32
+\[caption id="attachment\_458" align="alignnone" width="300"\][![extHashCalculator screenshot (md5)](https://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5-300x113.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png) extHashCalculator screenshot (md5)\[/caption\] extHashCalculator calculate hashes ([message digests](http://en.wikipedia.org/wiki/Message_digest)) for any kind of file. A file hash is the result of a [file verification](http://en.wikipedia.org/wiki/File_verification) process that confirms the integrity of a file. Web sites that offers downloadable content mostly provide hash values to let users know that the downloaded file is not altered (incomplete, corrupted or modified by a virus). extHashCalculator supports the following hash algorithms:
+
+- CRC32
 - MD5
 - <span style="text-align: justify; line-height: 1.5;">SHA1</span>
 

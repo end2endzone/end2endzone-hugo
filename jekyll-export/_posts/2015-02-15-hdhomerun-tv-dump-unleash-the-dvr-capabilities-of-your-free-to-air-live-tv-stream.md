@@ -20,7 +20,9 @@ tags:
 
 # HDHomeRun TV Dump
 
-<span style="line-height: 1.5;">*HdHomeRun TV Dump* is a [GUI](http://en.wikipedia.org/wiki/Graphical_user_interface) that installs over the native [HDHomeRun application](http://www.silicondust.com/support/downloads/) and allows owners to quickly take control over the free to air live TV stream. Implementing DVR capabilities on your computer becomes a easy as 1-2-3.</span>It is designed to make interaction with the device easy by automating as much as possible any task a user would like to execute. It's main features are: - <span style="line-height: 1.5;">Quicker &amp; easier to understand and install than other DVR solutions like [MythTV](https://www.mythtv.org/) and [Windows Media Center](http://windows.microsoft.com/en-CA/windows/products/windows-media-center).</span>
+<span style="line-height: 1.5;">*HdHomeRun TV Dump* is a [GUI](http://en.wikipedia.org/wiki/Graphical_user_interface) that installs over the native [HDHomeRun application](http://www.silicondust.com/support/downloads/) and allows owners to quickly take control over the free to air live TV stream. Implementing DVR capabilities on your computer becomes a easy as 1-2-3.</span>It is designed to make interaction with the device easy by automating as much as possible any task a user would like to execute. It's main features are:
+
+- <span style="line-height: 1.5;">Quicker &amp; easier to understand and install than other DVR solutions like [MythTV](https://www.mythtv.org/) and [Windows Media Center](http://windows.microsoft.com/en-CA/windows/products/windows-media-center).</span>
 - <span style="line-height: 1.5;">Auto-detection of existing HDHomeRun devices on the network.</span>
 - Auto-detection of busy tuners.
 - Automatic selection of an available tuner for watching or recording a live TV stream.
@@ -34,14 +36,18 @@ tags:
 
 \[gallery link="file" ids="721,724,727,726,729,725,730,736,732"\] # <span style="line-height: 1.5;">Download</span>
 
-You can download *HDHomeRun TV Dump* by clicking on the following link: - \[download id="744"\]
+You can download *HDHomeRun TV Dump* by clicking on the following link:
+
+- \[download id="744"\]
 - \[download id="746"\]
 - \[download id="748"\]
 - \[download id="750"\]
 
 # <span style="line-height: 1.5;">Hardware &amp; Software Requirements</span>
 
-The following is required to take full control of *HDHomeRun TV Dump*: - Users must have an existing network-attached HDHomeRun device.
+The following is required to take full control of *HDHomeRun TV Dump*:
+
+- Users must have an existing network-attached HDHomeRun device.
 - [VLC](http://www.videolan.org/vlc/download-windows.html) must be installed on system to watch live TV.
 - [HDHomerun application](http://www.silicondust.com/support/downloads/) must be installed on system to allow communication with the HDHomeRun device.
 
@@ -57,7 +63,9 @@ This button allows you to watch live TV using the [VLC](http://www.videolan.org/
 
 The application can be used as a DVR helping users to program a recording based on a schedule. Press the <span class="button3D_outter"><span class="button3D_inner">Program</span></span> button for displaying the scheduled recordings dialog: \[caption id="attachment\_729" align="aligncenter" width="300"\][![HDHomeRun Tv Dump - Scheduled Recording List](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List-300x161.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List.png) HDHomeRun Tv Dump - Scheduled Recording List\[/caption\] **Note**: The scheduled recordings dialog can be configured to automatically reset tuner 0 and/or tuner 1 each day at midnight. Resetting each tuners fixes some issues for long recordings.
 
-To add a new scheduled recording to the list, press the <span class="button3D_outter"><span class="button3D_inner">Add</span></span> button. This will display the *Add a new recording* dialog which allows a user to select a specific recording schedule: \[caption id="attachment\_725" align="aligncenter" width="217"\][![HDHomeRun Tv Dump - New Scheduled Recording](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording-217x300.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png) HDHomeRun Tv Dump - New Scheduled Recording\[/caption\] This dialog allows a user assign a name to the recording for better future referencing. The user also have to press the **<span class="button3D_outter"><span class="button3D_inner">...</span></span>** button to setup virtually any kind of schedule: - <span style="text-decoration: underline;">***Unique***</span>: Simply specify a date and time.
+To add a new scheduled recording to the list, press the <span class="button3D_outter"><span class="button3D_inner">Add</span></span> button. This will display the *Add a new recording* dialog which allows a user to select a specific recording schedule: \[caption id="attachment\_725" align="aligncenter" width="217"\][![HDHomeRun Tv Dump - New Scheduled Recording](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording-217x300.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png) HDHomeRun Tv Dump - New Scheduled Recording\[/caption\] This dialog allows a user assign a name to the recording for better future referencing. The user also have to press the **<span class="button3D_outter"><span class="button3D_inner">...</span></span>** button to setup virtually any kind of schedule:
+
+- <span style="text-decoration: underline;">***Unique***</span>: Simply specify a date and time.
 - <span style="text-decoration: underline;">***Repetitive***</span>: A value is used for repeating on minutes, hours, days, weeks and months starting on specified date and time.
 - <span style="text-decoration: underline;">***Daily***</span>: Specify the type from Everyday, Week days and Week ends starting on the specified date and time.
 - <span style="text-decoration: underline;">***Weekly***</span>: Specify individual recording days, starting on the specified date and time.
