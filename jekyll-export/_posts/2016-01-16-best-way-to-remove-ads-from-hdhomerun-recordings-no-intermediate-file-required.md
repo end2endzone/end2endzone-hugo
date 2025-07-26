@@ -19,9 +19,13 @@ tags:
 
 # Introduction
 
-This guide is a follow up to the post called [How to remove ads from HDHomeRun recordings and still encode with Handbrake](/how-to-remove-ads-from-hdhomerun-recordings-and-still-encode-with-handbrake/). I record lots of TV shows using the HDHomeRun. I sometime want to keep recordings on a disk for archiving or to watch later. The following article explains how to remove ads from HDHomeRun recordings and encode the final video with Handbrake without quality loss. The whole process is executed using only FREE tools! With all TV shows comes a bunch of TV ads that I do not want to keep and waste time and disk space for. I encode all my videos using [Handbrake](https://handbrake.fr/downloads.php) because it supports quality based H264 encoding and 5.1 surround sounds but unfortunately, it does not support removing ads. # What's the trick ?
+This guide is a follow up to the post called [How to remove ads from HDHomeRun recordings and still encode with Handbrake](/how-to-remove-ads-from-hdhomerun-recordings-and-still-encode-with-handbrake/). I record lots of TV shows using the HDHomeRun. I sometime want to keep recordings on a disk for archiving or to watch later. The following article explains how to remove ads from HDHomeRun recordings and encode the final video with Handbrake without quality loss. The whole process is executed using only FREE tools! With all TV shows comes a bunch of TV ads that I do not want to keep and waste time and disk space for. I encode all my videos using [Handbrake](https://handbrake.fr/downloads.php) because it supports quality based H264 encoding and 5.1 surround sounds but unfortunately, it does not support removing ads.
 
-The trick is to use VirtualDub's frame server ability and other software to create a virtual file instead of an intermediate file as [my old guide](https://www.end2endzone.com/how-to-remove-ads-from-hdhomerun-recordings-and-still-encode-with-handbrake/) suggests. This option is much faster (takes 1 minute instead of hours) and uses much less disk space (2 KB instead of 8 GB) since there is no intermediate file to encode. VirtualDub is still required to cut ads as you would normally do. The process is also lossless (it does not add any quality degradation). Once the virtual file is generated (mounted), use Handbrake to encode the final video for best results. # Download &amp; Install required software
+# What's the trick ?
+
+The trick is to use VirtualDub's frame server ability and other software to create a virtual file instead of an intermediate file as [my old guide](https://www.end2endzone.com/how-to-remove-ads-from-hdhomerun-recordings-and-still-encode-with-handbrake/) suggests. This option is much faster (takes 1 minute instead of hours) and uses much less disk space (2 KB instead of 8 GB) since there is no intermediate file to encode. VirtualDub is still required to cut ads as you would normally do. The process is also lossless (it does not add any quality degradation). Once the virtual file is generated (mounted), use Handbrake to encode the final video for best results.
+
+# Download &amp; Install required software
 
 The following software must be downloaded and installed: - [VirtualDub 1.10.4](http://www.virtualdub.org/download.html)
 - [Virtualdub FFMpeg Input Plugin](http://sourceforge.net/projects/virtualdubffmpeginputplugin/files/)
@@ -64,7 +68,9 @@ To uninstall, run the following commands: 1. Open a *cmd prompt* by clicking on 
 
 AVSF 1.0.0.6 is not compatible with build 173 of Pismo File Mount. Build 178 must be downloaded to be able to create a virtual file. Version 1.0.0.6 (and future versions) are released with *avfs.exe*. To install, run the following commands: 1. Copy *avfs.exe* to a folder of your choosing. The *c:\\windows* folder will work or use any other folder.
 
-To uninstall, delete the *c:\\windows\\avfs.exe* file. # Instructions
+To uninstall, delete the *c:\\windows\\avfs.exe* file.
+
+# Instructions
 
 ## Chaining application
 

@@ -82,7 +82,9 @@ Vous avez seulement besoin de 3 connecteurs DEL pour ce projet. Deux connecteurs
 
 Coût total: $**27.84** <span style="line-height: 1.5; text-align: justify;">\* Le coût des éléments habituels tels que des vis et la colle n'est pas inclus dans le coût du projet.</span>## Temps de préparation
 
-Le temps de préparation est assez court. Il nécessite de tester tout le circuit avant de fixer la bande aux armoires. Vous ne voulez pas commencer à percer des trous dans vos armoires et découvrir par la suite qu'un des composant est défectueux! Le circuit prend environ une demi-heure à compléter et vérifie que tous les composants fonctionnent comme prévu. Aucune soudure n'est nécessaire pour cette étape. Le circuit est assez simple. Reportez-vous à la section suivante pour les détails du circuit. # Étapes de construction
+Le temps de préparation est assez court. Il nécessite de tester tout le circuit avant de fixer la bande aux armoires. Vous ne voulez pas commencer à percer des trous dans vos armoires et découvrir par la suite qu'un des composant est défectueux! Le circuit prend environ une demi-heure à compléter et vérifie que tous les composants fonctionnent comme prévu. Aucune soudure n'est nécessaire pour cette étape. Le circuit est assez simple. Reportez-vous à la section suivante pour les détails du circuit.
+
+# Étapes de construction
 
 Les étapes de construction sont très simple. Il suffit de visser et de relier le tout. Voici une photo du circuit que vous devez assembler: [![Circuit](https://www.end2endzone.com/wp-content/uploads/2014/08/Circuit.png)](https://www.end2endzone.com/wp-content/uploads/2014/08/Circuit.png)Le design est simple et n'offre pas vraiment de place pour avoir différents design. Il n'y a que l'emplacement de l'interrupteur d'alimentation qui peut être déplacé dans le circuit. J'ai décidé de mettre l'interrupteur sur la sortie de l'alimentation plutôt qu'à l'entrée. Ceci est pour éviter d'avoir 120 volts qui circule dans l'interrupteur et risquer de m'électrocuter lorsque je l'allume. De cette façon, il n'y a que 12 volts qui circule dans l'interrupteur mais cette option crée une petite charge constante sur l'alimentation (elle est toujours alimentée), mais c'est mieux que l'alternative. De toute façon, l'alimentation peut durer de nombreuses années avant de faillir.
 
@@ -120,10 +122,14 @@ Cette section définit comment connecter tous les composants ensemble. Branchez 
 
 ### Connexion
 
-Utilisez les connecteurs pour relier chaque bande. Les connecteurs sont spécifiquement conçus pour connecter des bandes de DEL ensemble. Vous avez juste à ouvrir une porte, glisser la bande en place sous les patins et fermer la porte qui retiendra la bande en place. Lorsque vous insérez la bande à l'intérieur du connecteur, assurez-vous que vous alignez le côté positif de la bande avec le côté positif du connecteur (fil rouge) et que vous faites la même chose avec le côté négatif (noir). J'ai décidé d'utiliser du mastic de fixation (de la "gommette") pour maintenir le connecteur en place. Sans gomme à coller, le poids du connecteur est trop élevé et empêche la surface adhésive de la bande de rester collé. La gomme permet également de maintenir le fil du connecteur collé sur la surface de montage au lieu de voir le fil pendouiller au-dessous de l'armoire. # Résultat final
+Utilisez les connecteurs pour relier chaque bande. Les connecteurs sont spécifiquement conçus pour connecter des bandes de DEL ensemble. Vous avez juste à ouvrir une porte, glisser la bande en place sous les patins et fermer la porte qui retiendra la bande en place. Lorsque vous insérez la bande à l'intérieur du connecteur, assurez-vous que vous alignez le côté positif de la bande avec le côté positif du connecteur (fil rouge) et que vous faites la même chose avec le côté négatif (noir). J'ai décidé d'utiliser du mastic de fixation (de la "gommette") pour maintenir le connecteur en place. Sans gomme à coller, le poids du connecteur est trop élevé et empêche la surface adhésive de la bande de rester collé. La gomme permet également de maintenir le fil du connecteur collé sur la surface de montage au lieu de voir le fil pendouiller au-dessous de l'armoire.
+
+# Résultat final
 
 Voici une photo du résultat final: [![IMG_6846](https://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg)# Refaire les choses différemment?
 
-Je ne pense pas que je ferais les choses différemment. Tout est généralement comme je le voulais. J'ai pris mon temps pour préparer ce projet. Je veux aussi éventuellement peindre les fils en blanc pour les rendre invisibles. Pour le moment, lorsque j'ouvre mes armoires, je ne vois pas vraiment les fils parce qu'elles sont toutes bien remplies alors je vais peut-être les laisser tel quel. # Notes
+Je ne pense pas que je ferais les choses différemment. Tout est généralement comme je le voulais. J'ai pris mon temps pour préparer ce projet. Je veux aussi éventuellement peindre les fils en blanc pour les rendre invisibles. Pour le moment, lorsque j'ouvre mes armoires, je ne vois pas vraiment les fils parce qu'elles sont toutes bien remplies alors je vais peut-être les laisser tel quel.
+
+# Notes
 
 aucune

@@ -20,9 +20,13 @@ Voici un autre modèle d'avion que j'ai assemblé: le planeur Radian Pro de Park
 
 # Description
 
-Le Radian Pro est un planeur de 78.5 pouces d'envergure. Le fuselage mesure 45 pouces. Il est motorisé ce qui veut dire qu'il n'a pas besoin d'être remorqué pour prendre son envol et qu'il peut par lui même reprendre de l'altitude lorsque nécessaire. La fiche technique peut être retrouvée à cette adresse: <http://www.parkzone.com/Products/Default.aspx?ProdID=PKZ5480>Il possède aussi un frère [disponible ici](http://www.parkzone.com/Products/Default.aspx?ProdID=PKZ4700) mais il est beaucoup plus vieux et donc il possède moins de fonctionnalités. Consulter [ces autres articles](/tag/time-lapse/) pour d'autres vidéos time lapse. Tutoriels sur comment faire ces propres vidéos time lapse avec des logiciels gratuit disponible à l'adresse: <https://www.end2endzone.com/how-to-make-a-time-lapse-video-with-free-tools-and-a-dslr-camera/>. # Time Lapse
+Le Radian Pro est un planeur de 78.5 pouces d'envergure. Le fuselage mesure 45 pouces. Il est motorisé ce qui veut dire qu'il n'a pas besoin d'être remorqué pour prendre son envol et qu'il peut par lui même reprendre de l'altitude lorsque nécessaire. La fiche technique peut être retrouvée à cette adresse: <http://www.parkzone.com/Products/Default.aspx?ProdID=PKZ5480>Il possède aussi un frère [disponible ici](http://www.parkzone.com/Products/Default.aspx?ProdID=PKZ4700) mais il est beaucoup plus vieux et donc il possède moins de fonctionnalités. Consulter [ces autres articles](/tag/time-lapse/) pour d'autres vidéos time lapse. Tutoriels sur comment faire ces propres vidéos time lapse avec des logiciels gratuit disponible à l'adresse: <https://www.end2endzone.com/how-to-make-a-time-lapse-video-with-free-tools-and-a-dslr-camera/>.
 
-Capture: 5 août 2016 Temps d'assemblage: 2h09m 1538 photos affichées à 30 images par seconde. # Musique
+# Time Lapse
+
+Capture: 5 août 2016 Temps d'assemblage: 2h09m 1538 photos affichées à 30 images par seconde.
+
+# Musique
 
 Auteur: Disfigure Titre: Summer Tune Label: NoCopyrightSounds Reférence: <https://www.youtube.com/watch?v=Yw9-WYvv4y8># Vidéo
 

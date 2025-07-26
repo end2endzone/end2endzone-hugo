@@ -22,7 +22,9 @@ tags:
 
 After 1½ month of flying the plane, I was feeling a little more confident and I trusted enough myself for doing loops. So at the end of the 2013 season, I went flying with a friend with my Super Cub LP. I wasn't expecting any disaster... <span style="line-height: 1.5;">It was a little cloudy &amp; windy but I went flying anyway because I was too much confident that nothing could </span>happen since I had 6-7 flights of experience!<span style="line-height: 1.5;"></span># The Bad
 
-I had a good overall flight but I had an small accident with some trees at the right side of the flying area. After investigating the plane, I realized that nothing was broken so I went for another flight. I made all the required checkups and verified that all control surfaces were working as expected before taking off. That's what I tough... # The Ugly
+I had a good overall flight but I had an small accident with some trees at the right side of the flying area. After investigating the plane, I realized that nothing was broken so I went for another flight. I made all the required checkups and verified that all control surfaces were working as expected before taking off. That's what I tough...
+
+# The Ugly
 
 After a minute of flying, the elevator stopped responding and violently crashed the plane on the ground. Nothing more to say here. Just a painfully hard crash on the ground... Here is the video of the crash: <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="//www.youtube.com/embed/Sy1FgYUYZB4" width="420"></iframe># The explanation
 

@@ -25,11 +25,15 @@ tags:
 
 # Introduction
 
-The following article is about yet another Arduino library that I have written. AnyRtttl is a feature rich arduino library for playing RTTTL melodies. The library offers much more interesting features than relying on the widely available `void play_rtttl(char *p)` function. The AnyRtttl is a feature rich library which supports all best RTTTL features. Skip to the [download section](#Download) for quick download. # Purpose
+The following article is about yet another Arduino library that I have written. AnyRtttl is a feature rich arduino library for playing RTTTL melodies. The library offers much more interesting features than relying on the widely available `void play_rtttl(char *p)` function. The AnyRtttl is a feature rich library which supports all best RTTTL features. Skip to the [download section](#Download) for quick download.
+
+# Purpose
 
 See this post for a [quick recall of the RTTTL format](/nonblockingrtttl-a-non-blocking-arduino-library-for-playing-rtttl-melodies/#Quick_recall_of_the_RTTTL_format). Note that AnyRtttl library is a port from my [NonBlockingRtttl arduino library](/nonblockingrtttl-a-non-blocking-arduino-library-for-playing-rtttl-melodies/) which is now deprecated since development has stopped.
 
-After publishing my NonBlockingRtttl arduino library, I started using the library in more complex projects which was requiring other libraries. I quickly ran into the hell of library dependencies and library conflicts. I realized that I needed more features that could help me prototype faster. Other libraries available which allows you to "play" a melody in [RTTTL f](#Quick_recall_of_the_RTTTL_format)ormat suffer the same issue: they are based on blocking APIs or the RTTTL data is not optimized for space. AnyRtttl is different since it packs multiple RTTTL related features in a single library. It supports [blocking](https://en.wikipedia.org/wiki/Blocking_(computing)) &amp; [non-blocking](http://en.wikipedia.org/wiki/Non-blocking_algorithm) API which makes it suitable to be used by more advanced algorithm. For instance, when using the non-blocking API, the melody can be stopped when a button is pressed. The library is also compatible with *external Tone libraries* and it supports highly compressed RTTTL binary formats. # Library features
+After publishing my NonBlockingRtttl arduino library, I started using the library in more complex projects which was requiring other libraries. I quickly ran into the hell of library dependencies and library conflicts. I realized that I needed more features that could help me prototype faster. Other libraries available which allows you to "play" a melody in [RTTTL f](#Quick_recall_of_the_RTTTL_format)ormat suffer the same issue: they are based on blocking APIs or the RTTTL data is not optimized for space. AnyRtttl is different since it packs multiple RTTTL related features in a single library. It supports [blocking](https://en.wikipedia.org/wiki/Blocking_(computing)) &amp; [non-blocking](http://en.wikipedia.org/wiki/Non-blocking_algorithm) API which makes it suitable to be used by more advanced algorithm. For instance, when using the non-blocking API, the melody can be stopped when a button is pressed. The library is also compatible with *external Tone libraries* and it supports highly compressed RTTTL binary formats.
+
+# Library features
 
 Here is a list of all library features: - Really small increase in memory &amp; code footprint compared to the usual blocking algorithm.
 - Blocking &amp; Non-Blocking modes available.
@@ -47,7 +51,9 @@ The AnyRtttl library is also flexible by allowing you to use the build-in arduin
 
 ## Binary RTTTL
 
-The AnyRtttl library also supports playing RTTTL data which is stored as binary data instead of text. This is actually a custom implementation of the RTTTL format. Using these format, one can achieve storing an highly compressed RTTTL melody which saves memory. See the [Binary RTTTL format definition](#Binary_RTTTL_format_definition) section for details. # Usage
+The AnyRtttl library also supports playing RTTTL data which is stored as binary data instead of text. This is actually a custom implementation of the RTTTL format. Using these format, one can achieve storing an highly compressed RTTTL melody which saves memory. See the [Binary RTTTL format definition](#Binary_RTTTL_format_definition) section for details.
+
+# Usage
 
 Define ANY\_RTTTL\_INFO to enable the debugging of the library state on the serial port. Use ANY\_RTTTL\_VERSION to get the current version of the library.
 
@@ -151,6 +157,8 @@ The following AnyRtttl blocking APIs are available for playing both format: - 10
 
 # License
 
-This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **DISCLAIMER:**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose. # Download
+This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **DISCLAIMER:**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+
+# Download
 
 You can download the AnyRtttl library by clicking on the following link: \[download id="1988" template="button"\]

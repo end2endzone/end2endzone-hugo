@@ -82,7 +82,9 @@ As I said before, this project can be completed at a pretty cheap price. The tot
 
 Total cost: $**27.84**<span style="line-height: 1.5; text-align: justify;">\* The cost of usual items such as screws and glue is not included in the cost of the project.</span>## Preparation time
 
-The preparation time is simple, it requires to test all the circuit before fixing the strip to the cabinets. You don't want to start drilling holes in your cabinet before finding out that a component does not work! The circuit takes about half an hour to complete and verifies that all components are working as expected. No soldering is required for this step. The circuit is pretty basic. Refer to the next section for details of the circuit. # Building steps
+The preparation time is simple, it requires to test all the circuit before fixing the strip to the cabinets. You don't want to start drilling holes in your cabinet before finding out that a component does not work! The circuit takes about half an hour to complete and verifies that all components are working as expected. No soldering is required for this step. The circuit is pretty basic. Refer to the next section for details of the circuit.
+
+# Building steps
 
 Construction steps are very simple. Screw, wire everything up and enjoy. Here is a picture of the circuit that you need to assemble: [![Circuit](https://www.end2endzone.com/wp-content/uploads/2014/08/Circuit.png)](https://www.end2endzone.com/wp-content/uploads/2014/08/Circuit.png)The design is pretty strait forward. There is only the location of the power switch that could be changed in the circuit. I decided to set the switch on the output side of the power supply instead of on the input side. This is to prevent having 120v going trough the switch and risking electrocuting myself when I switch it on. This option creates a permanent load on the power supply but it is better than the alternative. However, the power supply can last many years before failing.
 
@@ -120,10 +122,14 @@ This section defines how to connect all the components together. Connect the pow
 
 ### Connecting
 
-Use the connectors to link each strip together. The connectors are specifically designed for connecting LED strip together. You just have to open a door, slide the strip in place and close the door which will hold the strip in place. When linking the strip together, make sure that you align the positive (red) and negative (black) leads of the strip with the appropriate color code of the connector. I decided to use mounting putty gum ("sticker gum") for holding the connector in place to reduce the weight of the strip on the adhesive surface. The adhesive gum also helps holding the connector wire on the mounting surface instead of seeing the wire hanging below the cabinet. # Final Result
+Use the connectors to link each strip together. The connectors are specifically designed for connecting LED strip together. You just have to open a door, slide the strip in place and close the door which will hold the strip in place. When linking the strip together, make sure that you align the positive (red) and negative (black) leads of the strip with the appropriate color code of the connector. I decided to use mounting putty gum ("sticker gum") for holding the connector in place to reduce the weight of the strip on the adhesive surface. The adhesive gum also helps holding the connector wire on the mounting surface instead of seeing the wire hanging below the cabinet.
+
+# Final Result
 
 Here is the final result: [![IMG_6846](https://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg)# Made anything differently?
 
-I do not think that I would make anything differently. Everything is pretty much like the way I wanted. I took my time for preparing this project. I may paint the wires in white sometimes to make them invisible but since I do not see them when I open the cabinet doors, I may leave them as is. # Notes
+I do not think that I would make anything differently. Everything is pretty much like the way I wanted. I took my time for preparing this project. I may paint the wires in white sometimes to make them invisible but since I do not see them when I open the cabinet doors, I may leave them as is.
+
+# Notes
 
 none

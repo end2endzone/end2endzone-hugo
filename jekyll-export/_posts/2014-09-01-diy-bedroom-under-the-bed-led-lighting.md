@@ -29,7 +29,9 @@ tags:
 - Can be turned on without disturbing the sleep of the other partner.
 - Give a nice ambient light for bed activities...
 
-In this post, I will explain how I installed in my bedroom a custom under the bed LED lighting solution. **Note:**Handling wall electricity can be dangerous. If you do not have basic electricity skills, I strongly recommend that you do not complete this project. Proceed at your own risk. # Project data
+In this post, I will explain how I installed in my bedroom a custom under the bed LED lighting solution. **Note:**Handling wall electricity can be dangerous. If you do not have basic electricity skills, I strongly recommend that you do not complete this project. Proceed at your own risk.
+
+# Project data
 
 ## Equipment
 
@@ -71,7 +73,9 @@ Total cost: $**31.57**\* The cost of usual items such as screws and glue is not 
 
 ## Preparation time
 
-The preparation time is simple, it requires to test all the circuit before fixing the strip to the bed. The circuit takes about half an hour to complete and verifies that all components are working as expected. No soldering is required for this step. The circuit is pretty basic. Refer to the next section for details of the circuit. # Building steps
+The preparation time is simple, it requires to test all the circuit before fixing the strip to the bed. The circuit takes about half an hour to complete and verifies that all components are working as expected. No soldering is required for this step. The circuit is pretty basic. Refer to the next section for details of the circuit.
+
+# Building steps
 
 Construction steps are very simple. Screw, wire everything up and enjoy. Here is a picture of the circuit that you need to assemble: [![Bedroom led lighting circuit](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)## Testing everything together
 
@@ -105,6 +109,8 @@ This section defines the basic reasons that lead to the final design.
 
 Here is the final result: \[caption id="attachment\_369" align="aligncenter" width="474"\][![DIY Bedroom under the bed led lighting](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg) DIY Bedroom under the bed led lighting\[/caption\] # Made anything differently?
 
-This is my second project dealing with LED lighting strips. I do not think that I would make anything differently. Everything is pretty much like the way I wanted. I may eventually add a motion sensor as [shown here](http://www.instructables.com/id/Under-the-bed-nightlight/) to detect when I get up at night for a bathroom walk so the walkway may get illuminated automatically but that may be too extreme. I only have to raise my hand and slide it before getting up. # Notes
+This is my second project dealing with LED lighting strips. I do not think that I would make anything differently. Everything is pretty much like the way I wanted. I may eventually add a motion sensor as [shown here](http://www.instructables.com/id/Under-the-bed-nightlight/) to detect when I get up at night for a bathroom walk so the walkway may get illuminated automatically but that may be too extreme. I only have to raise my hand and slide it before getting up.
+
+# Notes
 
 none

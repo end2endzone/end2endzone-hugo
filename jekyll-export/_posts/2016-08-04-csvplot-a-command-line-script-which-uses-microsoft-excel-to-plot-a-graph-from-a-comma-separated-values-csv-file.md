@@ -40,7 +40,9 @@ The resolution of the output image may be +- 1 pixels different than what is req
 
 ## Column Titles
 
-It is expected that first row of each column contains the title of the column which will be used as the name of the plotted series within the graph. # Usage
+It is expected that first row of each column contains the title of the column which will be used as the name of the plotted series within the graph.
+
+# Usage
 
 The command for launching the script is as follows. The script must be called with a minimum of 6 command line arguments. | Name | Description |
 |---|---|
@@ -102,6 +104,8 @@ The following show a hypothetical car engine model which speed increase of decre
 
 The following show a graph of sin(), cos() and log() function in Excel. The CSV data can be downloaded here: \[download id="2216" template="title"\] \[caption id="attachment\_2205" align="alignnone" width="802"\][![sin(x), cos(x) & log(x) plot using cvsplot](https://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png)](https://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png) sin(x), cos(x) &amp; log(x) plot using cvsplot\[/caption\] # License
 
-This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **DISCLAIMER:**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose. # Download
+This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **DISCLAIMER:**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+
+# Download
 
 You can download ***csvplot*** by clicking on the following link: Please note that download links are now deprecated. Binary version of **csvplot** can be downloaded from the project’s [Release page](http://github.com/end2endzone/csvplot/releases/latest).

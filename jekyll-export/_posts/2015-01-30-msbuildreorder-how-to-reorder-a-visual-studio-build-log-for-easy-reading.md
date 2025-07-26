@@ -64,6 +64,8 @@ Reordered build log:
 
 # License
 
-<span lang="EN-US">MSBuildReorder is being distributed as Freeware for personal, commercial use, non-profit organization, and educational purpose. It may be included with CD-ROM/DVD-ROM distributions. You are NOT allowed to make a charge for distributing this Software (either for profit or merely to recover your media and distribution costs) whether as a stand-alone product, or as part of a compilation or anthology, nor to use it for supporting your business or customers. It may be distributed freely on any website or through any other distribution mechanism, as long as no part of it is changed in any way.</span>The full license is available [here](https://www.end2endzone.com/wp-content/uploads/2015/01/MSBuildReorder-EULA.htm). # History of changes
+<span lang="EN-US">MSBuildReorder is being distributed as Freeware for personal, commercial use, non-profit organization, and educational purpose. It may be included with CD-ROM/DVD-ROM distributions. You are NOT allowed to make a charge for distributing this Software (either for profit or merely to recover your media and distribution costs) whether as a stand-alone product, or as part of a compilation or anthology, nor to use it for supporting your business or customers. It may be distributed freely on any website or through any other distribution mechanism, as long as no part of it is changed in any way.</span>The full license is available [here](https://www.end2endzone.com/wp-content/uploads/2015/01/MSBuildReorder-EULA.htm).
+
+# History of changes
 
 Version 1.0 - First public release

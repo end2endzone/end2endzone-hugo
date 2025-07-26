@@ -24,7 +24,9 @@ tags:
 
 # Introduction
 
-Shooting a waterfall with a DSLR camera is not that hard. As usual in photography, you need a lot a patience. The perfect picture is all about managing a long exposure of the waterfall. This will get you a nice look as if the waterfall would be a silk river. In this guide, I will explain how I managed to get this picture of the "Chute du Diable". # Context
+Shooting a waterfall with a DSLR camera is not that hard. As usual in photography, you need a lot a patience. The perfect picture is all about managing a long exposure of the waterfall. This will get you a nice look as if the waterfall would be a silk river. In this guide, I will explain how I managed to get this picture of the "Chute du Diable".
+
+# Context
 
 During summer 2014, I went camping with my family to Mont-Tremblant and as always, I have brought my camera with me. I was lucky enough to bring all my camera gears since I was not expecting that I would have to use almost all of them to get a nice picture of a waterfall. The "Chute du Diable" is located in Canada, Québec, Mont-Tremblant which is around 2 hours North of Montreal. If you still don't know where it is, here is the precise location where I got this shot: Latitude: 46.3828892 Longitude: -74.4716262 \[wpgmza id="1"\] # Required gears
 
@@ -38,7 +40,9 @@ The most important (mandatory) of all piece of equipment for shooting a waterfal
 
 ## Lens cleanup cloth
 
-You are actually trying to shoot water falling from a high point. There will be a constant water mist in the air! Your lens may get wet while you are preparing yourself so you need to have a cloth for cleaning it up before taking your shot. # How to shoot a waterfall with a DSLR camera
+You are actually trying to shoot water falling from a high point. There will be a constant water mist in the air! Your lens may get wet while you are preparing yourself so you need to have a cloth for cleaning it up before taking your shot.
+
+# How to shoot a waterfall with a DSLR camera
 
 ## Find your best point of view
 
@@ -60,7 +64,9 @@ Now is the time to take your shot. Adjust the shutter speed to get the water eff
 
 ## <span style="line-height: 1.3846153846;">Correcting underexposed trees and rocks </span>
 
-After the capturing process, you may find your pictures are correctly exposed for the waterfall but all the vegetation and rocks around it might be underexposed. To correct this issue, you need to make a manual exposition correction in order to darken highly exposed areas while lightening underexposed areas. This is why it is important to shoot in RAW. The correction can be done with [Lightroom](http://www.adobe.com/ca/products/photoshop-lightroom.html) easily. If you do not have access to a copy of [Lightroom](http://www.adobe.com/ca/products/photoshop-lightroom.html), you can do the same effect (almost) with free tools. The same effect can be achieved by applying a "Contrast Mask" on the image using the free image editor [Gimp](http://www.gimp.org/). The process is described here: "[GIMP - Creating a Contrast Mask](http://www.gimp.org/tutorials/ContrastMask/)". **EDIT:** See below for a Lightroom corrected image. # Final image:
+After the capturing process, you may find your pictures are correctly exposed for the waterfall but all the vegetation and rocks around it might be underexposed. To correct this issue, you need to make a manual exposition correction in order to darken highly exposed areas while lightening underexposed areas. This is why it is important to shoot in RAW. The correction can be done with [Lightroom](http://www.adobe.com/ca/products/photoshop-lightroom.html) easily. If you do not have access to a copy of [Lightroom](http://www.adobe.com/ca/products/photoshop-lightroom.html), you can do the same effect (almost) with free tools. The same effect can be achieved by applying a "Contrast Mask" on the image using the free image editor [Gimp](http://www.gimp.org/). The process is described here: "[GIMP - Creating a Contrast Mask](http://www.gimp.org/tutorials/ContrastMask/)". **EDIT:** See below for a Lightroom corrected image.
+
+# Final image:
 
 This is the best picture I got using this technique. Here is the full scale image. Feel free to comment below!
 

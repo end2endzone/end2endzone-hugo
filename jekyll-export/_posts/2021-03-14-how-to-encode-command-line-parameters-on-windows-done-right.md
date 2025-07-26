@@ -17,9 +17,13 @@ tags:
 
 # Introduction
 
-This post is a follow up on command line arguments. I recently published a C++ library ([libArgvCodec](/libargvcodec-a-c-library-which-properly-encode-and-decode-command-line-arguments/)) which properly handles all encoding and decoding of command line arguments. It is much safer to use the library than simply wrap each argument with double quotes. This post is about the list of rules that the library implements for encoding and decoding of arguments. # Using libArgvCodec library
+This post is a follow up on command line arguments. I recently published a C++ library ([libArgvCodec](/libargvcodec-a-c-library-which-properly-encode-and-decode-command-line-arguments/)) which properly handles all encoding and decoding of command line arguments. It is much safer to use the library than simply wrap each argument with double quotes. This post is about the list of rules that the library implements for encoding and decoding of arguments.
 
-The [libArgvCodec](/libargvcodec-a-c-library-which-properly-encode-and-decode-command-line-arguments/) library can be used for free and is released as Open Source. The code is available [here](/download/2480/). Feel free to download the library to use it in your own projects. # Encoding and Decoding rules
+# Using libArgvCodec library
+
+The [libArgvCodec](/libargvcodec-a-c-library-which-properly-encode-and-decode-command-line-arguments/) library can be used for free and is released as Open Source. The code is available [here](/download/2480/). Feel free to download the library to use it in your own projects.
+
+# Encoding and Decoding rules
 
 If you do not want to use the library, the following section shows the rules that are implemented into the library for properly handling all situations and special characters. Feel free to use these rules to implement your own library.
 
@@ -156,7 +160,9 @@ All other characters must be read as plain text.
 
 # Samples
 
-Using the list of rules above, one can encode the following arguments into a fully qualified command line. # Decoding samples
+Using the list of rules above, one can encode the following arguments into a fully qualified command line.
+
+# Decoding samples
 
 The following table shows multiple examples of command lines which decodes into multiple arguments. Note that some command lines are malformed or incomplete. The libArgvCodec library properly handle both cases.
 

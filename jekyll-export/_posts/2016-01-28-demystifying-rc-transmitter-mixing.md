@@ -44,12 +44,16 @@ All mix properties shall be in the following range: - High and Low rates shall b
 - Minimum calculated mix value shall be -150.
 - Maximum calculated mix value shall be +150.
 
-Mixes can also be enabled or disabled based on a switch. This is useful to get different behavior based for instance on a flight mode. Multiple mixes can also be combined (see [Combining mixes](#Combining_mixes)) into the same Slave Channel to get different effects. # When to not use mixes
+Mixes can also be enabled or disabled based on a switch. This is useful to get different behavior based for instance on a flight mode. Multiple mixes can also be combined (see [Combining mixes](#Combining_mixes)) into the same Slave Channel to get different effects.
+
+# When to not use mixes
 
 There is a lot of situations where using mixes is not recommended: - If you are flying a "trainer". It is called a trainer for a reason. It means you should train yourself as a pilot to make the corrections yourself.
 - If you are a new pilot (flying for less than 2-3 years). Using mixes wont make you a better pilot. In fact it will make things worst. Is is only recommended to learn to fly first without any help from your transmitter and then experiment at a higher skill level.
 
-Using mixes is not the best thing for the development of your skills. Learn to fly without any mix first to learn the proper technique. As for personal development, it is far more rewarding to not use mixes at all. It will pay off and you will thank yourself in the future. Keep in mind that mixes does not solve everything. In fact, the more mixes you have, the bigger your problem could get. If you add a Ailerons to Rudder mix to get good coordinated turns, imagine trying to land in a cross wind situation or flying inverted. Things can get ugly pretty quick. It is also strongly suggested to assign a switch to a mix in order to toggle the mix ON and OFF. This way, if something is wrong with the mix, you can get back to the normal behavior of your transmitter. # Basic mixes
+Using mixes is not the best thing for the development of your skills. Learn to fly without any mix first to learn the proper technique. As for personal development, it is far more rewarding to not use mixes at all. It will pay off and you will thank yourself in the future. Keep in mind that mixes does not solve everything. In fact, the more mixes you have, the bigger your problem could get. If you add a Ailerons to Rudder mix to get good coordinated turns, imagine trying to land in a cross wind situation or flying inverted. Things can get ugly pretty quick. It is also strongly suggested to assign a switch to a mix in order to toggle the mix ON and OFF. This way, if something is wrong with the mix, you can get back to the normal behavior of your transmitter.
+
+# Basic mixes
 
 There are some basic mixes that you may be interested into. Here are some example: ## Throttle to Elevator
 
@@ -57,7 +61,9 @@ In order to keep the same altitude, the amount of elevator may differ depending 
 
 ## Rudder to Ailerons
 
-When turning, you usually add a little bit of Rudder to keep the same altitude and make a good coordinated turn. Adding a Rudder to Aileron mix will reduce this effect. This configuration also keeps the ailerons from moving free for greater turns. Keep in mind that this mix may not be recommended. Most trained pilot does not use this kind of mix. Using this mix in calm or medium breeze wind will help but as soon as the wind condition change you will still require good rudder skills to make those turns look nice. I personally never used this one. IMO what defines a good pilot from a great pilot is how he masters the rudder. # Advanced Mixes
+When turning, you usually add a little bit of Rudder to keep the same altitude and make a good coordinated turn. Adding a Rudder to Aileron mix will reduce this effect. This configuration also keeps the ailerons from moving free for greater turns. Keep in mind that this mix may not be recommended. Most trained pilot does not use this kind of mix. Using this mix in calm or medium breeze wind will help but as soon as the wind condition change you will still require good rudder skills to make those turns look nice. I personally never used this one. IMO what defines a good pilot from a great pilot is how he masters the rudder.
+
+# Advanced Mixes
 
 ## Differential Thrust
 
@@ -69,7 +75,9 @@ This one is only available if your flaps can move up. It wont work if your flaps
 
 ## Flaps to Elevator
 
-Mix a small amount of Flaps in Elevator (the opposite way) to prevent the "bump" caused by enabling the flaps. # Useful mixes
+Mix a small amount of Flaps in Elevator (the opposite way) to prevent the "bump" caused by enabling the flaps.
+
+# Useful mixes
 
 ## Cancelling a switch
 
@@ -86,7 +94,9 @@ A mix can be used to force a given value to a channel. A typical use is triggeri
 
 ## Throttle cut mix
 
-By combining [Cancelling a switch](#Cancelling_a_switch) and [Forcing a value](#Forcing_a_value) mixes, one can create mixes slaved to Throttle to achieve a *Throttle Cut* safety by forcing the Throttle channel to -150 which disables the Throttle stick and prevents propeller injuries. # Generic mixes
+By combining [Cancelling a switch](#Cancelling_a_switch) and [Forcing a value](#Forcing_a_value) mixes, one can create mixes slaved to Throttle to achieve a *Throttle Cut* safety by forcing the Throttle channel to -150 which disables the Throttle stick and prevents propeller injuries.
+
+# Generic mixes
 
 ## Positive only mix
 
@@ -113,7 +123,9 @@ Use the following to invert the polarity of a switch or a knob resulting in an e
 | Low | = | -100% |
 | Offset | = | 0% |
 
-</div>This feature may be required if a transmitter does not support native inverting for the desired switch. A possible use to this kind of mix is for handling ailerons when each aileron have their own servo and channel. # The Mathematical calculations
+</div>This feature may be required if a transmitter does not support native inverting for the desired switch. A possible use to this kind of mix is for handling ailerons when each aileron have their own servo and channel.
+
+# The Mathematical calculations
 
 ## The equation
 
@@ -161,7 +173,9 @@ If a switch is assigned to the same Slave Channel as other mixes, they will be c
 
 ### Combining mixes to multiplex multiple switches
 
-Mixes can also be used to multiplex multiple inputs into a single channel. This procedure is covered in its own article: ***\[ARTICLE TO BE PUBLISHED SOON\]***. # Other lectures
+Mixes can also be used to multiplex multiple inputs into a single channel. This procedure is covered in its own article: ***\[ARTICLE TO BE PUBLISHED SOON\]***.
+
+# Other lectures
 
 Here is more information to better understand mixing: - [Solving the DX8 spectrum mix setting mystery](http://www.helifreak.com/showpost.php?s=bf5c92b4901bbc01862159e89eb118c8&p=5479009&postcount=14) (or [here](http://www.helifreak.com/showthread.php?p=5370251))
 - [Mixing - DX9 Wiki - Wikia](http://dx9.wikia.com/wiki/Mixing)

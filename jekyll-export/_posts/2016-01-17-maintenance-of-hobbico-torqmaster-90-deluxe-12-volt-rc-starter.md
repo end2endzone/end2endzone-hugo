@@ -20,7 +20,9 @@ This article is about how I did the maintenance on my Hobbico Torqmaster 90 delu
 
 # General information
 
-This is a Hobbico Torqmaster 90 Deluxe 12 Volt Starter. It is designed for starting Glow Engines up to .90 cubic inches in size. This starter features an aluminum starter cone with V-Groove for boat starter belts and round rubber insert for airplane spinner cones. The starter has self-adjusting carbon brushes for longer lasting usage and constant contact with the armature. Easy-Press start switch makes starting easy without requiring heavy finger pressure and a built-in finger-guard promises safe starts. Pre-attached alligator clips for easy attachment to a 12 volt battery. The starter is a regular DC brushed motor. Most parts of the starter can be modded or replaced. The switch and the [brushes](https://en.wikipedia.org/wiki/Brush_(electric)) are the one that may need attention. # Required tools
+This is a Hobbico Torqmaster 90 Deluxe 12 Volt Starter. It is designed for starting Glow Engines up to .90 cubic inches in size. This starter features an aluminum starter cone with V-Groove for boat starter belts and round rubber insert for airplane spinner cones. The starter has self-adjusting carbon brushes for longer lasting usage and constant contact with the armature. Easy-Press start switch makes starting easy without requiring heavy finger pressure and a built-in finger-guard promises safe starts. Pre-attached alligator clips for easy attachment to a 12 volt battery. The starter is a regular DC brushed motor. Most parts of the starter can be modded or replaced. The switch and the [brushes](https://en.wikipedia.org/wiki/Brush_(electric)) are the one that may need attention.
+
+# Required tools
 
 - 8 mm and 10 mm hex sockets
 - 2 metal paper clips

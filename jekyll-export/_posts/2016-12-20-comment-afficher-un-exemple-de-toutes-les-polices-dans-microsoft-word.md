@@ -23,9 +23,13 @@ tags:
 
 # Introduction
 
-À chaque fois que je travail en graphisme et que je dois ajouter du texte à une image, je me retrouve toujours avec le même problème: "Comment faire pour identifier rapidement la meilleure police pour mon affiche ?" Je crois maintenant avoir finalement trouver la solution à ce problème. Voici un script pour Microsoft Word qui permet de générer n'importe quelle exemple de texte avec toutes les polices de votre ordinateur. # Comment ça fonctionne ?
+À chaque fois que je travail en graphisme et que je dois ajouter du texte à une image, je me retrouve toujours avec le même problème: "Comment faire pour identifier rapidement la meilleure police pour mon affiche ?" Je crois maintenant avoir finalement trouver la solution à ce problème. Voici un script pour Microsoft Word qui permet de générer n'importe quelle exemple de texte avec toutes les polices de votre ordinateur.
 
-Il suffit d'ouvrir Microsoft Word et d'exécuter le script téléchargeable. Celui-ci produira un document d'environ 65 pages avec votre exemple de texte dans toutes les polices disponibles. # Fonctionnalités
+# Comment ça fonctionne ?
+
+Il suffit d'ouvrir Microsoft Word et d'exécuter le script téléchargeable. Celui-ci produira un document d'environ 65 pages avec votre exemple de texte dans toutes les polices disponibles.
+
+# Fonctionnalités
 
 La liste suivante décrit les fonctionnalités du script: - Détecte toutes les polices installées du système.
 - Donne un exemple de tous les styles pour chacune des polices soit: Normal, Italique, Gras et Gras Italique.
@@ -35,7 +39,9 @@ La liste suivante décrit les fonctionnalités du script: - Détecte toutes les 
 
 Le script a quelques limitations. Celles-ci sont plus bas: ## Possibilité de doublons
 
-Certaines police ne sont pas disponibles sous certain style. Par exemple, la police ***Wingdings*** n'offre pas de style *Gras* (bien que le style *Italique* soit disponible). Malheureusement, le script ne permet pas de détecter les styles qui ne sont pas disponibles et affichera donc plusieurs fois le même résultats. # Installation
+Certaines police ne sont pas disponibles sous certain style. Par exemple, la police ***Wingdings*** n'offre pas de style *Gras* (bien que le style *Italique* soit disponible). Malheureusement, le script ne permet pas de détecter les styles qui ne sont pas disponibles et affichera donc plusieurs fois le même résultats.
+
+# Installation
 
 Le script peut-être utilisé de deux façons. Les sections suivantes expliquent chacune d'elle.
 
@@ -79,7 +85,9 @@ Ensuite, suivez les étapes suivante: 1. Ouvrir ***Microsoft Word***.
 13. Cliquer sur le l'icône de sauvegarde ( [![microsoft-word-save-icon](https://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg) ) pour sauvegarder le nouveau module.
 14. Fermer l'éditeur de macro Microsoft Visual Basic.
 
-Le module est maintenant installé sur le système. # Exécuter le script
+Le module est maintenant installé sur le système.
+
+# Exécuter le script
 
 Procédez avec les étapes suivantes pour exécuter le module installé: 1. Ouvrir ***Microsoft Word***.
 2. Naviguer au menu ***Affichage*** du ***ruban***.
@@ -98,6 +106,8 @@ Après l'exécution du script, vous obtiendrez un document complet: \[caption id
 
 Le script est disponible sous la licence LGPL. Seule la version anglophone de la licence est disponible.
 
-This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **DISCLAIMER:**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose. # Téléchargement
+This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **DISCLAIMER:**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+
+# Téléchargement
 
 Vous pouvez télécharger le script en cliquant sur le lien de téléchargement suivant: \[download id="2339" template="button"\]

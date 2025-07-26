@@ -27,7 +27,9 @@ tags:
 
 # Introduction
 
-The following arduino library was written to use the findings found during the ***[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/ "Edit “Mapping RC Transmitter PWM signal to actual transmitter values”")*** article. All results were wrapped into a library for ease of use. The RcReceiverSignal is an arduino library that allows one to read a signal sent from a Remote Controlled (RC) receiver. Skip to the [download section](#Download) for quick download. # Purpose
+The following arduino library was written to use the findings found during the ***[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/ "Edit “Mapping RC Transmitter PWM signal to actual transmitter values”")*** article. All results were wrapped into a library for ease of use. The RcReceiverSignal is an arduino library that allows one to read a signal sent from a Remote Controlled (RC) receiver. Skip to the [download section](#Download) for quick download.
+
+# Purpose
 
 The RcReceiverSignal library allows one to easily configure an input pin to read a PWM signal sent from a RC receiver by attaching a RcReceiverSignal instance to a pin connected the receiver and automatically monitor each pulse sent by the receiver. It allows the main loop to retrieve the latest received pulse length (PWM) and convert the pulse length back to the actual transmitter signal value (ranging from -150% to 150%). The library supports automatic PWM signal change detection. The library's ability to convert a PWM value to the actual transmitter numeric value is based on empirical tests available at ***[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/ "Edit “Mapping RC Transmitter PWM signal to actual transmitter values”").***# Library features
 
@@ -50,7 +52,9 @@ This library allows the arduino to attach interrupts on multiple pins.
 
 ## [eRCaGuy\_Timer2\_Counter](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html)
 
-(optional) This library configures the arduino's timer2 to 0.5µs precision. It is used for a *micros()* function replacement and allows times calculations that are far more precise (8 times!) than the default's 4µs resolution. # Usage
+(optional) This library configures the arduino's timer2 to 0.5µs precision. It is used for a *micros()* function replacement and allows times calculations that are far more precise (8 times!) than the default's 4µs resolution.
+
+# Usage
 
 <span style="line-height: 1.5;">Use the DECLARE\_RECEIVER\_SIGNAL macro to declare an instance of RcReceiverSignal. ie:</span>```
 DECLARE_RECEIVER_SIGNAL(receiver_aux1_handler);
@@ -76,6 +80,8 @@ https://www.end2endzone.com/wp-content/uploads/2016/03/RcReceiverSignal-v1.1.203
 
 # License
 
-This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **DISCLAIMER:**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose. # Download
+This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **DISCLAIMER:**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+
+# Download
 
 You can download the RcReceiverSignal arduino library by clicking on the following link: \[download id="1792" template="button"\]

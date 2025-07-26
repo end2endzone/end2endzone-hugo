@@ -28,7 +28,9 @@ tags:
 - Scheduled recording support (enables DVR capabilities with the HDHomeRun)
 - <span style="line-height: 1.5;">Watch live TV streams.</span>
 
-*HDHomeRun TV Dump* should also work with devices that supports the MPEG4/H.264 video codec but this functionality is still untested. # <span style="line-height: 1.5;">Screenshots</span>
+*HDHomeRun TV Dump* should also work with devices that supports the MPEG4/H.264 video codec but this functionality is still untested.
+
+# <span style="line-height: 1.5;">Screenshots</span>
 
 \[gallery link="file" ids="721,724,727,726,729,725,730,736,732"\] # <span style="line-height: 1.5;">Download</span>
 
@@ -61,7 +63,9 @@ To add a new scheduled recording to the list, press the <span class="button3D_ou
 - <span style="text-decoration: underline;">***Weekly***</span>: Specify individual recording days, starting on the specified date and time.
 - <span style="text-decoration: underline;">***Monthly***</span>: Select individual recording months, starting on the specified date and time.
 
-Press <span class="button3D_outter"><span class="button3D_inner">OK</span></span> button to create the scheduled recording. A new entry will be listed on the scheduled recordings dialog. # <span style="line-height: 1.5;">Compatible with</span>
+Press <span class="button3D_outter"><span class="button3D_inner">OK</span></span> button to create the scheduled recording. A new entry will be listed on the scheduled recordings dialog.
+
+# <span style="line-height: 1.5;">Compatible with</span>
 
 <span style="line-height: 1.5;">*HdHomeRun TV Dump* is only available for the Windows platform and has been tested with the following software versions:</span>- Windows Vista
 - <span style="text-align: justify; line-height: 1.5;">Windows 7</span>
@@ -77,6 +81,8 @@ Press <span class="button3D_outter"><span class="button3D_inner">OK</span></span
 
 # License
 
-<span lang="EN-US">*HDHomeRun TV Dump* is being distributed as Freeware for personal, commercial use, non-profit organization, and educational purpose. It may be included with CD-ROM/DVD-ROM distributions. You are NOT allowed to make a charge for distributing this Software (either for profit or merely to recover your media and distribution costs) whether as a stand-alone product, or as part of a compilation or anthology, nor to use it for supporting your business or customers. It may be distributed freely on any website or through any other distribution mechanism, as long as no part of it is changed in any way.</span>The full license is available [here](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-TV-Dump-EULA.htm). # History of changes
+<span lang="EN-US">*HDHomeRun TV Dump* is being distributed as Freeware for personal, commercial use, non-profit organization, and educational purpose. It may be included with CD-ROM/DVD-ROM distributions. You are NOT allowed to make a charge for distributing this Software (either for profit or merely to recover your media and distribution costs) whether as a stand-alone product, or as part of a compilation or anthology, nor to use it for supporting your business or customers. It may be distributed freely on any website or through any other distribution mechanism, as long as no part of it is changed in any way.</span>The full license is available [here](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-TV-Dump-EULA.htm).
+
+# History of changes
 
 Version 1.2 - First public release

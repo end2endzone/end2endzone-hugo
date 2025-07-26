@@ -26,7 +26,9 @@ extTools is a fast and innovative FREEWARE (for non-commercial use) software sui
 - XP like search tool (<span style="line-height: 1.5;">simple search tool).</span>
 - Extends Windows File Explorer by registering as a Shell Extension.
 
-extTools allows its users to execute tasks that are not available in a default Windows environment. extTools is also designed to replace existing task that are badly designed, annoying to execute or simply missing. # Download
+extTools allows its users to execute tasks that are not available in a default Windows environment. extTools is also designed to replace existing task that are badly designed, annoying to execute or simply missing.
+
+# Download
 
 You can download extTools by clicking on the following links: - \[download id="825"\]
 - \[download id="822"\] (for Windows XP)

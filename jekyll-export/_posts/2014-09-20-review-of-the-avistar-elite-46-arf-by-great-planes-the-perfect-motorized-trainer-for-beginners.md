@@ -18,7 +18,9 @@ tags:
 
 # Introduction
 
-At the beginning of the 2014 season, I decided to join a local RC club to get to know good experienced people that would give me advices on the best practices for flying. I also decided to find a flight instructor that would assist me and help me with all the technical details that I am still lacking. When we met, he strongly suggested that I leave the [Hobby Zone Super Cub](/tag/super-cub/) behind and get to a wooden motorized trainer plane like the Avistar Elite .46 ARF by Great Planes, which I did. I have flown the Avistar Elite .46 for the whole season and I would like to say that my flight instructor was right. It is a wonderful plane for beginners. Here are some pros and cons about this plane. # Pros
+At the beginning of the 2014 season, I decided to join a local RC club to get to know good experienced people that would give me advices on the best practices for flying. I also decided to find a flight instructor that would assist me and help me with all the technical details that I am still lacking. When we met, he strongly suggested that I leave the [Hobby Zone Super Cub](/tag/super-cub/) behind and get to a wooden motorized trainer plane like the Avistar Elite .46 ARF by Great Planes, which I did. I have flown the Avistar Elite .46 for the whole season and I would like to say that my flight instructor was right. It is a wonderful plane for beginners. Here are some pros and cons about this plane.
+
+# Pros
 
 ## Almost ready to fly
 
@@ -46,7 +48,9 @@ The factory wings come pre-equipped with optional flaps that are already pre-hin
 
 ## Quick removable gears
 
-The rear gears locks into place when fully inserted into the body. They can be easily removed by applying pressure on the lock mechanism. You don't need any tool to install or remove the gears from the plane. I think this is a nice feature since I do have to remove the rear gears for easier transportation and every time I store the plane on its stand. # Cons
+The rear gears locks into place when fully inserted into the body. They can be easily removed by applying pressure on the lock mechanism. You don't need any tool to install or remove the gears from the plane. I think this is a nice feature since I do have to remove the rear gears for easier transportation and every time I store the plane on its stand.
+
+# Cons
 
 ## Price
 
@@ -58,7 +62,9 @@ The plane is much more bigger than the Super Cub I used to transport in the trun
 
 ## Needs some minor modifications
 
-The plane is build with a good quality material. However, it is still a low cost plane compared to multiple other plane (mostly non-trainers) so the quality of the plane could still be improved a bit. I did had to make minor modifications to the factory settings to get it as I see fit for my needs. Those modifications would be too heavy for this article so I decided to document all of them in a dedicated post. **Edit:** All modifications are covered [here](/recommended-modifications-to-the-avistar-elite-46-arf-by-great-planes/). # Finally
+The plane is build with a good quality material. However, it is still a low cost plane compared to multiple other plane (mostly non-trainers) so the quality of the plane could still be improved a bit. I did had to make minor modifications to the factory settings to get it as I see fit for my needs. Those modifications would be too heavy for this article so I decided to document all of them in a dedicated post. **Edit:** All modifications are covered [here](/recommended-modifications-to-the-avistar-elite-46-arf-by-great-planes/).
+
+# Finally
 
 Overall, I think the Avistar Elite is a really nice beginner plane. It fits my needs perfectly and is expandable for a longer life time. I have no doubts that I will be flying this plane for at least 2 years (or even 3 years) without having to buy another one. I you want deeper analysis, here are two good reviews that cover much more than I did: - [Great Planes Avistar Elite GP .46 ARF - RC Groups](http://www.rcgroups.com/forums/showthread.php?t=1739507)
 - [Great Planes Avistar Elite .46 RTF - RC Universe](http://www.rcuniverse.com/magazine/article_display.cfm?article_id=1469)

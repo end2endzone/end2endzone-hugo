@@ -31,7 +31,9 @@ Ce qui suit la naissance d'un enfant après les réjouissances c'est tous les tr
 - Non-intrusive (elle ne doit pas laisser de marque sur la rampe une fois enlevée).
 - Suffisamment solide pour résister à un enfant qui saute dessus.
 
-Malheureusement, l'espace à protéger est très grand et je n'ai pas réussi à trouver une barrière qui soit suffisamment longue et à la fois solide pour bloquer le passage. Ce projet a donc pris naissance et je me suis lancé avec l'idée de faire ma propre barrière. # Données du projet
+Malheureusement, l'espace à protéger est très grand et je n'ai pas réussi à trouver une barrière qui soit suffisamment longue et à la fois solide pour bloquer le passage. Ce projet a donc pris naissance et je me suis lancé avec l'idée de faire ma propre barrière.
+
+# Données du projet
 
 ## Matériel
 
@@ -48,7 +50,9 @@ Le coût total du projet est d'environ 80$ ce qui est assez élevé pour ce genr
 
 ## Temps de préparation
 
-Le tout a prit environ 10 à 15 heures à compléter (je n'ai pas le temps précis) mise à part le temps de séchage pour la teinture. Cela comprend le temps pour aller acheter le bois et toutes les étapes de construction. # Étapes
+Le tout a prit environ 10 à 15 heures à compléter (je n'ai pas le temps précis) mise à part le temps de séchage pour la teinture. Cela comprend le temps pour aller acheter le bois et toutes les étapes de construction.
+
+# Étapes
 
 Les étapes de construction sont très simple. Il suffit de couper et assembler.
 
@@ -70,7 +74,9 @@ Une fois l'assemblage terminé, il ne reste qu'à teindre le bois à la bonne co
 
 ### Fixation au mur
 
-Pour la fixation au mur, j'ai utilisé 1 des barreaux qui sera vissé dans le mur à travers le plâtre à l'aide de deux vis à plâtre. J'ai fixé deux pentures à ce barreau qui sera rattaché au premier barreau de la barrière (celui avec une coupe à 45 degrés). # Résultat final
+Pour la fixation au mur, j'ai utilisé 1 des barreaux qui sera vissé dans le mur à travers le plâtre à l'aide de deux vis à plâtre. J'ai fixé deux pentures à ce barreau qui sera rattaché au premier barreau de la barrière (celui avec une coupe à 45 degrés).
+
+# Résultat final
 
 Voici le résultat final: [![DSC02297](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02297-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02297.jpg)[![DSC02299](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299-768x1024.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299.jpg)# Quoi recommencer autrement ?
 
@@ -80,6 +86,8 @@ Je n'étais pas convaincu de la faisabilité de la barrière lorsque j'ai début
 
 ### Rechercher d'avantage un produit fini
 
-Utiliser du bois de meilleur qualité. Je n'ai pas pris le temps de bien rechercher le bon bois pour travailler. J'ai utilisé le bois le moins cher que j'ai pu trouver chez Home Dépôt mais aussi du bois pour usage extérieur au lieu de celui avec une apparence plus fini pour usage intérieur. # Notes
+Utiliser du bois de meilleur qualité. Je n'ai pas pris le temps de bien rechercher le bon bois pour travailler. J'ai utilisé le bois le moins cher que j'ai pu trouver chez Home Dépôt mais aussi du bois pour usage extérieur au lieu de celui avec une apparence plus fini pour usage intérieur.
+
+# Notes
 
 aucune.

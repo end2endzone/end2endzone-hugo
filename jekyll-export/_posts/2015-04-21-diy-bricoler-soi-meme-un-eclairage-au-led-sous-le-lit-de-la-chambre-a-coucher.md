@@ -29,7 +29,9 @@ tags:
 - Le système d'éclairage peut être activé sans déranger le sommeil de l'autre partenaire.
 - Donne une belle lumière ambiante pour les activités nocturnes...
 
-Dans cet article, je vais vous expliquer comment j'ai créé moi-même un éclairage au DEL sous la base de mon lit de ma chambre à coucher. **Remarque:**La manipulation de l'électricité murale peut être dangereux. Si vous ne avez pas les compétences de base nécessaire pour manipuler de l'électricité, je recommande fortement que vous ne procédez pas à l'installation de ce projet. Procéder à vos propres risques. # Données du projet
+Dans cet article, je vais vous expliquer comment j'ai créé moi-même un éclairage au DEL sous la base de mon lit de ma chambre à coucher. **Remarque:**La manipulation de l'électricité murale peut être dangereux. Si vous ne avez pas les compétences de base nécessaire pour manipuler de l'électricité, je recommande fortement que vous ne procédez pas à l'installation de ce projet. Procéder à vos propres risques.
+
+# Données du projet
 
 ## Équipment
 
@@ -71,7 +73,9 @@ Tout comme le projet de la cuisine, celui-ci peut être complété à petit budg
 
 Coût total: $**31.57**<span style="line-height: 1.5; text-align: justify;">\* Le coût des éléments habituels tels que des vis et la colle n'est pas inclus dans le coût du projet.</span>## Preparation time
 
-Le temps de préparation est simple, il nécessite de tester tous le circuit avant de fixer la bande au lit. Le tout prend environ une demi-heure à compléter et confirme que tous les composants fonctionnent comme prévu. Aucune soudure est nécessaire pour cette étape. Le circuit est assez basique. Reportez-vous à la section suivante pour les détails du circuit. # Étapes de construction
+Le temps de préparation est simple, il nécessite de tester tous le circuit avant de fixer la bande au lit. Le tout prend environ une demi-heure à compléter et confirme que tous les composants fonctionnent comme prévu. Aucune soudure est nécessaire pour cette étape. Le circuit est assez basique. Reportez-vous à la section suivante pour les détails du circuit.
+
+# Étapes de construction
 
 Les étapes de construction sont tout aussi simple. Voici une photo du circuit en entier: [![Bedroom led lighting circuit](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)## Tester le tout
 
@@ -99,6 +103,8 @@ Cette section définit les raisons fondamentales qui conduisent à la conception
 
 Voici une photo du résultat final: \[caption id="attachment\_369" align="aligncenter" width="474"\][![DIY Bedroom under the bed led lighting](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg) DIY Bedroom under the bed led lighting\[/caption\] # Refaire les choses différemment?
 
-Ceci est mon deuxième projet impliquant des bandes d'éclairage DEL. Je ne pense pas que je ferais les choses différemment. Tout est généralement tel que je le voulais. Je pourrais éventuellement ajouter un capteur de mouvement comme [indiqué ici](http://www.instructables.com/id/Under-the-bed-nightlight/) (en version anglophone) afin de détecter automatiquement lorsque je me lève la nuit de sorte que la chambre s'allume automatiquement, mais c'est peut-être trop extrême. Après tout, il me suffit de lever la main et de la glissez sur la tête de lit. # Notes
+Ceci est mon deuxième projet impliquant des bandes d'éclairage DEL. Je ne pense pas que je ferais les choses différemment. Tout est généralement tel que je le voulais. Je pourrais éventuellement ajouter un capteur de mouvement comme [indiqué ici](http://www.instructables.com/id/Under-the-bed-nightlight/) (en version anglophone) afin de détecter automatiquement lorsque je me lève la nuit de sorte que la chambre s'allume automatiquement, mais c'est peut-être trop extrême. Après tout, il me suffit de lever la main et de la glissez sur la tête de lit.
+
+# Notes
 
 aucune

@@ -23,7 +23,9 @@ I record lots of TV shows using the HDHomeRun. I sometime want to keep recording
 
 # What's the trick ?
 
-The trick is to use a temporary (intermediate) file to cut ads and encode this file with a lossless video codec to prevent any quality degradation. Then use Handbrake to encode the final video for best results. # Download &amp; Install required software
+The trick is to use a temporary (intermediate) file to cut ads and encode this file with a lossless video codec to prevent any quality degradation. Then use Handbrake to encode the final video for best results.
+
+# Download &amp; Install required software
 
 The following software must be downloaded and installed: - [VirtualDub 1.10.4](http://www.virtualdub.org/download.html)
 - [Virtualdub FFMpeg Input Plugin](http://sourceforge.net/projects/virtualdubffmpeginputplugin/files/)
@@ -32,7 +34,9 @@ The following software must be downloaded and installed: - [VirtualDub 1.10.4](h
 
 # Virtualdub FFMpeg Input Plugin
 
-By default, VirtualDub is only able to read AVI files which is not helpful because my local channels are broadcasting in MPEG2 format. For instance, Montreal's CBFT-DT is broadcasting in HDV 720p, MPEG layer 2, with two AC-3 audio channels. Full [NFO available here](/wp-content/uploads/2015/10/Montreal-CBFT-DT-Codec-NFO.nfo). This plugin allows reading files that are not AVI and works perfectly with Montreal's CBFT-DT MPEG 2 files. # Instructions
+By default, VirtualDub is only able to read AVI files which is not helpful because my local channels are broadcasting in MPEG2 format. For instance, Montreal's CBFT-DT is broadcasting in HDV 720p, MPEG layer 2, with two AC-3 audio channels. Full [NFO available here](/wp-content/uploads/2015/10/Montreal-CBFT-DT-Codec-NFO.nfo). This plugin allows reading files that are not AVI and works perfectly with Montreal's CBFT-DT MPEG 2 files.
+
+# Instructions
 
 ## Open video file in Virtualdub
 

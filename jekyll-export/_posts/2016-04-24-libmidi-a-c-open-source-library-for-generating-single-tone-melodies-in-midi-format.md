@@ -23,7 +23,9 @@ tags:
 
 # Introduction
 
-The following article is yet another library that I have written. libMIDI is a c++ library for generating single tone melodies (monolithic melodies) in MIDI format. Skip to the [download section](#Download) for quick download. # Purpose
+The following article is yet another library that I have written. libMIDI is a c++ library for generating single tone melodies (monolithic melodies) in MIDI format. Skip to the [download section](#Download) for quick download.
+
+# Purpose
 
 I mostly develop on the Windows platform. When I try to generate basic sounds and tone, I use the [Microsoft Beep function](http://msdn.microsoft.com/en-ca/library/windows/desktop/ms679277(v=vs.85).aspx). This API is quite old and is far from accurate when dealing with multiple short duration tones (less than 100ms). Also when you make two consecutive calls to the `Beep()` function will ear a tick sound between each calls. One way to solve this issue is to use the MIDI sound format and use the [Microsoft Windows API to play a MIDI file](http://msdn.microsoft.com/en-us/library/windows/desktop/dd743673(v=vs.85).aspx). The library is develop &amp; design to be lightweight and have a very quick learning curve. It was only designed as a mean to convert melodies made in tones (frequency, duration pairs) to MIDI sound format. The library may be used on other platforms too for generating files which can be played using the platform's own media player. Note that libMIDI library was not written to manipulate the MIDI sound format. There is no plan in improving/updating the library in order to support MIDI file parsing or supporting multiple tracks at once.
 
@@ -72,6 +74,8 @@ bool saved = f.save("mario1up.mid");
 
 # License
 
-libMIDI Library Copyright (C) 2016 Antoine Beauchamp The code &amp; updates for the library can be found on http://end2endzone.com <span style="color: #aaaaaa;">**AUTHOR/LICENSE:**</span>This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **<span style="color: #aaaaaa;">DISCLAIMER:</span>**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose. # Download
+libMIDI Library Copyright (C) 2016 Antoine Beauchamp The code &amp; updates for the library can be found on http://end2endzone.com <span style="color: #aaaaaa;">**AUTHOR/LICENSE:**</span>This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **<span style="color: #aaaaaa;">DISCLAIMER:</span>**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+
+# Download
 
 You can download the libMIDI library by clicking on the following link: - \[download id="1893" template="button"\]

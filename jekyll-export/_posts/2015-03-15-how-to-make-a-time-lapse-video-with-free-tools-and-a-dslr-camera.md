@@ -21,7 +21,9 @@ tags:
 
 # Introduction
 
-[Time-lapse photography](http://en.wikipedia.org/wiki/time-lapse_photography) is a wonderful effect to make your images alive instead of static because you can make a plain (or almost boring) event and make it so much more dramatic. However, it is something that usually needs a lot of time investment to get something acceptable. Considering my family was planning to decorate the Christmas tree during the weekend, I decided to take my camera and capture the whole event in a time-lapse video. To get a nice video, you need to prepare yourself before taking the shots because if you don’t, you can end up with a bad picture set and have a hard time merging all pictures together. The following article will explains how I managed to make a nice time-lapse video with a DSLR using only free software. Click here to jump to the [Final Results](#Final_results) section and see the video. # Prepare you gears
+[Time-lapse photography](http://en.wikipedia.org/wiki/time-lapse_photography) is a wonderful effect to make your images alive instead of static because you can make a plain (or almost boring) event and make it so much more dramatic. However, it is something that usually needs a lot of time investment to get something acceptable. Considering my family was planning to decorate the Christmas tree during the weekend, I decided to take my camera and capture the whole event in a time-lapse video. To get a nice video, you need to prepare yourself before taking the shots because if you don’t, you can end up with a bad picture set and have a hard time merging all pictures together. The following article will explains how I managed to make a nice time-lapse video with a DSLR using only free software. Click here to jump to the [Final Results](#Final_results) section and see the video.
+
+# Prepare you gears
 
 ## Mandatory gears for time-lapse videos
 
@@ -43,9 +45,13 @@ A calculator is useful if you go out in the field for your capturing session. Fo
 
 ### Flashes
 
-If you think you may need a flash for taking your shots, you might have to reconsider your project. If your intervals are too short (the elapsed time between each photos), the flash might not have the time to recharge between each shots. If your intervals are long enough to have your flash recharged, it means that the subject could be positioned differently in the scene resulting in great highlight changes which is really hard to correct in post-production. Another issue that the flash might cause is flickering. If your scene is not well lighted, there is a high chance that you end up with lots of flickering during the [merging phase](#Combining_photos_into_a_movie). The exposition will vary a lot between each shots and that would not be pleasant to watch. Some plugins can help to reduce flickering but it is always better to think about this in pre-production than dealing with it in post-production. I am unable to think of a suitable scenario where a flash would be required that also requires long intervals like 5 minutes or more. # Check your calculations
+If you think you may need a flash for taking your shots, you might have to reconsider your project. If your intervals are too short (the elapsed time between each photos), the flash might not have the time to recharge between each shots. If your intervals are long enough to have your flash recharged, it means that the subject could be positioned differently in the scene resulting in great highlight changes which is really hard to correct in post-production. Another issue that the flash might cause is flickering. If your scene is not well lighted, there is a high chance that you end up with lots of flickering during the [merging phase](#Combining_photos_into_a_movie). The exposition will vary a lot between each shots and that would not be pleasant to watch. Some plugins can help to reduce flickering but it is always better to think about this in pre-production than dealing with it in post-production. I am unable to think of a suitable scenario where a flash would be required that also requires long intervals like 5 minutes or more.
 
-Don't go out and try to shot anything as quickly as possible. I recommend that you take the time to think and evaluate what is the best interval (time between each photos) for your needs. Is it going to be seconds, minutes or even hours between each shots ? That would greatly change how you need to prepare yourself. # Smooth or hard movement transitions?
+# Check your calculations
+
+Don't go out and try to shot anything as quickly as possible. I recommend that you take the time to think and evaluate what is the best interval (time between each photos) for your needs. Is it going to be seconds, minutes or even hours between each shots ? That would greatly change how you need to prepare yourself.
+
+# Smooth or hard movement transitions?
 
 ## Smooth transitions
 
@@ -61,7 +67,9 @@ Once you have defined what kind of transitions you want, and the "amount" of mov
 - How long the final video would be ?
 - What is the final video frame rate ? That is 15 or less for hard and 24 and over for smooth.
 
-Now open [Photography time-lapse calculator](https://www.end2endzone.com/wp-content/uploads/2015/02/Photography-time-lapse-calculator.xls) (that's an Excel sheet) and take a look at the "interval calculator". Use the same number in the appropriate fields and the sheet will do the math to give you the perfect interval time for the desired smooth/hard transition effect. # Gear setup
+Now open [Photography time-lapse calculator](https://www.end2endzone.com/wp-content/uploads/2015/02/Photography-time-lapse-calculator.xls) (that's an Excel sheet) and take a look at the "interval calculator". Use the same number in the appropriate fields and the sheet will do the math to give you the perfect interval time for the desired smooth/hard transition effect.
+
+# Gear setup
 
 ## Use manual focus
 
@@ -99,7 +107,9 @@ Turn off auto white balance. This is required to reduce flickering to a minimum.
 
 ## Connect your intervalometer
 
-Connect your intervalometer and configure the appropriate interval time calculated previously for capturing frames. # Capture your scene
+Connect your intervalometer and configure the appropriate interval time calculated previously for capturing frames.
+
+# Capture your scene
 
 Now is the time to take as much shoot as needed for properly capturing your subject's movement or change over time. In the meantime, get yourself a coffee, start downloading required softwares or watch a movie and come back in a hour or so :) # Prepare your image files
 

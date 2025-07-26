@@ -31,7 +31,9 @@ Following the birth of a child and after the celebration is all the stuff you ha
 - Non-intrusive (it should not leave any mark on the ramp once removed).
 - Strong enough to withstand a child jumping on it.
 
-Unfortunately, the area to be protected is very large and I have not managed to find a gate that is long enough and solid to block the access to the stairs. This is how I started this project: ​​build my own baby gate. # **Project data**
+Unfortunately, the area to be protected is very large and I have not managed to find a gate that is long enough and solid to block the access to the stairs. This is how I started this project: ​​build my own baby gate.
+
+# **Project data**
 
 ## **Equipment**
 
@@ -48,7 +50,9 @@ The total cost of the project is about 80$ which is quite high for this type of 
 
 ## **Preparation time**
 
-The whole thing took about 10-15 hours to complete (I do not have the exact time) not counting the drying time for dyeing. This includes the time to buy wood and all stages of construction. # **Building steps**
+The whole thing took about 10-15 hours to complete (I do not have the exact time) not counting the drying time for dyeing. This includes the time to buy wood and all stages of construction.
+
+# **Building steps**
 
 Construction steps are very simple. Just cut and assemble.
 
@@ -70,7 +74,9 @@ Once assembly is complete, you only have to dye the wood to the right color. [![
 
 ### **Wall mounting**
 
-For mounting on the wall, I used one of the bars that will be screwed into the wall through the plaster using two plaster screws. I have installed two hinges on the bar to be attached to the first rung of the fence (the one with a cut at 45 degrees). # **Final Result**
+For mounting on the wall, I used one of the bars that will be screwed into the wall through the plaster using two plaster screws. I have installed two hinges on the bar to be attached to the first rung of the fence (the one with a cut at 45 degrees).
+
+# **Final Result**
 
 Here is the final result: [![DSC02297](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02297-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02297.jpg)**[![DSC02299](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299-768x1024.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299.jpg)**# **Made anything differently?**
 
@@ -80,6 +86,8 @@ I was not convinced of the feasibility of the barrier when I started this projec
 
 ## **Search for a finished product**
 
-I should have used a better wood quality. I have not taken the time to find the right wood to work with. I used the cheapest wood I could find at Home Depot but also wood for outdoor use instead of one with a more finished appearance for indoor use. # **Notes**
+I should have used a better wood quality. I have not taken the time to find the right wood to work with. I used the cheapest wood I could find at Home Depot but also wood for outdoor use instead of one with a more finished appearance for indoor use.
+
+# **Notes**
 
 none

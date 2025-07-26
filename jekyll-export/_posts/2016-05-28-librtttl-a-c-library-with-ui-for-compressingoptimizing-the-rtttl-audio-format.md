@@ -28,7 +28,9 @@ The following article is about another library that I have written: libRtttl is 
 
 # Purpose
 
-RTTTL songs available on the internet are not optimized for the smallest size. Still they are readable by a human but they are far from optimized for the arduino embedded device. Most RTTTL song can be optimized (without quality loss) and have their size reduced by ~20%. Conversion to binary allows even better compression but it wont be human readable anymore. The library also allows one to convert an RTTTL song to hardcoded function calls (`tone()` and `delay()` calls). This is really useful if your <span class="texthighlight1">dynamic memory</span> is almost completely full and you would like to move the load from <span class="texthighlight1">dynamic memory</span> to <span class="texthighlight1">program storage space</span>. The UI (rtttlOptimizerGui) also features a basic RTTTL player. The quality of the playback is limited but it allows one to prove that a compression did not changed the song's melody. # Library
+RTTTL songs available on the internet are not optimized for the smallest size. Still they are readable by a human but they are far from optimized for the arduino embedded device. Most RTTTL song can be optimized (without quality loss) and have their size reduced by ~20%. Conversion to binary allows even better compression but it wont be human readable anymore. The library also allows one to convert an RTTTL song to hardcoded function calls (`tone()` and `delay()` calls). This is really useful if your <span class="texthighlight1">dynamic memory</span> is almost completely full and you would like to move the load from <span class="texthighlight1">dynamic memory</span> to <span class="texthighlight1">program storage space</span>. The UI (rtttlOptimizerGui) also features a basic RTTTL player. The quality of the playback is limited but it allows one to prove that a compression did not changed the song's melody.
+
+# Library
 
 ## Functionalities / Features
 
@@ -200,8 +202,12 @@ is compressed to the following :
 https://www.end2endzone.com/wp-content/uploads/2016/04/Tetris-theme-RTTTL-encoded-as-16-bits-notes.ino
 ```
 
-which reduces the original code length by 73 bytes (from 159 bytes to 86 bytes), that is a 46% size reduction. # License
+which reduces the original code length by 73 bytes (from 159 bytes to 86 bytes), that is a 46% size reduction.
 
-libRTTTL Library / rtttlOptimizer Copyright (C) 2016 Antoine Beauchamp The code &amp; updates for the library can be found on http://end2endzone.com <span style="color: #aaaaaa;">**AUTHOR/LICENSE:**</span>This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **<span style="color: #aaaaaa;">DISCLAIMER:</span>**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose. # Download
+# License
+
+libRTTTL Library / rtttlOptimizer Copyright (C) 2016 Antoine Beauchamp The code &amp; updates for the library can be found on http://end2endzone.com <span style="color: #aaaaaa;">**AUTHOR/LICENSE:**</span>This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **<span style="color: #aaaaaa;">DISCLAIMER:</span>**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+
+# Download
 
 You can download the libRTTTL library / rtttlOptimizer by clicking on the following links: \[download id="2035" template="button"\] \[download id="1863" template="button"\] \[download id="1861" template="button"\] \[download id="1859" template="button"\] \[download id="1857" template="button"\]

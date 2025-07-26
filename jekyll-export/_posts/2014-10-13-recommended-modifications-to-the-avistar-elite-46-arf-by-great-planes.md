@@ -18,7 +18,9 @@ tags:
 
 # Introduction
 
-I recently bought an Avistar Elite .46 ARF by Great Planes for flying with a flight instructor at my local hobby club. Before we went to the club and start flying, he and I (mostly he) made some adjustments to the plane for getting the perfect trainer for me. Basically, I changed some settings to get better results from the stock options. Here are all the modifications that I did to make this trainer the perfect plane. # Modifications
+I recently bought an Avistar Elite .46 ARF by Great Planes for flying with a flight instructor at my local hobby club. Before we went to the club and start flying, he and I (mostly he) made some adjustments to the plane for getting the perfect trainer for me. Basically, I changed some settings to get better results from the stock options. Here are all the modifications that I did to make this trainer the perfect plane.
+
+# Modifications
 
 ## Small battery pack
 
@@ -48,6 +50,8 @@ I recently bought an Avistar Elite .46 ARF by Great Planes for flying with a fli
 
 ## Silicone exhaust deflector
 
-\[caption id="attachment\_427" align="aligncenter" width="474"\][![Avistar Elite Silicone exhaust deflector](https://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136.jpg) Avistar Elite Silicone exhaust deflector\[/caption\] The plane does not comes pre-equiped with a silicon exhaust deflector. Flying without a deflector is a mess because the side of the fuselage ends up full of oil. Simply add a deflector helps the plane stay clean and last longer. At the same time, the rubber extension is prefect for putting a cap to prevent any fuel leaks while the plane is stored. # Final note
+\[caption id="attachment\_427" align="aligncenter" width="474"\][![Avistar Elite Silicone exhaust deflector](https://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136.jpg) Avistar Elite Silicone exhaust deflector\[/caption\] The plane does not comes pre-equiped with a silicon exhaust deflector. Flying without a deflector is a mess because the side of the fuselage ends up full of oil. Simply add a deflector helps the plane stay clean and last longer. At the same time, the rubber extension is prefect for putting a cap to prevent any fuel leaks while the plane is stored.
+
+# Final note
 
 These are all the modifications I have done to this plane to make it the perfect motorized trainer. Over time, I didn't had to change anything to this setup and I am quite pleased to see the results. This plane fly smoothly and I enjoy flying it. I am not a professional and I all these modifications are done as a suggestion only. Feel free to comment on changes I should make or things that you would go on a different route because I am always happy to see what bright ideas others could come up with.

@@ -22,9 +22,13 @@ J'ai fait l’acquisition de mon premier quadrirotor. Puisque je préfère de lo
 
 Il s'agit d'une version clone du F450 de DJI. Je l'utilise depuis plus de 2 ans et je dois dire que j'ai beaucoup de plaisir à le voler. L'assemblage du quadrirotor s'effectue sur 2 jours. Comme dans tous les projets, on n'est jamais suffisamment préparé. Forcément, lors de ma première journée... "Il me manque des connecteurs pour les moteurs. On remballe le tout! C'est terminé pour aujourd'hui..."
 
-À titre d'information, il s'agit du quadrirotor sur lequel[ j'ai ajouté un LED ultra-puissant et une alarme](/diy-lost-plane-alarm-finder-and-10-watts-led-visual-aids-for-easy-orientation/) afin de pouvoir le retrouver en cas de crash inattendu. Consulter [ces autres articles](/tag/time-lapse/) pour d'autres vidéos time lapse. Tutoriels sur comment faire ces propres vidéos time lapse avec des logiciels gratuit disponible à l'adresse: <https://www.end2endzone.com/how-to-make-a-time-lapse-video-with-free-tools-and-a-dslr-camera/>. # Time Lapse
+À titre d'information, il s'agit du quadrirotor sur lequel[ j'ai ajouté un LED ultra-puissant et une alarme](/diy-lost-plane-alarm-finder-and-10-watts-led-visual-aids-for-easy-orientation/) afin de pouvoir le retrouver en cas de crash inattendu. Consulter [ces autres articles](/tag/time-lapse/) pour d'autres vidéos time lapse. Tutoriels sur comment faire ces propres vidéos time lapse avec des logiciels gratuit disponible à l'adresse: <https://www.end2endzone.com/how-to-make-a-time-lapse-video-with-free-tools-and-a-dslr-camera/>.
 
-<span style="font-size: 14pt;">***<span style="text-decoration: underline;">29 juin 2015</span>***</span>Temps d'assemblage: 3h31m 2196 photos (52.8GB) affichées à 30 images par seconde. <span style="font-size: 14pt;">***<span style="text-decoration: underline;">6 juillet 2015</span>***</span>Temps d'assemblage: 4h55m 2968 photos (58.8GB) affichées à 30 images par seconde. # Musique
+# Time Lapse
+
+<span style="font-size: 14pt;">***<span style="text-decoration: underline;">29 juin 2015</span>***</span>Temps d'assemblage: 3h31m 2196 photos (52.8GB) affichées à 30 images par seconde. <span style="font-size: 14pt;">***<span style="text-decoration: underline;">6 juillet 2015</span>***</span>Temps d'assemblage: 4h55m 2968 photos (58.8GB) affichées à 30 images par seconde.
+
+# Musique
 
 Auteur: Ash O'Connor Titre: Vibe Label: NoCopyrightSounds Reférence: <https://www.youtube.com/watch?v=B2p-jLTmFJ0># Vidéo
 

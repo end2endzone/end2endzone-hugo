@@ -36,7 +36,9 @@ In a personal project, I wanted to add 2 new devices to an existing quadcopter. 
 
 </div>The following article explains how I manage to solve the issue: *How can I control more than one device using a single channel*. EDIT: To make all mixing pre-calculations easier, do not hesitate to use my [Mixing Calculator for R/C Transmitter](/rc-transmitter-mix-calculator/) (it's an Excel Sheet!)
 
-I could have used an 8-channel receiver to solve this but I did not had a free receiver that I could spare. This guide will show you how to multiplex RC transmitter switches (inputs) into a **single** channel. # Use a microcontroller
+I could have used an 8-channel receiver to solve this but I did not had a free receiver that I could spare. This guide will show you how to multiplex RC transmitter switches (inputs) into a **single** channel.
+
+# Use a microcontroller
 
 For this type of project, 7 channels is usually required. The easiest method would have been to replace the receiver but since I like the DIY way, I decided to multiplex two switches into the 6th channel and use a microcontroller to read the signal and demultiplex each switches states. **Note:** This is only valid if there is a microcontroller connected with the receiver that  ***you***  can program to demultiplex the signal. Do not expect your proprietary flight controller to be able to understand your signal.
 

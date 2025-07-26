@@ -23,9 +23,13 @@ tags:
 
 # Introduction
 
-The following article is about my new c++ library: libVariant. The library allows one to easily store/encapsulate a value of any c++ type into an instance of type Variant. The library is useful for declaring objects, interfaces, APIs or plugins to be type-independent. Skip to the [download section](#Download) for quick download. # Purpose
+The following article is about my new c++ library: libVariant. The library allows one to easily store/encapsulate a value of any c++ type into an instance of type Variant. The library is useful for declaring objects, interfaces, APIs or plugins to be type-independent. Skip to the [download section](#Download) for quick download.
 
-The libVariant library allows one to create an instance of Variant class. The class is a type safe and value safe union between all known basic c++ types. An instance of a Variant class encapsulates a single value of any c++ type: signed and unsigned integers, floating points &amp; strings. The class can easily convert between any type of data when required and automatically handles all conversion combinations and minimizes lost of data. The library is useful for declaring objects, interfaces, plugins or APIs to be type-independent. The need for a Variant type is mostly required in designs where one does not want to implement conversion of c++ types using templates in every situation. Programmers can use the same procedures and functions to process variables with different internal representations (integers, strings, ...) without converting any data. Without the Variant class, a copy of the same procedures and functions would have to be implemented, each with their different types of data. # Usage scenarios
+# Purpose
+
+The libVariant library allows one to create an instance of Variant class. The class is a type safe and value safe union between all known basic c++ types. An instance of a Variant class encapsulates a single value of any c++ type: signed and unsigned integers, floating points &amp; strings. The class can easily convert between any type of data when required and automatically handles all conversion combinations and minimizes lost of data. The library is useful for declaring objects, interfaces, plugins or APIs to be type-independent. The need for a Variant type is mostly required in designs where one does not want to implement conversion of c++ types using templates in every situation. Programmers can use the same procedures and functions to process variables with different internal representations (integers, strings, ...) without converting any data. Without the Variant class, a copy of the same procedures and functions would have to be implemented, each with their different types of data.
+
+# Usage scenarios
 
 Typical usage of the Variant class involves the following: ## Implement a query language
 
@@ -45,7 +49,9 @@ Parsing an \*.ini files always used to return string values. Parsing something l
 
 ## Implementing [reflection-like](http://en.wikipedia.org/wiki/Reflection_(computer_programming)) APIs on classes
 
-If each classes of a system provides a list of Variant which encapsulates their attributes, one can modify the attributes of a class using the Variant's internal value. # Functionalities / Features
+If each classes of a system provides a list of Variant which encapsulates their attributes, one can modify the attributes of a class using the Variant's internal value.
+
+# Functionalities / Features
 
 Possible use are: - Compatible with the C++ 1998/2003 standard.
 - Type-safe, value-safe unions between all c++ basic types, including strings.
@@ -92,6 +98,8 @@ The library has some compilation requirements and library dependencies which are
 
 # License
 
-libVariant Copyright (C) 2016 Antoine Beauchamp The code &amp; updates for the library can be found on http://end2endzone.com <span style="color: #aaaaaa;">**AUTHOR/LICENSE:**</span>This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **<span style="color: #aaaaaa;">DISCLAIMER:</span>**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose. # Download
+libVariant Copyright (C) 2016 Antoine Beauchamp The code &amp; updates for the library can be found on http://end2endzone.com <span style="color: #aaaaaa;">**AUTHOR/LICENSE:**</span>This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **<span style="color: #aaaaaa;">DISCLAIMER:</span>**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+
+# Download
 
 You can download the libVariant library by clicking on the following link: \[download id="2328" template="button"\]
