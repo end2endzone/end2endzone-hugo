@@ -83,10 +83,14 @@ article a:hover {
 /* Headers */
 h1, h2, h3, h4, h5, h6 {
   color: #999; /* headers color */
-  letter-spacing: .15em;
+  letter-spacing: 1px;
   text-transform: none;
+  margin-top: 36px;
+  margin-bottom: 12px;
 }
-
+.title h2 {
+  text-transform: uppercase;
+}
 
 /* Define the color of the top menu header */
 #site-header {
