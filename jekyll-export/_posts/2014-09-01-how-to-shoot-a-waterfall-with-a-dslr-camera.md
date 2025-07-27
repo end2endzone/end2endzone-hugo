@@ -28,9 +28,16 @@ Shooting a waterfall with a DSLR camera is not that hard. As usual in photograph
 
 # Context
 
-During summer 2014, I went camping with my family to Mont-Tremblant and as always, I have brought my camera with me. I was lucky enough to bring all my camera gears since I was not expecting that I would have to use almost all of them to get a nice picture of a waterfall. The "Chute du Diable" is located in Canada, Québec, Mont-Tremblant which is around 2 hours North of Montreal. If you still don't know where it is, here is the precise location where I got this shot: Latitude: 46.3828892 Longitude: -74.4716262 \[wpgmza id="1"\] # Required gears
+During summer 2014, I went camping with my family to Mont-Tremblant and as always, I have brought my camera with me. I was lucky enough to bring all my camera gears since I was not expecting that I would have to use almost all of them to get a nice picture of a waterfall. The "Chute du Diable" is located in Canada, Québec, Mont-Tremblant which is around 2 hours North of Montreal. If you still don't know where it is, here is the precise location where I got this shot:
 
-As I said, getting a nice picture of a waterfall is not that hard. However, you must be prepared because you will need to have the right filters and you must be able to navigate your way in your camera menus to detect overexposed areas. Here is the equipment that I had to bring with me for taking a good picture of a waterfall: ## Tripod and remote trigger
+Latitude: 46.3828892
+Longitude: -74.4716262 \[wpgmza id="1"\]
+
+# Required gears
+
+As I said, getting a nice picture of a waterfall is not that hard. However, you must be prepared because you will need to have the right filters and you must be able to navigate your way in your camera menus to detect overexposed areas. Here is the equipment that I had to bring with me for taking a good picture of a waterfall:
+
+## Tripod and remote trigger
 
 Since we will take long exposure pictures, we need to be properly stabilized and a way to release the shutter without moving the camera. A wireless remote trigger would be perfect but I managed to get a nice picture with a wired remote trigger.
 
@@ -60,7 +67,9 @@ Do not waste your time taking a shot right now since all you will get is an over
 
 ## Take your shot
 
-Now is the time to take your shot. Adjust the shutter speed to get the water effect you want to achieve and finally adjust the aperture to get the right exposure. Do not hesitate to get multiple shots at multiple shutter speed. Sometime the smallest change in exposure time can create a different water pattern. Most important of all, do not forget to enjoy what you are doing! # Post processing
+Now is the time to take your shot. Adjust the shutter speed to get the water effect you want to achieve and finally adjust the aperture to get the right exposure. Do not hesitate to get multiple shots at multiple shutter speed. Sometime the smallest change in exposure time can create a different water pattern. Most important of all, do not forget to enjoy what you are doing!
+
+# Post processing
 
 ## <span style="line-height: 1.3846153846;">Correcting underexposed trees and rocks </span>
 
@@ -70,10 +79,14 @@ After the capturing process, you may find your pictures are correctly exposed fo
 
 This is the best picture I got using this technique. Here is the full scale image. Feel free to comment below!
 
-\[caption id="attachment\_337" align="aligncenter" width="474"\][![IMG_8597](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/51427589354/in/album-72157686721493240/) Chute du Diable\[/caption\] **EDIT:** And here is a Lightroom corrected version I made: \[caption id="attachment\_515" align="aligncenter" width="474"\][![IMG_8597_e2ez](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37139651090/in/album-72157686721493240/) Chute du Diable\[/caption\] In contrast, here is a static image of the same waterfall with motion freeze on automatic settings. [![IMG_8579](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579.jpg)# What I would change for next time ?
+\[caption id="attachment\_337" align="aligncenter" width="474"\][![IMG_8597](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/51427589354/in/album-72157686721493240/) Chute du Diable\[/caption\] **EDIT:** And here is a Lightroom corrected version I made: \[caption id="attachment\_515" align="aligncenter" width="474"\][![IMG_8597_e2ez](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37139651090/in/album-72157686721493240/) Chute du Diable\[/caption\] In contrast, here is a static image of the same waterfall with motion freeze on automatic settings. [![IMG_8579](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579.jpg)
+
+# What I would change for next time ?
 
 ## Find the perfect time of the day
 
-Went I shot this waterfall, I had to get there at noon. During this time of the day, the light is too bright and the water is reflecting too much light compared to the vegetation and trees around the waterfall. With this setup, you must use ND filters and you may need to correct the contrast between the vegetation and the waterfall in post processing as explained earlier. The perfect time of the day to get a nice shot is to go soon after sunrise or a little before sunset. These are the best time because the light is even for both the waterfall and the surrounding. You may also realize that you may not need ND filters and be able to correct the exposure just by managing a narrower aperture. Another good time of the day would be during "Grey days". When there is enough clouds in the sky to create a constant diffuse light. That kind of lighting would be better than bright sunny days at noon! ## Better composition
+Went I shot this waterfall, I had to get there at noon. During this time of the day, the light is too bright and the water is reflecting too much light compared to the vegetation and trees around the waterfall. With this setup, you must use ND filters and you may need to correct the contrast between the vegetation and the waterfall in post processing as explained earlier. The perfect time of the day to get a nice shot is to go soon after sunrise or a little before sunset. These are the best time because the light is even for both the waterfall and the surrounding. You may also realize that you may not need ND filters and be able to correct the exposure just by managing a narrower aperture. Another good time of the day would be during "Grey days". When there is enough clouds in the sky to create a constant diffuse light. That kind of lighting would be better than bright sunny days at noon!
+
+## Better composition
 
 When I was on site, I was overwhelmed by the waterfall and all the noise and the mist it was making. I completely forgot to manage to properly frame the waterfall in it's context. I picture with more vegetation and showing the trees around it would have better showed the waterfall in it's context and would have made a better picture. \[su\_spacer size="30"\]

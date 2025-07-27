@@ -67,7 +67,9 @@ Using mixes is not the best thing for the development of your skills. Learn to f
 
 # Basic mixes
 
-There are some basic mixes that you may be interested into. Here are some example: ## Throttle to Elevator
+There are some basic mixes that you may be interested into. Here are some example:
+
+## Throttle to Elevator
 
 In order to keep the same altitude, the amount of elevator may differ depending on your true air speed. By mixing a certain amount of Throttle into the Elevator, this can be adjusted automatically by the transmitter.
 
@@ -117,7 +119,9 @@ Use the following mix to cancel the negative portion of a switch resulting in an
 | Low | = | 0% |
 | Offset | = | -100% |
 
-</div>## Parabolic mix
+</div>
+
+## Parabolic mix
 
 Use the following to get an effective range of 100% to 0% to 100%. <div class="rcchannels">| High | = | 100% |
 |---|---|---|

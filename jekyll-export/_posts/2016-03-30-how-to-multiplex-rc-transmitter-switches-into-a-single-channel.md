@@ -117,7 +117,9 @@ Based on my observation, the best values for block size and dead zone size are a
 | Dead zone | : | 2 steps |
 | Effective size | : | 6 steps |
 
-</div>## Mixes
+</div>
+
+## Mixes
 
 The following section defines mix that are required to implement two basic scenarios. Note that you can easily calculate the effect of a given mix by using my [RC Transmitter Mix Calculator](/rc-transmitter-mix-calculator/) to identify the minimum, middle and maximum values of a mix.
 
@@ -343,7 +345,9 @@ https://www.end2endzone.com/wp-content/uploads/2016/03/MultiplexDemultiplexDiscr
 
 ### Sample data
 
-\[gallery link="file" ids="1477,1479,1489"\] # Multiplexing an analog input and switches
+\[gallery link="file" ids="1477,1479,1489"\]
+
+# Multiplexing an analog input and switches
 
 ## Design
 
@@ -378,7 +382,9 @@ A dead zone of 3 steps is also suggested. For instance, to support a resolution 
 - 2-position switch + 3-position switch
 - Two 2-position switches
 
-</div>## Mixes
+</div>
+
+## Mixes
 
 When multiplexing an analog value, mixes do not have to target the middle of the block's effective zone (as with switches) since the signal's value can move within the whole effective area of the block. Assuming the first configuration (2-pos + 3-pos), the following mixes must be created to multiplex all switches unique configurations: | Mix info | Mix Output |
 |---|---|

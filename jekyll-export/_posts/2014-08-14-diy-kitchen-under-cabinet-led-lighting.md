@@ -69,7 +69,9 @@ The dimmer module is optional but I strongly recommend to use one. Without the d
 
 ### SMD 3528 or SMD 5050 LED strip ?
 
-I used SMD 3528 LED chips instead of SMD 5050 LED chips. Basically, the code for the LEDs is the dimension in millimeters of each LED. SMD 5050 are brighter but uses more electricity. Since I didn't need the brightness of the 5050 LEDs and I wanted to use less electricity as possible, the SMD 3528 LEDs were the best choice. Make sure that you buy 600 LEDs per reel strips instead of 300 LEDs per reel because 300 LEDs per reel may not be sufficient. Here is a good article about the differences between them: [Comparison between 3528 LEDs and 5050 LEDs.](http://www.flexfireleds.com/pages/Comparison-between-3528-LEDs-and-5050-LEDs.html)### Connectors
+I used SMD 3528 LED chips instead of SMD 5050 LED chips. Basically, the code for the LEDs is the dimension in millimeters of each LED. SMD 5050 are brighter but uses more electricity. Since I didn't need the brightness of the 5050 LEDs and I wanted to use less electricity as possible, the SMD 3528 LEDs were the best choice. Make sure that you buy 600 LEDs per reel strips instead of 300 LEDs per reel because 300 LEDs per reel may not be sufficient. Here is a good article about the differences between them: [Comparison between 3528 LEDs and 5050 LEDs.](http://www.flexfireleds.com/pages/Comparison-between-3528-LEDs-and-5050-LEDs.html)
+
+### Connectors
 
 You only need 3 LED connectors for this project. You need 2 connectors for linking the 3 cabinets together and a 3rd one for connecting the strip to the dimmer's output connectors. However, I actually bought 5 of them since buying in bulk is actually cheaper than buying 3 single connectors.
 
@@ -86,7 +88,9 @@ As I said before, this project can be completed at a pretty cheap price. The tot
 - $2.00 - Colored wire (I used gauge 18awg) from dollar store
 - $1.00 - Double sided tape
 
-Total cost: $**27.84**<span style="line-height: 1.5; text-align: justify;">\* The cost of usual items such as screws and glue is not included in the cost of the project.</span>## Preparation time
+Total cost: $**27.84**<span style="line-height: 1.5; text-align: justify;">\* The cost of usual items such as screws and glue is not included in the cost of the project.</span>
+
+## Preparation time
 
 The preparation time is simple, it requires to test all the circuit before fixing the strip to the cabinets. You don't want to start drilling holes in your cabinet before finding out that a component does not work! The circuit takes about half an hour to complete and verifies that all components are working as expected. No soldering is required for this step. The circuit is pretty basic. Refer to the next section for details of the circuit.
 
@@ -112,7 +116,9 @@ This section defines how to connect all the components together. Connect the pow
 
 ## Deciding where to put your stuff
 
-<center>[![DSC04072](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg) [![DSC04068](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg)[![DSC04060](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg) [![DSC04062](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)</center>I wanted to position the switch at a location where is can be reached easily with your fingers but I also wanted the switch to be invisible to the eye. I decided to install the switch below the cabinets but hidden behind the front panel under the cabinets. For the same reasons, the dimmer is located at the same location. I used double sided tape to stick the dimmer and the power switch in place. The tape is strong enough to keep the switch in place even when someone is turning the lights on or off. I also decided to position the power supply below the cabinet, at the back. This location is close to the switch and the dimmer and is also well ventilated<span style="line-height: 1.5;">. The power supply has two holes for screwing the case to a wood surface. I used small length screws to screw the power to the cabinet's wood panel</span><span style="text-align: justify;">.</span>Here is a view from below the cabinet: [![DSC04070](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg)## LED strip installation
+<center>[![DSC04072](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg) [![DSC04068](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg)[![DSC04060](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg) [![DSC04062](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)</center>I wanted to position the switch at a location where is can be reached easily with your fingers but I also wanted the switch to be invisible to the eye. I decided to install the switch below the cabinets but hidden behind the front panel under the cabinets. For the same reasons, the dimmer is located at the same location. I used double sided tape to stick the dimmer and the power switch in place. The tape is strong enough to keep the switch in place even when someone is turning the lights on or off. I also decided to position the power supply below the cabinet, at the back. This location is close to the switch and the dimmer and is also well ventilated<span style="line-height: 1.5;">. The power supply has two holes for screwing the case to a wood surface. I used small length screws to screw the power to the cabinet's wood panel</span><span style="text-align: justify;">.</span>Here is a view from below the cabinet: [![DSC04070](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg)
+
+## LED strip installation
 
 ### Cutting
 
@@ -132,7 +138,9 @@ Use the connectors to link each strip together. The connectors are specifically 
 
 # Final Result
 
-Here is the final result: [![IMG_6846](https://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg)# Made anything differently?
+Here is the final result: [![IMG_6846](https://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg)
+
+# Made anything differently?
 
 I do not think that I would make anything differently. Everything is pretty much like the way I wanted. I took my time for preparing this project. I may paint the wires in white sometimes to make them invisible but since I do not see them when I open the cabinet doors, I may leave them as is.
 

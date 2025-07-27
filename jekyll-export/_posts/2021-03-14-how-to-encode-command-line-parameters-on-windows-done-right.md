@@ -93,7 +93,9 @@ Plain `<strong>\</strong>` character must be escaped with `<strong>\\</strong>` 
 
 ## Rule #4 - Shell characters
 
-The following characters are **special shell characters**: **&amp;**, **&lt;**, **&gt;**, **(**, **)**, **|**, **%** or **!**### Rule #4.1 (in string)
+The following characters are **special shell characters**: **&amp;**, **&lt;**, **&gt;**, **(**, **)**, **|**, **%** or **!**
+
+### Rule #4.1 (in string)
 
 Shell characters must be read as plain text when inside a string. Examples: | Command Line | Arg #1 | Arg #2 | Arg #3 |
 |---|---|---|---|

@@ -42,7 +42,9 @@ Please note that bin2cpp source code is now moved to GitHub. Source code can be 
 
 # <span style="line-height: 1.5;">Screenshots</span>
 
-\[caption id="attachment\_575" align="aligncenter" width="837"\][![bin2cpp v1.3 Sample](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png) bin2cpp v1.3 Sample\[/caption\] \[caption id="attachment\_576" align="aligncenter" width="1013"\][![bin2cpp v1.3 Usage](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png) bin2cpp v1.3 Usage\[/caption\] # <span style="line-height: 1.5;">Download</span>
+\[caption id="attachment\_575" align="aligncenter" width="837"\][![bin2cpp v1.3 Sample](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png) bin2cpp v1.3 Sample\[/caption\] \[caption id="attachment\_576" align="aligncenter" width="1013"\][![bin2cpp v1.3 Usage](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png) bin2cpp v1.3 Usage\[/caption\]
+
+# <span style="line-height: 1.5;">Download</span>
 
 You can download bin2cpp by clicking on the following links: Please note that download links are now deprecated. Binary version of bin2cpp can be downloaded directly from [the project's GitHub page](http://github.com/end2endzone/bin2cpp/releases).
 

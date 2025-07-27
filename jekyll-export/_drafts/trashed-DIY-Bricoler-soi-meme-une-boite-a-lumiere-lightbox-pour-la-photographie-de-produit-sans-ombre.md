@@ -61,7 +61,9 @@ Ce projet peut être complété à petit budget. Le coût total est inférieur �
 
 Notes: 1. L'achat d'un ensemble de 10 pinces est moins dispendieux que d'acheter 6 pinces individuellement.
 
-Coût total: **$xx.xx**<span style="text-align: justify; line-height: 1.5;">\* Le coût des éléments habituels tels que les outils et la colle n'est pas inclus dans le coût du projet.</span>## Préparation
+Coût total: **$xx.xx**<span style="text-align: justify; line-height: 1.5;">\* Le coût des éléments habituels tels que les outils et la colle n'est pas inclus dans le coût du projet.</span>
+
+## Préparation
 
 Certaines pièces nécessaires au projet sont commandées depuis eBay. Il faut donc prévoir environ 4 semaines de préparation afin de réunir tous les composants du projet. Il est possible de réduire ce temps en faisant l'achat de "pinces" chez Home Depot ou un autre détaillant mais le coût du projet sera naturellement affecté. Des épingles à linge pourraient aussi être utilisées en tant que remplacement mais celle-ci doivent avoir une "mâchoire" pouvant s'ouvrir de 1¼ à 1½ pouces. # Étapes de construction
 
@@ -73,7 +75,9 @@ Ces cadres seront utilisés pour former 3 des faces de la boîte soit le coté d
 
 Découper trois (3) panneaux de 18½ pouces de côté dans les panneaux de polystyrène (styrofoam) et coller chacun des panneaux sur un cadre. Les panneaux de polystyrène doivent recouvrir la totalité du cadre de bois. Ceci est nécessaire afin d'assembler solidement chacun des côtés de la boîte. Notez que certain panneaux de polystyrène ont un côté lustré (réfléchissant) et un côté mat. Je vous recommande d'utilisé le côté mat des panneaux à l'intérieur de la boîte plutôt que le côté lustré. Bref, appliquer la colle sur le côté lustré du panneau.
 
-collage sur chacun des panneaux du cadre <span class="notranslate">bla bla bla</span>## Découpage de la toile de fond
+collage sur chacun des panneaux du cadre <span class="notranslate">bla bla bla</span>
+
+## Découpage de la toile de fond
 
 La toîle de fond est en fait une <span style="background-color: #ff0000;">ici</span>carton # Résultat final
 

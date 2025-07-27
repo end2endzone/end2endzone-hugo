@@ -54,7 +54,9 @@ The material for this project is as follows:
 
 ### Usual equipment
 
-As I have explained before, the equipment is almost identical to the one for my [DIY Kitchen under cabinet LED lighting](https://www.end2endzone.com/diy-kitchen-under-cabinet-led-lighting/). I wont go into details of how to connect everything together or why choosing which type of LED are better. Please consult the other post for details ### 3-way switch
+As I have explained before, the equipment is almost identical to the one for my [DIY Kitchen under cabinet LED lighting](https://www.end2endzone.com/diy-kitchen-under-cabinet-led-lighting/). I wont go into details of how to connect everything together or why choosing which type of LED are better. Please consult the other post for details
+
+### 3-way switch
 
 The only piece of equipment that is different is the type of switches used in the project. There is two switches, one for each partner. The type of switches is also different and requires 3-way switches. This type of switch allows controls of the lights on both side of the bed: one partner can turn on lights and the other can turn them off.
 
@@ -83,7 +85,9 @@ The preparation time is simple, it requires to test all the circuit before fixin
 
 # Building steps
 
-Construction steps are very simple. Screw, wire everything up and enjoy. Here is a picture of the circuit that you need to assemble: [![Bedroom led lighting circuit](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)## Testing everything together
+Construction steps are very simple. Screw, wire everything up and enjoy. Here is a picture of the circuit that you need to assemble: [![Bedroom led lighting circuit](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)
+
+# Testing everything together
 
 The first thing you need to focus on is to test everything together before mounting it behind the headboard of the bed. The last ting you want is to wire everything up and finding out that a wire is bad or the dimmer or switches (which are glued) are dead. As mentioned before, all questions regarding how to connect the power cord to the power supply or how to connect the dimmer, can be answered in the following post: [DIY Kitchen under cabinet LED lighting](https://www.end2endzone.com/diy-kitchen-under-cabinet-led-lighting/).
 
@@ -93,13 +97,17 @@ This section defines the basic reasons that lead to the final design.
 
 ### Orientation of the LEDs
 
-[![IMG_7135](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg)The location of the LEDs is obvious. However, I didn't know if I had to stick the LEDs facing down or facing out of the base. If you stick the LEDs facing out, all the lower section of the room get illuminated but the light does not go as high as if the LEDs were facing down. Turns out that best method for me was to stick them facing down. Choose the option that is best for you. **Note:**<span style="line-height: 1.5;">Both options do not illuminate the people sleeping and should not disturb your lover's sleep.</span>\[su\_spacer size="30"\] ### <span style="font-size: 22px; font-weight: bold; line-height: 1.0909090909;">Switches</span>
+[![IMG_7135](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg)The location of the LEDs is obvious. However, I didn't know if I had to stick the LEDs facing down or facing out of the base. If you stick the LEDs facing out, all the lower section of the room get illuminated but the light does not go as high as if the LEDs were facing down. Turns out that best method for me was to stick them facing down. Choose the option that is best for you. **Note:**<span style="line-height: 1.5;">Both options do not illuminate the people sleeping and should not disturb your lover's sleep.</span>\[su\_spacer size="30"\]
+
+### <span style="font-size: 22px; font-weight: bold; line-height: 1.0909090909;">Switches</span>
 
 [![IMG_7125](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg)I had a hard time figuring out where I would put the switches and the dimmer. They had to be freely available and I wanted to be able to find the switches with my hands only, without having to take a look first. You will turn them on in the middle of the night when not fully awake! My first idea was to install the switch through the headboard by drilling small holes the size of the switch and use switch plates to cover everything. That was not accepted as a viable solution because we though that it will be too intrusive. It would also be hard finding the switch in almost total darkness. I opted to position the circuit of the switches at the same level than the bed's headboard. The moving part of the switch is raised a little bit above the headboard. This option is perfect because it is really easy to turn on the lights even when lying on the bed. You simply have to slide your hand on the top of the headboard from left to right (or right to left).
 
 ### <span style="font-size: 22px; font-weight: bold; line-height: 1.0909090909;">Dimmer</span>
 
-[![IMG_7099](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg)The dimmer is not always used in this setup. Most of the time, you want the light to be set at the minimum brightness level. In some scenarios, you will want to get more light and you will have to turn the knob of the dimmer. For this reason, I decided to position the dimmer behind the headboard. It cannot be reached when lying on the bed but it can still be reached when sitting/standing face to the headboard. \[su\_spacer size="30"\] ## LED strip installation
+[![IMG_7099](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg)The dimmer is not always used in this setup. Most of the time, you want the light to be set at the minimum brightness level. In some scenarios, you will want to get more light and you will have to turn the knob of the dimmer. For this reason, I decided to position the dimmer behind the headboard. It cannot be reached when lying on the bed but it can still be reached when sitting/standing face to the headboard. \[su\_spacer size="30"\]
+
+## LED strip installation
 
 ### Cutting
 
@@ -111,9 +119,13 @@ This section defines the basic reasons that lead to the final design.
 
 ### Connecting
 
-![IMG_7133](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133-1024x683.jpg)Use the connectors to link each strip together. The connectors are specifically designed for connecting LED strip together. You just have to open a door, slide the strip in place and close the door which will hold the strip in place. When linking the strip together, make sure that you align the positive (red) and negative (black) leads of the strip with the appropriate color code of the connector. I also used hot glue for holding the connector on the base and prevent any loose or hanging wires. We do have 2 cats living with us and that is a good idea to make sure this does not look like a cat toy :) # Final Result
+![IMG_7133](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133-1024x683.jpg)Use the connectors to link each strip together. The connectors are specifically designed for connecting LED strip together. You just have to open a door, slide the strip in place and close the door which will hold the strip in place. When linking the strip together, make sure that you align the positive (red) and negative (black) leads of the strip with the appropriate color code of the connector. I also used hot glue for holding the connector on the base and prevent any loose or hanging wires. We do have 2 cats living with us and that is a good idea to make sure this does not look like a cat toy :)
 
-Here is the final result: \[caption id="attachment\_369" align="aligncenter" width="474"\][![DIY Bedroom under the bed led lighting](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg) DIY Bedroom under the bed led lighting\[/caption\] # Made anything differently?
+# Final Result
+
+Here is the final result: \[caption id="attachment\_369" align="aligncenter" width="474"\][![DIY Bedroom under the bed led lighting](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg) DIY Bedroom under the bed led lighting\[/caption\]
+
+# Made anything differently?
 
 This is my second project dealing with LED lighting strips. I do not think that I would make anything differently. Everything is pretty much like the way I wanted. I may eventually add a motion sensor as [shown here](http://www.instructables.com/id/Under-the-bed-nightlight/) to detect when I get up at night for a bathroom walk so the walkway may get illuminated automatically but that may be too extreme. I only have to raise my hand and slide it before getting up.
 

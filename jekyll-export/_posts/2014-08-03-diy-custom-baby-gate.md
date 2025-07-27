@@ -70,7 +70,9 @@ There is nothing special to say to assemble the posts. Each one is screwed to th
 
 ### **Fixing the ramp**
 
-The innovation of this baby gate is related to the means used for fixing to the rail. This solution is not intrusive and does not leave a mark on the ramp when the barrier will no longer be necessary. No attachments or adhesive is required and the whole is as strong as the ramp. The ramp is composed of two vertical bars on each side of the horizontal rail. [![IMG_9308](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9308-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9308.jpg) The 2x4 board piece is fixed by pressure to avoid leaving a trace on the stair ramp once removed. Since the ramp is composed of two bars, I decided to screw a piece of wood in the bottom of the board that will fit between the bars to ensure that the board remains vertical and its place in the opening and closing of the barrier. [![IMG_9295](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9295-300x200.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9295.jpg) ## **Dying**
+The innovation of this baby gate is related to the means used for fixing to the rail. This solution is not intrusive and does not leave a mark on the ramp when the barrier will no longer be necessary. No attachments or adhesive is required and the whole is as strong as the ramp. The ramp is composed of two vertical bars on each side of the horizontal rail. [![IMG_9308](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9308-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9308.jpg) The 2x4 board piece is fixed by pressure to avoid leaving a trace on the stair ramp once removed. Since the ramp is composed of two bars, I decided to screw a piece of wood in the bottom of the board that will fit between the bars to ensure that the board remains vertical and its place in the opening and closing of the barrier. [![IMG_9295](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9295-300x200.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9295.jpg)
+
+## **Dying**
 
 Once assembly is complete, you only have to dye the wood to the right color. [![DSC02242](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02242-300x225.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02242.jpg)When you apply a dye, you must be careful not to judge the appearance of the dye when it is dry. A dye like the photos has a brown-purple appearance when applied on wood and wet.
 
@@ -82,7 +84,9 @@ For mounting on the wall, I used one of the bars that will be screwed into the w
 
 # **Final Result**
 
-Here is the final result: [![DSC02297](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02297-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02297.jpg)**[![DSC02299](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299-768x1024.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299.jpg)**# **Made anything differently?**
+Here is the final result: [![DSC02297](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02297-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02297.jpg)**[![DSC02299](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299-768x1024.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299.jpg)**
+
+# **Made anything differently?**
 
 ## **Take your time and do not skip step**
 

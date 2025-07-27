@@ -37,7 +37,9 @@ Please note that MSBuildReorder source code is now moved to GitHub. Source code 
 
 # <span style="line-height: 1.5;">Screenshot</span>
 
-\[caption id="attachment\_641" align="alignnone" width="300"\][![msbuildreorder screenshot](https://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot-300x130.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot.png) msbuildreorder screenshot\[/caption\] # <span style="line-height: 1.5;">Download</span>
+\[caption id="attachment\_641" align="alignnone" width="300"\][![msbuildreorder screenshot](https://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot-300x130.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot.png) msbuildreorder screenshot\[/caption\]
+
+# <span style="line-height: 1.5;">Download</span>
 
 You can download MSBuildReorder by clicking on the following link: Please note that download links are now deprecated. Binary version of msbuildreorder can be downloaded directly from [the project's GitHub page](http://github.com/end2endzone/msbuildreorder/releases).
 

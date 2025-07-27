@@ -72,6 +72,8 @@ There is no need to use any compression codec for the audio. A typical TV show i
 
 ## Encode final video with Handbrake
 
-Now you got a nice TV show episode without any ads. Just open the file in Handbrake and encode using your favorite video parameters. \[caption id="attachment\_1168" align="alignnone" width="1015"\][![Handbrake video settings](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg) Handbrake video settings\[/caption\] # What you get
+Now you got a nice TV show episode without any ads. Just open the file in Handbrake and encode using your favorite video parameters. \[caption id="attachment\_1168" align="alignnone" width="1015"\][![Handbrake video settings](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg) Handbrake video settings\[/caption\]
+
+# What you get
 
 In the end, you get a perfectly encoded video without any ADS!

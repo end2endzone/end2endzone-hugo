@@ -102,7 +102,9 @@ Setting this mode is optional as it is only used during JPG image capture. If yo
 
 # <span style="line-height: 1.5;">Wait until the show begins</span>
 
-\[caption id="attachment\_570" align="alignnone" width="474"\]![Kaïn célèbre la Fête nationale à Saint-Jérôme](https://www.end2endzone.com/wp-content/uploads/2014/12/Kaïn-célèbre-la-Fête-nationale-à-Saint-Jérôme-1024x576.jpg) Kaïn célèbre la Fête nationale à Saint-Jérôme\[/caption\] For some people, that's the hardest part :) # <span style="line-height: 1.5;">Adapt to the situation</span>
+\[caption id="attachment\_570" align="alignnone" width="474"\]![Kaïn célèbre la Fête nationale à Saint-Jérôme](https://www.end2endzone.com/wp-content/uploads/2014/12/Kaïn-célèbre-la-Fête-nationale-à-Saint-Jérôme-1024x576.jpg) Kaïn célèbre la Fête nationale à Saint-Jérôme\[/caption\] For some people, that's the hardest part :)
+
+# <span style="line-height: 1.5;">Adapt to the situation</span>
 
 Obviously, all these hints are given a suggestions and starting point. You will have to adapt to the situation since every firework burst and show are different. Here's a list of what to look out for during your shooting session...
 

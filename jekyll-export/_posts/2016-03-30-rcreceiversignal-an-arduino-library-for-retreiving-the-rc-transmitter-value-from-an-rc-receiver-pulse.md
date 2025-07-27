@@ -31,7 +31,9 @@ The following arduino library was written to use the findings found during the *
 
 # Purpose
 
-The RcReceiverSignal library allows one to easily configure an input pin to read a PWM signal sent from a RC receiver by attaching a RcReceiverSignal instance to a pin connected the receiver and automatically monitor each pulse sent by the receiver. It allows the main loop to retrieve the latest received pulse length (PWM) and convert the pulse length back to the actual transmitter signal value (ranging from -150% to 150%). The library supports automatic PWM signal change detection. The library's ability to convert a PWM value to the actual transmitter numeric value is based on empirical tests available at ***[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/ "Edit “Mapping RC Transmitter PWM signal to actual transmitter values”").***# Library features
+The RcReceiverSignal library allows one to easily configure an input pin to read a PWM signal sent from a RC receiver by attaching a RcReceiverSignal instance to a pin connected the receiver and automatically monitor each pulse sent by the receiver. It allows the main loop to retrieve the latest received pulse length (PWM) and convert the pulse length back to the actual transmitter signal value (ranging from -150% to 150%). The library supports automatic PWM signal change detection. The library's ability to convert a PWM value to the actual transmitter numeric value is based on empirical tests available at ***[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/ "Edit “Mapping RC Transmitter PWM signal to actual transmitter values”").***
+
+# Library features
 
 Possible use are:
 
@@ -72,7 +74,9 @@ receiver_aux1_handler_setup(RECEIVER_AUX1_IN_PIN);
 receiver_throttle_handler_setup(RECEIVER_THROTTLE_IN_PIN);
 ```
 
-<span style="line-height: 1.5;">In the loop function, one can call the *hasChanged() m*ethod </span><span style="line-height: 1.5;">to know if the PWM value has changed since the last call or call the *getPwmValue()* function to get the last PWM value observed by the *RcReceiverSignal* instance.</span><span style="line-height: 1.5;">From a PWM value, one can call the *getSignalValue()* or *getDeviceSignalValue()* methods to convert a given PWM signal from a known device combination to a transmitter value (within -150% to +150%).</span>## Demo
+<span style="line-height: 1.5;">In the loop function, one can call the *hasChanged() m*ethod </span><span style="line-height: 1.5;">to know if the PWM value has changed since the last call or call the *getPwmValue()* function to get the last PWM value observed by the *RcReceiverSignal* instance.</span><span style="line-height: 1.5;">From a PWM value, one can call the *getSignalValue()* or *getDeviceSignalValue()* methods to convert a given PWM signal from a known device combination to a transmitter value (within -150% to +150%).
+
+# Demo
 
 The following demo show how to use the library: (download the \[download id="1794"\])
 

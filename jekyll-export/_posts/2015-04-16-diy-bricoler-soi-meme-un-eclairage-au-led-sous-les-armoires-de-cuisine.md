@@ -71,7 +71,9 @@ Le module gradateur est facultatif mais je recommande vivement d'en utiliser un.
 
 ### Bande SMD 3528 ou SMD 5050 ?
 
-J'ai décidé d'utiliser des DEL SMD 3528 au lieu des SMD 5050. Le code numérique pour les DEL correspond à la dimension en millimètres de chaque DEL soit 50mm ou 35mm. Les DELs SMD 5050 sont plus brillants, mais ils utilisent plus d'électricité. Puisque je n'ai pas besoin de la luminosité des DEL 5050 et je voulais utiliser le moins d'électricité que possible alors les DEL SMD 3528 étaient le meilleur choix. Assurez-vous que vous achetez 600 DELs par bande de 5 mètres au lieu de 300 DELs par brande car les bandes avec 300 DELs peuvent ne pas être suffisamment lumineuse. Voici un bon article (anglophone) sur les différences entre eux: [Comparison between 3528 LEDs and 5050 LEDs.](http://www.flexfireleds.com/pages/Comparison-between-3528-LEDs-and-5050-LEDs.html)### Connecteurs
+J'ai décidé d'utiliser des DEL SMD 3528 au lieu des SMD 5050. Le code numérique pour les DEL correspond à la dimension en millimètres de chaque DEL soit 50mm ou 35mm. Les DELs SMD 5050 sont plus brillants, mais ils utilisent plus d'électricité. Puisque je n'ai pas besoin de la luminosité des DEL 5050 et je voulais utiliser le moins d'électricité que possible alors les DEL SMD 3528 étaient le meilleur choix. Assurez-vous que vous achetez 600 DELs par bande de 5 mètres au lieu de 300 DELs par brande car les bandes avec 300 DELs peuvent ne pas être suffisamment lumineuse. Voici un bon article (anglophone) sur les différences entre eux: [Comparison between 3528 LEDs and 5050 LEDs.](http://www.flexfireleds.com/pages/Comparison-between-3528-LEDs-and-5050-LEDs.html)
+
+### Connecteurs
 
 Vous avez seulement besoin de 3 connecteurs DEL pour ce projet. Deux connecteurs sont nécessaires pour relier les trois armoires ensemble et un troisième pour connecter la bande DEL aux connecteurs "OUT" du gradateur. Cependant, j'en ai acheté cinq puisqu'ils sont moins cher en lot que d'acheter 3 connecteurs séparément.
 
@@ -90,7 +92,9 @@ Voici le prix détaillée de chacun des éléments:
 - $2.00 - Fil électrique de couleur (j'ai utilisé du calibre 18) du magasin à un dollar.
 - $1.00 - Ruban adhésif double face.
 
-Coût total: $**27.84** <span style="line-height: 1.5; text-align: justify;">\* Le coût des éléments habituels tels que des vis et la colle n'est pas inclus dans le coût du projet.</span>## Temps de préparation
+Coût total: $**27.84** <span style="line-height: 1.5; text-align: justify;">\* Le coût des éléments habituels tels que des vis et la colle n'est pas inclus dans le coût du projet.</span>
+
+## Temps de préparation
 
 Le temps de préparation est assez court. Il nécessite de tester tout le circuit avant de fixer la bande aux armoires. Vous ne voulez pas commencer à percer des trous dans vos armoires et découvrir par la suite qu'un des composant est défectueux! Le circuit prend environ une demi-heure à compléter et vérifie que tous les composants fonctionnent comme prévu. Aucune soudure n'est nécessaire pour cette étape. Le circuit est assez simple. Reportez-vous à la section suivante pour les détails du circuit.
 
@@ -116,7 +120,9 @@ Cette section définit comment connecter tous les composants ensemble. Branchez 
 
 ## Choisir où mettre les composants
 
-<center>[![DSC04072](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg) [![DSC04068](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg) [![DSC04060](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg) [![DSC04062](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)</center>Je voulais placer l'interrupteur à un endroit où il peut être atteint facilement avec les doigts mais je voulais aussi le que le commutateur soit invisible à l'œil. J'ai décidé d'installer le commutateur sous les armoires, mais caché derrière les moulures avant. Pour les mêmes raisons, le gradateur est situé au même endroit. J'ai utilisé du ruban adhésif double face pour coller le gradateur et l'interrupteur d'alimentation en place. Le ruban adhésif est assez fort pour garder le l'interrupteur en place même lorsque quelqu'un est en train d'allumer ou d'éteindre le commutateur. J'ai aussi décidé de positionner l'alimentation sous l'armoire, à l'arrière. Cet emplacement est à proximité de l'interrupteur et du gradateur et c'est aussi bien aéré. L'alimentation possède 2 trous pour être visser à une surface. J'ai utilisé des petites vis pour visser le bloc d'alimentation au panel de bois des armoires. Voici une vue du dessous de l'armoire: [![DSC04070](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg)## Installation de la bande DEL
+<center>[![DSC04072](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg) [![DSC04068](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg) [![DSC04060](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg) [![DSC04062](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)</center>Je voulais placer l'interrupteur à un endroit où il peut être atteint facilement avec les doigts mais je voulais aussi le que le commutateur soit invisible à l'œil. J'ai décidé d'installer le commutateur sous les armoires, mais caché derrière les moulures avant. Pour les mêmes raisons, le gradateur est situé au même endroit. J'ai utilisé du ruban adhésif double face pour coller le gradateur et l'interrupteur d'alimentation en place. Le ruban adhésif est assez fort pour garder le l'interrupteur en place même lorsque quelqu'un est en train d'allumer ou d'éteindre le commutateur. J'ai aussi décidé de positionner l'alimentation sous l'armoire, à l'arrière. Cet emplacement est à proximité de l'interrupteur et du gradateur et c'est aussi bien aéré. L'alimentation possède 2 trous pour être visser à une surface. J'ai utilisé des petites vis pour visser le bloc d'alimentation au panel de bois des armoires. Voici une vue du dessous de l'armoire: [![DSC04070](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg)
+
+## Installation de la bande DEL
 
 ### Coupage
 
@@ -136,7 +142,9 @@ Utilisez les connecteurs pour relier chaque bande. Les connecteurs sont spécifi
 
 # Résultat final
 
-Voici une photo du résultat final: [![IMG_6846](https://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg)# Refaire les choses différemment?
+Voici une photo du résultat final: [![IMG_6846](https://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg)
+
+# Refaire les choses différemment?
 
 Je ne pense pas que je ferais les choses différemment. Tout est généralement comme je le voulais. J'ai pris mon temps pour préparer ce projet. Je veux aussi éventuellement peindre les fils en blanc pour les rendre invisibles. Pour le moment, lorsque j'ouvre mes armoires, je ne vois pas vraiment les fils parce qu'elles sont toutes bien remplies alors je vais peut-être les laisser tel quel.
 

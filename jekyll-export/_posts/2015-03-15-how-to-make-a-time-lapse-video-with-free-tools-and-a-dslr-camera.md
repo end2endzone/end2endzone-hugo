@@ -75,7 +75,9 @@ Now open [Photography time-lapse calculator](https://www.end2endzone.com/wp-cont
 
 ## Use manual focus
 
-Set your camera in manual focus. This is also mandatory if your intervals are really close (less than 10 seconds). If you set your camera in auto focus, lets say to capture the movement of your subject when it moves closer and away from the camera, you will end up with some pictures with a blurry background and some with a clear background and that would not be interesting to watch. Also, the auto-focus of your camera can take as much as 1-2 seconds and that delay would be added to the intervals between each shots. You are much better to use a narrower aperture to increase the dept of field instead of using auto-focus. It also saves battery power :) ## Set camera in manual mode
+Set your camera in manual focus. This is also mandatory if your intervals are really close (less than 10 seconds). If you set your camera in auto focus, lets say to capture the movement of your subject when it moves closer and away from the camera, you will end up with some pictures with a blurry background and some with a clear background and that would not be interesting to watch. Also, the auto-focus of your camera can take as much as 1-2 seconds and that delay would be added to the intervals between each shots. You are much better to use a narrower aperture to increase the dept of field instead of using auto-focus. It also saves battery power :)
+
+## Set camera in manual mode
 
 You need to set your camera in manual mode. The objective is to have an identical exposure over all your frames (pictures) during the whole capturing period. The only way to expect this is to use the manual mode in your DSLR. All other modes will make assumptions or estimation of what is the best value for ISO/Aperture/Shutter speed and you may not always get the same value which would create slight variations in the final image exposure. The same applies for any priority modes.
 
@@ -113,7 +115,9 @@ Connect your intervalometer and configure the appropriate interval time calculat
 
 # Capture your scene
 
-Now is the time to take as much shoot as needed for properly capturing your subject's movement or change over time. In the meantime, get yourself a coffee, start downloading required softwares or watch a movie and come back in a hour or so :) # Prepare your image files
+Now is the time to take as much shoot as needed for properly capturing your subject's movement or change over time. In the meantime, get yourself a coffee, start downloading required softwares or watch a movie and come back in a hour or so :)
+
+# Prepare your image files
 
 After the capturing session is completed and you have transferred all your images to your PC, it is time to make sure your files are prepared for the final product.
 
@@ -177,13 +181,17 @@ This step is optional but it is suggested to resize your images to help Windows 
     3. Press the Start button to start resizing your images.
     4. Wait for the process to complete.
 
-\[caption id="attachment\_776" align="alignnone" width="234"\][![David Batch Processor Done](https://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done-234x300.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png) David Batch Processor Done\[/caption\] # Combining photos into a movie
+\[caption id="attachment\_776" align="alignnone" width="234"\][![David Batch Processor Done](https://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done-234x300.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png) David Batch Processor Done\[/caption\]
+
+# Combining photos into a movie
 
 In the next sections, I will explain 2 methods that you can use to combine photos into a movie. Each methods has their own required list of software and has their pros and cons.
 
 ## Windows Movie Maker
 
-This sections explains how to process your captured images into a video using Windows Movie Maker. \[caption id="attachment\_788" align="alignnone" width="300"\][![Windows Movie Maker screenshot](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-300x163.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg) Windows Movie Maker screenshot\[/caption\] ### Download required files
+This sections explains how to process your captured images into a video using Windows Movie Maker. \[caption id="attachment\_788" align="alignnone" width="300"\][![Windows Movie Maker screenshot](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-300x163.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg) Windows Movie Maker screenshot\[/caption\]
+
+### Download required files
 
 - Windows Movie Maker [online installer](http://windows.microsoft.com/en-ca/windows-live/download-windows-essentials) / [offline installer](http://windows.microsoft.com/en-ca/windows-live/essentials-install-offline-faq) download.
 - or the older version [Windows Movie Maker 2.6](http://www.microsoft.com/en-us/download/details.aspx?id=34).
@@ -218,7 +226,9 @@ If you do not have an audio file on your computer, you can try to find some on t
 Now that your composition is complete, save your project into an MP4 video by following theses steps: 1. Click on ***Save Movie*** button in the ribbon toolbar.
 2. Select the export settings that matches your needs and file size. For maximum quality, save your movie using the ***For high-definition display*** setting.
 
-\[caption id="attachment\_789" align="alignnone" width="300"\][![Windows Movie Maker Export Completed](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed-300x120.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png) Windows Movie Maker Export Completed\[/caption\] ## VirtualDub
+\[caption id="attachment\_789" align="alignnone" width="300"\][![Windows Movie Maker Export Completed](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed-300x120.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png) Windows Movie Maker Export Completed\[/caption\]
+
+## VirtualDub
 
 This sections explains how to process your captured images into a video using VirtualDub.
 
@@ -240,7 +250,9 @@ Importing your images as a video in VirtualDub is also really easy: simply follo
 4. Select the first image of the sequence and click the Open button. VirtualDub will automatically detect the next images and will update the timeline accordingly.
 5. Verify that the timeline length (in video frames) matches the total number of captured images in your project.
 
-\[caption id="attachment\_802" align="alignnone" width="300"\][![VirtualDub editing](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing-300x135.png)](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png) VirtualDub editing\[/caption\] ### Configure Frame Rate
+\[caption id="attachment\_802" align="alignnone" width="300"\][![VirtualDub editing](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing-300x135.png)](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png) VirtualDub editing\[/caption\]
+
+### Configure Frame Rate
 
 1. Click on ***Video/Frame Rate*** menu. That will open the Video frame rate control dialog.
 2. Select ***Change frame rate to (fps)*** and enter the value you calculated in section [Calculating the best interval](#Calculating_the_bestinterval).
@@ -259,7 +271,9 @@ Flickering occurs when the exposition between each video frame is not identical 
 4. Press the OK Button.
 5. Configure the filter parameters and press the OK button.
 
-\[caption id="attachment\_804" align="alignnone" width="300"\][![VirtualDub Deflicker filter](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter-300x208.png)](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png) VirtualDub Deflicker filter\[/caption\] ### Applying additional filters (optional)
+\[caption id="attachment\_804" align="alignnone" width="300"\][![VirtualDub Deflicker filter](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter-300x208.png)](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png) VirtualDub Deflicker filter\[/caption\]
+
+### Applying additional filters (optional)
 
 If you want to add fade-in or fade-off effects you can use the FadeFX filter with the following: 1. Click on ***Video/Filters*** menu. That will open the ***Filter*** dialog.
 2. Click on the Add button. That will open the ***Add Filter*** dialog.
@@ -267,7 +281,9 @@ If you want to add fade-in or fade-off effects you can use the FadeFX filter wit
 4. Press the OK Button.
 5. Configure the filter parameters and press the OK button.
 
-\[caption id="attachment\_801" align="alignnone" width="300"\][![VirtualDub Fade In Fade Out filter](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter-300x208.png)](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png) VirtualDub Fade In Fade Out filter\[/caption\] ### Adding an audio track
+\[caption id="attachment\_801" align="alignnone" width="300"\][![VirtualDub Fade In Fade Out filter](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter-300x208.png)](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png) VirtualDub Fade In Fade Out filter\[/caption\]
+
+### Adding an audio track
 
 VirtualDub also support adding an audio track from an external audio file. VirtualDub works best with ***WAV*** of ***MP3*** audio file. Here are the steps for adding an audio file to your video: 1. Click on ***Audio/Audio from other file*** menu. That will open the ***Open an audio file*** dialog.
 2. ***B******rowse*** to the location of the audio file add *and click the Open button.*
@@ -282,7 +298,9 @@ As explained in the [Lossless video codec](#Lossless_video_codec) section, Virtu
 2. ***B******rowse*** to the location where you want to save your video and enter a filename for saving. Click the Save button.
 3. Wait for the encoding to complete.
 
-\[caption id="attachment\_803" align="alignnone" width="247"\][![VirtualDub encoding](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding-247x300.png)](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png) VirtualDub encoding\[/caption\] ### Re-encoding using Handbrake
+\[caption id="attachment\_803" align="alignnone" width="247"\][![VirtualDub encoding](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding-247x300.png)](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png) VirtualDub encoding\[/caption\]
+
+### Re-encoding using Handbrake
 
 Handbrake is the best video encoder to use for compressing your video because it supports [constant quality](https://handbrake.fr/docs/en/1.0.0/technical/video-cq-vs-abr.html) encoding parameters. Here are the steps for compressing your video: 1. Click on ***Source*** icon in the toolbar and select ***File***. That will open the ***Open file*** dialog.
 2. ***B******rowse*** to the location of the temporary video (\*.avi) you created in the previous step. Click the Open button.

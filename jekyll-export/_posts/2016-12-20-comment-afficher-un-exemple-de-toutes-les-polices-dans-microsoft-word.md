@@ -39,7 +39,9 @@ La liste suivante décrit les fonctionnalités du script:
 
 # Limitations
 
-Le script a quelques limitations. Celles-ci sont plus bas: ## Possibilité de doublons
+Le script a quelques limitations. Celles-ci sont plus bas:
+
+## Possibilité de doublons
 
 Certaines police ne sont pas disponibles sous certain style. Par exemple, la police ***Wingdings*** n'offre pas de style *Gras* (bien que le style *Italique* soit disponible). Malheureusement, le script ne permet pas de détecter les styles qui ne sont pas disponibles et affichera donc plusieurs fois le même résultats.
 
@@ -104,7 +106,9 @@ Le document sera complété avec votre exemple de texte pour chacune des polices
 
 ## Exemple
 
-Après l'exécution du script, vous obtiendrez un document complet: \[caption id="attachment\_2350" align="alignnone" width="853"\][![Exemple de d'affichage toutes les polices](https://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg) Exemple de d'affichage toutes les polices\[/caption\] # Licence
+Après l'exécution du script, vous obtiendrez un document complet: \[caption id="attachment\_2350" align="alignnone" width="853"\][![Exemple de d'affichage toutes les polices](https://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg) Exemple de d'affichage toutes les polices\[/caption\]
+
+# Licence
 
 Le script est disponible sous la licence LGPL. Seule la version anglophone de la licence est disponible.
 

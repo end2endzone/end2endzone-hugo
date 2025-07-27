@@ -31,7 +31,9 @@ The libVariant library allows one to create an instance of Variant class. The cl
 
 # Usage scenarios
 
-Typical usage of the Variant class involves the following: ## Implement a query language
+Typical usage of the Variant class involves the following:
+
+## Implement a query language
 
 Each column of a "ResultSet" may be of different type. Storing values in a Variant type is a perfect candidate for type abstraction.
 

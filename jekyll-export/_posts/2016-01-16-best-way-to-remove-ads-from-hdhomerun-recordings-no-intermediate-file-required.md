@@ -78,7 +78,9 @@ To uninstall, delete the *c:\\windows\\avfs.exe* file.
 
 The basic principle in this procedure is to chain application one after the other. The output from a software becomes the input of the next and so on until the video &amp; audio streams reaches handbrake. The process is as follows: <div class="sectiondiv centerdiv" style="width: 360px;">MPEG2 recording \[icon name="arrow-right" unprefixed\_class="chainarrow"\] VirtualDub \[icon name="arrow-right" unprefixed\_class="chainarrow"\] Editing \[icon name="arrow-right" unprefixed\_class="chainarrow"\] VirtualDub \*.vdscript file (Editing backup) \[icon name="arrow-right" unprefixed\_class="chainarrow"\] VirtualDub frame serving (\*.vdr file) \[icon name="arrow-right" unprefixed\_class="chainarrow"\] Avisynth script (\*.avs) \[icon name="arrow-right" unprefixed\_class="chainarrow"\] AVSF \[icon name="arrow-right" unprefixed\_class="chainarrow"\] Virtual \*.AVI file \[icon name="arrow-right" unprefixed\_class="chainarrow"\] Handbrake encoding.
 
-</div>## Open video file in Virtualdub
+</div>
+
+## Open video file in Virtualdub
 
 \[caption id="attachment\_1157" align="alignnone" width="967"\][![VirtualDub default video](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg) VirtualDub default video\[/caption\] 1. Click on *File* menu.
 2. Click on *Open video file...*
@@ -141,7 +143,9 @@ Your workspace should contains 4 files:
 - The VirtualDub AVIFile signpost file (\*.vdr)
 - The VirtualDub editing backup file (\*.vdscript)
 
-\[caption id="attachment\_1196" align="alignnone" width="608"\][![Remove ADS From TV Recording Workspace](https://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png) Remove ADS From TV Recording Workspace\[/caption\] ## Mounting
+\[caption id="attachment\_1196" align="alignnone" width="608"\][![Remove ADS From TV Recording Workspace](https://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png) Remove ADS From TV Recording Workspace\[/caption\]
+
+## Mounting
 
 Mount the \*.avs file as a virtual folder containing the virtual AVI file.
 
@@ -163,7 +167,9 @@ If the mounting is successful, the AviSynth Script file (\*.avs) should be remov
 - multiple audio file (\*.wav, \*.w64) with the same encoding. As far as I know, they are all identical.
 - an uncompressed video file in the Audio Video Interleave (\*.avi) format.
 
-If you selected the option *Open after mount*, the following window will be displayed: \[caption id="attachment\_1194" align="alignnone" width="608"\][![AVFS 375 GB Virtual AVI File](https://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File.png) AVFS 375 GB Virtual AVI File\[/caption\] ### Using AVFS 1.0.0.6
+If you selected the option *Open after mount*, the following window will be displayed: \[caption id="attachment\_1194" align="alignnone" width="608"\][![AVFS 375 GB Virtual AVI File](https://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File.png) AVFS 375 GB Virtual AVI File\[/caption\]
+
+### Using AVFS 1.0.0.6
 
 Mounting with AVFS 1.0.0.6 requires a different process. 1. Open a new [Command Prompt](http://www.google.ca/?q=open+a+command+prompt&gws_rd=ssl#).
 2. Change the current directory to the location where you installed AVFS 1.0.0.6. For example, if AVFS is installed in *F:\\Apps\\avfs\_1.0.0.6,* enter the following command in the prompt: *cd /d F:\\Apps\\avfs\_1.0.0.6*
@@ -176,8 +182,12 @@ Mounting with AVFS 1.0.0.6 requires a different process. 1. Open a new [Command 
 
 ## Test the virtual AVI file
 
-Make sure that the virtual AVI file is valid. Open the AVI file with a standard video player. The file may take longer than usual to open. While the file is opening or playing, take a look at the VirtualDub Frameserver window. You should see the value of *Number of frames served* increasing: \[caption id="attachment\_1197" align="alignnone" width="394"\][![VirtualDub Frameserver Mode](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png) VirtualDub Frameserver Mode\[/caption\] ## Encode final video with Handbrake
+Make sure that the virtual AVI file is valid. Open the AVI file with a standard video player. The file may take longer than usual to open. While the file is opening or playing, take a look at the VirtualDub Frameserver window. You should see the value of *Number of frames served* increasing: \[caption id="attachment\_1197" align="alignnone" width="394"\][![VirtualDub Frameserver Mode](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png) VirtualDub Frameserver Mode\[/caption\]
 
-The AVI file is now ready for encoding using Handbrake. Enjoy your TV show episode without any ads. Just open the file in Handbrake and encode using your favorite video parameters. \[caption id="attachment\_1168" align="alignnone" width="1015"\][![Handbrake video settings](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg) Handbrake video settings\[/caption\] # What you get
+## Encode final video with Handbrake
+
+The AVI file is now ready for encoding using Handbrake. Enjoy your TV show episode without any ads. Just open the file in Handbrake and encode using your favorite video parameters. \[caption id="attachment\_1168" align="alignnone" width="1015"\][![Handbrake video settings](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg) Handbrake video settings\[/caption\]
+
+# What you get
 
 In the end, you get a perfectly encoded video without any ADS! A 1 hour recording of Montreal's CBFT-DT which is in 720p MPEG 2 format is 7.72 GB. Removing ads from this recording and encoding with Handbrake using a quality based profile will reduce the file size to 1.20 GB.

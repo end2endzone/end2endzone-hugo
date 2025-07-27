@@ -98,13 +98,21 @@ The code below can be downloaded by clicking on the following link: Please note 
 
 # Samples
 
-The following section shows some example of using cvsplot to plot a series ## Apple Share Prices
+The following section shows some example of using cvsplot to plot a series
 
-The following example show the Apple Share Prices closing value over the year 2015. The data is provided by Nasdaq at the following address: <http://www.nasdaq.com/symbol/aapl/historical>. The CSV data can be downloaded here: \[download id="2212" template="title"\] \[caption id="attachment\_2199" align="alignnone" width="802"\][![Apple Share Prices over time (2015) plot using cvsplot](https://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png)](https://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png) Apple Share Prices over time (2015) plot using cvsplot\[/caption\] ## Car Engine Model
+## Apple Share Prices
 
-The following show a hypothetical car engine model which speed increase of decrease over time based on the feedback of the gas pedal. The CSV data can be downloaded here: \[download id="2214" template="title"\] \[caption id="attachment\_2182" align="alignnone" width="855"\][![Car Engine Model plot using cvsplot](https://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png)](https://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png) Car Engine Model plot using cvsplot\[/caption\] ## Sin(x), Cos(x) and Log(x)
+The following example show the Apple Share Prices closing value over the year 2015. The data is provided by Nasdaq at the following address: <http://www.nasdaq.com/symbol/aapl/historical>. The CSV data can be downloaded here: \[download id="2212" template="title"\] \[caption id="attachment\_2199" align="alignnone" width="802"\][![Apple Share Prices over time (2015) plot using cvsplot](https://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png)](https://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png) Apple Share Prices over time (2015) plot using cvsplot\[/caption\]
 
-The following show a graph of sin(), cos() and log() function in Excel. The CSV data can be downloaded here: \[download id="2216" template="title"\] \[caption id="attachment\_2205" align="alignnone" width="802"\][![sin(x), cos(x) & log(x) plot using cvsplot](https://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png)](https://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png) sin(x), cos(x) &amp; log(x) plot using cvsplot\[/caption\] # License
+## Car Engine Model
+
+The following show a hypothetical car engine model which speed increase of decrease over time based on the feedback of the gas pedal. The CSV data can be downloaded here: \[download id="2214" template="title"\] \[caption id="attachment\_2182" align="alignnone" width="855"\][![Car Engine Model plot using cvsplot](https://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png)](https://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png) Car Engine Model plot using cvsplot\[/caption\]
+
+## Sin(x), Cos(x) and Log(x)
+
+The following show a graph of sin(), cos() and log() function in Excel. The CSV data can be downloaded here: \[download id="2216" template="title"\] \[caption id="attachment\_2205" align="alignnone" width="802"\][![sin(x), cos(x) & log(x) plot using cvsplot](https://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png)](https://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png) sin(x), cos(x) &amp; log(x) plot using cvsplot\[/caption\]
+
+# License
 
 This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **DISCLAIMER:**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 

@@ -70,7 +70,9 @@ Il n'y a rien de spécial à dire pour l'assemblage des barreaux. Chacun est esp
 
 ### Fixation à la rampe
 
-L'innovation de cette barrière pour bébé est attribuée au moyen utilisé pour la fixation à la rampe. En effet, celle-ci n'est pas intrusive et ne laissera pas de marque sur la rampe lorsque la barrière ne serait plus nécessaire. Aucune attache ou colle est nécessaire et l'ensemble est aussi solide qu'auparavant. La rampe est composée de 2 barreaux verticaux situés de chaque côté de la rampe horizontal. [![IMG_9308](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9308-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9308.jpg)La planche de 2x4 se fixe par pression à la rampe d'escalier afin d'éviter de laisser une trace sur la rampe d'escalier une fois enlevée. Puisque la rampe d'escalier est composé de deux barreaux, j'ai décidé de visser un morceau de bois dans le bas de la planche qui va s'encastrer entre les barreaux pour assurer que la planche reste verticale et à sa place à l'ouverture et la fermeture de la barrière. [![IMG_9295](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9295-300x200.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9295.jpg)## Teinture
+L'innovation de cette barrière pour bébé est attribuée au moyen utilisé pour la fixation à la rampe. En effet, celle-ci n'est pas intrusive et ne laissera pas de marque sur la rampe lorsque la barrière ne serait plus nécessaire. Aucune attache ou colle est nécessaire et l'ensemble est aussi solide qu'auparavant. La rampe est composée de 2 barreaux verticaux situés de chaque côté de la rampe horizontal. [![IMG_9308](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9308-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9308.jpg)La planche de 2x4 se fixe par pression à la rampe d'escalier afin d'éviter de laisser une trace sur la rampe d'escalier une fois enlevée. Puisque la rampe d'escalier est composé de deux barreaux, j'ai décidé de visser un morceau de bois dans le bas de la planche qui va s'encastrer entre les barreaux pour assurer que la planche reste verticale et à sa place à l'ouverture et la fermeture de la barrière. [![IMG_9295](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9295-300x200.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9295.jpg)
+
+## Teinture
 
 Une fois l'assemblage terminé, il ne reste qu'à teindre le bois à la bonne couleur. [![DSC02242](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02242-300x225.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02242.jpg)Lorsque vous appliquez une teinture, vous devez faire attention de ne pas la juger à son apparence lorsqu'elle n'est pas sèche. En effet, une teinture comme celle sur les photos est d'une apparence brun-mauve lorsqu'elle est appliquée sur le bois.
 
@@ -82,7 +84,9 @@ Pour la fixation au mur, j'ai utilisé 1 des barreaux qui sera vissé dans le mu
 
 # Résultat final
 
-Voici le résultat final: [![DSC02297](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02297-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02297.jpg)[![DSC02299](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299-768x1024.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299.jpg)# Quoi recommencer autrement ?
+Voici le résultat final: [![DSC02297](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02297-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02297.jpg)[![DSC02299](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299-768x1024.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299.jpg)
+
+# Quoi recommencer autrement ?
 
 ### Prendre son temps et ne pas sauter d'étape
 

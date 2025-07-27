@@ -45,7 +45,9 @@ The material for this project is as follows:
 
 ### Other material
 
-\[gallery link="file" ids="526,525,524,523,522,521" orderby="rand"\] ## <span style="line-height: 1.5;">Total cost of the project</span>
+\[gallery link="file" ids="526,525,524,523,522,521" orderby="rand"\]
+
+## <span style="line-height: 1.5;">Total cost of the project</span>
 
 This project is really cheap and can be completed with less than 10$. Here is the detailed price of each items:
 
@@ -70,7 +72,9 @@ This is the first step and allows you to verify if your camera will properly rea
 
 ## Soldering the audio plug
 
-[![IMG_8785](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785.jpg)I do recommend that you start with soldering of the audio plug to the cable. This is the easiest part and can be completed quickly. Take off the protective cap of the audio plug leaving the pins exposed. Pass the cable through the protective cap so that once finished, you can put the cap back on the audio plug. Cut 3 pieces of 1/8 inch (each) from the heat shrink tubing. Insert a piece of tubing over each wire that we are about to solder: black, red and green. Locate the black wire of the cable. This is the ground wire. Skin a small amount of the cable (1/8 inch) and solder to the ground connector of the audio plug which is the longest pin. Locate the red wire. This cable will trigger the shutter. Solder the wire to the left pin of the plug. Solder the green wire (last) to the right pin of the plug. This will trigger the auto-focus of your camera. Cut the yellow wire. You won't need it. Put the heat shrink tubing over each soldered section to protect the circuit. If you have issues finding which pin are what, refer to the following image: \[caption id="attachment\_528" align="aligncenter" width="474"\][![Audio plug 2.5 mm pins usage](https://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg) Audio plug 2.5 mm pins usage\[/caption\] ## Drilling
+[![IMG_8785](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785.jpg)I do recommend that you start with soldering of the audio plug to the cable. This is the easiest part and can be completed quickly. Take off the protective cap of the audio plug leaving the pins exposed. Pass the cable through the protective cap so that once finished, you can put the cap back on the audio plug. Cut 3 pieces of 1/8 inch (each) from the heat shrink tubing. Insert a piece of tubing over each wire that we are about to solder: black, red and green. Locate the black wire of the cable. This is the ground wire. Skin a small amount of the cable (1/8 inch) and solder to the ground connector of the audio plug which is the longest pin. Locate the red wire. This cable will trigger the shutter. Solder the wire to the left pin of the plug. Solder the green wire (last) to the right pin of the plug. This will trigger the auto-focus of your camera. Cut the yellow wire. You won't need it. Put the heat shrink tubing over each soldered section to protect the circuit. If you have issues finding which pin are what, refer to the following image: \[caption id="attachment\_528" align="aligncenter" width="474"\][![Audio plug 2.5 mm pins usage](https://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg) Audio plug 2.5 mm pins usage\[/caption\]
+
+## Drilling
 
 Next you have to drill two holes in the project box to insert the switches. Take your time to look for the best location for inserting your switches. I made my holes at a 90 degrees angle so that I could activate auto-focus with my index and activate the shutter with my thumb. A third hole is also required at the bottom of the box to insert the cable. If you project box is too fragile, you may have to drill many times the same hole using bigger and bigger drill bits. Another option is to use your soldering iron to melt holes in the plastic.
 
@@ -80,7 +84,9 @@ Take your phone cable and insert the other end into the project box and tie a kn
 
 ## Mounting
 
-That should be obvious... <span style="font-size: 26px; font-weight: bold; line-height: 1.3846153846;">Final Result</span>Here is the final result: \[caption id="attachment\_535" align="aligncenter" width="474"\][![DIY Remote trigger shutter release cable for your Canon DSLR camera](https://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg) DIY Remote trigger shutter release cable for your Canon DSLR camera\[/caption\] # Made anything differently?
+That should be obvious... <span style="font-size: 26px; font-weight: bold; line-height: 1.3846153846;">Final Result</span>Here is the final result: \[caption id="attachment\_535" align="aligncenter" width="474"\][![DIY Remote trigger shutter release cable for your Canon DSLR camera](https://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg) DIY Remote trigger shutter release cable for your Canon DSLR camera\[/caption\]
+
+# Made anything differently?
 
 I do not think that I would make anything differently. Everything is pretty much like the way I wanted.
 

@@ -50,7 +50,9 @@ Possible use are:
 - USE\_SINGLEBIT\_MACROS
 - USE\_BITADDRESS\_READ\_WRITE
 
-<span style="line-height: 1.5;">Then assign a reading or writing buffer using the *setBuffer()* method.</span><span style="line-height: 1.5;">Then call the *write()* method for writing bits to the assigned buffer or call the *read()* method for reading bits from the assigned buffer. Each method allows one to specify the amount of bits to read or write.</span>## Making text strings shorter
+<span style="line-height: 1.5;">Then assign a reading or writing buffer using the *setBuffer()* method.</span><span style="line-height: 1.5;">Then call the *write()* method for writing bits to the assigned buffer or call the *read()* method for reading bits from the assigned buffer. Each method allows one to specify the amount of bits to read or write.</span>
+
+## Making text strings shorter
 
 Storing words composed of only lower case letters, spaces and dots requires only 5 bits per characters instead of 8 bits (which saves 3 bits per character). The phase "*hello my name is antoine. i wrote the bitreader library.*" takes 56 bytes as an array of char but uses 35 bytes as 5 bits chunks. Allow 6 bits per characters and you can also include capital letters and numbers: "*Hello my name is Antoine. I wrote the BitReader library when I was 34 years old.*" takes 80 bytes as an array of char but only requires 60 bytes as 6 bits chunks.
 
