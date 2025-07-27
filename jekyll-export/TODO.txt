@@ -11,7 +11,7 @@ images from `www.end2endzone.com`
 \[download id="628"\]
 	\[download id="1893" template="button"\]
 div
-	<div class="rcchannels">
+	<div class="rc-channels">
 	<div class="pleasenote">
 	<div class="quotesection">
 	</div>

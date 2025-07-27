@@ -108,6 +108,31 @@ Table with no header (all first row has empty cells):
 | Second   | david    | $30,000  | $15,000  |
 | Last     | marry    | $40,000  | $15,000  |
 
+RC transmitter channels:
+
+<div class="rc-channels">
+
+||||
+|---|---|---|
+| CH 1 | : | Throttle |
+| CH 2 | : | Rudder |
+| CH 3 | : | Ailerons |
+| CH 4 | : | Elevator |
+| CH 5 | : | Flight mode |
+| CH 6 | : | ??? |
+
+</div>
+
+<div class="rc-channels">
+
+||||
+|---|---|---|
+| High | = | 100% |
+| Low | = | -100% |
+| Offset | = | 0% |
+
+</div>
+
 
 # Image Galleries (as tables)
 

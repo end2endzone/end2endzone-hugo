@@ -95,12 +95,16 @@ Mix a small amount of Flaps in Elevator (the opposite way) to prevent the "bump"
 
 ## Cancelling a switch
 
-A mix can also be used to cancel a switch assigned to a channel. If you need to invalidate/ignore a switch, a mix can cancel out the effect. In other words, the assigned channel will be reset to 0 (center position) what ever the switch position is. Use the following mix values to cancel a switch: <div class="rcchannels">| High | = | 100% |
+A mix can also be used to cancel a switch assigned to a channel. If you need to invalidate/ignore a switch, a mix can cancel out the effect. In other words, the assigned channel will be reset to 0 (center position) what ever the switch position is. Use the following mix values to cancel a switch:
+
+<div class="rc-channels">
+| High | = | 100% |
 |---|---|---|
 | Low | = | -100% |
 | Offset | = | 0% |
+</div>
 
-</div>This trick can come valuable in some situation.
+This trick can come valuable in some situation.
 
 ## Forcing a value
 
@@ -114,21 +118,27 @@ By combining [Cancelling a switch](#Cancelling_a_switch) and [Forcing a value](#
 
 ## Positive only mix
 
-Use the following mix to cancel the negative portion of a switch resulting in an effective range of 0% to 100%. <div class="rcchannels">| High | = | 50% |
+Use the following mix to cancel the negative portion of a switch resulting in an effective range of 0% to 100%.
+
+<div class="rc-channels">
+| High | = | 50% |
 |---|---|---|
 | Low | = | 0% |
 | Offset | = | -100% |
-
 </div>
 
 ## Parabolic mix
 
-Use the following to get an effective range of 100% to 0% to 100%. <div class="rcchannels">| High | = | 100% |
+Use the following to get an effective range of 100% to 0% to 100%.
+
+<div class="rc-channels">
+| High | = | 100% |
 |---|---|---|
 | Low | = | -100% |
 | Offset | = | 0% |
+</div>
 
-</div>In other words:
+In other words:
 
 - A knob will show 100% when completely clockwise or counter clockwise but show 0% when halfway turned.
 - A 3-position switch will show 100% in Position 0 and Position 2 but 0% in Position 1.
@@ -136,12 +146,16 @@ Use the following to get an effective range of 100% to 0% to 100%. <div class="r
 
 ## Inverted polarity mix
 
-Use the following to invert the polarity of a switch or a knob resulting in an effective range from +100 to -100 instead of -100 to +100. <div class="rcchannels">| High | = | 100% |
+Use the following to invert the polarity of a switch or a knob resulting in an effective range from +100 to -100 instead of -100 to +100.
+
+<div class="rc-channels">
+| High | = | 100% |
 |---|---|---|
 | Low | = | -100% |
 | Offset | = | 0% |
+</div>
 
-</div>This feature may be required if a transmitter does not support native inverting for the desired switch. A possible use to this kind of mix is for handling ailerons when each aileron have their own servo and channel.
+This feature may be required if a transmitter does not support native inverting for the desired switch. A possible use to this kind of mix is for handling ailerons when each aileron have their own servo and channel.
 
 # The Mathematical calculations
 
@@ -158,26 +172,42 @@ A 3-position switch will define 3 values for a given mix: Position 0, Position 1
 
 The following equation will help you solve an endless issue: How to calculate a mix boundaries: <div class="quotesection">OffsetTravel = (switch default travel (see below)) - Offset if OffsetTravel &lt; 0 SwitchMixValue = OffsetTravel / 100 \* Low rate else SwitchMixValue = OffsetTravel / 100 \* High rate
 
-</div>A 3-position switch has the following default travel values: <div class="rcchannels">| Position 0 | : | -100% |
+</div>A 3-position switch has the following default travel values:
+
+<div class="rc-channels">
+| Position 0 | : | -100% |
 |---|---|---|
 | Position 1 | : | 0% |
 | Position 2 | : | +100% |
+</div>
 
-</div>And a 2-position switch has the following default travel values: <div class="rcchannels">| Position 0 | : | -100% |
+And a 2-position switch has the following default travel values:
+
+<div class="rc-channels">
+| Position 0 | : | -100% |
 |---|---|---|
 | Position 1 | : | +100% |
+</div>
 
-</div>For instance, the following mix: <div class="rcchannels">| High | = | 50% |
+For instance, the following mix:
+
+<div class="rc-channels">
+| High | = | 50% |
 |---|---|---|
 | Low | = | 50% |
 | Offset | = | 0% |
+</div>
 
-</div>assigned to a 3-position switch, will add the following values to its Slave Channel: <div class="rcchannels">| Position 0 | : | +50% |
+assigned to a 3-position switch, will add the following values to its Slave Channel:
+
+<div class="rc-channels">
+| Position 0 | : | +50% |
 |---|---|---|
 | Position 1 | : | 0% |
 | Position 2 | : | -50% |
+</div>
 
-</div>The easiest way to calculate a mix boundaries is to use this [Excel Worksheet](/rc-transmitter-mix-calculator/).
+The easiest way to calculate a mix boundaries is to use this [Excel Worksheet](/rc-transmitter-mix-calculator/).
 
 ## Combining mixes
 
