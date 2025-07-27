@@ -41,7 +41,7 @@ Skip to the [download section](#Download) for quick download.
 See this post for a [quick recall of the RTTTL format](/nonblockingrtttl-a-non-blocking-arduino-library-for-playing-rtttl-melodies/#Quick_recall_of_the_RTTTL_format).
 
 {{< postedit >}}
-  Edit: for a better understanding and examples of what libRTTTL can do, please see this post:&nbsp;**[How to convert arduino code to actual RTTTL melodies using libRtttl and AnyRtttl](http://www.end2endzone.com/how-to-convert-arduino-code-to-actual-rtttl-melodies-using-librtttl-and-anyrtttl/ "Edit “How to convert arduino code to actual RTTTL melodies using libRtttl and AnyRtttl”").**
+  Edit: for a better understanding and examples of what libRTTTL can do, please see this post:&nbsp;**[How to convert arduino code to actual RTTTL melodies using libRtttl and AnyRtttl](http://www.end2endzone.com/how-to-convert-arduino-code-to-actual-rtttl-melodies-using-librtttl-and-anyrtttl/).**
 {{< /postedit >}}
 
 

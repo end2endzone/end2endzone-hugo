@@ -24,7 +24,7 @@ tags:
 
 # Introduction
 
-The following article is about another library that I have written: libRtttl is a c++ library for manipulating the RTTTL audio format. Skip to the [download section](#Download) for quick download. See this post for a [quick recall of the RTTTL format](/nonblockingrtttl-a-non-blocking-arduino-library-for-playing-rtttl-melodies/#Quick_recall_of_the_RTTTL_format). Edit: for a better understanding and examples of what libRTTTL can do, please see this post: **[How to convert arduino code to actual RTTTL melodies using libRtttl and AnyRtttl](https://www.end2endzone.com/how-to-convert-arduino-code-to-actual-rtttl-melodies-using-librtttl-and-anyrtttl/ "Edit “How to convert arduino code to actual RTTTL melodies using libRtttl and AnyRtttl”").**
+The following article is about another library that I have written: libRtttl is a c++ library for manipulating the RTTTL audio format. Skip to the [download section](#Download) for quick download. See this post for a [quick recall of the RTTTL format](/nonblockingrtttl-a-non-blocking-arduino-library-for-playing-rtttl-melodies/#Quick_recall_of_the_RTTTL_format). Edit: for a better understanding and examples of what libRTTTL can do, please see this post: **[How to convert arduino code to actual RTTTL melodies using libRtttl and AnyRtttl](https://www.end2endzone.com/how-to-convert-arduino-code-to-actual-rtttl-melodies-using-librtttl-and-anyrtttl/).**
 
 # Purpose
 

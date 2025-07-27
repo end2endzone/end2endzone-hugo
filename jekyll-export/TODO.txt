@@ -1,6 +1,3 @@
-Weird characters
-	“
-	”
 jekyll shortcodes
 	characters `\`
 	\[su\_spacer size="30"\]

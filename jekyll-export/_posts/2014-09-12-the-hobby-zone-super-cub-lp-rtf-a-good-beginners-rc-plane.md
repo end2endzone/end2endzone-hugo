@@ -22,11 +22,11 @@ During summer 2013, I have found myself with a high interest in flying an RC pla
 
 ## Everything is included
 
-The plane is available as a RTF model. RTF stands for “Ready To Fly” which means that everything is included and already assembled in the package to get outside and have fun immediately. Even the batteries are included in the package which technically means that you need to charge them before you can get out and fly.
+The plane is available as a RTF model. RTF stands for "Ready To Fly" which means that everything is included and already assembled in the package to get outside and have fun immediately. Even the batteries are included in the package which technically means that you need to charge them before you can get out and fly.
 
 ## Small factor
 
-The plane is small enough for most usage. It can fit nicely into the trunk of a car for easy traveling. The plane is only 32.5” in length and the wings are 48” in length. The fuselage and the wings are detachable so you do not have to travel with the plane assembled and risking breaking something.
+The plane is small enough for most usage. It can fit nicely into the trunk of a car for easy traveling. The plane is only 32.5" in length and the wings are 48" in length. The fuselage and the wings are detachable so you do not have to travel with the plane assembled and risking breaking something.
 
 ## Cheap
 
@@ -42,7 +42,7 @@ Landing is the hardest task to do for a beginner. Since this plane is made of fo
 
 ## Expendable
 
-This plane is really popular. Eventually, if you decide to go into this hobby, you will change for a more challenging plane for flying since this plane is not made for aerobatic flights. If you search the internet, you will find tons of documentation that explains how to modify the plane to get a second life you your plane. Some of the best mods are “Adding ailerons” to your wings or “Replacing the motor for a brushless motor”. You can also order multiple add-ons for the plane to enjoy a little more of the Super Cub. You can order online (or from your local hobby shop) for a relatively cheap price the following add-ons:
+This plane is really popular. Eventually, if you decide to go into this hobby, you will change for a more challenging plane for flying since this plane is not made for aerobatic flights. If you search the internet, you will find tons of documentation that explains how to modify the plane to get a second life you your plane. Some of the best mods are "Adding ailerons" to your wings or "Replacing the motor for a brushless motor". You can also order multiple add-ons for the plane to enjoy a little more of the Super Cub. You can order online (or from your local hobby shop) for a relatively cheap price the following add-ons:
 
 - Snow skis to fly the plane during winter.
 - Float set for takeoff and landing on a lake.
@@ -56,7 +56,7 @@ This is the most annoying feature of the Super Cub. Since it does not have ailer
 
 ## Anti-crash technology (ATC) is a mess
 
-I never trusted this technology. It is based on a light sensor on top and bottom of the plane which detect which side is the lightest and which is the darkest and assumes that dark side is the ground. If the system detect that light side is “under” your plane, it will try to recover by taking the ownership of the commands. This means that flying the plane on a cloudy day or over a light ground area can be disastrous. The system can be turned off by flipping a switch on your controller but I would tend to forget to check these before a flight. Don’t even think to make a loop with this system turned on because that would be bad. I don’t know about you, but if I crash my plane, I has to be my fault and not the one of a faulty system that made a wrong decision. Aside of that, you \*may\* (and this is the key word) find some examples on the net were this technology saved their plane from a potential crash. Good news is this technology can be permanently disabled by unplugging both sensors.
+I never trusted this technology. It is based on a light sensor on top and bottom of the plane which detect which side is the lightest and which is the darkest and assumes that dark side is the ground. If the system detect that light side is "under" your plane, it will try to recover by taking the ownership of the commands. This means that flying the plane on a cloudy day or over a light ground area can be disastrous. The system can be turned off by flipping a switch on your controller but I would tend to forget to check these before a flight. Don’t even think to make a loop with this system turned on because that would be bad. I don’t know about you, but if I crash my plane, I has to be my fault and not the one of a faulty system that made a wrong decision. Aside of that, you \*may\* (and this is the key word) find some examples on the net were this technology saved their plane from a potential crash. Good news is this technology can be permanently disabled by unplugging both sensors.
 
 # Final decision
 

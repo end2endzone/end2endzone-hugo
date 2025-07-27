@@ -32,7 +32,7 @@ tags:
 ---
 # Introduction
 
-The following arduino library was written to use the findings found during the _**[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/ "Edit “Mapping RC Transmitter PWM signal to actual transmitter values”"){.row-title}**_&nbsp;article. All results were wrapped into a library for ease of use.
+The following arduino library was written to use the findings found during the _**[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/){.row-title}**_&nbsp;article. All results were wrapped into a library for ease of use.
 
 The RcReceiverSignal is an arduino library that allows one to read a signal sent from a Remote Controlled (RC) receiver.<!--more-->
 
@@ -44,7 +44,7 @@ The RcReceiverSignal library allows one to easily configure an input pin to read
 
 It allows the main loop to retrieve the latest received pulse length (PWM) and convert the pulse length back to the actual transmitter signal value (ranging from -150% to 150%).
 
-The library supports automatic PWM signal change detection. The library's ability to convert a PWM value to the actual transmitter numeric value is based on empirical tests available at _**[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/ "Edit “Mapping RC Transmitter PWM signal to actual transmitter values”"){.row-title}.**_
+The library supports automatic PWM signal change detection. The library's ability to convert a PWM value to the actual transmitter numeric value is based on empirical tests available at _**[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/){.row-title}.**_
 
 # Library features
 
