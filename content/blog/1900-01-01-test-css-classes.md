@@ -13,8 +13,12 @@ hey this is my text default color
 
 [this is a link to google.com](http://google.com)
 
-this is another line of text{#id .pleasenote}
+this is another line of text
 
+&nbsp;
+&nbsp;
+
+**Heading:**
 
 # h1
 Text in header 1 [this is a link to google.com](http://google.com)
@@ -35,8 +39,6 @@ Text in header 5 [this is a link to google.com](http://google.com)
 Text in header 6 [this is a link to google.com](http://google.com)
 
 ![Flowers](/wp-content/uploads/2015/01/MSBuildReorder-How-to-reorder-a-Visual-Studio-build-log-for-easy-reading.png)
-
-## heading ## {#id .className attrName=attrValue class="class1 class2"}
 
 # Custom css classes
 
@@ -99,12 +101,12 @@ HTML 5 table:
 | Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy    |
 
 
-Plain html table:
-| <!-- --> | <!-- --> | <!-- --> |
-|----------|----------|----------|
-| john     | $20,000  | $10,000  |
-| david    | $30,000  | $15,000  |
-| marry    | $40,000  | $15,000  |
+Table with no header (all first row has empty cells):
+|||||
+|----------|----------|----------|----------|
+| First    | john     | $20,000  | $10,000  |
+| Second   | david    | $30,000  | $15,000  |
+| Last     | marry    | $40,000  | $15,000  |
 
 
 # Image Galleries (as tables)
