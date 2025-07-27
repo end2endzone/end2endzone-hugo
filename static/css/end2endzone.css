@@ -38,7 +38,6 @@ form input,select,textarea {
 
 
 
-
 /* share-menu */
 #share-menu {
   background: RGB(46,52,54); /* darker grey */
@@ -91,6 +90,8 @@ h1, h2, h3, h4, h5, h6 {
 .title h2 {
   text-transform: uppercase;
 }
+
+
 
 /* Define the color of the top menu header */
 #site-header {
@@ -162,6 +163,7 @@ table:not(pre>code>table) tbody tr:hover {
 }
 
 
+
 /* Image galleries */
 /* Disable default table CSS */
 .image-gallery figure,
@@ -205,6 +207,31 @@ table:not(pre>code>table) tbody tr:hover {
 }
 
 
+
+/* Single figure */
+figure:not(.image-gallery figure) {
+    background: #444;
+    margin: 1px auto;
+    max-width: 85%;
+    padding: 5px;
+    width: fit-content;
+}
+figure:not(.image-gallery figure) img {
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+figcaption {
+    color: white;
+    font-size: .8em;
+    font-style: italic;
+    text-align: left;
+    padding: 1px;
+    text-box-trim: trim-end;
+}
+
+
+
 /* Define all the sidebars with black background. Select by id */
 #site-intro, #site-sidebar, #site-footer, .mini-post {
   color: white;
@@ -232,6 +259,7 @@ article, .post {
 .search-input {
     width: 600px;
 }
+
 
 
 /* When paragraph should be displayed as warning notes */
@@ -318,6 +346,100 @@ article, .post {
     border: 2px solid #4c941c;
     border-radius: 10px;
     display: inline-block;
+}
+
+
+
+/* Download Monitor from Mike Jolley */
+.download-button
+{
+	color: #ffffff !important;
+	/*background-color: #00FF00;
+	background-image:none;
+	background-image:none;*/
+}
+.download-button:hover
+{
+	color: #ffffff !important;
+	/*background-color: #FFFFFF;
+	background-image:none;
+	background-image:none;*/
+}
+
+
+
+/* 3D buttons */
+.windows-button3d
+{
+	/* outter border of the button */
+	color: black;
+	position: relative;
+	background: rgb(240,240,240);
+	padding: 2px;
+
+	border-style: solid;
+	border-width: 1px;
+	border-top-color: white;
+	border-right-color: rgb(105,105,105);
+	border-bottom-color: rgb(105,105,105);
+	border-left-color: white;
+}
+.windows-button3d::after
+{
+	/* inner border of the button */
+	content: "";
+	position: absolute;
+	bottom: 0px;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+
+	border-style: solid;
+	border-width: 1px;
+	border-top-color: rgb(227,227,227);
+	border-right-color: rgb(160,160,160);
+	border-bottom-color: rgb(160,160,160);
+	border-left-color: rgb(227,227,227);
+}
+.windows-button3d_outter
+{
+	padding-bottom: 1px;
+	padding-top: 1px;
+
+	border-style: solid;
+	border-width: 1px;
+	border-top-color: white;
+	border-right-color: rgb(105,105,105);
+	border-bottom-color: rgb(105,105,105);
+	border-left-color: white;
+}
+.windows-button3d_inner
+{
+	color: black;
+	background: rgb(240,240,240);
+
+	border-style: solid;
+	border-width: 1px;
+	border-top-color: rgb(227,227,227);
+	border-right-color: rgb(160,160,160);
+	border-bottom-color: rgb(160,160,160);
+	border-left-color: rgb(227,227,227);
+}
+.windows-button3d_border {
+	color: black ;
+	background-color: #9cf ;
+	border-top: 1px solid #c0ffff ;
+	border-right: 1px solid #00f ;
+	border-bottom: 1px solid #00f ;
+	border-left: 1px solid #c0ffff ;
+}
+.windows-button3d_outset {
+	color: #000 ;
+	background-color: #ffb200 ;
+	border: 1px outset #b37d00 ;
+	width: 180px ;
+	text-decoration: none ;
+	display: block ;
 }
 
 
