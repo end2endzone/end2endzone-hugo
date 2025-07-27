@@ -2,6 +2,8 @@ jekyll shortcodes
 	characters `\`
 \[caption id="attachment\_387" align="aligncenter" width="474"\]
 \[gallery
+tables:
+	[space]|
 <span
 	<span style="line-height: 1.5;">
 	<span style="text-align: justify; line-height: 1.5;">
@@ -11,7 +13,6 @@ images from `www.end2endzone.com`
 \[download id="628"\]
 	\[download id="1893" template="button"\]
 div
-	<div class="rc-channels">
 	<div class="pleasenote">
 	<div class="quotesection">
 	</div>

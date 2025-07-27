@@ -28,15 +28,16 @@ tags:
 
 In a personal project, I wanted to add 2 new devices to an existing quadcopter. The quadcopter was equipped with a 6-channel receiver meaning I only had 1 spare channel to control the 2 devices:
 
-<div class="rc-channels">
-| CH 1 | : | Throttle |
+{{< rc-channels >}}
+||||
 |---|---|---|
+| CH 1 | : | Throttle |
 | CH 2 | : | Rudder |
 | CH 3 | : | Ailerons |
 | CH 4 | : | Elevator |
 | CH 5 | : | Flight mode |
 | CH 6 | : | ??? |
-</div>
+{{< /rc-channels >}}
 
 The following article explains how I manage to solve the issue: *How can I control more than one device using a single channel*. EDIT: To make all mixing pre-calculations easier, do not hesitate to use my [Mixing Calculator for R/C Transmitter](/rc-transmitter-mix-calculator/) (it's an Excel Sheet!)
 
@@ -118,12 +119,13 @@ The block size must also have a minimum size to account for the same effect. If 
 
 Based on my observation, the best values for block size and dead zone size are as follow: A block size of 10 steps is big enough to allow multiplexing a high amount of switches while leaving enough space for a reasonable dead zone between blocks. At the same time, a block size of 10 steps allows the blocks to be rounded easily which makes blocks offsets easy to calculate. The acceptable dead zone size (considering the average precision of most micro-controller and receivers), does not need to be bigger than 2 steps. This configuration leaves two blocks spaced by 4 steps which is enough to prevent issues. The following values are then considered "safe and tested" to get good and stable results:
 
-<div class="rc-channels">
-| Block size | : | 10 steps |
+{{< rc-channels >}}
+||||
 |---|---|---|
+| Block size | : | 10 steps |
 | Dead zone | : | 2 steps |
 | Effective size | : | 6 steps |
-</div>
+{{< /rc-channels >}}
 
 ## Mixes
 

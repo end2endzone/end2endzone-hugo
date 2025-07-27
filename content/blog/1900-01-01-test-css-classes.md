@@ -110,8 +110,7 @@ Table with no header (all first row has empty cells):
 
 RC transmitter channels:
 
-<div class="rc-channels">
-
+{{< rc-channels >}}
 ||||
 |---|---|---|
 | CH 1 | : | Throttle |
@@ -120,18 +119,15 @@ RC transmitter channels:
 | CH 4 | : | Elevator |
 | CH 5 | : | Flight mode |
 | CH 6 | : | ??? |
+{{< /rc-channels >}}
 
-</div>
-
-<div class="rc-channels">
-
+{{< rc-channels >}}
 ||||
 |---|---|---|
 | High | = | 100% |
 | Low | = | -100% |
 | Offset | = | 0% |
-
-</div>
+{{< /rc-channels >}}
 
 
 # Image Galleries (as tables)

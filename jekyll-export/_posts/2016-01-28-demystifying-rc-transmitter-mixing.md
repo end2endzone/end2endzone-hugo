@@ -97,12 +97,13 @@ Mix a small amount of Flaps in Elevator (the opposite way) to prevent the "bump"
 
 A mix can also be used to cancel a switch assigned to a channel. If you need to invalidate/ignore a switch, a mix can cancel out the effect. In other words, the assigned channel will be reset to 0 (center position) what ever the switch position is. Use the following mix values to cancel a switch:
 
-<div class="rc-channels">
-| High | = | 100% |
+{{< rc-channels >}}
+||||
 |---|---|---|
+| High | = | 100% |
 | Low | = | -100% |
 | Offset | = | 0% |
-</div>
+{{< /rc-channels >}}
 
 This trick can come valuable in some situation.
 
@@ -120,23 +121,25 @@ By combining [Cancelling a switch](#Cancelling_a_switch) and [Forcing a value](#
 
 Use the following mix to cancel the negative portion of a switch resulting in an effective range of 0% to 100%.
 
-<div class="rc-channels">
-| High | = | 50% |
+{{< rc-channels >}}
+||||
 |---|---|---|
+| High | = | 50% |
 | Low | = | 0% |
 | Offset | = | -100% |
-</div>
+{{< /rc-channels >}}
 
 ## Parabolic mix
 
 Use the following to get an effective range of 100% to 0% to 100%.
 
-<div class="rc-channels">
-| High | = | 100% |
+{{< rc-channels >}}
+||||
 |---|---|---|
+| High | = | 100% |
 | Low | = | -100% |
 | Offset | = | 0% |
-</div>
+{{< /rc-channels >}}
 
 In other words:
 
@@ -148,12 +151,13 @@ In other words:
 
 Use the following to invert the polarity of a switch or a knob resulting in an effective range from +100 to -100 instead of -100 to +100.
 
-<div class="rc-channels">
-| High | = | 100% |
+{{< rc-channels >}}
+||||
 |---|---|---|
+| High | = | 100% |
 | Low | = | -100% |
 | Offset | = | 0% |
-</div>
+{{< /rc-channels >}}
 
 This feature may be required if a transmitter does not support native inverting for the desired switch. A possible use to this kind of mix is for handling ailerons when each aileron have their own servo and channel.
 
@@ -163,8 +167,10 @@ This feature may be required if a transmitter does not support native inverting 
 
 **Note:** The following is an extract of how the Spektrum transmitters calculate mixes. Please note that your mileage could vary if you use a different kind of transmitter.
 
-A 3-position switch will define 3 values for a given mix: Position 0, Position 1 and Position 2 while a 2-position switch will define 2 values for a mix: Position 0 and Position 1. Position 0 of a 2-position switch matches Position 0 of a 3-position switch and Position 1 of a 2-position switch matches Position 2 of a 3-position switch. The following table list position matches: | Switch types |
-|---|
+A 3-position switch will define 3 values for a given mix: Position 0, Position 1 and Position 2 while a 2-position switch will define 2 values for a mix: Position 0 and Position 1. Position 0 of a 2-position switch matches Position 0 of a 3-position switch and Position 1 of a 2-position switch matches Position 2 of a 3-position switch. The following table list position matches:
+
+| Switch types |
+|---|---|
 | 3-position | 2-position |
 | Position 0 | Position 0 |
 | Position 1 |  |
@@ -174,38 +180,42 @@ The following equation will help you solve an endless issue: How to calculate a 
 
 </div>A 3-position switch has the following default travel values:
 
-<div class="rc-channels">
-| Position 0 | : | -100% |
+{{< rc-channels >}}
+||||
 |---|---|---|
+| Position 0 | : | -100% |
 | Position 1 | : | 0% |
 | Position 2 | : | +100% |
-</div>
+{{< /rc-channels >}}
 
 And a 2-position switch has the following default travel values:
 
-<div class="rc-channels">
-| Position 0 | : | -100% |
+{{< rc-channels >}}
+||||
 |---|---|---|
+| Position 0 | : | -100% |
 | Position 1 | : | +100% |
-</div>
+{{< /rc-channels >}}
 
 For instance, the following mix:
 
-<div class="rc-channels">
-| High | = | 50% |
+{{< rc-channels >}}
+||||
 |---|---|---|
+| High | = | 50% |
 | Low | = | 50% |
 | Offset | = | 0% |
-</div>
+{{< /rc-channels >}}
 
 assigned to a 3-position switch, will add the following values to its Slave Channel:
 
-<div class="rc-channels">
-| Position 0 | : | +50% |
+{{< rc-channels >}}
+||||
 |---|---|---|
+| Position 0 | : | +50% |
 | Position 1 | : | 0% |
 | Position 2 | : | -50% |
-</div>
+{{< /rc-channels >}}
 
 The easiest way to calculate a mix boundaries is to use this [Excel Worksheet](/rc-transmitter-mix-calculator/).
 
