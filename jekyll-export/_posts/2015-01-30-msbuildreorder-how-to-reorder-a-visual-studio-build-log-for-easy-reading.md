@@ -30,7 +30,9 @@ Please note that MSBuildReorder source code is now moved to GitHub. Source code 
 - <span style="line-height: 1.5;">Allows quicker identification of the project that caused an error.</span>
 - Command line support.
 
-<span style="line-height: 1.5;">**Usage:** </span><span style="line-height: 1.5;">msbuildreorder \[input file\] \[output file\]</span>- **input file**: Path to the input build log file to reorder.
+<span style="line-height: 1.5;">**Usage:** </span><span style="line-height: 1.5;">msbuildreorder \[input file\] \[output file\]</span>
+
+- **input file**: Path to the input build log file to reorder.
 - **<span style="line-height: 1.5;">output file</span>**: Path of the output reordered build log file.
 
 # <span style="line-height: 1.5;">Screenshot</span>
@@ -53,7 +55,9 @@ Reordered build log:
 
 # <span style="line-height: 1.5;">Compatible with</span>
 
-<span style="line-height: 1.5;">MSBuildReorder is only available for the Windows platform and has been tested with the following version of Windows:</span>- Windows XP
+<span style="line-height: 1.5;">MSBuildReorder is only available for the Windows platform and has been tested with the following version of Windows:</span>
+
+- Windows XP
 - <span style="text-align: justify; line-height: 1.5;">Windows Vista</span>
 - <span style="text-align: justify; line-height: 1.5;">Windows 7</span>
 

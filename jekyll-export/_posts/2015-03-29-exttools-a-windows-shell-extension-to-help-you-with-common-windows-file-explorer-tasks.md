@@ -19,7 +19,11 @@ tags:
 
 # What is extTools
 
-extTools is a fast and innovative FREEWARE (for non-commercial use) software suite to help you executing common tasks in Windows File Explorer more easily. <span style="line-height: 1.5;">It's main features are:</span>- <span style="line-height: 1.5;">Advanced clipboard support (copy, append or </span>modify<span style="line-height: 1.5;">).</span>
+extTools is a fast and innovative FREEWARE (for non-commercial use) software suite to help you executing common tasks in Windows File Explorer more easily.
+
+<span style="line-height: 1.5;">It's main features are:</span>
+
+- <span style="line-height: 1.5;">Advanced clipboard support (copy, append or </span>modify<span style="line-height: 1.5;">).</span>
 - File operation queuing (batch copy or paste).
 - <span style="line-height: 1.5;">Better &amp; quicker file deletions.</span>
 - Powerful<span style="line-height: 1.5;"> file renaming algorithms.</span>
@@ -47,7 +51,9 @@ Below is all the tools that are included in extTools. A quick description is ava
 
 ## <span style="line-height: 1.5;">extFileRenamer</span>
 
-\[caption id="attachment\_447" align="alignnone" width="287"\][![extFileRenamer screenshot (pattern #1)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1-287x300.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png) extFileRenamer screenshot (pattern #1)\[/caption\] extFileRenamer is a powerful file renaming manager. This application can rename a bunch of files according to a pattern (with increasing numbers) or rename files using a "search &amp; replace" technique to remove the same word(s) from multiple files. extFileRenamer has the following features:
+\[caption id="attachment\_447" align="alignnone" width="287"\][![extFileRenamer screenshot (pattern #1)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1-287x300.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png) extFileRenamer screenshot (pattern #1)\[/caption\] extFileRenamer is a powerful file renaming manager. This application can rename a bunch of files according to a pattern (with increasing numbers) or rename files using a "search &amp; replace" technique to remove the same word(s) from multiple files.
+
+extFileRenamer has the following features:
 
 - Allows you to rename files using a pattern or with a "search &amp; replace" through the file names.
 - <span style="text-align: justify; line-height: 1.5;">Manually select target files to rename.</span>
@@ -82,7 +88,9 @@ To change all file extensions from DAT to RAW, set *replace from* field to ***\*
 
 ## <span style="line-height: 1.5;">Clipboard management</span>
 
-All features of extTools are available through a shell explorer add-on. A nice feature of extTools is how the clipboard is managed: \[caption id="attachment\_454" align="alignnone" width="300"\][![extTools screenshot (clipboard)](https://www.end2endzone.com/wp-content/uploads/2014/10/extTools-screenshot-clipboard-300x212.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extTools-screenshot-clipboard.png) extTools screenshot (clipboard)\[/caption\] - Copy Full Path
+All features of extTools are available through a shell explorer add-on. A nice feature of extTools is how the clipboard is managed: \[caption id="attachment\_454" align="alignnone" width="300"\][![extTools screenshot (clipboard)](https://www.end2endzone.com/wp-content/uploads/2014/10/extTools-screenshot-clipboard-300x212.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extTools-screenshot-clipboard.png) extTools screenshot (clipboard)\[/caption\]
+
+- Copy Full Path
 - Copy File name only
 - Copy Folder only
 - Append to Copy
@@ -110,7 +118,9 @@ Using extDelete would start deleting files and recovering space right away! ### 
 
 ##  extImageEncoder
 
-\[caption id="attachment\_457" align="alignnone" width="300"\][![extImageEncoder screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot-300x254.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot.png) extImageEncoder screenshot\[/caption\] extImageEncoder is an application that can hide a file/data into a picture. This process is called [steganography](http://en.wikipedia.org/wiki/Steganography). extImageEncoder does not simply append the data at the end of the image file but encodes the data into the actual pixels of the image by creating subtle change in pixel's color. If an unsuspecting user opens an encoded image into an image editor or picture viewer, it won't be able to see that a file is hidden within the image since that each change is so subtle that someone not specifically looking for it is unlikely to notice it. The following features are supported:
+\[caption id="attachment\_457" align="alignnone" width="300"\][![extImageEncoder screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot-300x254.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot.png) extImageEncoder screenshot\[/caption\] extImageEncoder is an application that can hide a file/data into a picture. This process is called [steganography](http://en.wikipedia.org/wiki/Steganography). extImageEncoder does not simply append the data at the end of the image file but encodes the data into the actual pixels of the image by creating subtle change in pixel's color. If an unsuspecting user opens an encoded image into an image editor or picture viewer, it won't be able to see that a file is hidden within the image since that each change is so subtle that someone not specifically looking for it is unlikely to notice it.
+
+The following features are supported:
 
 - Automatically detect the appropriate encoding format to preserve the original image as much as possible (reduce the amount of modified pixels).
 - Allows the encoding algorithm to keep modifying the pixels until the end of the image to evenly modify the image which hides the modified part.
@@ -123,7 +133,9 @@ extImageEncoder only supports [lossless](http://en.wikipedia.org/wiki/Lossless_c
 
 ## <span style="line-height: 1.5;">extHashCalculator</span>
 
-\[caption id="attachment\_458" align="alignnone" width="300"\][![extHashCalculator screenshot (md5)](https://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5-300x113.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png) extHashCalculator screenshot (md5)\[/caption\] extHashCalculator calculate hashes ([message digests](http://en.wikipedia.org/wiki/Message_digest)) for any kind of file. A file hash is the result of a [file verification](http://en.wikipedia.org/wiki/File_verification) process that confirms the integrity of a file. Web sites that offers downloadable content mostly provide hash values to let users know that the downloaded file is not altered (incomplete, corrupted or modified by a virus). extHashCalculator supports the following hash algorithms:
+\[caption id="attachment\_458" align="alignnone" width="300"\][![extHashCalculator screenshot (md5)](https://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5-300x113.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png) extHashCalculator screenshot (md5)\[/caption\] extHashCalculator calculate hashes ([message digests](http://en.wikipedia.org/wiki/Message_digest)) for any kind of file. A file hash is the result of a [file verification](http://en.wikipedia.org/wiki/File_verification) process that confirms the integrity of a file. Web sites that offers downloadable content mostly provide hash values to let users know that the downloaded file is not altered (incomplete, corrupted or modified by a virus).
+
+extHashCalculator supports the following hash algorithms:
 
 - CRC32
 - MD5
@@ -143,7 +155,9 @@ extImageEncoder only supports [lossless](http://en.wikipedia.org/wiki/Lossless_c
 
 \[caption id="attachment\_462" align="alignnone" width="300"\][![extAnsiPrinter screenshot (apple)](https://www.end2endzone.com/wp-content/uploads/2014/10/extAnsiPrinter-screenshot-apple-300x152.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extAnsiPrinter-screenshot-apple.png) extAnsiPrinter screenshot (apple)\[/caption\] extAnsiPrinter a command prompt only application (no GUI). It is an implementation of the old DOS driver ANSI.SYS. This driver is not available anymore on recent windows operating systems. This tools bring back this functionality and allows you to render ANSI files (\*.ans) on a windows command prompt (win32). **Usage:** extAnsiPrinter \[ansi file\] # Compatible with
 
-<span style="line-height: 1.5;">extTools is only available for the following Windows platform:</span>- Windows XP
+<span style="line-height: 1.5;">extTools is only available for the following Windows platform:</span>
+
+- Windows XP
 - <span style="text-align: justify; line-height: 1.5;">Windows Vista</span>
 - <span style="text-align: justify; line-height: 1.5;">Windows 7</span>
 

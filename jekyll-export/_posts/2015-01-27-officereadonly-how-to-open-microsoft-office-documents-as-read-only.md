@@ -39,7 +39,9 @@ You can download OfficeReadOnly by clicking on the following links:
 
 # <span style="line-height: 1.5;">Compatible with</span>
 
-<span style="line-height: 1.5;">OfficeReadOnly is only available for the Windows platform and has been tested with the following version of Windows:</span>- Windows XP
+<span style="line-height: 1.5;">OfficeReadOnly is only available for the Windows platform and has been tested with the following version of Windows:</span>
+
+- Windows XP
 - <span style="text-align: justify; line-height: 1.5;">Windows Vista</span>
 - <span style="text-align: justify; line-height: 1.5;">Windows 7</span>
 

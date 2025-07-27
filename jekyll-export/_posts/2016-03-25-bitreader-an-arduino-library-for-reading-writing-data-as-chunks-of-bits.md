@@ -30,7 +30,9 @@ Here is another arduino library that I have written. As a desktop developer, I a
 
 This BitReader library allows one to read data which is not necessarily aligned on 8, 16 or 32 bits structures. Note that since you are encoding data in binary format (bits), the trade-off is that more code is required to process/decode the data and there is a small performance delay required for decoding the data
 
-The library is useful for storing or decoding data in binary format using the minimum amount of bits. For examples... - [Shorter text strings](#Making_text_strings_shorter)
+The library is useful for storing or decoding data in binary format using the minimum amount of bits. For examples...
+
+- [Shorter text strings](#Making_text_strings_shorter)
 - [Shorter structures](#Shorter_structuresdefinition)
 - [Shorter data arrays](#Make_data_arrays_much_shorter)
 

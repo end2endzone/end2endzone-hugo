@@ -18,7 +18,9 @@ tags:
     - stars
 ---
 
-Je caresse depuis longtemps l'idée de faire des photos du ciel et des étoiles. J'ai récemment réussi à faire de [bonnes photos du ciel de Mont-Tremblant](/ciel-etoile-au-parc-nationale-du-mont-tremblant/). Par contre, je me suis vite rendu compte que la rotation de la terre était vraiment apparente dans chacune de mes photographies. Plutôt qu'essayer de la combattre, j'ai essayé de mieux la faire ressortir. J'ai donc décidé de sortir en douce de la maison une fois de plus pour pouvoir aller prendre de bonnes photos. La pollution lumineuse des villes environnantes est très nuisible pour se type de projet. Par contre, j'ai réussi à trouver un endroit à Mirabel qui est suffisamment loin de St-Jérôme et de Blainville. Une fois sur le site, j'ai installé tout mon équipement et pointé la caméra vers le Nord. J'ai capturé des photos des étoiles de façon continue de 1h13 am jusqu'au levé de soleil à 4h30 am. **Quelques statistiques**:
+Je caresse depuis longtemps l'idée de faire des photos du ciel et des étoiles. J'ai récemment réussi à faire de [bonnes photos du ciel de Mont-Tremblant](/ciel-etoile-au-parc-nationale-du-mont-tremblant/). Par contre, je me suis vite rendu compte que la rotation de la terre était vraiment apparente dans chacune de mes photographies. Plutôt qu'essayer de la combattre, j'ai essayé de mieux la faire ressortir. J'ai donc décidé de sortir en douce de la maison une fois de plus pour pouvoir aller prendre de bonnes photos. La pollution lumineuse des villes environnantes est très nuisible pour se type de projet. Par contre, j'ai réussi à trouver un endroit à Mirabel qui est suffisamment loin de St-Jérôme et de Blainville. Une fois sur le site, j'ai installé tout mon équipement et pointé la caméra vers le Nord. J'ai capturé des photos des étoiles de façon continue de 1h13 am jusqu'au levé de soleil à 4h30 am.
+
+**Quelques statistiques**:
 
 - Duré de la séance 3h17.
 - 372 photos.

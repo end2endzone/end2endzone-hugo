@@ -49,7 +49,9 @@ Note that RTTTL binary format requires an external arduino library for playback.
 
 ## Requirements
 
-The library has some compilation requirements and library dependencies which are: ### libRtttl
+The library has some compilation requirements and library dependencies which are:
+
+### libRtttl
 
 - Only Visual Studio 2008 projects files are available. Files can be manually moved to other platforms or IDE as required. Supporting other compilers is not currently planned.
 - Requires code from [BitReader](/bitreader-an-arduino-library-for-reading-writing-data-as-chunks-of-bits/) and [AnyRtttl](/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) arduino libraries, [libMidi](/libmidi-a-c-open-source-library-for-generating-single-tone-melodies-in-midi-format/) and [win32Arduino](/win32arduino-a-win32-library-that-implements-most-arduino-functions/) win32 library which are all already included in source code.

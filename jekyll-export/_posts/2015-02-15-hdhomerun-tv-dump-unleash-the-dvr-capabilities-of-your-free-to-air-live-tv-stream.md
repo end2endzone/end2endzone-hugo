@@ -20,7 +20,9 @@ tags:
 
 # HDHomeRun TV Dump
 
-<span style="line-height: 1.5;">*HdHomeRun TV Dump* is a [GUI](http://en.wikipedia.org/wiki/Graphical_user_interface) that installs over the native [HDHomeRun application](http://www.silicondust.com/support/downloads/) and allows owners to quickly take control over the free to air live TV stream. Implementing DVR capabilities on your computer becomes a easy as 1-2-3.</span>It is designed to make interaction with the device easy by automating as much as possible any task a user would like to execute. It's main features are:
+<span style="line-height: 1.5;">*HdHomeRun TV Dump* is a [GUI](http://en.wikipedia.org/wiki/Graphical_user_interface) that installs over the native [HDHomeRun application](http://www.silicondust.com/support/downloads/) and allows owners to quickly take control over the free to air live TV stream. Implementing DVR capabilities on your computer becomes a easy as 1-2-3.</span>It is designed to make interaction with the device easy by automating as much as possible any task a user would like to execute.
+
+It's main features are:
 
 - <span style="line-height: 1.5;">Quicker &amp; easier to understand and install than other DVR solutions like [MythTV](https://www.mythtv.org/) and [Windows Media Center](http://windows.microsoft.com/en-CA/windows/products/windows-media-center).</span>
 - <span style="line-height: 1.5;">Auto-detection of existing HDHomeRun devices on the network.</span>
@@ -75,7 +77,9 @@ Press {{% windows-button3d %}}OK{{% /windows-button3d %}} button to create the s
 
 # <span style="line-height: 1.5;">Compatible with</span>
 
-<span style="line-height: 1.5;">*HdHomeRun TV Dump* is only available for the Windows platform and has been tested with the following software versions:</span>- Windows Vista
+<span style="line-height: 1.5;">*HdHomeRun TV Dump* is only available for the Windows platform and has been tested with the following software versions:</span>
+
+- Windows Vista
 - <span style="text-align: justify; line-height: 1.5;">Windows 7</span>
 - HDHomeRun Setup application 20130117
 - VLC v2.1.2 (any future release should also be compatible)

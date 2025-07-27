@@ -19,7 +19,9 @@ tags:
 
 # DNS343Monitor
 
-<span style="line-height: 1.5;">DNS-343 Monitor is a tool for monitoring how much space is left on your DNS-343 NAS device.</span><span style="line-height: 1.5;">The [DNS-343](http://www.google.com/?q=dns-343) is a [Network Attached Storage](http://en.wikipedia.org/wiki/Network-attached_storage) (NAS) device that can hold as much as 4 drives. Since all the drives are shared in a Network, each disk can quickly become full. This tools allows you to see the remaining space left on each individual drives.</span>It's main features are:
+<span style="line-height: 1.5;">DNS-343 Monitor is a tool for monitoring how much space is left on your DNS-343 NAS device.</span><span style="line-height: 1.5;">The [DNS-343](http://www.google.com/?q=dns-343) is a [Network Attached Storage](http://en.wikipedia.org/wiki/Network-attached_storage) (NAS) device that can hold as much as 4 drives. Since all the drives are shared in a Network, each disk can quickly become full. This tools allows you to see the remaining space left on each individual drives.</span>
+
+It's main features are:
 
 - <span style="line-height: 1.5;">Show space left and used for each drives.</span>
 - GUI supported.
@@ -27,7 +29,9 @@ tags:
 
 **Note:** This tool requires administrator privileges on the DNS-343 for retrieving free space left.
 
-<span style="line-height: 1.5;">**Usage:**</span>- Launch application
+<span style="line-height: 1.5;">**Usage:**</span>
+
+- Launch application
 - Enters administrator credentials
 - Press GET button
 
@@ -44,7 +48,9 @@ You can download DNS-343 Monitor by clicking on the following links:
 
 # <span style="line-height: 1.5;">Compatible with</span>
 
-<span style="line-height: 1.5;">DNS343Monitor is only available for the Windows platform and has been tested with the following version of Windows:</span>- Windows XP
+<span style="line-height: 1.5;">DNS343Monitor is only available for the Windows platform and has been tested with the following version of Windows:</span>
+
+- Windows XP
 - <span style="text-align: justify; line-height: 1.5;">Windows Vista</span>
 - <span style="text-align: justify; line-height: 1.5;">Windows 7</span>
 

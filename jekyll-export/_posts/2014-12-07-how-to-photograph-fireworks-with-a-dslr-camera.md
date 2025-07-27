@@ -124,7 +124,9 @@ Take your time to check if you are correctly framed. If you are a beginner, you 
 
 # <span style="font-size: 26px; font-weight: bold; line-height: 1.3846153846;">Save for the finale</span>
 
-\[caption id="attachment\_562" align="alignnone" width="462"\]![Checking the Battery Level](https://www.end2endzone.com/wp-content/uploads/2014/12/Battery-check-2.jpg) Checking the Battery Level\[/caption\] The show is almost going to its end. The finale is coming and it is going to be short. Are you prepared ? It is the best part of the show and the one that will require the most attention for capturing great firework images. Make sure you have enough - Free space on your memory card.
+\[caption id="attachment\_562" align="alignnone" width="462"\]![Checking the Battery Level](https://www.end2endzone.com/wp-content/uploads/2014/12/Battery-check-2.jpg) Checking the Battery Level\[/caption\] The show is almost going to its end. The finale is coming and it is going to be short. Are you prepared ? It is the best part of the show and the one that will require the most attention for capturing great firework images. Make sure you have enough
+
+- Free space on your memory card.
 - <span style="text-align: justify;">Battery power left.</span>
 
 How many stills you can shoot? You do not want to have to change your memory card and swap batteries during the finale. There is a good chance that changing your battery also means that you will loose your settings which is a bad thing during the finale. You might also have to disconnect the camera from the tripod which means that I will have to zoom and set focus again.
