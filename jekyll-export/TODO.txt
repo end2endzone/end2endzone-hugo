@@ -1,0 +1,38 @@
+button3D
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="//www.youtube.com/embed/Sy1FgYUYZB4" width="420"></iframe>
+		{{< youtube 0RKpf3rK57I >}}
+		{{< youtube  >}}
+bullets with `- `
+headers
+	\[/caption\]#
+	\[/caption\] #
+	\] #
+	regex (?<![\r\n#&])#
+	regex (?<![\r\n\(#&])#
+	[space]#
+
+trashed-*.md files
+Weird characters
+	“
+	”
+jekyll shortcodes
+	characters `\`
+	\[su\_spacer size="30"\]
+\[caption id="attachment\_387" align="aligncenter" width="474"\]
+\[gallery
+<span
+	<span style="line-height: 1.5;">
+	<span style="text-align: justify; line-height: 1.5;">
+	<span style="color:
+links to `www.end2endzone.com`
+images from `www.end2endzone.com`
+\[download id="628"\]
+	\[download id="1893" template="button"\]
+div
+	<div class="rcchannels">
+	<div class="pleasenote">
+	<div class="quotesection">
+	</div>
+	</div>##
+</span>#
+.#
