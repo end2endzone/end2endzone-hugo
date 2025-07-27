@@ -97,7 +97,7 @@ This section defines the basic reasons that lead to the final design.
 
 ### Orientation of the LEDs
 
-[![IMG_7135](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg)The location of the LEDs is obvious. However, I didn't know if I had to stick the LEDs facing down or facing out of the base. If you stick the LEDs facing out, all the lower section of the room get illuminated but the light does not go as high as if the LEDs were facing down. Turns out that best method for me was to stick them facing down. Choose the option that is best for you. **Note:**<span style="line-height: 1.5;">Both options do not illuminate the people sleeping and should not disturb your lover's sleep.</span>\[su\_spacer size="30"\]
+[![IMG_7135](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg)The location of the LEDs is obvious. However, I didn't know if I had to stick the LEDs facing down or facing out of the base. If you stick the LEDs facing out, all the lower section of the room get illuminated but the light does not go as high as if the LEDs were facing down. Turns out that best method for me was to stick them facing down. Choose the option that is best for you. **Note:**<span style="line-height: 1.5;">Both options do not illuminate the people sleeping and should not disturb your lover's sleep.</span>
 
 ### <span style="font-size: 22px; font-weight: bold; line-height: 1.0909090909;">Switches</span>
 
@@ -105,7 +105,7 @@ This section defines the basic reasons that lead to the final design.
 
 ### <span style="font-size: 22px; font-weight: bold; line-height: 1.0909090909;">Dimmer</span>
 
-[![IMG_7099](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg)The dimmer is not always used in this setup. Most of the time, you want the light to be set at the minimum brightness level. In some scenarios, you will want to get more light and you will have to turn the knob of the dimmer. For this reason, I decided to position the dimmer behind the headboard. It cannot be reached when lying on the bed but it can still be reached when sitting/standing face to the headboard. \[su\_spacer size="30"\]
+[![IMG_7099](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg)The dimmer is not always used in this setup. Most of the time, you want the light to be set at the minimum brightness level. In some scenarios, you will want to get more light and you will have to turn the knob of the dimmer. For this reason, I decided to position the dimmer behind the headboard. It cannot be reached when lying on the bed but it can still be reached when sitting/standing face to the headboard.
 
 ## LED strip installation
 

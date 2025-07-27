@@ -89,4 +89,4 @@ Went I shot this waterfall, I had to get there at noon. During this time of the 
 
 ## Better composition
 
-When I was on site, I was overwhelmed by the waterfall and all the noise and the mist it was making. I completely forgot to manage to properly frame the waterfall in it's context. I picture with more vegetation and showing the trees around it would have better showed the waterfall in it's context and would have made a better picture. \[su\_spacer size="30"\]
+When I was on site, I was overwhelmed by the waterfall and all the noise and the mist it was making. I completely forgot to manage to properly frame the waterfall in it's context. I picture with more vegetation and showing the trees around it would have better showed the waterfall in it's context and would have made a better picture.

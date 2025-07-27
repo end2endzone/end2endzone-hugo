@@ -1,6 +1,5 @@
 jekyll shortcodes
 	characters `\`
-	\[su\_spacer size="30"\]
 \[caption id="attachment\_387" align="aligncenter" width="474"\]
 \[gallery
 <span
