@@ -53,11 +53,11 @@ Télécharger le script sur votre ordinateur en utilisant le lien suivant \[down
 2. Naviguer au menu ***Affichage*** du ***ruban***.
 3. Cliquer sur le bouton ***Macros*** pour ouvrir l'éditeur de macro Microsoft Visual Basic. [![](https://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)
 4. Entrer un nom de macro bidon. Par exemple '*police*'.
-5. Cliquer sur le bouton <span class="button3D">Créer</span>.
+5. Cliquer sur le bouton {{% windows-button3d %}}Créer{{% /windows-button3d %}}.
 6. Dans la fenêtre Projet, repérer les deux noeuds principaux soient ***Normal*** ou ***Project (Document1)***.
 7. Pour installer le script **définitivement sur l'ordinateur**, cliquer avec le bouton droit de la souris sur le noeud ***Normal***. Sinon, pour installer le script **uniquement dans ce fichier Word** (\*.docx), cliquer sur le noeud ***Project (Document1)***.
 8. Sélectionner l'option ***Importer un fichier...***
-9. Naviguer jusqu'à votre fichier téléchargé, sélectionnez-le et cliquer sur le bouton <span class="button3D">Ouvrir</span>.
+9. Naviguer jusqu'à votre fichier téléchargé, sélectionnez-le et cliquer sur le bouton {{% windows-button3d %}}Ouvrir{{% /windows-button3d %}}.
 10. Un nouveau noeud nommé ***Modules*** sera créer. Sous ***Modules***, vous pourrez apercevoir le nouveau module: ***ListInstalledFont***. \[caption id="attachment\_2355" align="alignnone" width="180"\][![ListInstalledFonts - Module installé sous Normal](https://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Module-installé-sous-Normal.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Module-installé-sous-Normal.jpg) ListInstalledFonts - Module installé sous Normal\[/caption\]
 11. Cliquer sur le l'icône de sauvegarde ( [![microsoft-word-save-icon](https://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg) ) pour sauvegarder le nouveau module.
 12. Fermer l'éditeur de macro Microsoft Visual Basic.
@@ -76,7 +76,7 @@ Ensuite, suivez les étapes suivante: 1. Ouvrir ***Microsoft Word***.
 2. Naviguer au menu ***Affichage*** du ***ruban***.
 3. Cliquer sur le bouton ***Macros*** pour ouvrir l'éditeur de macro Microsoft Visual Basic. [![](https://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)
 4. Entrer un nom de macro bidon. Par exemple '*police*'.
-5. Cliquer sur le bouton <span class="button3D">Créer</span>.
+5. Cliquer sur le bouton {{% windows-button3d %}}Créer{{% /windows-button3d %}}.
 6. Dans la fenêtre Projet, repérer les deux noeuds principaux soient ***Normal*** ou ***Project (Document1)***.
 7. Pour installer le script définitivement sur l'ordinateur, cliquer avec le bouton droit de la souris sur le noeud ***Normal***. Sinon, pour installer le script **uniquement dans ce fichier Word** (\*.docx), cliquer sur le noeud ***Project (Document1)***.
 8. Sélectionner l'option ***Insertion***, puis ***Module***.
@@ -95,9 +95,9 @@ Procédez avec les étapes suivantes pour exécuter le module installé: 1. Ouvr
 2. Naviguer au menu ***Affichage*** du ***ruban***.
 3. Cliquer sur le bouton ***Macros***. L'éditeur de macro Microsoft Visual Basic s’ouvrira.
 4. Sélectionner la macro ***ListInstalledFonts***. \[caption id="attachment\_2357" align="alignnone" width="550"\][![Éditeur de macro Microsoft Word - Macro ListInstalledFonts sélectionnée](https://www.end2endzone.com/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée.jpg) Éditeur de macro Microsoft Word - Macro ListInstalledFonts sélectionnée\[/caption\]
-5. Cliquer sur le bouton <span class="button3D">Exécuter</span> pour lancer l'exécution du script.
+5. Cliquer sur le bouton {{% windows-button3d %}}Exécuter{{% /windows-button3d %}} pour lancer l'exécution du script.
 6. La fenêtre suivante s'ouvrira: \[caption id="attachment\_2354" align="alignnone" width="373"\][![ListInstalledFonts - Sélection d'un exemple de texte](https://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Sélection-dun-exemple-de-texte.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Sélection-dun-exemple-de-texte.jpg) ListInstalledFonts - Sélection d'un exemple de texte\[/caption\]
-7. Entrer un exemple de texte puis cliquer sur le bouton <span class="button3D">OK</span>. Laissez le champ vide et cliquer sur le bouton <span class="button3D">OK</span> pour utiliser le pangramme anglophone "*The quick brown fox jumps over the lazy dog*".
+7. Entrer un exemple de texte puis cliquer sur le bouton {{% windows-button3d %}}OK{{% /windows-button3d %}}. Laissez le champ vide et cliquer sur le bouton {{% windows-button3d %}}OK{{% /windows-button3d %}} pour utiliser le pangramme anglophone "*The quick brown fox jumps over the lazy dog*".
 8. Patientez environ 30 secondes pendant l'exécution du script.
 
 Le document sera complété avec votre exemple de texte pour chacune des polices installées sur votre ordinateur.
