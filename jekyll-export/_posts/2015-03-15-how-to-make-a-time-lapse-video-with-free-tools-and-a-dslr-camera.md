@@ -306,4 +306,6 @@ Handbrake is the best video encoder to use for compressing your video because it
 
 # Final results
 
-The shots for this time-lapse were taken with my 18-55mm kit lens at 18mm, f/8.0, 1/30th shutter speed, ISO 1600 and 2 seconds between each shots. I accidentally left auto white balance turned on, which is what gives it that flicker. The real-time event lasted for 1 hour and 16 minutes. A total of 2264 photos was required. Here is the final result video visualized at 30 frames per seconds: https://www.youtube.com/watch?v=bPIP4BmjDAw&amp;feature=youtu.be
+The shots for this time-lapse were taken with my 18-55mm kit lens at 18mm, f/8.0, 1/30th shutter speed, ISO 1600 and 2 seconds between each shots. I accidentally left auto white balance turned on, which is what gives it that flicker. The real-time event lasted for 1 hour and 16 minutes. A total of 2264 photos was required. Here is the final result video visualized at 30 frames per seconds: 
+
+{{< youtube bPIP4BmjDAw >}}

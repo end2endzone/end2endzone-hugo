@@ -26,7 +26,11 @@ I had a good overall flight but I had an small accident with some trees at the r
 
 # The Ugly
 
-After a minute of flying, the elevator stopped responding and violently crashed the plane on the ground. Nothing more to say here. Just a painfully hard crash on the ground... Here is the video of the crash: <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="//www.youtube.com/embed/Sy1FgYUYZB4" width="420"></iframe># The explanation
+After a minute of flying, the elevator stopped responding and violently crashed the plane on the ground. Nothing more to say here. Just a painfully hard crash on the ground... Here is the video of the crash:
+
+{{< youtube Sy1FgYUYZB4 >}}
+
+# The explanation
 
 During my encounter with the trees, one of the servo got loose in its socket and the glue (silicon) that was holding the servo to the fuselage was not holding anything anymore! During the flight, the servo <span style="line-height: 1.5;">pushed itself</span><span style="line-height: 1.5;"> </span><span style="line-height: 1.5;">out of its socket instead of pushing on the elevator rod resulting in a hard crash.</span># The damage
 

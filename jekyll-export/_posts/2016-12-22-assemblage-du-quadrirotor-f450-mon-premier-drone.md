@@ -30,6 +30,8 @@ Il s'agit d'une version clone du F450 de DJI. Je l'utilise depuis plus de 2 ans 
 
 # Musique
 
-Auteur: Ash O'Connor Titre: Vibe Label: NoCopyrightSounds Reférence: <https://www.youtube.com/watch?v=B2p-jLTmFJ0># Vidéo
+Auteur: Ash O'Connor Titre: Vibe Label: NoCopyrightSounds Reférence: <https://www.youtube.com/watch?v=B2p-jLTmFJ0>
 
-\[embed width="630"\]http://www.youtube.com/watch?v=F5cZ4cucnhc\[/embed\]
+# Vidéo
+
+{{< youtube F5cZ4cucnhc >}}

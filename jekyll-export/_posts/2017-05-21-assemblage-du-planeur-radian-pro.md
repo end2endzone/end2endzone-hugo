@@ -28,6 +28,8 @@ Capture: 5 août 2016 Temps d'assemblage: 2h09m 1538 photos affichées à 30 ima
 
 # Musique
 
-Auteur: Disfigure Titre: Summer Tune Label: NoCopyrightSounds Reférence: <https://www.youtube.com/watch?v=Yw9-WYvv4y8># Vidéo
+Auteur: Disfigure Titre: Summer Tune Label: NoCopyrightSounds Reférence: <https://www.youtube.com/watch?v=Yw9-WYvv4y8>
 
-\[embed width="630"\]http://www.youtube.com/watch?v=kS1obkbLxv0\[/embed\]
+# Vidéo
+
+{{< youtube kS1obkbLxv0 >}}

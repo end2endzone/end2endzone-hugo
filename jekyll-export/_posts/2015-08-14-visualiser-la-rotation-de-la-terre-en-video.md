@@ -24,4 +24,6 @@ Je caresse depuis longtemps l'idée de faire des photos du ciel et des étoiles.
 - 372 photos.
 - 30 secondes d'exposition chacune.
 
-Afin de bien voir la rotation de la terre (ou des étoiles selon de notre point de vue), j'ai animé toutes images les une à la suite des autres en [video timelapse à l'aide de ce guide](/how-to-make-a-time-lapse-video-with-free-tools-and-a-dslr-camera/). **Voici le résultat!**(Pour une meilleur immersion/expérience, vous devez visualiser le vidéo en haute définition 1080p) https://www.youtube.com/watch?v=Hy6k6CZVbfw
+Afin de bien voir la rotation de la terre (ou des étoiles selon de notre point de vue), j'ai animé toutes images les une à la suite des autres en [video timelapse à l'aide de ce guide](/how-to-make-a-time-lapse-video-with-free-tools-and-a-dslr-camera/). **Voici le résultat!**(Pour une meilleur immersion/expérience, vous devez visualiser le vidéo en haute définition 1080p)
+
+{{< youtube Hy6k6CZVbfw >}}
