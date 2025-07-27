@@ -1,4 +1,3 @@
-trashed-*.md files
 Weird characters
 	“
 	”
