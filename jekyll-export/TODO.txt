@@ -4,6 +4,8 @@ jekyll shortcodes
 \[gallery
 tables:
 	[space]|
+	<table class="generictable"
+	<tr class="headerrow">
 <span
 	<span style="line-height: 1.5;">
 	<span style="text-align: justify; line-height: 1.5;">
@@ -12,10 +14,4 @@ links to `www.end2endzone.com`
 images from `www.end2endzone.com`
 \[download id="628"\]
 	\[download id="1893" template="button"\]
-div
-	<div class="pleasenote">
-	<div class="quotesection">
-	</div>
-	</div>##
-</span>#
-.#
+

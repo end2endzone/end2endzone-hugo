@@ -76,9 +76,13 @@ To uninstall, delete the *c:\\windows\\avfs.exe* file.
 
 ## Chaining application
 
-The basic principle in this procedure is to chain application one after the other. The output from a software becomes the input of the next and so on until the video &amp; audio streams reaches handbrake. The process is as follows: <div class="sectiondiv centerdiv" style="width: 360px;">MPEG2 recording \[icon name="arrow-right" unprefixed\_class="chainarrow"\] VirtualDub \[icon name="arrow-right" unprefixed\_class="chainarrow"\] Editing \[icon name="arrow-right" unprefixed\_class="chainarrow"\] VirtualDub \*.vdscript file (Editing backup) \[icon name="arrow-right" unprefixed\_class="chainarrow"\] VirtualDub frame serving (\*.vdr file) \[icon name="arrow-right" unprefixed\_class="chainarrow"\] Avisynth script (\*.avs) \[icon name="arrow-right" unprefixed\_class="chainarrow"\] AVSF \[icon name="arrow-right" unprefixed\_class="chainarrow"\] Virtual \*.AVI file \[icon name="arrow-right" unprefixed\_class="chainarrow"\] Handbrake encoding.
+The basic principle in this procedure is to chain application one after the other. The output from a software becomes the input of the next and so on until the video &amp; audio streams reaches handbrake.
 
-</div>
+The process is as follows:
+
+{{< renamep >}}
+MPEG2 recording ⇨ VirtualDub ⇨ Editing ⇨ VirtualDub \*.vdscript file (Editing backup) ⇨ VirtualDub frame serving (\*.vdr file) ⇨ Avisynth script (\*.avs) ⇨ AVSF ⇨ Virtual \*.AVI file ⇨ Handbrake encoding.
+{{< /renamep >}}
 
 ## Open video file in Virtualdub
 

@@ -21,4 +21,6 @@ tags:
     - photography
 ---
 
-<div class="_5pbx userContent" data-ft="{"tn":"K"}">Il est 5 heures du matin. Tout est calme et on entend quelque fois le crie d'un oiseau. Au loin, un nuage de brume surplombe le champ de légumes lui donnant l'aspect d'un lac en mouvement. Le soleil colore au ciel avec un teint rosé puis orangé. Une belle journée de vol s'annonce. </div>\[gallery columns="1" size="large" link="file" ids="1115,1113"\]
+Il est 5 heures du matin. Tout est calme et on entend quelque fois le crie d'un oiseau. Au loin, un nuage de brume surplombe le champ de légumes lui donnant l'aspect d'un lac en mouvement. Le soleil colore au ciel avec un teint rosé puis orangé. Une belle journée de vol s'annonce.
+
+\[gallery columns="1" size="large" link="file" ids="1115,1113"\]

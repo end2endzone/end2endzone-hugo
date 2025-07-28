@@ -29,16 +29,20 @@ I am really new to mixing. I have flown all my planes without ever used any mix.
 
 # What is mixing ?
 
-According to the [User Manual of the Spektrum DX9 Instruction Manual](http://www.horizonhobby.com/pdf/SPMR9900-Manual_EN.pdf), this is the definition of Mixing: <div class="quotesection">Mixing allows control input for a channel to affect more than one channel at a time.
+According to the [User Manual of the Spektrum DX9 Instruction Manual](http://www.horizonhobby.com/pdf/SPMR9900-Manual_EN.pdf), this is the definition of Mixing:
 
-Mixing functions support:
+> Mixing allows control input for a channel to affect more than one channel at a time.
 
-- Mixing a channel to another channel.
-- Mixing a channel to itself.
-- Assigning offset to a channel
-- Linking primary to secondary trim.
+> Mixing functions support:
 
-These mixes are available for each model memory. Select a channel for master and slave. Inputs for the Master Channel control both the master and Slave Channels. For example, Elevator to Flap makes elevator the Master Channel and flap the Slave Channel. Change the offset value to move the effective center position of the Slave Channel. Positive or negative value determines the direction of the offset. Offset is not available for curve mixes. </div>In other words, mixing allows you to affect a Slave Channel based on the input of another (master). By mastering the art of mixing, you will reduce the amount of small corrections you make to get the desired flight pattern.
+> - Mixing a channel to another channel.
+> - Mixing a channel to itself.
+> - Assigning offset to a channel
+> - Linking primary to secondary trim.
+
+> These mixes are available for each model memory. Select a channel for master and slave. Inputs for the Master Channel control both the master and Slave Channels. For example, Elevator to Flap makes elevator the Master Channel and flap the Slave Channel. Change the offset value to move the effective center position of the Slave Channel. Positive or negative value determines the direction of the offset. Offset is not available for curve mixes.
+
+In other words, mixing allows you to affect a Slave Channel based on the input of another (master). By mastering the art of mixing, you will reduce the amount of small corrections you make to get the desired flight pattern.
 
 A mix is composed of the following:
 
@@ -176,9 +180,17 @@ A 3-position switch will define 3 values for a given mix: Position 0, Position 1
 | Position 1 |  |
 | Position 2 | Position 1 |
 
-The following equation will help you solve an endless issue: How to calculate a mix boundaries: <div class="quotesection">OffsetTravel = (switch default travel (see below)) - Offset if OffsetTravel &lt; 0 SwitchMixValue = OffsetTravel / 100 \* Low rate else SwitchMixValue = OffsetTravel / 100 \* High rate
+The following equation will help you solve an endless issue which is "How to calculate a mix boundaries":
 
-</div>A 3-position switch has the following default travel values:
+<pre>
+OffsetTravel = (switch default travel (see below)) - Offset
+if OffsetTravel &lt; 0
+  SwitchMixValue = OffsetTravel / 100 \* Low rate
+else
+  SwitchMixValue = OffsetTravel / 100 \* High rate
+</pre>
+
+A 3-position switch has the following default travel values:
 
 {{< rc-channels >}}
 ||||

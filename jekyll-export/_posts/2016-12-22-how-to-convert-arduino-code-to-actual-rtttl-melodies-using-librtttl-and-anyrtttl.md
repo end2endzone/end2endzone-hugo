@@ -37,11 +37,11 @@ tone(8,LA3,E+S);
 delay(1+E+S);
 ```
 
-To hande these kind of program, the following code can be added at the beginning of the program. This code will output all calls to the `tone()` and `delay()` functions to the serial port. <div class="crayon-line">```
-https://www.end2endzone.com/wp-content/uploads/2016/10/Arduino-tone-and-delay-functions-overrides.ino
-```
+To hande these kind of program, the following code can be added at the beginning of the program. This code will output all calls to the `tone()` and `delay()` functions to the serial port.
 
-</div><div class="crayon-line">[su_spacer size="30"]</div><div class="crayon-line"></div>Note that the code above is later refered to as "*Arduino tone and delay functions overrides*".
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/10/Arduino-tone-and-delay-functions-overrides.ino" lang="cpp" >}}
+
+Note that the code above is later refered to as "*Arduino tone and delay functions overrides*".
 
 # Samples
 

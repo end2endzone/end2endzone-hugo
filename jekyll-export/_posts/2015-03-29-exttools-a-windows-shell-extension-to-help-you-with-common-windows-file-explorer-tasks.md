@@ -66,23 +66,67 @@ extFileRenamer has the following features:
 
 ### Pattern mode
 
-Select the ***pattern*** mode to rename photos or videos from a camera phone: Using a pattern like ***Trip to Hawaii with John (2007) ##.jpg*** you can rename the following files like this: <div class="renamediv">IMG\_8823.jpg \[icon name="arrow-right" unprefixed\_class="renamearrow"\] Trip to Hawaii with John (2007) 01.jpg IMG\_8824.jpg \[icon name="arrow-right" unprefixed\_class="renamearrow"\] Trip to Hawaii with John (2007) 02.jpg IMG\_8825.jpg \[icon name="arrow-right" unprefixed\_class="renamearrow"\] Trip to Hawaii with John (2007) 03.jpg ... IMG\_8899.jpg \[icon name="arrow-right" unprefixed\_class="renamearrow"\] Trip to Hawaii with John (2007) 77.jpg
+Select the ***pattern*** mode to rename photos or videos from a camera phone: Using a pattern like ***Trip to Hawaii with John (2007) ##.jpg*** you can rename the following files like this:
 
-</div>Adding a prefix to all files is easy with the pattern ***Trip to Hawaii with John ????????????*** which would rename all your files to something like: <div class="renamediv">IMG\_8823.jpg \[icon name="arrow-right" unprefixed\_class="renamearrow"\] Trip to Hawaii with John IMG\_8823.jpg IMG\_8824.jpg \[icon name="arrow-right" unprefixed\_class="renamearrow"\] Trip to Hawaii with John IMG\_8824.jpg IMG\_8825.jpg \[icon name="arrow-right" unprefixed\_class="renamearrow"\] Trip to Hawaii with John IMG\_8825.jpg ... IMG\_8899.jpg \[icon name="arrow-right" unprefixed\_class="renamearrow"\] Trip to Hawaii with John IMG\_8899.jpg
+{{< renamep >}}
+IMG\_8823.jpg ⇨ Trip to Hawaii with John (2007) 01.jpg
+IMG\_8824.jpg ⇨ Trip to Hawaii with John (2007) 02.jpg
+IMG\_8825.jpg ⇨ Trip to Hawaii with John (2007) 03.jpg
+...
+IMG\_8899.jpg ⇨ Trip to Hawaii with John (2007) 77.jpg
+{{< /renamep >}}
 
-</div>Complex renaming is also possible. With a pattern like ***||||||||?????? trip?????????? and Bruce ###.jpg***, you add Bruce to your picture set: <div class="renamediv">Trip to Hawaii with John IMG\_8823.jpg \[icon name="arrow-right" unprefixed\_class="renamearrow"\] Hawaii trip with John and Bruce 001.jpg Trip to Hawaii with John IMG\_8824.jpg \[icon name="arrow-right" unprefixed\_class="renamearrow"\] Hawaii trip with John and Bruce 002.jpg Trip to Hawaii with John IMG\_8825.jpg \[icon name="arrow-right" unprefixed\_class="renamearrow"\] Hawaii trip with John and Bruce 003.jpg ... Trip to Hawaii with John IMG\_8899.jpg \[icon name="arrow-right" unprefixed\_class="renamearrow"\] Hawaii trip with John and Bruce 077.jpg
+Adding a prefix to all files is easy with the pattern ***Trip to Hawaii with John ????????????*** which would rename all your files to something like:
 
-</div>
+{{< renamep >}}
+IMG\_8823.jpg ⇨ Trip to Hawaii with John IMG\_8823.jpg
+IMG\_8824.jpg ⇨ Trip to Hawaii with John IMG\_8824.jpg
+IMG\_8825.jpg ⇨ Trip to Hawaii with John IMG\_8825.jpg
+...
+IMG\_8899.jpg ⇨ Trip to Hawaii with John IMG\_8899.jpg
+{{< /renamep >}}
+
+Complex renaming is also possible. With a pattern like ***||||||||?????? trip?????????? and Bruce ###.jpg***, you add Bruce to your picture set:
+
+{{< renamep >}}
+Trip to Hawaii with John IMG\_8823.jpg ⇨ Hawaii trip with John and Bruce 001.jpg
+Trip to Hawaii with John IMG\_8824.jpg ⇨ Hawaii trip with John and Bruce 002.jpg
+Trip to Hawaii with John IMG\_8825.jpg ⇨ Hawaii trip with John and Bruce 003.jpg
+...
+Trip to Hawaii with John IMG\_8899.jpg ⇨ Hawaii trip with John and Bruce 077.jpg
+{{< /renamep >}}
 
 ### Search &amp; Replace mode
 
-To change all file extensions from DAT to RAW, set *replace from* field to ***\*.dat*** and set *replace to* field to ***\*.raw***. Click preview and you get: <div class="renamediv">file01.dat \[icon name="arrow-right" unprefixed\_class="renamearrow"\] file01.raw file02.dat \[icon name="arrow-right" unprefixed\_class="renamearrow"\] file02.raw file03.dat \[icon name="arrow-right" unprefixed\_class="renamearrow"\] file03.raw file04.dat \[icon name="arrow-right" unprefixed\_class="renamearrow"\] file04.raw file05.dat \[icon name="arrow-right" unprefixed\_class="renamearrow"\] file05.raw
+To change all file extensions from DAT to RAW, set *replace from* field to ***\*.dat*** and set *replace to* field to ***\*.raw***. Click preview and you get:
 
-</div>To change the prefix of picture files, set *replace from* to ***IMG\_*** (including underscore character) and set *replace to* to ***Circus*** (including a space character). Click preview and you get: <div class="renamediv">IMG\_8823.jpg \[icon name="arrow-right" unprefixed\_class="renamearrow"\] Circus 8823.jpg IMG\_8824.jpg \[icon name="arrow-right" unprefixed\_class="renamearrow"\] Circus 8824.jpg IMG\_8825.jpg \[icon name="arrow-right" unprefixed\_class="renamearrow"\] Circus 8825.jpg ... IMG\_8899.jpg \[icon name="arrow-right" unprefixed\_class="renamearrow"\] Circus 8899.jpg
+{{< renamep >}}
+file01.dat ⇨ file01.raw 
+file02.dat ⇨ file02.raw
+file03.dat ⇨ file03.raw
+file04.dat ⇨ file04.raw
+file05.dat ⇨ file05.raw
+{{< /renamep >}}
 
-</div>To remove the artist and album name from MP3 files, set *replace from* field to ***Linkin\_Park\_album\_Living\_Things\_*** and leave *replace to* empty. Click preview and you get: <div class="renamediv">Linkin\_Park\_album\_Living\_Things\_01\_Lost in the Echo.mp3 \[icon name="arrow-right" unprefixed\_class="renamearrow"\] 01\_Lost in the Echo.mp3 Linkin\_Park\_album\_Living\_Things\_02\_In My Remains.mp3 \[icon name="arrow-right" unprefixed\_class="renamearrow"\] 02\_In My Remains.mp3 Linkin\_Park\_album\_Living\_Things\_03\_Burn\_It\_Down.mp3 \[icon name="arrow-right" unprefixed\_class="renamearrow"\] 03\_Burn\_It\_Down.mp3 ... Linkin\_Park\_album\_Living\_Things\_12\_Powerless.mp3 \[icon name="arrow-right" unprefixed\_class="renamearrow"\] 12\_Powerless.mp3
+To change the prefix of picture files, set *replace from* to ***IMG\_*** (including underscore character) and set *replace to* to ***Circus*** (including a space character). Click preview and you get:
 
-</div>
+{{< renamep >}}
+IMG\_8823.jpg ⇨ Circus 8823.jpg
+IMG\_8824.jpg ⇨ Circus 8824.jpg
+IMG\_8825.jpg ⇨ Circus 8825.jpg
+...
+IMG\_8899.jpg ⇨ Circus 8899.jpg
+{{< /renamep >}}
+
+To remove the artist and album name from MP3 files, set *replace from* field to ***Linkin\_Park\_album\_Living\_Things\_*** and leave *replace to* empty. Click preview and you get:
+
+{{< renamep >}}
+Linkin\_Park\_album\_Living\_Things\_01\_Lost in the Echo.mp3 ⇨ 01\_Lost in the Echo.mp3
+Linkin\_Park\_album\_Living\_Things\_02\_In My Remains.mp3 ⇨ 02\_In My Remains.mp3
+Linkin\_Park\_album\_Living\_Things\_03\_Burn\_It\_Down.mp3 ⇨ 03\_Burn\_It\_Down.mp3
+...
+Linkin\_Park\_album\_Living\_Things\_12\_Powerless.mp3 ⇨ 12\_Powerless.mp3
+{{< /renamep >}}
 
 ## extSearch
 

@@ -92,3 +92,29 @@ Life is what happens when you're busy making other plans. -John Lennon
 [![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2549_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/36900405873/in/album-72157686816329321/)
 [![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2567_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37538045602/in/album-72157686816329321/)
 {{< /image-gallery >}}
+
+
+# Quotes:
+
+According to the [User Manual of the Spektrum DX9 Instruction Manual](http://www.horizonhobby.com/pdf/SPMR9900-Manual_EN.pdf), this is the definition of Mixing:
+
+> Mixing allows control input for a channel to affect more than one channel at a time.
+
+> Mixing functions support:
+
+> - Mixing a channel to another channel.
+> - Mixing a channel to itself.
+> - Assigning offset to a channel
+> - Linking primary to secondary trim.
+
+> These mixes are available for each model memory. Select a channel for master and slave. Inputs for the Master Channel control both the master and Slave Channels. For example, Elevator to Flap makes elevator the Master Channel and flap the Slave Channel. Change the offset value to move the effective center position of the Slave Channel. Positive or negative value determines the direction of the offset. Offset is not available for curve mixes.
+
+# Hardcoded HTML pre:
+
+<pre>
+OffsetTravel = (switch default travel (see below)) - Offset
+if OffsetTravel &lt; 0
+  SwitchMixValue = OffsetTravel / 100 \* Low rate
+else
+  SwitchMixValue = OffsetTravel / 100 \* High rate
+</pre>
