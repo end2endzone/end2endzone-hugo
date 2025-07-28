@@ -60,21 +60,25 @@ This library allows the arduino to attach interrupts on multiple pins.
 
 # Usage
 
-<span style="line-height: 1.5;">Use the DECLARE\_RECEIVER\_SIGNAL macro to declare an instance of RcReceiverSignal. ie:</span>```
+Use the DECLARE\_RECEIVER\_SIGNAL macro to declare an instance of RcReceiverSignal. ie:```
 DECLARE_RECEIVER_SIGNAL(receiver_aux1_handler);
 DECLARE_RECEIVER_SIGNAL(receiver_throttle_handler);
 ```
 
-<span style="line-height: 1.5;">Each macro will automatically declare the following:</span>- <span style="line-height: 1.5;">RcReceiverSignal receiver\_aux1\_handler;</span>
-- <span style="line-height: 1.5;">receiver\_aux1\_handler\_setup() function.</span>
-- <span style="line-height: 1.5;">receiver\_aux1\_handler\_pin\_change() ISR function.</span>
+Each macro will automatically declare the following:
 
-<span style="line-height: 1.5;">In the *setup()* function, you need to configure each instance by calling the *receiver\_aux1\_handler\_setup()* function with the interrupt pin as argument. ie:</span>```
+- RcReceiverSignal receiver\_aux1\_handler;
+- receiver\_aux1\_handler\_setup() function.
+- receiver\_aux1\_handler\_pin\_change() ISR function.
+
+In the *setup()* function, you need to configure each instance by calling the *receiver\_aux1\_handler\_setup()* function with the interrupt pin as argument. ie:```
 receiver_aux1_handler_setup(RECEIVER_AUX1_IN_PIN);
 receiver_throttle_handler_setup(RECEIVER_THROTTLE_IN_PIN);
 ```
 
-<span style="line-height: 1.5;">In the loop function, one can call the *hasChanged() m*ethod </span><span style="line-height: 1.5;">to know if the PWM value has changed since the last call or call the *getPwmValue()* function to get the last PWM value observed by the *RcReceiverSignal* instance.</span><span style="line-height: 1.5;">From a PWM value, one can call the *getSignalValue()* or *getDeviceSignalValue()* methods to convert a given PWM signal from a known device combination to a transmitter value (within -150% to +150%).
+In the loop function, one can call the *hasChanged()* method to know if the PWM value has changed since the last call or call the *getPwmValue()* function to get the last PWM value observed by the *RcReceiverSignal* instance.
+
+From a PWM value, one can call the *getSignalValue()* or *getDeviceSignalValue()* methods to convert a given PWM signal from a known device combination to a transmitter value (within -150% to +150%).
 
 # Demo
 

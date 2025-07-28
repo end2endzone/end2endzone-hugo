@@ -97,7 +97,9 @@ This section defines the basic reasons that lead to the final design.
 
 ### Orientation of the LEDs
 
-[![IMG_7135](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg)The location of the LEDs is obvious. However, I didn't know if I had to stick the LEDs facing down or facing out of the base. If you stick the LEDs facing out, all the lower section of the room get illuminated but the light does not go as high as if the LEDs were facing down. Turns out that best method for me was to stick them facing down. Choose the option that is best for you. **Note:**<span style="line-height: 1.5;">Both options do not illuminate the people sleeping and should not disturb your lover's sleep.</span>
+[![IMG_7135](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg)The location of the LEDs is obvious. However, I didn't know if I had to stick the LEDs facing down or facing out of the base. If you stick the LEDs facing out, all the lower section of the room get illuminated but the light does not go as high as if the LEDs were facing down. Turns out that best method for me was to stick them facing down. Choose the option that is best for you. 
+
+**Note:**Both options do not illuminate the people sleeping and should not disturb your lover's sleep.
 
 ### <span style="font-size: 22px; font-weight: bold; line-height: 1.0909090909;">Switches</span>
 
@@ -115,7 +117,9 @@ This section defines the basic reasons that lead to the final design.
 
 ### Sticking
 
-[![IMG_7136](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg)<span style="line-height: 1.5;">Now is the time to stick the LEDs to the base of the bed. The opposite side of the LEDs is sticky and can be used to stick the LED to a surface. Make sure that the mounting surface is dry and clean since you won't have multiple tries before the surface loose the ability to stick to the wall. If the strip does not exactly match the length of the base, make sure that you center the strip for appropriate lighting.</span>I used decided to use hot glue for securing the beginning of the strip to the base of the bed. This is a good idea in case I forget to disconnect the strip from the main circuit when moving the base away from the headboard. The glue will hold the strip in place and prevent any damage.
+[![IMG_7136](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg)
+
+Now is the time to stick the LEDs to the base of the bed. The opposite side of the LEDs is sticky and can be used to stick the LED to a surface. Make sure that the mounting surface is dry and clean since you won't have multiple tries before the surface loose the ability to stick to the wall. If the strip does not exactly match the length of the base, make sure that you center the strip for appropriate lighting.I used decided to use hot glue for securing the beginning of the strip to the base of the bed. This is a good idea in case I forget to disconnect the strip from the main circuit when moving the base away from the headboard. The glue will hold the strip in place and prevent any damage.
 
 ### Connecting
 

@@ -90,7 +90,7 @@ I used the IRF630N mosfet for driving both the LED and the piezo buzzer. The mos
 
 I didn't take the time to calculate the weight of each component individually. Anyway that would not be really helpful since I do not expect anyone to actually try to optimize the circuit by replacing some components by lightweight version. The total weight of the package is 37.5 grams. This is calculated using a high precision scale and it includes everything that is required for using the controller in the field. In other words, it also includes the wrapping foam the BBQ sticks and wires.
 
-## <span style="line-height: 1.5;">Total cost of the project</span>
+## Total cost of the project
 
 This project is really cheap and can be completed with less than 30$. Here is the detailed price of each items:
 
@@ -113,7 +113,7 @@ Notes: 1. Bying 5 pieces is cheaper than buying 2 individual pieces.
 
 Total cost: $20.40 Note that cost of usual items such as solder paste, soldering iron, multimeter and base material like wrapping foam is not included in the cost of the project.
 
-## <span style="line-height: 1.5;">Preparation time</span>
+## Preparation time
 
 The whole project can be completed in 5 to 8 hours. This is actually a rough estimated time since I did not build a second controller for another quad that I had. The estimation assumes the following:
 
@@ -171,7 +171,7 @@ Here is the brain of the project. Source code! Click the following to download t
 sample
 ```
 
-# <span style="line-height: 1.5;">Building steps</span>
+# Building steps
 
 [![building-steps](https://www.end2endzone.com/wp-content/uploads/2016/10/Building-steps.png)](https://www.end2endzone.com/wp-content/uploads/2016/10/Building-steps.png)The following section explains all the different steps on how to build my DIY quadcopter visual aids controller.
 

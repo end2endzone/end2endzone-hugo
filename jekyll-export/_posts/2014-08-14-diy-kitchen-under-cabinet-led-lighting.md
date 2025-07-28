@@ -35,9 +35,11 @@ There is something missing in most kitchens I have seen in my life and it is not
 - Do not produce any heat (almost).
 - Do not burn or has a much longer life time than normal lights.
 - Operates at 12 volts. No need for wall AC current which could lead to accidents.
-- <span style="line-height: 1.5;">Use less electricity (much fewer current than alternative lighting options).</span>
+- Use less electricity (much fewer current than alternative lighting options).
 
-<span style="line-height: 1.5;">In this post, I will explain how I installed in my kitchen a custom under cabinet LED lighting solution. </span>**Note:** Handling wall electricity can be dangerous. If you do not have basic electricity skills, I strongly recommend that you do not complete this project. Proceed at your own risk.
+In this post, I will explain how I installed in my kitchen a custom under cabinet LED lighting solution.
+
+**Note:** Handling wall electricity can be dangerous. If you do not have basic electricity skills, I strongly recommend that you do not complete this project. Proceed at your own risk.
 
 # Project data
 
@@ -50,7 +52,7 @@ The material for this project is as follows:
 - A 36 Watts (12 volts, 3 amps) power supply.
 - A 3 pins wall outlet power cord.
 - A LED dimmer module.
-- <span style="line-height: 1.5;">A wall switch.</span>
+- A wall switch.
 - 2-3 meters of colored (red &amp; black) wire.
 - Double sided tape
 - Sticker gum
@@ -88,7 +90,7 @@ As I said before, this project can be completed at a pretty cheap price. The tot
 - $2.00 - Colored wire (I used gauge 18awg) from dollar store
 - $1.00 - Double sided tape
 
-Total cost: $**27.84**<span style="line-height: 1.5; text-align: justify;">\* The cost of usual items such as screws and glue is not included in the cost of the project.</span>
+Total cost: $**27.84**\* The cost of usual items such as screws and glue is not included in the cost of the project.
 
 ## Preparation time
 
@@ -116,7 +118,7 @@ This section defines how to connect all the components together. Connect the pow
 
 ## Deciding where to put your stuff
 
-<center>[![DSC04072](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg) [![DSC04068](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg)[![DSC04060](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg) [![DSC04062](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)</center>I wanted to position the switch at a location where is can be reached easily with your fingers but I also wanted the switch to be invisible to the eye. I decided to install the switch below the cabinets but hidden behind the front panel under the cabinets. For the same reasons, the dimmer is located at the same location. I used double sided tape to stick the dimmer and the power switch in place. The tape is strong enough to keep the switch in place even when someone is turning the lights on or off. I also decided to position the power supply below the cabinet, at the back. This location is close to the switch and the dimmer and is also well ventilated<span style="line-height: 1.5;">. The power supply has two holes for screwing the case to a wood surface. I used small length screws to screw the power to the cabinet's wood panel</span><span style="text-align: justify;">.</span>Here is a view from below the cabinet: [![DSC04070](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg)
+<center>[![DSC04072](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg) [![DSC04068](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg)[![DSC04060](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg) [![DSC04062](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)</center>I wanted to position the switch at a location where is can be reached easily with your fingers but I also wanted the switch to be invisible to the eye. I decided to install the switch below the cabinets but hidden behind the front panel under the cabinets. For the same reasons, the dimmer is located at the same location. I used double sided tape to stick the dimmer and the power switch in place. The tape is strong enough to keep the switch in place even when someone is turning the lights on or off. I also decided to position the power supply below the cabinet, at the back. This location is close to the switch and the dimmer and is also well ventilated. The power supply has two holes for screwing the case to a wood surface. I used small length screws to screw the power to the cabinet's wood panel<span style="text-align: justify;">.</span>Here is a view from below the cabinet: [![DSC04070](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg)
 
 ## LED strip installation
 

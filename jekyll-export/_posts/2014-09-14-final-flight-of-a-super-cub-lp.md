@@ -20,7 +20,7 @@ tags:
 
 # The Good
 
-After 1½ month of flying the plane, I was feeling a little more confident and I trusted enough myself for doing loops. So at the end of the 2013 season, I went flying with a friend with my Super Cub LP. I wasn't expecting any disaster... <span style="line-height: 1.5;">It was a little cloudy &amp; windy but I went flying anyway because I was too much confident that nothing could </span>happen since I had 6-7 flights of experience!<span style="line-height: 1.5;"></span>
+After 1½ month of flying the plane, I was feeling a little more confident and I trusted enough myself for doing loops. So at the end of the 2013 season, I went flying with a friend with my Super Cub LP. I wasn't expecting any disaster... It was a little cloudy &amp; windy but I went flying anyway because I was too much confident that nothing could happen since I had 6-7 flights of experience!
 
 # The Bad
 
@@ -34,7 +34,7 @@ After a minute of flying, the elevator stopped responding and violently crashed 
 
 # The explanation
 
-During my encounter with the trees, one of the servo got loose in its socket and the glue (silicon) that was holding the servo to the fuselage was not holding anything anymore! During the flight, the servo <span style="line-height: 1.5;">pushed itself</span><span style="line-height: 1.5;"> </span><span style="line-height: 1.5;">out of its socket instead of pushing on the elevator rod resulting in a hard crash.</span>
+During my encounter with the trees, one of the servo got loose in its socket and the glue (silicon) that was holding the servo to the fuselage was not holding anything anymore! During the flight, the servo pushed itself out of its socket instead of pushing on the elevator rod resulting in a hard crash.
 
 # The damage
 

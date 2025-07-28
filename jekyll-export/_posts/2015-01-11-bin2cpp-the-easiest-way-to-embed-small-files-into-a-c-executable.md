@@ -21,17 +21,19 @@ tags:
 
 Please note that bin2cpp source code is now moved to GitHub. Source code can be downloaded from [the project's GitHub page](http://github.com/end2endzone/bin2cpp).
 
-![](https://img.shields.io/badge/License-MIT-yellow.svg) ![](https://img.shields.io/github/release/end2endzone/bin2cpp.svg) ![](https://ci.appveyor.com/api/projects/status/q9k0ebb971o475qi/branch/master?svg=true) ![](https://img.shields.io/appveyor/tests/end2endzone/bin2cpp/master.svg) ![](https://img.shields.io/github/downloads/end2endzone/bin2cpp/total.svg)<span style="line-height: 1.5;">bin2cpp is a command line tool for embedding small files (like images, icons or raw data files) into a C++ executable.</span>It's main features are:
+![](https://img.shields.io/badge/License-MIT-yellow.svg) ![](https://img.shields.io/github/release/end2endzone/bin2cpp.svg) ![](https://ci.appveyor.com/api/projects/status/q9k0ebb971o475qi/branch/master?svg=true) ![](https://img.shields.io/appveyor/tests/end2endzone/bin2cpp/master.svg) ![](https://img.shields.io/github/downloads/end2endzone/bin2cpp/total.svg)bin2cpp is a command line tool for embedding small files (like images, icons or raw data files) into a C++ executable.
 
-- <span style="line-height: 1.5;">Easily converts small files as C++ source code for embedding into a C++ executable.</span>
-- <span style="line-height: 1.5;">Content extraction supported by a unique function call for each embedded file.</span>
-- <span style="line-height: 1.5;">Supports a multiple </span>embedded<span style="line-height: 1.5;"> files at once.</span>
-- <span style="line-height: 1.5;">Makes it harder for resource hacker to modify or steal the </span>embedded<span style="line-height: 1.5;"> files.</span>
-- <span style="line-height: 1.5;">No third party libraries required for </span>retrieving<span style="line-height: 1.5;"> the data of the </span>embedded<span style="line-height: 1.5;"> files.</span>
+It's main features are:
 
-<span style="line-height: 1.5;">bin2cpp is not implemented using [executable resources](http://en.wikipedia.org/wiki/Resource_(Windows)). Instead, bin2cpp creates multiple function calls for retrieving the data which makes it harder to steal the executable's content. It also makes it even harder to replace an existing resource of the executable.</span>It is designed to be easy to use by developers and to provide easy call functions to get access to the data of the embedded files. <span style="line-height: 1.5;">The generated functions that reads and extracts the </span>embedded<span style="line-height: 1.5;"> content does not rely on external libraries so you don't need to setup your projects to use any third party library to start using bin2cpp. All your embedded data can be accessed right away.</span>
+- Easily converts small files as C++ source code for embedding into a C++ executable.
+- Content extraction supported by a unique function call for each embedded file.
+- Supports a multiple embedded files at once.
+- Makes it harder for resource hacker to modify or steal the embedded files.
+- No third party libraries required for retrieving the data of the embedded files.
 
-<span style="line-height: 1.5;">**Usage:**</span>bin2cpp \[inputfile\] \[output folder\] \[header filename\] \[function identifier\] \[chunk size\] \[-override\].
+bin2cpp is not implemented using [executable resources](http://en.wikipedia.org/wiki/Resource_(Windows)). Instead, bin2cpp creates multiple function calls for retrieving the data which makes it harder to steal the executable's content. It also makes it even harder to replace an existing resource of the executable.It is designed to be easy to use by developers and to provide easy call functions to get access to the data of the embedded files. The generated functions that reads and extracts the embedded content does not rely on external libraries so you don't need to setup your projects to use any third party library to start using bin2cpp. All your embedded data can be accessed right away.
+
+**Usage:**bin2cpp \[inputfile\] \[output folder\] \[header filename\] \[function identifier\] \[chunk size\] \[-override\].
 
 - **inputfile**: Path to the target file to embed in a C++ source code.
 - **output folder**: Output path to create generated source code. ie: .\\generated\_files\\
@@ -40,15 +42,15 @@ Please note that bin2cpp source code is now moved to GitHub. Source code can be 
 - **chunk size** (optional): Size of each string segments. Defaults to 200\]
 - **override** (optional): Tells bin2cpp to over write the destination files.
 
-# <span style="line-height: 1.5;">Screenshots</span>
+# Screenshots
 
 \[caption id="attachment\_575" align="aligncenter" width="837"\][![bin2cpp v1.3 Sample](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png) bin2cpp v1.3 Sample\[/caption\] \[caption id="attachment\_576" align="aligncenter" width="1013"\][![bin2cpp v1.3 Usage](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png) bin2cpp v1.3 Usage\[/caption\]
 
-# <span style="line-height: 1.5;">Download</span>
+# Download
 
 You can download bin2cpp by clicking on the following links: Please note that download links are now deprecated. Binary version of bin2cpp can be downloaded directly from [the project's GitHub page](http://github.com/end2endzone/bin2cpp/releases).
 
-# <span style="line-height: 1.5;">Code sample</span>
+# Code sample
 
 Here are some C++ code samples for embedding a Visual Studio 2008 project file generated with the following command line: *<span style="font-family: courier new,courier; font-size: 14pt;">bin2cpp.exe bin2cppTest.vcproj outdir EmbededProjectFile.h Vcproj 250 -override</span>*```
 /**
@@ -193,21 +195,21 @@ namespace bin2cpp
 }; //bin2cpp
 ```
 
-# <span style="line-height: 1.5;">Compatible with</span>
+# Compatible with
 
-<span style="line-height: 1.5;">bin2cpp is only available for the Windows platform and has been tested with the following version of Windows:</span>
+bin2cpp is only available for the Windows platform and has been tested with the following version of Windows:
 
 - Windows XP
-- <span style="text-align: justify; line-height: 1.5;">Windows Vista</span>
-- <span style="text-align: justify; line-height: 1.5;">Windows 7</span>
+- Windows Vista
+- Windows 7
 
 # Minimum system requirements
 
 - 100% PC compatible
-- <span style="text-align: justify; line-height: 1.5;">Pentium II, 300 mhz</span>
-- <span style="text-align: justify; line-height: 1.5;">256 Mb RAM</span>
-- <span style="text-align: justify; line-height: 1.5;">1 Mb free disk space</span>
-- <span style="text-align: justify; line-height: 1.5;">Administrator rights (for installation)</span>
+- Pentium II, 300 mhz
+- 256 Mb RAM
+- 1 Mb free disk space
+- Administrator rights (for installation)
 
 # License
 

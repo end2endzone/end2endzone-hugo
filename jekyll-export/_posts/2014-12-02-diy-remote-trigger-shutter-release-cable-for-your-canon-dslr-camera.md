@@ -31,11 +31,11 @@ The material for this project is as follows:
 - A small project box
 - A 2.5 mm male stereo audio plug
 
-### <span style="line-height: 1.5;">Switches</span>
+### Switches
 
 \[caption id="attachment\_517" align="aligncenter" width="474"\][![IMG_8772](https://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772.jpg) Black and red momentary switches\[/caption\] Switches can be any type you want as long as its a momentary switch (normally opened, push to close). I do recommend to have different colors for assigning auto-focus and shutter buttons to a wire color. I used these switches from eBay. They are cheap and are ready for mounting to a hard surface.
 
-### <span style="line-height: 1.5;">Cable</span>
+### Cable
 
 \[caption id="attachment\_518" align="aligncenter" width="474"\][![IMG_8756](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756.jpg) 20 feet telephone extension cord\[/caption\] You can use any type of cable as long as it have at least 3 colored wires. you basically have to extend the connections of the 2.5 mm plug. I decided to go with a 20 feet phone cable because it is cheap and easily available. Make sure the cable is not too rough and can bent without too much force because you do not want to move your camera while you are pulling or raising your trigger.
 
@@ -47,7 +47,7 @@ The material for this project is as follows:
 
 \[gallery link="file" ids="526,525,524,523,522,521" orderby="rand"\]
 
-## <span style="line-height: 1.5;">Total cost of the project</span>
+## Total cost of the project
 
 This project is really cheap and can be completed with less than 10$. Here is the detailed price of each items:
 
@@ -58,11 +58,11 @@ This project is really cheap and can be completed with less than 10$. Here is th
 
 Total cost: $**8.25**\* The cost of usual items such as screws and glue is not included in the cost of the project.
 
-## <span style="line-height: 1.5;">Preparation time</span>
+## Preparation time
 
 The whole project can be completed in 3 hours. The preparation time is simple. It requires you to evaluate the feasibility of the project by testing the functionality of the remote trigger on your camera. You want to know the behavior of your camera before beginning everything else! This project also requires you to have soldering skills so your mileage may vary. The duration of this project may change depending on how much you are comfortable with a soldering iron.
 
-# <span style="line-height: 1.5;">Building steps</span>
+# Building steps
 
 Construction steps are very simple. Screw, wire everything up, solder and enjoy.
 

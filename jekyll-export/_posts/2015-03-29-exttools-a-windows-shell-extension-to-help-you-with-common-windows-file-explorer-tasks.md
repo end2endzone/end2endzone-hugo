@@ -21,13 +21,13 @@ tags:
 
 extTools is a fast and innovative FREEWARE (for non-commercial use) software suite to help you executing common tasks in Windows File Explorer more easily.
 
-<span style="line-height: 1.5;">It's main features are:</span>
+It's main features are:
 
-- <span style="line-height: 1.5;">Advanced clipboard support (copy, append or </span>modify<span style="line-height: 1.5;">).</span>
+- Advanced clipboard support (copy, append or modify).
 - File operation queuing (batch copy or paste).
-- <span style="line-height: 1.5;">Better &amp; quicker file deletions.</span>
-- Powerful<span style="line-height: 1.5;"> file renaming algorithms.</span>
-- XP like search tool (<span style="line-height: 1.5;">simple search tool).</span>
+- Better &amp; quicker file deletions.
+- Powerful file renaming algorithms.
+- XP like search tool (simple search tool).
 - Extends Windows File Explorer by registering as a Shell Extension.
 
 extTools allows its users to execute tasks that are not available in a default Windows environment. extTools is also designed to replace existing task that are badly designed, annoying to execute or simply missing.
@@ -43,26 +43,26 @@ You can download extTools by clicking on the following links:
 
 Note: Please note that portable versions does not contain the shell extension module to register menu option with the File Explorer context menu.
 
-# <span style="line-height: 1.5;">Screenshots</span>
+# Screenshots
 
 \[gallery link="file" size="medium" ids="460,459,458,457,456,454,452,451,449,450,447,448,446,445,444,443,442"\]
 
-# <span style="line-height: 1.5;">Application components </span>
+# Application components
 
 Below is all the tools that are included in extTools. A quick description is available for each tool. Most applications are available when right clicking a file in Windows file Explorer (shell extension).
 
-## <span style="line-height: 1.5;">extFileRenamer</span>
+## extFileRenamer
 
 \[caption id="attachment\_447" align="alignnone" width="287"\][![extFileRenamer screenshot (pattern #1)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1-287x300.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png) extFileRenamer screenshot (pattern #1)\[/caption\] extFileRenamer is a powerful file renaming manager. This application can rename a bunch of files according to a pattern (with increasing numbers) or rename files using a "search &amp; replace" technique to remove the same word(s) from multiple files.
 
 extFileRenamer has the following features:
 
 - Allows you to rename files using a pattern or with a "search &amp; replace" through the file names.
-- <span style="text-align: justify; line-height: 1.5;">Manually select target files to rename.</span>
-- <span style="text-align: justify; line-height: 1.5;">Live preview of renamed files.</span>
-- <span style="text-align: justify; line-height: 1.5;">Automatic detection of renaming conflict (before renaming files!)</span>
+- Manually select target files to rename.
+- Live preview of renamed files.
+- Automatic detection of renaming conflict (before renaming files!)
 
-<span style="line-height: 1.5;">Here is some typical pattern scenarios where extFileRenaming shines!</span>
+Here is some typical pattern scenarios where extFileRenaming shines!
 
 ### Pattern mode
 
@@ -133,12 +133,12 @@ Linkin\_Park\_album\_Living\_Things\_12\_Powerless.mp3 ⇨ 12\_Powerless.mp3
 \[caption id="attachment\_456" align="alignnone" width="300"\][![extSearch screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extSearch-screenshot-300x215.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extSearch-screenshot.png) extSearch screenshot\[/caption\] extSearch is a file search application. It's design is identical to Windows XP's search application. If you are using Windows Vista or later and you miss the simplicity that the search application was giving, then extSearch is for you. extSearch allows searching for a file using multiple criteria:
 
 - File name or file extension using wildcard characters such as ***\**** or ***?***
-- <span style="text-align: justify; line-height: 1.5;">Search for a specific word or phrase in a file (matching case or not).</span>
-- <span style="text-align: justify; line-height: 1.5;">Searches sub-folders or not.</span>
-- <span style="text-align: justify; line-height: 1.5;">Searches files based on its last modification date.</span>
-- <span style="text-align: justify; line-height: 1.5;">Searches files based on its size.</span>
+- Search for a specific word or phrase in a file (matching case or not).
+- Searches sub-folders or not.
+- Searches files based on its last modification date.
+- Searches files based on its size.
 
-## <span style="line-height: 1.5;">Clipboard management</span>
+## Clipboard management
 
 All features of extTools are available through a shell explorer add-on. A nice feature of extTools is how the clipboard is managed: \[caption id="attachment\_454" align="alignnone" width="300"\][![extTools screenshot (clipboard)](https://www.end2endzone.com/wp-content/uploads/2014/10/extTools-screenshot-clipboard-300x212.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extTools-screenshot-clipboard.png) extTools screenshot (clipboard)\[/caption\]
 
@@ -148,15 +148,27 @@ All features of extTools are available through a shell explorer add-on. A nice f
 - Append to Copy
 - Append to Cut
 
-## <span style="line-height: 1.5;">extBatchFileProcessor</span>
+## extBatchFileProcessor
 
-\[caption id="attachment\_442" align="alignnone" width="300"\][![extBatchFileProcessor screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extBatchFileProcessor-screenshot-300x188.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extBatchFileProcessor-screenshot.png) extBatchFileProcessor screenshot\[/caption\] <span style="line-height: 1.5;">extBatchFileProcessor is a tool for queuing file operations (batch). This tools allows you to append a file operation (cut, copy or move) to a list of task to execute one after the other. In other words, you don't have to wait for another operation to complete before queuing another.</span><span style="line-height: 1.5;">This can be particularly handy when dealing with long operations like copying or moving a huge file or when dealing with slow peripherals like USB drives.</span><span style="line-height: 1.5;">Each queue item of extBatchFileProcessor uses default Windows API to process the operation so your data is safely processed.</span><span style="line-height: 1.5;">As an example, imagine that you are copying multiple files to a USB drive. After the copying process is running for 10 minutes, you realize that you forgot to add another folder to the whole copy.</span><span style="line-height: 1.5;">There is 2 options for solving this: Stop the copying process add start all over again (loosing your precious 10 minutes) or you could copy the missing file on a parallel copy (and reduce the performance/speed of both copy processes).</span><span style="line-height: 1.5;">With extBatchFileProcessor, you can queue a copy operation of the missing folder that will run when the first copy is completed while keeping 100% performance.</span>
+\[caption id="attachment\_442" align="alignnone" width="300"\][![extBatchFileProcessor screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extBatchFileProcessor-screenshot-300x188.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extBatchFileProcessor-screenshot.png) extBatchFileProcessor screenshot\[/caption\]
 
-## <span style="line-height: 1.5;">extDelete</span>
+extBatchFileProcessor is a tool for queuing file operations (batch). This tools allows you to append a file operation (cut, copy or move) to a list of task to execute one after the other. In other words, you don't have to wait for another operation to complete before queuing another.
 
-\[caption id="attachment\_446" align="alignnone" width="300"\][![extDelete screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-300x138.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot.png) extDelete screenshot\[/caption\] <span style="line-height: 1.5;">extDelete is a fast and secured file deletion application. It allows a user to quickly delete files and folders to recover free space as fast as possible.</span><span style="line-height: 1.5;">extDelete supports 3 deletion modes:</span>
+This can be particularly handy when dealing with long operations like copying or moving a huge file or when dealing with slow peripherals like USB drives.Each queue item of extBatchFileProcessor uses default Windows API to process the operation so your data is safely processed.
 
-### <span style="line-height: 1.5;">Normal</span>
+As an example, imagine that you are copying multiple files to a USB drive. After the copying process is running for 10 minutes, you realize that you forgot to add another folder to the whole copy.
+
+There is 2 options for solving this: Stop the copying process add start all over again (loosing your precious 10 minutes) or you could copy the missing file on a parallel copy (and reduce the performance/speed of both copy processes).
+
+With extBatchFileProcessor, you can queue a copy operation of the missing folder that will run when the first copy is completed while keeping 100% performance.
+
+## extDelete
+
+\[caption id="attachment\_446" align="alignnone" width="300"\][![extDelete screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-300x138.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot.png) extDelete screenshot\[/caption\] 
+
+extDelete is a fast and secured file deletion application. It allows a user to quickly delete files and folders to recover free space as fast as possible.extDelete supports 3 deletion modes:
+
+### Normal
 
 \[caption id="attachment\_444" align="alignnone" width="300"\][![extDelete screenshot (normal delete mode)](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-normal-delete-mode-300x118.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-normal-delete-mode.png) extDelete screenshot (normal delete mode)\[/caption\] This mode is the standard mode. It is really similar to the default Windows folder delete implementation. Before actually deleting files, it will first try to "discover" all the files within the target folder to compute the number of files to be deleted. A nice progress bar is also displayed to show the completion of the task.
 
@@ -185,11 +197,11 @@ The following features are supported:
 
 extImageEncoder only supports [lossless](http://en.wikipedia.org/wiki/Lossless_compression) image file format (\*.png or \*.bmp) for saving the resulting image. Other image file format are [lossy](http://en.wikipedia.org/wiki/Image_file_formats#Image_file_compression) which means that some details are lost every time an image is saved. Since the data is encoded into pixels, a lossy image format would alterate or even destroy the data.
 
-## <span style="line-height: 1.5;">extWebGet</span>
+## extWebGet
 
 \[caption id="attachment\_460" align="alignnone" width="300"\][![extWebGet screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extWebGet-screenshot-300x68.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extWebGet-screenshot.png) extWebGet screenshot\[/caption\] extWebGet allows a user to download a file from a URL. Its usage is identical to UNIX wget application but wrapped with a nice GUI window. Good usage involves downloading file that would not be downloadable from an internet browser like html or rss files.
 
-## <span style="line-height: 1.5;">extHashCalculator</span>
+## extHashCalculator
 
 \[caption id="attachment\_458" align="alignnone" width="300"\][![extHashCalculator screenshot (md5)](https://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5-300x113.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png) extHashCalculator screenshot (md5)\[/caption\] extHashCalculator calculate hashes ([message digests](http://en.wikipedia.org/wiki/Message_digest)) for any kind of file. A file hash is the result of a [file verification](http://en.wikipedia.org/wiki/File_verification) process that confirms the integrity of a file. Web sites that offers downloadable content mostly provide hash values to let users know that the downloaded file is not altered (incomplete, corrupted or modified by a virus).
 
@@ -197,25 +209,27 @@ extHashCalculator supports the following hash algorithms:
 
 - CRC32
 - MD5
-- <span style="text-align: justify; line-height: 1.5;">SHA1</span>
+- SHA1
 
-## <span style="line-height: 1.5;">extGuid</span>
+## extGuid
 
-\[caption id="attachment\_459" align="alignnone" width="300"\][![extGuid screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extGuid-screenshot-300x233.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extGuid-screenshot.png) extGuid screenshot\[/caption\] <span style="line-height: 1.5;">extGuid is tool for developers that allows a user to generate new [GUID](http://en.wikipedia.org/wiki/Guid) (Globally unique identifier) numbers.</span>extGuid can format the GUID output in multiple forms which are:
+\[caption id="attachment\_459" align="alignnone" width="300"\][![extGuid screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extGuid-screenshot-300x233.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extGuid-screenshot.png) extGuid screenshot\[/caption\]
+
+extGuid is tool for developers that allows a user to generate new [GUID](http://en.wikipedia.org/wiki/Guid) (Globally unique identifier) numbers.extGuid can format the GUID output in multiple forms which are:
 
 ### IMPLEMENT\_OLECREATE(...)
 
 // {A17F1F0D-6FCB-4DC1-83A1-22808A6B6501} IMPLEMENT\_OLECREATE(&lt;&lt;class&gt;&gt;, &lt;&lt;external\_name&gt;&gt;, 0xa17f1f0d, 0x6fcb, 0x4dc1, 0x83, 0xa1, 0x22, 0x80, 0x8a, 0x6b, 0x65, 0x01);
 
-### <span style="line-height: 1.5;">DEFINE\_GUID(...)</span>
+### DEFINE\_GUID(...)
 
 // {A17F1F0D-6FCB-4DC1-83A1-22808A6B6501} DEFINE\_GUID(&lt;&lt;name&gt;&gt;, 0xa17f1f0d, 0x6fcb, 0x4dc1, 0x83, 0xa1, 0x22, 0x80, 0x8a, 0x6b, 0x65, 0x01);
 
-### <span style="line-height: 1.5;">static const struct GUID = {...}</span>
+### static const struct GUID = {...}
 
 // {A17F1F0D-6FCB-4DC1-83A1-22808A6B6501} static const GUID &lt;&lt;name&gt;&gt; = { 0xa17f1f0d, 0x6fcb, 0x4dc1, { 0x83, 0xa1, 0x22, 0x80, 0x8a, 0x6b, 0x65, 0x01 } };
 
-### <span style="line-height: 1.5;">Registry format</span>
+### Registry format
 
 {A17F1F0D-6FCB-4DC1-83A1-22808A6B6501}
 
@@ -225,22 +239,22 @@ extHashCalculator supports the following hash algorithms:
 
 # Compatible with
 
-<span style="line-height: 1.5;">extTools is only available for the following Windows platform:</span>
+extTools is only available for the following Windows platform:
 
 - Windows XP
-- <span style="text-align: justify; line-height: 1.5;">Windows Vista</span>
-- <span style="text-align: justify; line-height: 1.5;">Windows 7</span>
+- Windows Vista
+- Windows 7
 
 extTools is still untested with Windows 8. If you do install it on Windows 8, [please tell me!](/contact/)
 
-# <span style="line-height: 1.5;">Minimum system requirements</span>
+# Minimum system requirements
 
 - 100% PC compatible
-- <span style="text-align: justify; line-height: 1.5;">Pentium II, 300 mhz</span>
-- <span style="text-align: justify; line-height: 1.5;">256 Mb RAM</span>
-- <span style="text-align: justify; line-height: 1.5;">30 Mb free disk space</span>
-- <span style="text-align: justify; line-height: 1.5;">Administrator rights (for installation)</span>
+- Pentium II, 300 mhz
+- 256 Mb RAM
+- 30 Mb free disk space
+- Administrator rights (for installation)
 
-# <span style="line-height: 1.5;">History of changes</span>
+# History of changes
 
-<span style="line-height: 1.5;">Version 1.4 - First public release</span>
+Version 1.4 - First public release

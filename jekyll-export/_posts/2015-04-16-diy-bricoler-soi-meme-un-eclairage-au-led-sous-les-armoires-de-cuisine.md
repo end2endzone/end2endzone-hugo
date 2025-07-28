@@ -39,7 +39,9 @@ Ils procurent les avantages suivant dans une cuisine:
 - Fonctionne à 12 volts. Pas besoin de courant murale qui pourrait conduire à des accidents.
 - Utilise moins d'électricité (beaucoup moins de courant que d'autres options d'éclairage).
 
-<span style="line-height: 1.5;">Dans cet article, j'explique comment se bricoler soi-même un éclairage au DEL sous les armoires de cuisine. </span>**Remarque:** La manipulation de l'électricité murale peut être dangereux. Si vous ne avez pas les compétences de base nécessaire pour manipuler de l'électricité, je recommande fortement que vous ne procédez pas à l'installation de ce projet. Procéder à vos propres risques.
+Dans cet article, j'explique comment se bricoler soi-même un éclairage au DEL sous les armoires de cuisine.
+
+**Remarque:** La manipulation de l'électricité murale peut être dangereux. Si vous ne avez pas les compétences de base nécessaire pour manipuler de l'électricité, je recommande fortement que vous ne procédez pas à l'installation de ce projet. Procéder à vos propres risques.
 
 # Données du projet
 
@@ -92,7 +94,7 @@ Voici le prix détaillée de chacun des éléments:
 - $2.00 - Fil électrique de couleur (j'ai utilisé du calibre 18) du magasin à un dollar.
 - $1.00 - Ruban adhésif double face.
 
-Coût total: $**27.84** <span style="line-height: 1.5; text-align: justify;">\* Le coût des éléments habituels tels que des vis et la colle n'est pas inclus dans le coût du projet.</span>
+Coût total: $**27.84** \* Le coût des éléments habituels tels que des vis et la colle n'est pas inclus dans le coût du projet.
 
 ## Temps de préparation
 

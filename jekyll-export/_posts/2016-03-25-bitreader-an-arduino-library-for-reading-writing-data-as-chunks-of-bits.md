@@ -46,11 +46,13 @@ Possible use are:
 
 # Usage
 
-<span style="line-height: 1.5;">Create an instance of *BitReader*, *BitWriter* or *BitAddress* depending on the following optimization switches:</span>- USE\_BITADDRESS\_SETTER\_GETTER
+Create an instance of *BitReader*, *BitWriter* or *BitAddress* depending on the following optimization switches:
+
+- USE\_BITADDRESS\_SETTER\_GETTER
 - USE\_SINGLEBIT\_MACROS
 - USE\_BITADDRESS\_READ\_WRITE
 
-<span style="line-height: 1.5;">Then assign a reading or writing buffer using the *setBuffer()* method.</span><span style="line-height: 1.5;">Then call the *write()* method for writing bits to the assigned buffer or call the *read()* method for reading bits from the assigned buffer. Each method allows one to specify the amount of bits to read or write.</span>
+Then assign a reading or writing buffer using the *setBuffer()* method.Then call the *write()* method for writing bits to the assigned buffer or call the *read()* method for reading bits from the assigned buffer. Each method allows one to specify the amount of bits to read or write.
 
 ## Making text strings shorter
 

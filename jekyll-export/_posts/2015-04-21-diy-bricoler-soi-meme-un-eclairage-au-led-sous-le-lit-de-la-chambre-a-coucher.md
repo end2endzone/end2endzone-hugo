@@ -81,7 +81,7 @@ Voici le prix détaillée de chacun des éléments:
 - $4.00 - Fil électrique de couleur (j'ai utilisé du calibre 18) du magasin à un dollar.
 - $0.00 - 1x connecteur RCA male et 1x connecteur RCa femelle. J'en ai plusieurs à la maison.
 
-Coût total: $**31.57**<span style="line-height: 1.5; text-align: justify;">\* Le coût des éléments habituels tels que des vis et la colle n'est pas inclus dans le coût du projet.</span>
+Coût total: $**31.57**\* Le coût des éléments habituels tels que des vis et la colle n'est pas inclus dans le coût du projet.
 
 ## Preparation time
 
@@ -101,7 +101,11 @@ Cette section définit les raisons fondamentales qui conduisent à la conception
 
 ### Orientation des DEL
 
-[![IMG_7135](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg)L'emplacement des DEL est évident. Cependant, je ne savais pas si je devais coller les DEL sur la plateforme et les orienter vers le bas ou les collés sur la base et les orienter vers l'extérieur. Si vous choisissez la deuxième option (vers l'extérieur), toute la partie inférieure de la chambre sera illuminé et la lumière ne sera pas aussi élevée que si les DEL sont orientés vers le bas. <span class="notranslate">Il s'avère que pour moi, la meilleure méthode était de les coller vers le bas.</span> Naturellement, c<span class="notranslate">hoisissez l'option qui vous convient le mieux.</span><span style="line-height: 1.5;">**Remarque:**</span><span style="line-height: 1.5;">Chacune des deux options n'éclairent pas les gens lorsqu'ils dorment et ne perturbe pas le sommeil de votre partenaire.</span>
+[![IMG_7135](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg)
+
+L'emplacement des DEL est évident. Cependant, je ne savais pas si je devais coller les DEL sur la plateforme et les orienter vers le bas ou les collés sur la base et les orienter vers l'extérieur. Si vous choisissez la deuxième option (vers l'extérieur), toute la partie inférieure de la chambre sera illuminé et la lumière ne sera pas aussi élevée que si les DEL sont orientés vers le bas. <span class="notranslate">Il s'avère que pour moi, la meilleure méthode était de les coller vers le bas.</span> Naturellement, c<span class="notranslate">hoisissez l'option qui vous convient le mieux.</span>
+
+**Remarque:** Chacune des deux options n'éclairent pas les gens lorsqu'ils dorment et ne perturbe pas le sommeil de votre partenaire.
 
 ### <span style="font-size: 22px; font-weight: bold; line-height: 1.0909090909;">Commutateurs</span>
 

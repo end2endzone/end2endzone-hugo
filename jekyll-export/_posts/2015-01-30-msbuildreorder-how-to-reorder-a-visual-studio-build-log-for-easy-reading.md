@@ -23,29 +23,31 @@ tags:
 
 Please note that MSBuildReorder source code is now moved to GitHub. Source code can be downloaded from [the project's GitHub page](http://github.com/end2endzone/msbuildreorder).
 
-![](https://img.shields.io/badge/License-MIT-yellow.svg) ![](https://img.shields.io/github/release/end2endzone/msbuildreorder.svg) ![](https://ci.appveyor.com/api/projects/status/911ry08o97ubv506/branch/master?svg=true) ![](https://img.shields.io/appveyor/tests/end2endzone/msbuildreorder/master.svg) ![](https://img.shields.io/github/downloads/end2endzone/msbuildreorder/total.svg)<span style="line-height: 1.5;">MSBuildReorder is a tool for "reordering" (buildorder) a multi-process C++ build log. It allows a developer to convert the build log as if it was generated with a single processor.</span>Building a solution that has multiple projects can quickly become bloated with too many lines that are not related to each other. For this reason, finding the actual cause of a build fail is harder than it should be. MSBuildReorder is able to read the log and reorder the projects in a sequential order. It's main features are:
+![](https://img.shields.io/badge/License-MIT-yellow.svg) ![](https://img.shields.io/github/release/end2endzone/msbuildreorder.svg) ![](https://ci.appveyor.com/api/projects/status/911ry08o97ubv506/branch/master?svg=true) ![](https://img.shields.io/appveyor/tests/end2endzone/msbuildreorder/master.svg) ![](https://img.shields.io/github/downloads/end2endzone/msbuildreorder/total.svg)MSBuildReorder is a tool for "reordering" (buildorder) a multi-process C++ build log. It allows a developer to convert the build log as if it was generated with a single processor.Building a solution that has multiple projects can quickly become bloated with too many lines that are not related to each other. For this reason, finding the actual cause of a build fail is harder than it should be. MSBuildReorder is able to read the log and reorder the projects in a sequential order.
 
-- <span style="line-height: 1.5;">Supports both msbuild and Visual Studio 2008 (and over) build logs.</span>
-- <span style="line-height: 1.5;">Useful for [Continuous Integration (CI)](http://en.wikipedia.org/wiki/Continuous_integration) servers (build servers).</span>
-- <span style="line-height: 1.5;">Allows quicker identification of the project that caused an error.</span>
+It's main features are:
+
+- Supports both msbuild and Visual Studio 2008 (and over) build logs.
+- Useful for [Continuous Integration (CI)](http://en.wikipedia.org/wiki/Continuous_integration) servers (build servers).
+- Allows quicker identification of the project that caused an error.
 - Command line support.
 
-<span style="line-height: 1.5;">**Usage:** </span><span style="line-height: 1.5;">msbuildreorder \[input file\] \[output file\]</span>
+**Usage:** msbuildreorder \[input file\] \[output file\]
 
 - **input file**: Path to the input build log file to reorder.
-- **<span style="line-height: 1.5;">output file</span>**: Path of the output reordered build log file.
+- **output file**: Path of the output reordered build log file.
 
-# <span style="line-height: 1.5;">Screenshot</span>
+# Screenshot
 
 \[caption id="attachment\_641" align="alignnone" width="300"\][![msbuildreorder screenshot](https://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot-300x130.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot.png) msbuildreorder screenshot\[/caption\]
 
-# <span style="line-height: 1.5;">Download</span>
+# Download
 
 You can download MSBuildReorder by clicking on the following link: Please note that download links are now deprecated. Binary version of msbuildreorder can be downloaded directly from [the project's GitHub page](http://github.com/end2endzone/msbuildreorder/releases).
 
-# <span style="line-height: 1.5;">Sample</span>
+# Sample
 
-The following shows a multi-process build log compiling [libprotobuf](http://code.google.com/p/protobuf/). MSBuildReorder can be used to reorder the multi-threaded log on a <span style="line-height: 1.5;">[Continuous Integration (CI)](http://en.wikipedia.org/wiki/Continuous_integration)</span> server.
+The following shows a multi-process build log compiling [libprotobuf](http://code.google.com/p/protobuf/). MSBuildReorder can be used to reorder the multi-threaded log on a [Continuous Integration (CI)](http://en.wikipedia.org/wiki/Continuous_integration) server.
 
 ```
 ```
@@ -55,20 +57,20 @@ Reordered build log:
 ```
 ```
 
-# <span style="line-height: 1.5;">Compatible with</span>
+# Compatible with
 
-<span style="line-height: 1.5;">MSBuildReorder is only available for the Windows platform and has been tested with the following version of Windows:</span>
+MSBuildReorder is only available for the Windows platform and has been tested with the following version of Windows:
 
 - Windows XP
-- <span style="text-align: justify; line-height: 1.5;">Windows Vista</span>
-- <span style="text-align: justify; line-height: 1.5;">Windows 7</span>
+- Windows Vista
+- Windows 7
 
 # Minimum system requirements
 
 - 100% PC compatible
-- <span style="text-align: justify; line-height: 1.5;">Pentium II, 300 mhz</span>
-- <span style="text-align: justify; line-height: 1.5;">256 Mb RAM</span>
-- <span style="text-align: justify; line-height: 1.5;">5 Mb free disk space</span>
+- Pentium II, 300 mhz
+- 256 Mb RAM
+- 5 Mb free disk space
 
 # License
 

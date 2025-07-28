@@ -19,27 +19,27 @@ tags:
 
 # DNS343Monitor
 
-<span style="line-height: 1.5;">DNS-343 Monitor is a tool for monitoring how much space is left on your DNS-343 NAS device.</span><span style="line-height: 1.5;">The [DNS-343](http://www.google.com/?q=dns-343) is a [Network Attached Storage](http://en.wikipedia.org/wiki/Network-attached_storage) (NAS) device that can hold as much as 4 drives. Since all the drives are shared in a Network, each disk can quickly become full. This tools allows you to see the remaining space left on each individual drives.</span>
+DNS-343 Monitor is a tool for monitoring how much space is left on your DNS-343 NAS device.The [DNS-343](http://www.google.com/?q=dns-343) is a [Network Attached Storage](http://en.wikipedia.org/wiki/Network-attached_storage) (NAS) device that can hold as much as 4 drives. Since all the drives are shared in a Network, each disk can quickly become full. This tools allows you to see the remaining space left on each individual drives.
 
 It's main features are:
 
-- <span style="line-height: 1.5;">Show space left and used for each drives.</span>
+- Show space left and used for each drives.
 - GUI supported.
 - Compatible with all firmware versions.
 
 **Note:** This tool requires administrator privileges on the DNS-343 for retrieving free space left.
 
-<span style="line-height: 1.5;">**Usage:**</span>
+**Usage:**
 
 - Launch application
 - Enters administrator credentials
 - Press GET button
 
-# <span style="line-height: 1.5;">Screenshots</span>
+# Screenshots
 
 \[caption id="attachment\_659" align="alignnone" width="450"\][![DNS-343 Monitor (Idle)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png) DNS-343 Monitor (Idle)\[/caption\] \[caption id="attachment\_660" align="alignnone" width="450"\][![DNS-343 Monitor (Searching)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png) DNS-343 Monitor (Searching)\[/caption\] \[caption id="attachment\_661" align="alignnone" width="450"\][![DNS-343 Monitor (Usage)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png) DNS-343 Monitor (Usage)\[/caption\
 
-# <span style="line-height: 1.5;">Download</span>
+# Download
 
 You can download DNS-343 Monitor by clicking on the following links:
 
@@ -48,21 +48,21 @@ You can download DNS-343 Monitor by clicking on the following links:
 - \[download id="670"\]
 - \[download id="666"\]
 
-# <span style="line-height: 1.5;">Compatible with</span>
+# Compatible with
 
-<span style="line-height: 1.5;">DNS343Monitor is only available for the Windows platform and has been tested with the following version of Windows:</span>
+DNS343Monitor is only available for the Windows platform and has been tested with the following version of Windows:
 
 - Windows XP
-- <span style="text-align: justify; line-height: 1.5;">Windows Vista</span>
-- <span style="text-align: justify; line-height: 1.5;">Windows 7</span>
+- Windows Vista
+- Windows 7
 
 # Minimum system requirements
 
 - 100% PC compatible
-- <span style="text-align: justify; line-height: 1.5;">Pentium II, 300 mhz</span>
-- <span style="text-align: justify; line-height: 1.5;">256 Mb RAM</span>
-- <span style="text-align: justify; line-height: 1.5;">30 Mb free disk space</span>
-- <span style="text-align: justify; line-height: 1.5;">Administrator rights (for installation)</span>
+- Pentium II, 300 mhz
+- 256 Mb RAM
+- 30 Mb free disk space
+- Administrator rights (for installation)
 
 # License
 

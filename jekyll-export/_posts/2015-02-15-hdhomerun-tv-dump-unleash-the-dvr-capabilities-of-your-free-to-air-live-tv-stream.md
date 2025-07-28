@@ -20,25 +20,25 @@ tags:
 
 # HDHomeRun TV Dump
 
-<span style="line-height: 1.5;">*HdHomeRun TV Dump* is a [GUI](http://en.wikipedia.org/wiki/Graphical_user_interface) that installs over the native [HDHomeRun application](http://www.silicondust.com/support/downloads/) and allows owners to quickly take control over the free to air live TV stream. Implementing DVR capabilities on your computer becomes a easy as 1-2-3.</span>It is designed to make interaction with the device easy by automating as much as possible any task a user would like to execute.
+*HdHomeRun TV Dump* is a [GUI](http://en.wikipedia.org/wiki/Graphical_user_interface) that installs over the native [HDHomeRun application](http://www.silicondust.com/support/downloads/) and allows owners to quickly take control over the free to air live TV stream. Implementing DVR capabilities on your computer becomes a easy as 1-2-3.It is designed to make interaction with the device easy by automating as much as possible any task a user would like to execute.
 
 It's main features are:
 
-- <span style="line-height: 1.5;">Quicker &amp; easier to understand and install than other DVR solutions like [MythTV](https://www.mythtv.org/) and [Windows Media Center](http://windows.microsoft.com/en-CA/windows/products/windows-media-center).</span>
-- <span style="line-height: 1.5;">Auto-detection of existing HDHomeRun devices on the network.</span>
+- Quicker &amp; easier to understand and install than other DVR solutions like [MythTV](https://www.mythtv.org/) and [Windows Media Center](http://windows.microsoft.com/en-CA/windows/products/windows-media-center).
+- Auto-detection of existing HDHomeRun devices on the network.
 - Auto-detection of busy tuners.
 - Automatic selection of an available tuner for watching or recording a live TV stream.
-- <span style="line-height: 1.5;">Manual recording support.</span>
+- Manual recording support.
 - Scheduled recording support (enables DVR capabilities with the HDHomeRun)
-- <span style="line-height: 1.5;">Watch live TV streams.</span>
+- Watch live TV streams.
 
 *HDHomeRun TV Dump* should also work with devices that supports the MPEG4/H.264 video codec but this functionality is still untested.
 
-# <span style="line-height: 1.5;">Screenshots</span>
+# Screenshots
 
 \[gallery link="file" ids="721,724,727,726,729,725,730,736,732"\]
 
-# <span style="line-height: 1.5;">Download</span>
+# Download
 
 You can download *HDHomeRun TV Dump* by clicking on the following link:
 
@@ -47,7 +47,7 @@ You can download *HDHomeRun TV Dump* by clicking on the following link:
 - \[download id="748"\]
 - \[download id="750"\]
 
-# <span style="line-height: 1.5;">Hardware &amp; Software Requirements</span>
+# Hardware &amp; Software Requirements
 
 The following is required to take full control of *HDHomeRun TV Dump*:
 
@@ -85,21 +85,21 @@ To add a new scheduled recording to the list, press the {{% windows-button3d %}}
 
 Press {{% windows-button3d %}}OK{{% /windows-button3d %}} button to create the scheduled recording. A new entry will be listed on the scheduled recordings dialog.
 
-# <span style="line-height: 1.5;">Compatible with</span>
+# Compatible with
 
-<span style="line-height: 1.5;">*HdHomeRun TV Dump* is only available for the Windows platform and has been tested with the following software versions:</span>
+*HdHomeRun TV Dump* is only available for the Windows platform and has been tested with the following software versions:
 
 - Windows Vista
-- <span style="text-align: justify; line-height: 1.5;">Windows 7</span>
+- Windows 7
 - HDHomeRun Setup application 20130117
 - VLC v2.1.2 (any future release should also be compatible)
 
 # Minimum system requirements
 
 - 100% PC compatible
-- <span style="text-align: justify; line-height: 1.5;">Pentium II, 300 mhz</span>
-- <span style="text-align: justify; line-height: 1.5;">256 Mb RAM</span>
-- <span style="text-align: justify; line-height: 1.5;">20 Mb free disk space</span>
+- Pentium II, 300 mhz
+- 256 Mb RAM
+- 20 Mb free disk space
 
 # License
 
