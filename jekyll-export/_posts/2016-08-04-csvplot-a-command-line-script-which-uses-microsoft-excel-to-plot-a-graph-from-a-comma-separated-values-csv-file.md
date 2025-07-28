@@ -46,7 +46,9 @@ It is expected that first row of each column contains the title of the column wh
 
 # Usage
 
-The command for launching the script is as follows. The script must be called with a minimum of 6 command line arguments. | Name | Description |
+The command for launching the script is as follows. The script must be called with a minimum of 6 command line arguments.
+
+| Name | Description |
 |---|---|
 | InputFile | Path of the input CSV file |
 | OutputFile | Path of the output PNG image |

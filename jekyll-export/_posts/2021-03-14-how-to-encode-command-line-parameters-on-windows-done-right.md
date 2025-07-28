@@ -29,7 +29,9 @@ If you do not want to use the library, the following section shows the rules tha
 
 ## Rule #1 - Delimiters
 
-Tabs or \[space\] characters are argument delimiters (separators) but **\*only\*** when outside a string and outside a caret-string. Examples: | Command Line | Arg #1 | Arg #2 | Arg #3 |
+Tabs or \[space\] characters are argument delimiters (separators) but **\*only\*** when outside a string and outside a caret-string. Examples:
+
+| Command Line | Arg #1 | Arg #2 | Arg #3 |
 |---|---|---|---|
 | a b c | a | b | c |
 
@@ -37,7 +39,9 @@ Tabs or \[space\] characters are argument delimiters (separators) but **\*only\*
 
 Double quotes character (`"`) starts or ends a string. Strings allows one to insert a delimiter (or separators) character to an argument. The double quotes character is omitted from the argument. Note that strings **\*may** **not\*** always be ended (the end of the command line may be hit without the end-of-string character)
 
-If a string is juxtaposed to another argument (not separated by a delimiter character), they form the same argument. Examples: | Command Line | Arg #1 | Arg #2 | Arg #3 |
+If a string is juxtaposed to another argument (not separated by a delimiter character), they form the same argument. Examples:
+
+| Command Line | Arg #1 | Arg #2 | Arg #3 |
 |---|---|---|---|
 | "a b c" | a b c |  |  |
 | a" b" c | a b | c |  |
@@ -45,7 +49,9 @@ If a string is juxtaposed to another argument (not separated by a delimiter char
 
 ### Rule #2.1 - Plain double quotes
 
-Plain double quotes character (`"`) must be escaped with `<strong>\"</strong>` (or escaped with `<strong>""</strong>`) and does not end the string. (If not escaped, they act as strings markers ([Rule #2](#rule2)). Characters escaped with `<strong>\"</strong>` can be seen inside or outside strings but characters escaped with `<strong>""</strong>` can **\*only\*** be seen inside a string. Examples: | Command Line | Arg #1 | Arg #2 | Arg #3 |
+Plain double quotes character (`"`) must be escaped with `<strong>\"</strong>` (or escaped with `<strong>""</strong>`) and does not end the string. (If not escaped, they act as strings markers ([Rule #2](#rule2)). Characters escaped with `<strong>\"</strong>` can be seen inside or outside strings but characters escaped with `<strong>""</strong>` can **\*only\*** be seen inside a string. Examples:
+
+| Command Line | Arg #1 | Arg #2 | Arg #3 |
 |---|---|---|---|
 | a \\"b c | a | "b | c |
 | "a \\"b" c | a "b | c |  |
@@ -57,7 +63,9 @@ Plain double quotes character (`"`) must be escaped with `<strong>\"</strong>` (
 
 `<strong>^"</strong>` sequence starts or ends a caret-string. Caret-strings are different than normal strings. Caret-strings may be ended with an unescaped `<strong>"</strong>` character. Caret-string may not be ended. Note that caret-strings **\*may** **not\*** always be ended (the end of the command line may be hit without the end-of-string character)
 
-If a caret-string is juxtaposed to another argument (not separated by a delimiter character), they are part of the same argument. Examples: | Command Line | Arg #1 | Arg #2 | Arg #3 |
+If a caret-string is juxtaposed to another argument (not separated by a delimiter character), they are part of the same argument. Examples:
+
+| Command Line | Arg #1 | Arg #2 | Arg #3 |
 |---|---|---|---|
 | ^"a b^" c | a b | c |  |
 | ^"a b" c | a b | c |  |
@@ -71,7 +79,9 @@ If a caret-string is juxtaposed to another argument (not separated by a delimite
 
 Plain double quotes character (`"`) must be escaped with `<strong>\^"</strong>` when inside a caret-string. Note that `<strong>\^"</strong>` characters sequence can also be visible outside a string.
 
-Examples: | Command Line | Arg #1 | Arg #2 | Arg #3 |
+Examples:
+
+| Command Line | Arg #1 | Arg #2 | Arg #3 |
 |---|---|---|---|
 | ^"a \\^" b^" c | a " b | c |  |
 | ^"a \\" b^" c | a " b^ | c |  |
@@ -79,7 +89,9 @@ Examples: | Command Line | Arg #1 | Arg #2 | Arg #3 |
 
 ## Rule #3 - The \\ character
 
-Plain `<strong>\</strong>` character must be escaped with `<strong>\\</strong>` if they precedes a `<strong>"</strong>` character or `<strong>^"</strong>` character sequence. (string or caret-string termination). Examples: | Command Line | Arg #1 | Arg #2 | Arg #3 |
+Plain `<strong>\</strong>` character must be escaped with `<strong>\\</strong>` if they precedes a `<strong>"</strong>` character or `<strong>^"</strong>` character sequence. (string or caret-string termination). Examples:
+
+| Command Line | Arg #1 | Arg #2 | Arg #3 |
 |---|---|---|---|
 | a\\\\b | a\\\\b |  |  |
 | "a\\\\b" | a\\\\b |  |  |
@@ -97,14 +109,18 @@ The following characters are **special shell characters**: **&amp;**, **&lt;**, 
 
 ### Rule #4.1 (in string)
 
-Shell characters must be read as plain text when inside a string. Examples: | Command Line | Arg #1 | Arg #2 | Arg #3 |
+Shell characters must be read as plain text when inside a string. Examples:
+
+| Command Line | Arg #1 | Arg #2 | Arg #3 |
 |---|---|---|---|
 | "a &lt; b" c | a &lt; b | c |  |
 | "a ^&lt; b" c | a ^&lt; b | c |  |
 
 ### Rule #4.2 (in caret-string)
 
-Plain shell characters must be escaped with `<strong>^</strong>` when inside a caret-string or outside a string. Examples: | Command Line | Arg #1 | Arg #2 | Arg #3 |
+Plain shell characters must be escaped with `<strong>^</strong>` when inside a caret-string or outside a string. Examples:
+
+| Command Line | Arg #1 | Arg #2 | Arg #3 |
 |---|---|---|---|
 | a ^&lt; b | a | &lt; | b |
 | ^"a ^&lt; b^" c | a &lt; b | c |  |
@@ -114,7 +130,9 @@ Plain shell characters must be escaped with `<strong>^</strong>` when inside a c
 
 ### Rule #4.3 (Escaped non-shell characters)
 
-Non-shell characters that are escaped with `<strong>^</strong>` when inside a caret-string or outside a string and must be read as plain characters. Examples: | Command Line | Arg #1 | Arg #2 | Arg #3 |
+Non-shell characters that are escaped with `<strong>^</strong>` when inside a caret-string or outside a string and must be read as plain characters. Examples:
+
+| Command Line | Arg #1 | Arg #2 | Arg #3 |
 |---|---|---|---|
 | ^a^b ^c | ab | c |  |
 | "^a^b" ^c | ^a^b |  |  |
@@ -123,7 +141,9 @@ Non-shell characters that are escaped with `<strong>^</strong>` when inside a ca
 
 Empty arguments must be specified with `<strong>""</strong>` (enclosed by two consecutive delimiters). Note that empty arguments can also be specified with `<strong>^"^"</strong>` or a combination of the two.
 
-Examples: | Command Line | Arg #1 | Arg #2 | Arg #3 |
+Examples:
+
+| Command Line | Arg #1 | Arg #2 | Arg #3 |
 |---|---|---|---|
 | a "" b | a | \[empty\] | c |
 | "" a b | \[empty\] | a | b |
@@ -137,7 +157,9 @@ Examples: | Command Line | Arg #1 | Arg #2 | Arg #3 |
 
 ## <a id="rule6"></a>Rule #6 - Juxtaposed strings
 
-Two juxtaposed strings (not separated by a delimiter character), will insert a plain double quotes character (`"`) between each other. This rule applies to normal strings, caret-strings, or any combinations. Examples: | Command Line | Arg #1 | Arg #2 | Arg #3 |
+Two juxtaposed strings (not separated by a delimiter character), will insert a plain double quotes character (`"`) between each other. This rule applies to normal strings, caret-strings, or any combinations. Examples:
+
+| Command Line | Arg #1 | Arg #2 | Arg #3 |
 |---|---|---|---|
 | "a b""c d" | a b"c d (as with [rule #2](#rule2)) |  |  |
 | ^"a b^"^"c d^" | a b"c d |  |  |
@@ -153,7 +175,9 @@ All other characters must be read as plain text.
 
 ### Exception #1
 
-`<strong>\"</strong>` characters sequence inside a caret-string. This formatting is against [rule #2.3](#rule2_3) which states that double quote character `"` should be entered as `\^"` or againt [rule #3](#rule3) which states that `\` characters should be entered as `\\"`. Erroneous `<strong>\"</strong>` sequence in a caret-string should be read as ***\[end caret-string\]*** and ***\[start string\]*** which as of [rule #6](#rule6) also inserts a plain `"` character. Examples: | Command Line | Arg #1 | Arg #2 | Arg #3 |
+`<strong>\"</strong>` characters sequence inside a caret-string. This formatting is against [rule #2.3](#rule2_3) which states that double quote character `"` should be entered as `\^"` or againt [rule #3](#rule3) which states that `\` characters should be entered as `\\"`. Erroneous `<strong>\"</strong>` sequence in a caret-string should be read as ***\[end caret-string\]*** and ***\[start string\]*** which as of [rule #6](#rule6) also inserts a plain `"` character. Examples:
+
+| Command Line | Arg #1 | Arg #2 | Arg #3 |
 |---|---|---|---|
 | ^"test\\"&lt;test&amp;whoami^" | test"&lt;test&amp;whoami^ |  |  |
 | ^"ab cd \\" ef^" | ab cd " ef^ |  |  |
@@ -170,7 +194,9 @@ The following table shows multiple examples of command lines which decodes into 
 
 Also note that some command line contains shell command (whoami and echo) which are used to demonstrate that libArgvCodec is secure and protects againts command line injection attacks.
 
-For the list of all verification tests executed with libArgvCodec, please see the source code of the libargvcodectest project. | Command Line | Arg #1 | Arg #2 | Arg #3 |
+For the list of all verification tests executed with libArgvCodec, please see the source code of the libargvcodectest project.
+
+| Command Line | Arg #1 | Arg #2 | Arg #3 |
 |---|---|---|---|
 | aaa" | aaa |  |  |
 | aaa\\" | aaa" |  |  |

@@ -19,7 +19,9 @@ tags:
     - nature
 ---
 
-Le soleil et le temps chaud est de nouveau de retour parmi nous. Encore une fois, j'ai apporté mon appareil pour prendre des photos. Je suis donc parti à la chasse rechercher des fleurs dignes d'être observés pendant plus de 15 minutes avec mon appareil, [mon trépied](/wp-content/uploads/2015/02/Manfrotto-190XPROB-Tripod-with-3D-Head-804RC2.jpg "Manfrotto  190XPROB Tripod with 3D Head 804RC2") ainsi que des [tubes d'extension (21mm)](/wp-content/uploads/2015/02/Aputure-AF-Macro-Extension-Tube-for-Canon-EOS-EF-EF-S-Lens-Mount.jpg "Aputure AF Macro Extension Tube for Canon EOS EF EF-S Lens Mount"). Voici le résultat de ma séance photo:
+Le soleil et le temps chaud est de nouveau de retour parmi nous. Encore une fois, j'ai apporté mon appareil pour prendre des photos. Je suis donc parti à la chasse rechercher des fleurs dignes d'être observés pendant plus de 15 minutes avec mon appareil, [mon trépied](/wp-content/uploads/2015/02/Manfrotto-190XPROB-Tripod-with-3D-Head-804RC2.jpg "Manfrotto  190XPROB Tripod with 3D Head 804RC2") ainsi que des [tubes d'extension (21mm)](/wp-content/uploads/2015/02/Aputure-AF-Macro-Extension-Tube-for-Canon-EOS-EF-EF-S-Lens-Mount.jpg "Aputure AF Macro Extension Tube for Canon EOS EF EF-S Lens Mount"). 
+
+Voici le résultat de ma séance photo:
 
 | [![](https://www.end2endzone.com/wp-content/uploads/2015/05/IMG_1912_e2ez-200x300.jpg)](https://www.flickr.com/photos/154618444@N05/36828749754/in/album-72157686753632301/) | [![](https://www.end2endzone.com/wp-content/uploads/2015/05/IMG_1918_e2ez-300x200.jpg)](https://www.flickr.com/photos/154618444@N05/23686328968/in/album-72157686753632301/) | [![](https://www.end2endzone.com/wp-content/uploads/2015/05/IMG_1955_e2ez-300x200.jpg)](https://www.flickr.com/photos/154618444@N05/36828746834/in/album-72157686753632301/) |
 |---|---|---|

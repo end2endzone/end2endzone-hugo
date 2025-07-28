@@ -171,7 +171,9 @@ This feature may be required if a transmitter does not support native inverting 
 
 **Note:** The following is an extract of how the Spektrum transmitters calculate mixes. Please note that your mileage could vary if you use a different kind of transmitter.
 
-A 3-position switch will define 3 values for a given mix: Position 0, Position 1 and Position 2 while a 2-position switch will define 2 values for a mix: Position 0 and Position 1. Position 0 of a 2-position switch matches Position 0 of a 3-position switch and Position 1 of a 2-position switch matches Position 2 of a 3-position switch. The following table list position matches:
+A 3-position switch will define 3 values for a given mix: Position 0, Position 1 and Position 2 while a 2-position switch will define 2 values for a mix: Position 0 and Position 1. Position 0 of a 2-position switch matches Position 0 of a 3-position switch and Position 1 of a 2-position switch matches Position 2 of a 3-position switch.
+
+The following table list position matches:
 
 | Switch types |
 |---|---|

@@ -3,7 +3,6 @@ jekyll shortcodes
 \[caption id="attachment\_387" align="aligncenter" width="474"\]
 \[gallery
 tables:
-	[space]|
 	<table class="generictable"
 	<tr class="headerrow">
 <span
@@ -11,6 +10,8 @@ tables:
 	<span style="text-align: justify; line-height: 1.5;">
 	<span style="color:
 links to `www.end2endzone.com`
+	https://www.end2endzone.com/wp-content
+	
 images from `www.end2endzone.com`
 \[download id="628"\]
 	\[download id="1893" template="button"\]

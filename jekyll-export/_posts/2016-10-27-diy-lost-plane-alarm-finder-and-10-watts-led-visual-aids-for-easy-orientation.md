@@ -58,7 +58,9 @@ The DIY solution consist of adding two devices on the quadcopter each device for
 
 All the hardware components required for this project are available for purchase on eBay. Note that this project assumes that the arduino will be connected to a Remote Controlled (RC) 6-channels Receiver. This part for the project is then not listed as a 'required' component.
 
-The material for this project is as follows: | Image | Description | Qty |
+The material for this project is as follows:
+
+| Image | Description | Qty |
 |---|---|---|
 | [![Arduino Nano v3](https://www.end2endzone.com/wp-content/uploads/2016/07/Arduino-Nano-v3-150x84.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/07/Arduino-Nano-v3.jpg) | Arduino Nano v3 | 1 |
 | [![Piezoelectric Buzzer - Audible Alarm Sound Buzzers](https://www.end2endzone.com/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers-150x84.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers.jpg) | Piezoelectric Buzzer | 1 |
@@ -90,7 +92,9 @@ I didn't take the time to calculate the weight of each component individually. A
 
 ## <span style="line-height: 1.5;">Total cost of the project</span>
 
-This project is really cheap and can be completed with less than 30$. Here is the detailed price of each items: | Item | Link | Quantity | Total |
+This project is really cheap and can be completed with less than 30$. Here is the detailed price of each items:
+
+| Item | Link | Quantity | Total |
 |---|---|---|---|
 | Arduino Nano v3 | [eBay](http://www.ebay.ca/sch/i.html?LH_BIN=1&_from=R40&_sacat=0&_nkw=arduino+nano+v3&_sop=15) | 1 | $3.17 |
 | Piezoelectric Buzzer | [eBay](http://www.ebay.ca/sch/i.html?LH_BIN=1&_from=R40&_sacat=0&_nkw=95db+Piezoelectric+Buzzer&_sop=15) | 1 | $1.30 |
@@ -149,7 +153,9 @@ The following section defines the required libraries for compiling the main ardu
 
 ## <span style="font-size: 24px; font-weight: bold; line-height: 1;">External libraries</span>
 
-The code on the arduino requires multiple external arduino libraries. The following list shows all required software libraries and their related use as part of this project: | Name | Version | Usage |
+The code on the arduino requires multiple external arduino libraries. The following list shows all required software libraries and their related use as part of this project:
+
+| Name | Version | Usage |
 |---|---|---|
 | [SoftTimers](https://www.end2endzone.com/softtimers-a-collection-of-software-timers-to-easily-compute-elapsed-time-since-an-event-occured/) <sup>5</sup> | v1.1.219 | Required for all computation and handling of the LED's ON and OFF times. |
 | [RcReceiverSignal](https://www.end2endzone.com/rcreceiversignal-an-arduino-library-for-retreiving-the-rc-transmitter-value-from-an-rc-receiver-pulse/) <sup>8</sup> | v1.2.203 | Required to read PWM signals sent from the RC Receiver. |
@@ -175,7 +181,9 @@ Before attempting run the given code on the arduino, you must first install the 
 
 ## Setup transmitter (Tx) mixes
 
-As explained [above](#Microcontroller), this project innovation relies on the fact that **both devices** are controlled by the quadcopter transmitter using only a **single channel**. This is achieved by configuring custom mixes on the transmitter. To know more about how mixes can be used to control more than one device with the help of a microcontroller, read the following article: [How to multiplex RC Transmitter switches into a single channel](/how-to-multiplex-rc-transmitter-switches-into-a-single-channel/). As a reference, here are the mixes that I use for my Spektrum DX9 transmitter: | AUX1 Mix info | Mix Output |
+As explained [above](#Microcontroller), this project innovation relies on the fact that **both devices** are controlled by the quadcopter transmitter using only a **single channel**. This is achieved by configuring custom mixes on the transmitter. To know more about how mixes can be used to control more than one device with the help of a microcontroller, read the following article: [How to multiplex RC Transmitter switches into a single channel](/how-to-multiplex-rc-transmitter-switches-into-a-single-channel/). As a reference, here are the mixes that I use for my Spektrum DX9 transmitter:
+
+| AUX1 Mix info | Mix Output |
 |---|---|
 | Number | Switch | High | Low | Offset | 0 | 1 | 2 |
 | 0 | Right knob | -74 | 0 | -99 | -147 | -73 | 0 |

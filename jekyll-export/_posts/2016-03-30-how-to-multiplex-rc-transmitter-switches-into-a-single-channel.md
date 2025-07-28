@@ -59,7 +59,9 @@ The generic idea is to divide the whole range of the signal (from -150% to 150%)
 
 ### Minimum number of blocks
 
-The following explain what is the minimum number of blocks that are required for multiplexing a given amount of switches. The number of required blocks for a given number of switches is defined by the all the unique combinations that are possible with the switches. To calculate this, you multiply the number of combinations of each switch by each other. For instance: To multiplex three 2-position switches, 8 blocks are required (2\*2\*2) which makes 8 unique combinations: | **Block Number** | **Switches** |
+The following explain what is the minimum number of blocks that are required for multiplexing a given amount of switches. The number of required blocks for a given number of switches is defined by the all the unique combinations that are possible with the switches. To calculate this, you multiply the number of combinations of each switch by each other. For instance: To multiplex three 2-position switches, 8 blocks are required (2\*2\*2) which makes 8 unique combinations:
+
+| **Block Number** | **Switches** |
 |---|---|
 | **2-pos** | **2-pos** | **2-pos** |
 | 0 | 0 | 0 | 0 |
@@ -71,7 +73,9 @@ The following explain what is the minimum number of blocks that are required for
 | 6 | 1 | 1 | 0 |
 | 7 | 1 | 1 | 1 |
 
-To multiplex two 2-position and one 3-position switches, 12 blocks are required (2\*2\*3) which makes 12 unique combinations: | **Block Number** | **Switches** |
+To multiplex two 2-position and one 3-position switches, 12 blocks are required (2\*2\*3) which makes 12 unique combinations:
+
+| **Block Number** | **Switches** |
 |---|---|
 | **2-pos** | **2-pos** | **3-pos** |
 | 0 | 0 | 0 | 0 |
@@ -95,14 +99,18 @@ In your design, you will have to decide to support or not 3-position switches. I
 
 ## Dead Zone
 
-Blocks cannot be juxtaposed to each other and dead zones must be inserted between (or within) blocks. This is required since each transmitters and micro-controllers do not offer the same performance and precision. Dead zones are required since a micro-controller might read data from block 5 but the next pulse of the same signal may introduce a 5uS delay, which would correspond to a different block (ie block 6). For instance, if the following blocks are defined: | **Block** | **Min** | **Max** |
+Blocks cannot be juxtaposed to each other and dead zones must be inserted between (or within) blocks. This is required since each transmitters and micro-controllers do not offer the same performance and precision. Dead zones are required since a micro-controller might read data from block 5 but the next pulse of the same signal may introduce a 5uS delay, which would correspond to a different block (ie block 6). For instance, if the following blocks are defined:
+
+| **Block** | **Min** | **Max** |
 |---|---|---|
 | 0 | -150% | -141% |
 | 1 | -140% | -131% |
 | 2 | -130% | -121% |
 | 3 | -120% | -111% |
 
-The difference between -131% (block 1) and -130% (block 2) is ~5uS. If blocks would be juxtaposed, then the micro-controller could sometimes read block 1 and sometimes block 2 which does not mean the same thing at all. This delay might be from the receiver who does not provide a perfect pulse length or from the micro-controller who does not detect the end of the pulse with enough precision. Both errors can be avoided with dead zones. By introducing a dead zone of 5 steps within blocks (of 10 steps), the same blocks would then become something like: | **Block** | **Min** | **Max** | **Mix Target** |
+The difference between -131% (block 1) and -130% (block 2) is ~5uS. If blocks would be juxtaposed, then the micro-controller could sometimes read block 1 and sometimes block 2 which does not mean the same thing at all. This delay might be from the receiver who does not provide a perfect pulse length or from the micro-controller who does not detect the end of the pulse with enough precision. Both errors can be avoided with dead zones. By introducing a dead zone of 5 steps within blocks (of 10 steps), the same blocks would then become something like:
+
+| **Block** | **Min** | **Max** | **Mix Target** |
 |---|---|---|---|
 | DEAD | -150% | -148% |  |
 | 0 | -147% | -143% | -145% |
@@ -133,7 +141,9 @@ The following section defines mix that are required to implement two basic scena
 
 ### Four 2-position switches
 
-The following table shows the signal range and the middle of the effective area for each block. It is calculated using a block size of 10 steps and a dead zone of 2 steps which makes the effective block size to 6 steps: | Block Number | Block Offsets | Mix Target |
+The following table shows the signal range and the middle of the effective area for each block. It is calculated using a block size of 10 steps and a dead zone of 2 steps which makes the effective block size to 6 steps:
+
+| Block Number | Block Offsets | Mix Target |
 |---|---|---|
 | Dead | Effective | Dead |
 | 0 | -150 | -149 | -148 | -143 | -142 | -141 | -146 |
@@ -153,7 +163,9 @@ The following table shows the signal range and the middle of the effective area 
 | 14 | -10 | -9 | -8 | -3 | -2 | -1 | -6 |
 | 15 | 0 | 1 | 2 | 7 | 8 | 9 | 5 |
 
-The following mixes must be created to multiplex all switches unique configurations: | Mix info | Mix Output |
+The following mixes must be created to multiplex all switches unique configurations:
+
+| Mix info | Mix Output |
 |---|---|
 | Number | Switch | High | Low | Offset | 0 | 1 |
 | 0 | A | -100 | 100 | 0 | -100 | -100 |
@@ -164,7 +176,9 @@ The following mixes must be created to multiplex all switches unique configurati
 
 Note that first 2 mix are mapped to switch A. This is required since the minimum value of a High rate mix is -125% which gives a final mix value of -125% at Position 0. The only way to get a lower value (ie -146) would be to offset the mix (by -17) but then the Low rate value would have the same issue.
 
-As you can see, the sum of all combined mixes matches the middle section of each effective block: | Block Number | Switches | Mixes |
+As you can see, the sum of all combined mixes matches the middle section of each effective block:
+
+| Block Number | Switches | Mixes |
 |---|---|---|
 | D | C | B | A | 0 | 1 | 2 | 3 | 4 | Sum |
 | 0 | 0 | 0 | 0 | 0 | -100 | -46 | 0 | 0 | 0 | -146 |
@@ -188,7 +202,9 @@ Use the \[download id="1486"\] for calculating all block offset when multiplexin
 
 ### Three 2-position and one 3-position switches
 
-The following table shows the signal range and the middle of the effective area for each block. It is calculated using a block size of 10 steps and a dead zone of 2 steps which makes the effective block size to 6 steps: | Block Number | Block Offsets | Mix Target |
+The following table shows the signal range and the middle of the effective area for each block. It is calculated using a block size of 10 steps and a dead zone of 2 steps which makes the effective block size to 6 steps:
+
+| Block Number | Block Offsets | Mix Target |
 |---|---|---|
 | Dead | Effective | Dead |
 | 0 | -150 | -149 | -148 | -143 | -142 | -141 | -146 |
@@ -216,7 +232,9 @@ The following table shows the signal range and the middle of the effective area 
 | 22 | 70 | 71 | 72 | 77 | 78 | 79 | 75 |
 | 23 | 80 | 81 | 82 | 87 | 88 | 89 | 85 |
 
-The following mixes must be created to multiplex all switches unique configurations: | Mix info | Mix Output |
+The following mixes must be created to multiplex all switches unique configurations:
+
+| Mix info | Mix Output |
 |---|---|
 | Number | Switch | High | Low | Offset | 0 | 1 | 2 |
 | 0 | A | 0 | 68 | 100 | 0 | -68 | -136 |
@@ -228,7 +246,9 @@ The following mixes must be created to multiplex all switches unique configurati
 
 Note that first 3 mix are mapped to switch A which is the 3-position switch. The first 2 mix are use to get a constant -136 on all positions. Then the 3rd mix moves the signal value over the first 3 blocks (to the previous, current or next block). As far as I know, there is no way to achieve the same result with only 2 mixes.
 
-As you can see, the sum of all combined mixes matches the middle section of each effective block: | Block Number | Switches | Mixes |
+As you can see, the sum of all combined mixes matches the middle section of each effective block:
+
+| Block Number | Switches | Mixes |
 |---|---|---|
 | D | C | B | A | 0 | 1 | 2 | 3 | 4 | 5 | Sum |
 | 0 | 0 | 0 | 0 | 0 | 0 | -136 | -10 | 0 | 0 | 0 | -146 |
@@ -260,7 +280,9 @@ Use the \[download id="1482"\] for calculating all block offset when multiplexin
 
 ### Three 3-position switches
 
-The following table shows the signal range and the middle of the effective area for each block. Again, it is calculated using a block size of 10 steps and a dead zone of 2 steps which makes the effective block size to 6 steps: | Block Number | Block Offsets | Mix Target |
+The following table shows the signal range and the middle of the effective area for each block. Again, it is calculated using a block size of 10 steps and a dead zone of 2 steps which makes the effective block size to 6 steps:
+
+| Block Number | Block Offsets | Mix Target |
 |---|---|---|
 | Dead | Effective | Dead |
 | 0 | -134 | -133 | -132 | -127 | -126 | -125 | -130 |
@@ -291,7 +313,9 @@ The following table shows the signal range and the middle of the effective area 
 | 25 | 116 | 117 | 118 | 123 | 124 | 125 | 121 |
 | 26 | 126 | 127 | 128 | 133 | 134 | 135 | 131 |
 
-The following mixes must be created to multiplex all switches unique configurations: | Mix info | Mix Output |
+The following mixes must be created to multiplex all switches unique configurations:
+
+| Mix info | Mix Output |
 |---|---|
 | Number | Switch | High | Low | Offset | 0 | 1 | 2 |
 | 0 | A | -10 | -10 | 0 | -10 | 0 | 10 |
@@ -300,7 +324,9 @@ The following mixes must be created to multiplex all switches unique configurati
 
 Note that only 3 mix is required for multiplexing three 3-position switches. Mixes are also centered around 0 (instead of starting at -150).
 
-As you can see, the sum of all combined mixes matches the middle section of each effective block: | Block Number | Switches | Mixes |
+As you can see, the sum of all combined mixes matches the middle section of each effective block:
+
+| Block Number | Switches | Mixes |
 |---|---|---|
 | C | B | A | 0 | 1 | 2 | Sum |
 | 0 | 0 | 0 | 0 | -10 | -30 | -90 | -130 |
@@ -375,7 +401,9 @@ Block size must be increased to allow the desired resolution. The higher the res
 
 ### Dead zone
 
-A dead zone of 3 steps is also suggested. For instance, to support a resolution of 40 different steps, the block size must be of 46 steps (3+40+3=46). The following table shows the signal range and the middle of the effective area for each block. It is calculated using a block size of 46 steps and a dead zone of 3 steps which makes the effective block size to 40 steps: | Block Number | Block Offsets |
+A dead zone of 3 steps is also suggested. For instance, to support a resolution of 40 different steps, the block size must be of 46 steps (3+40+3=46). The following table shows the signal range and the middle of the effective area for each block. It is calculated using a block size of 46 steps and a dead zone of 3 steps which makes the effective block size to 40 steps:
+
+| Block Number | Block Offsets |
 |---|---|
 | Dead | Effective | Dead |
 | 0 | -150 | -148 | -147 | -108 | -107 | -105 |
@@ -394,7 +422,9 @@ Note that only 6 blocks can be defined using a block size of 46 steps. These blo
 
 ## Mixes
 
-When multiplexing an analog value, mixes do not have to target the middle of the block's effective zone (as with switches) since the signal's value can move within the whole effective area of the block. Assuming the first configuration (2-pos + 3-pos), the following mixes must be created to multiplex all switches unique configurations: | Mix info | Mix Output |
+When multiplexing an analog value, mixes do not have to target the middle of the block's effective zone (as with switches) since the signal's value can move within the whole effective area of the block. Assuming the first configuration (2-pos + 3-pos), the following mixes must be created to multiplex all switches unique configurations:
+
+| Mix info | Mix Output |
 |---|---|
 | Number | Switch | High | Low | Offset | 0 | 1 | 2 |
 | 0 | RKnob | -74 | 0 | -99 | -147 | -73 | 0 |
@@ -404,7 +434,9 @@ When multiplexing an analog value, mixes do not have to target the middle of the
 
 Note that first 2 mix are mapped to the right knob to reach the effective range of the first block (-147% to -108%). Switch B is a 3-position switch and offsets the analog range between block 0 to 2. Then the 3rd mix, assigned to Switch A (2-position), offsets the 3 effective block of switch B to block 0-2 or 3-5.
 
-As you can see, the sum of all combined mixes matches the middle section of each effective block: | Block Number | Switches | Mixes |
+As you can see, the sum of all combined mixes matches the middle section of each effective block:
+
+| Block Number | Switches | Mixes |
 |---|---|---|
 | A | B | RKnob | 0 | 1 | 2 | 3 | Sum |
 | 0 | 0 | 0 | 0 | -147 | 0 | 0 | 0 | -147 |
