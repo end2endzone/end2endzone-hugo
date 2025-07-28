@@ -2,9 +2,6 @@ jekyll shortcodes
 	characters `\`
 \[caption id="attachment\_387" align="aligncenter" width="474"\]
 \[gallery
-tables:
-	<table class="generictable"
-	<tr class="headerrow">
 <span
 	<span style="line-height: 1.5;">
 	<span style="text-align: justify; line-height: 1.5;">
