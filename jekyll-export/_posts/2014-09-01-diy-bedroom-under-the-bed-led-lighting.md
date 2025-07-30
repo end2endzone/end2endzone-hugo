@@ -24,14 +24,18 @@ tags:
     - multilingual
 ---
 
-<span style="font-size: 26px; font-weight: bold; line-height: 1.3846153846;">Introduction</span>How many times did you wake up your partner in bed because you had to turn on a lamp to see something? Did you ever wanted to have a bedside lamp/table lamp that do not take too much space on the bedside table? How about being able to turn off a lamp that's been turned on by your partner without leaving your bed? In this article, I will explain how I created a bedroom under the bed LED lighting solution that can replace your existing bedside lamp. After completing my [DIY Kitchen under cabinet LED lighting](/diy-kitchen-under-cabinet-led-lighting/) project, I managed to get a few spare parts lying around. I realized that I had all the equipment required to implement something similar for the bedroom. The reason I started this project was that I wanted a low brightness light to be turned on during the night so that I can see where I go. At the same time, I did not always went to bed at the same time that my partner. Having a light that can be left on while she is going to sleep would have been an amazing feature. The electrical circuit is almost identical to the [Kitchen under cabinet LED lighting](/diy-kitchen-under-cabinet-led-lighting/). However, this design uses 2 switches instead of a single one. This is required so that each partner has control on the lights from his/her bed side. Installing lights under your bed is really different than having a bedside/table lamp. This setup provide the following benefits in a bedroom:
+# Introduction
+
+How many times did you wake up your partner in bed because you had to turn on a lamp to see something? Did you ever wanted to have a bedside lamp/table lamp that do not take too much space on the bedside table? How about being able to turn off a lamp that's been turned on by your partner without leaving your bed? In this article, I will explain how I created a bedroom under the bed LED lighting solution that can replace your existing bedside lamp. After completing my [DIY Kitchen under cabinet LED lighting](/diy-kitchen-under-cabinet-led-lighting/) project, I managed to get a few spare parts lying around. I realized that I had all the equipment required to implement something similar for the bedroom. The reason I started this project was that I wanted a low brightness light to be turned on during the night so that I can see where I go. At the same time, I did not always went to bed at the same time that my partner. Having a light that can be left on while she is going to sleep would have been an amazing feature. The electrical circuit is almost identical to the [Kitchen under cabinet LED lighting](/diy-kitchen-under-cabinet-led-lighting/). However, this design uses 2 switches instead of a single one. This is required so that each partner has control on the lights from his/her bed side. Installing lights under your bed is really different than having a bedside/table lamp. This setup provide the following benefits in a bedroom:
 
 - It does not create light that is too bright. The dimmer make this easy on the eyes at night. The LEDs can be turned on without blinding you.
 - It allows to see were you are walking. Be able to see the walkway between the bedroom and the bathroom is pretty interesting.
 - Can be turned on without disturbing the sleep of the other partner.
 - Give a nice ambient light for bed activities...
 
-In this post, I will explain how I installed in my bedroom a custom under the bed LED lighting solution. **Note:**Handling wall electricity can be dangerous. If you do not have basic electricity skills, I strongly recommend that you do not complete this project. Proceed at your own risk.
+In this post, I will explain how I installed in my bedroom a custom under the bed LED lighting solution.
+
+**Note:** Handling wall electricity can be dangerous. If you do not have basic electricity skills, I strongly recommend that you do not complete this project. Proceed at your own risk.
 
 # Project data
 
@@ -101,11 +105,11 @@ This section defines the basic reasons that lead to the final design.
 
 **Note:**Both options do not illuminate the people sleeping and should not disturb your lover's sleep.
 
-### <span style="font-size: 22px; font-weight: bold; line-height: 1.0909090909;">Switches</span>
+### Switches
 
 [![IMG_7125](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg)I had a hard time figuring out where I would put the switches and the dimmer. They had to be freely available and I wanted to be able to find the switches with my hands only, without having to take a look first. You will turn them on in the middle of the night when not fully awake! My first idea was to install the switch through the headboard by drilling small holes the size of the switch and use switch plates to cover everything. That was not accepted as a viable solution because we though that it will be too intrusive. It would also be hard finding the switch in almost total darkness. I opted to position the circuit of the switches at the same level than the bed's headboard. The moving part of the switch is raised a little bit above the headboard. This option is perfect because it is really easy to turn on the lights even when lying on the bed. You simply have to slide your hand on the top of the headboard from left to right (or right to left).
 
-### <span style="font-size: 22px; font-weight: bold; line-height: 1.0909090909;">Dimmer</span>
+### Dimmer
 
 [![IMG_7099](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg)The dimmer is not always used in this setup. Most of the time, you want the light to be set at the minimum brightness level. In some scenarios, you will want to get more light and you will have to turn the knob of the dimmer. For this reason, I decided to position the dimmer behind the headboard. It cannot be reached when lying on the bed but it can still be reached when sitting/standing face to the headboard.
 

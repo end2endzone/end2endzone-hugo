@@ -77,7 +77,7 @@ I used SMD 3528 LED chips instead of SMD 5050 LED chips. Basically, the code for
 
 You only need 3 LED connectors for this project. You need 2 connectors for linking the 3 cabinets together and a 3rd one for connecting the strip to the dimmer's output connectors. However, I actually bought 5 of them since buying in bulk is actually cheaper than buying 3 single connectors.
 
-## <span style="font-size: 24px; font-weight: bold; line-height: 1;">Total cost of the project</span>
+## Total cost of the project
 
 As I said before, this project can be completed at a pretty cheap price. The total cost of the project is less than 30$. I had to say that I bought all major items (strips, dimmer and power supply) from ebay for a ridiculous amount of money. Don't make the mistake and buy this stuff at an electrical or lighting store because you could easily double or triple the cost of the project! Here is the detailed price of each items:
 
@@ -118,7 +118,13 @@ This section defines how to connect all the components together. Connect the pow
 
 ## Deciding where to put your stuff
 
-<center>[![DSC04072](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg) [![DSC04068](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg)[![DSC04060](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg) [![DSC04062](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)</center>I wanted to position the switch at a location where is can be reached easily with your fingers but I also wanted the switch to be invisible to the eye. I decided to install the switch below the cabinets but hidden behind the front panel under the cabinets. For the same reasons, the dimmer is located at the same location. I used double sided tape to stick the dimmer and the power switch in place. The tape is strong enough to keep the switch in place even when someone is turning the lights on or off. I also decided to position the power supply below the cabinet, at the back. This location is close to the switch and the dimmer and is also well ventilated. The power supply has two holes for screwing the case to a wood surface. I used small length screws to screw the power to the cabinet's wood panel<span style="text-align: justify;">.</span>Here is a view from below the cabinet: [![DSC04070](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg)
+<center>[![DSC04072](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg) [![DSC04068](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg)[![DSC04060](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg) [![DSC04062](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)</center>
+
+I wanted to position the switch at a location where is can be reached easily with your fingers but I also wanted the switch to be invisible to the eye. I decided to install the switch below the cabinets but hidden behind the front panel under the cabinets. For the same reasons, the dimmer is located at the same location. I used double sided tape to stick the dimmer and the power switch in place. The tape is strong enough to keep the switch in place even when someone is turning the lights on or off. I also decided to position the power supply below the cabinet, at the back. This location is close to the switch and the dimmer and is also well ventilated. The power supply has two holes for screwing the case to a wood surface. I used small length screws to screw the power to the cabinet's wood panel.
+
+Here is a view from below the cabinet:
+
+[![DSC04070](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg)
 
 ## LED strip installation
 

@@ -50,7 +50,13 @@ Call `setTimeOutTime()` to setup the non-blocking SoftTimer then call `reset()` 
 
 ## Fade a LED
 
-Fading a LED like [arduino's Built-in Fade Example](https://www.arduino.cc/en/Tutorial/Fade) is trivial using SoftTimers. The library helps in defining the constant speed at which the LED will fade by defining the total length of the process and by easily mapping the timer "progress" to the amount of fade (PWM) used with the output pin. All of this in a non-blocking manner. The following example increases the intensity of a LED from OFF to ON in 1 second and then decreases the intensity of the LED back to OFF in 1 second. <span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>Click the following to download the example below: (download \[download id="2109" template="title"\])
+Fading a LED like [arduino's Built-in Fade Example](https://www.arduino.cc/en/Tutorial/Fade) is trivial using SoftTimers. The library helps in defining the constant speed at which the LED will fade by defining the total length of the process and by easily mapping the timer "progress" to the amount of fade (PWM) used with the output pin. All of this in a non-blocking manner. The following example increases the intensity of a LED from OFF to ON in 1 second and then decreases the intensity of the LED back to OFF in 1 second.
+
+Demo:
+
+Click the following to download the example below:
+
+\[download id="2109" template="title"\]
 
 ```
 https://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-FadeLed-demo.ino
@@ -58,7 +64,13 @@ https://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-FadeL
 
 ## Countdown or Elapsed time
 
-Any program that need to display a countdown or compute the elapsed time between two events can also benefit from SoftTimers. The following example runs a countdown of 5 seconds and then turns a LED on. <span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>Click the following to download the example below: (download \[download id="2105" template="title"\])
+Any program that need to display a countdown or compute the elapsed time between two events can also benefit from SoftTimers. The following example runs a countdown of 5 seconds and then turns a LED on.
+
+Demo:
+
+Click the following to download the example below:
+
+\[download id="2105" template="title"\]
 
 ```
 https://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-Countdown-demo.ino
@@ -73,7 +85,11 @@ SoftTimer library also help reducing repetitive timed cycles to their simplest n
 - set pin 8, 9 and 13 to LOW, HIGH and LOW respectively and then wait 1 second.
 - repeat the cycle forever...
 
-<span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>Click the following to download the example below: (download \[download id="2107" template="title"\])
+Demo:
+
+Click the following to download the example below:
+
+\[download id="2107" template="title"\]
 
 ```
 https://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-CycleHighPin-demo.ino
@@ -89,7 +105,11 @@ SoftTimer library allows one to make an easy abstraction of time when dealing wi
 - State #4 - UPDATING (300 ms)
 - State #1 ....
 
-<span style="text-decoration: underline;"><span style="font-size: 16pt;">Demo</span></span>Click the following to download the example below: (download \[download id="2111" template="title"\])
+Demo:
+
+Click the following to download the example below:
+
+\[download id="2111" template="title"\]
 
 ```
 https://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-StateMachine-demo.ino

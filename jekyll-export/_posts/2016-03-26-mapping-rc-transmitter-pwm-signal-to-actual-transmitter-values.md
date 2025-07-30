@@ -105,7 +105,7 @@ Download the arduino source code: \[download id="1582"\].
 
 The following section show the results of all my data capture sessions. Each device combination show the following information:
 
-<span style="text-decoration: underline;"><span style="font-size: 16pt;">**Table 1** </span></span>
+**Table 1**
 
 1. A given transmitter value.
 2. Average pulse length (in µs) for the given transmitter value.
@@ -172,7 +172,7 @@ Note that some devices are low quality products and are not always constant or d
 | Tx | Avg PWM | Eq0 | Diff 0 | Eq1 | Diff 1 | Eq2 | Diff 2 | Eq3 | Diff 3 | Eq4 | Diff 4 | Eq5 | Diff 5 | Eq6 | Diff 6 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 150 | 2187.85 | 150 | 0 | 150 | 0.39 | 150 | 0.19 | 150 | 0.05 | 150 | 0.39 | 151 | 0.57 | 150 | 0.23 |
-| 149 | 2180.73 | 148 | 0.57 | 149 | 0.18 | 148 | 0.75 | <span style="color: #ff0000;">148</span> | 0.52 | 149 | 0.18 | 149 | 0 | 149 | 0.34 |
+| 149 | 2180.73 | 148 | 0.57 | 149 | 0.18 | 148 | 0.75 | 148 | 0.52 | 149 | 0.18 | 149 | 0 | 149 | 0.34 |
 | 148 | 2178.54 | 148 | 0.05 | 148 | 0.34 | 148 | 0.23 | 148 | 0 | 148 | 0.34 | 149 | 0.52 | 148 | 0.18 |
 | 147 | 2173.86 | 147 | 0.08 | 147 | 0.31 | 147 | 0.26 | 147 | 0.03 | 147 | 0.31 | 147 | 0.49 | 147 | 0.15 |
 | 146 | 2167.92 | 146 | 0.39 | 146 | 0 | 145 | 0.56 | 146 | 0.33 | 146 | 0 | 146 | 0.18 | 146 | 0.15 |
@@ -187,13 +187,13 @@ Note that some devices are low quality products and are not always constant or d
 | -147 | 836.76 | -148 | 0.8 | -147 | 0.05 | -147 | 0.13 | -147 | 0.04 | -147 | 0.05 | -147 | 0.05 | -147 | 0.09 |
 | -148 | 832.02 | -149 | 0.85 | -148 | 0.1 | -148 | 0.08 | -148 | 0 | -148 | 0.1 | -148 | 0 | -148 | 0.13 |
 | -149 | 827.47 | -150 | 0.85 | -149 | 0.1 | -149 | 0.09 | -149 | 0 | -149 | 0.1 | -149 | 0 | -149 | 0.13 |
-| -150 | 826.8 | -150 | 0 | -149 | 0.75 | -149 | 0.94 | <span style="color: #ff0000;">-149</span> | 0.85 | -149 | 0.75 | -149 | 0.85 | <span style="color: #ff0000;">-149</span> | 0.72 |
+| -150 | 826.8 | -150 | 0 | -149 | 0.75 | -149 | 0.94 | -149 | 0.85 | -149 | 0.75 | -149 | 0.85 | -149 | 0.72 |
 |  |  |  | 8.05 |  | 3.04 |  | 3.94 |  | 2.37 |  | 3.04 |  | 4.26 |  | 2.85 |
 
 The table above shows two polynomial functions (see highlighted columns) that offers the best performance :
 
-- Function #3 (which has an order of 1) and a sum of <span style="color: #000000; background-color: lightgreen;">2.37</span>.
-- Function #6 (which has an order of 2) and a sum of <span style="color: #000000; background-color: lightgreen;">2.85</span>.
+- Function #3 (which has an order of 1) and a sum of 2.37.
+- Function #6 (which has an order of 2) and a sum of 2.85.
 
 Even if function #6 has a sum higher than function #3, the accuracy of function #3 is better since only a single control point does not match the expected values. For example, function #3 evaluates a pwm of 2180.73 µs to 148 while function #6 evaluates to 149 which is correct.
 
@@ -270,8 +270,8 @@ Download the \[download id="1618"\] full data capture.
 
 The table above shows two polynomial functions (see highlighted columns) that offers the best performance :
 
-- Function #2 (which has an order of 1) and a sum of <span style="color: #000000; background-color: lightgreen;">0.62</span>.
-- Function #6 (which has an order of 2) and a sum of <span style="color: #000000; background-color: lightgreen;">1.59</span>.
+- Function #2 (which has an order of 1) and a sum of 0.62.
+- Function #6 (which has an order of 2) and a sum of 1.59.
 
 Function #2 offers the best performance. It is even better than the polynomial function with an order of 3. All control points matches the expected values. This means that Spektrum AR8000 Rx delivers near-perfect and linear PWM values for all given transmitter values.
 
@@ -354,8 +354,8 @@ Note that each channel section are identified by a unique color which helps to i
 
 The two tables above shows two polynomial functions (see highlighted columns) that offers the best performance:
 
-- Function #7 (which has an order of 2) and a sum of <span style="color: #000000; background-color: lightgreen;">6.3</span>.
-- Function #8 (which has an order of 2) and a sum of <span style="color: #000000; background-color: lightgreen;">7.21</span>.
+- Function #7 (which has an order of 2) and a sum of 6.3.
+- Function #8 (which has an order of 2) and a sum of 7.21.
 - All polynomial function which has an order of 1 shows terrible prediction performance.
 
 Note that best function for channel 1 (function #7) shows terrible results when used in calculations of channel 2. That is also for function 8. This means that there is no generic function that can be used for all channel situations. As a proof, function #6 which is based on all observed values for all channels shows terrible results.
@@ -378,7 +378,7 @@ Download the \[download id="1614"\] full data capture.
 
 \[gallery link="none" ids="1640"\]
 
-<span style="text-decoration: underline; font-size: 16pt;">**Table 1**</span>  
+**Table 1**  
 The CCPM Servo Tester shows a PWM range from **900 µs** to **2210 µs**. The following table shows the details of my data capture session:
 
 | CCPM Servo Tester |
@@ -390,7 +390,7 @@ The CCPM Servo Tester shows a PWM range from **900 µs** to **2210 µs**. The fo
 
 Note that values for the CCPM Server Tester (100, -100) are assumptions and represents clockwise and counterclockwise positions of the potentiometer. In fact, based on the observed PWM values, the values should be more in the (133, -133) range according the *[Spektrum DX9 Tx &amp; Orange R620X Rx](#Spektrum_DX9_Tx_Orange_R620X_Rx)* results or in (150, -150) range according the *[Spektrum DX9 Tx &amp; Spektrum AR8000 Rx](#Spektrum_DX9_Tx_Spektrum_AR8000_Rx)* results.
 
-<span style="text-decoration: underline; font-size: 16pt;">**Table 2**</span>  
+**Table 2**  
 From these values, I extracted the following polynomial functions:
 
 | Polynomial Equation | Py1 | Px1 | Py2 | Px2 | a2 | a1 | a0 |
@@ -400,7 +400,7 @@ From these values, I extracted the following polynomial functions:
 | 2 | 0 | 1504.752 | -100 | 903.772 | 0 | 0.16639489 | -250.383041 |
 | 3 |  |  |  |  | 4.0E-07 | 0.1653 | -249.78 |
 
-<span style="text-decoration: underline; font-size: 16pt;">**Table 3**</span>  
+**Table 3**  
 The following table shows details for calculating the performance of each polynomial functions:
 
 | Value | Avg PWM | Eq0 | Diff 0 | Eq1 | Diff 1 | Eq2 | Diff 2 | Eq3 | Diff 3 |

@@ -54,7 +54,7 @@ The DIY solution consist of adding two devices on the quadcopter each device for
 
 # Project data
 
-## <span style="font-size: 24px; font-weight: bold; line-height: 1;">Components and Supplies</span>
+## Components and Supplies
 
 All the hardware components required for this project are available for purchase on eBay. Note that this project assumes that the arduino will be connected to a Remote Controlled (RC) 6-channels Receiver. This part for the project is then not listed as a 'required' component.
 
@@ -151,7 +151,7 @@ The following section shows a breadboard layout view of the circuit. \[caption i
 
 The following section defines the required libraries for compiling the main arduino sketch available below.
 
-## <span style="font-size: 24px; font-weight: bold; line-height: 1;">External libraries</span>
+## External libraries
 
 The code on the arduino requires multiple external arduino libraries. The following list shows all required software libraries and their related use as part of this project:
 
@@ -218,7 +218,7 @@ Now that you know that the code is working as expected, you may want to test eac
 
 \[caption id="attachment\_2272" align="alignnone" width="853"\][![QuadCtrl - Securing components with wrapping foam](https://www.end2endzone.com/wp-content/uploads/2016/10/IMG_4557.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/10/IMG_4557.jpg) QuadCtrl - Securing components with wrapping foam\[/caption\] Once everything is ready for flight, attach the package on the quadcopter. Connect JST battery connector and each signal wire cable. Since I was planning on removing the device for maintenance, I didn't used glue (or anything permanent) for securing the package to the frame. Instead I used zip ties which are used for both wrapping the foam around the stripboard and attaching to the frame's front grooves. I also used zip ties to attach the wood BBQ skewers to the pre-drilled holes in the fuselage. For best result, position the 10w LED below the propeller's wind blast. This will greatly increase the lifespan of the LED since it will always be properly cooled while turned on.
 
-## <span style="font-size: 26px; font-weight: bold; line-height: 1.3846153846;">Final Result</span>
+## Final Result
 
 Here is the final result: \[caption id="attachment\_2192" align="alignnone" width="853"\][![Arduino Quadcopter LED & Buzzer Controler (final)](https://www.end2endzone.com/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final.jpg) Arduino Quadcopter LED &amp; Buzzer Controler (final)\[/caption\] \[caption id="attachment\_2193" align="alignnone" width="853"\][![Arduino Quadcopter LED & Buzzer Controler (final) - Close Up](https://www.end2endzone.com/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final-close-up.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final-close-up.jpg) Arduino Quadcopter LED &amp; Buzzer Controler (final) - Close Up\[/caption\]
 

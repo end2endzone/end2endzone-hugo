@@ -25,7 +25,9 @@ tags:
 
 # Introduction
 
-The following article is about my first Arduino library that I have written. NonBlockingRTTTL is a non-blocking arduino library for playing RTTTL data. <span style="text-decoration: underline;">**EDIT**</span>: The NonBlockingRtttl arduino library is now moved to GitHub. Source code can be downloaded from the project’s [GitHub page](http://github.com/end2endzone/NonBlockingRTTTL).
+The following article is about my first Arduino library that I have written. NonBlockingRTTTL is a non-blocking arduino library for playing RTTTL data. 
+
+**EDIT**: The NonBlockingRtttl arduino library is now moved to GitHub. Source code can be downloaded from the project’s [GitHub page](http://github.com/end2endzone/NonBlockingRTTTL).
 
 EDIT: NonBlockingRTTTL library is now available on the [Arduino Library Manager](http://www.arduino.cc/en/guide/libraries#toc3).
 

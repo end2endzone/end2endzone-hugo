@@ -171,7 +171,7 @@ Two juxtaposed strings (not separated by a delimiter character), will insert a p
 
 All other characters must be read as plain text.
 
-## <span style="font-size: 24px; font-weight: bold;">Exceptions:</span>
+## Exceptions:
 
 ### Exception #1
 

@@ -59,7 +59,7 @@ The `ArgumentList` class is used as a container for arguments. It supports all C
 
 ## Encoding arguments and decoding command line
 
-The encoding and decoding of command line arguments is with `<span style="font-size: medium;">IArgumentEncoder</span>` and `<span style="font-size: medium;">IArgumentDecoder</span>` interfaces. To interact with the interfaces, the `ArgumentList` class is used as input data or output data. The library provides the following classes which implements both interfaces:
+The encoding and decoding of command line arguments is with `IArgumentEncoder` and `IArgumentDecoder` interfaces. To interact with the interfaces, the `ArgumentList` class is used as input data or output data. The library provides the following classes which implements both interfaces:
 
 - `CmdPromptArgumentCodec` handles encoding/decoding for the Windows command prompt (shell)
 - `CreateProcessArgumentCodec` handles encoding/decoding for the Windows [CreateProcess()](http://msdn.microsoft.com/en-us/library/windows/desktop/ms682425(v=vs.85).aspx) api.

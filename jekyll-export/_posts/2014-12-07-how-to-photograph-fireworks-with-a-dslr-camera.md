@@ -16,7 +16,7 @@ tags:
     - fireworks
 ---
 
-# <span style="font-size: 26px; font-weight: bold; line-height: 1.3846153846; text-align: justify;">Introduction</span>
+# Introduction
 
 Do you plan to take photographs of fireworks during the next few weeks? If so you might take a look at this article that explains how to properly shoot fireworks with a DSLR camera. Getting a nice firework picture is it not as simple as going outside, finding a firework display and starting to shoot bits of lights in the sky. There are things you can do to increase your chances of success or fine tune the end result. Of course, it is also temping to take picture of the fireworks with a decent phone or point &amp; shoot camera if you have a "firework" option, but those kind of picture often comes out as grainy/noisy or worst blurry. In this article, I will guide you to make the most stunning photography of fireworks with your DSLR camera. That kind of event do not occurs pretty often. Roughly 1 or 2 times a year during summer depending where you live. That is why I have written this guide: so that next time you get outside hunting a firework display, you will be well documented and prepared for most situations. In Québec, we have 2 holidays that are good opportunities to shoot fireworks which are Canada Day (Memorial Day), and St. Jean Baptiste Day. If you live near Montreal, you have access to the L'international des feux Loto-Québec (<s>http://www.laronde.com/larondeen/linternational-des-feux/overview</s>, previously <s>http://internationaldesfeuxloto-quebec.com/en/</s>) festival which is prefect for making spectacular photos. Keep up reading and be ready. **Note** If you simply want to see my photos, seek to the bottom of the article by [clicking here](#Final_results).
 
@@ -88,9 +88,13 @@ Find a location that offers a clean view. Watch out for trees, branches and powe
 
 \[caption id="attachment\_559" align="alignnone" width="1000"\]![Canon SL1 Bulb Selection](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection.jpg) Canon SL1 Bulb Selection\[/caption\] Most cameras now have a BULB mode. Bulb mode is a perfect candidate for this task. It allows you to have a variable shutter speed for each shots. In bulb mode, pressing the shutter button will open the shutter to start capturing light and will leave the shutter open as long as you press the shutter button. This is pretty convenient when you are trying to capture an event that you don't know how long it will last. \[caption id="attachment\_558" align="alignnone" width="1000"\]![Canon SL1 Bulb Dial Selection](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection.jpg) Canon SL1 Bulb Dial Selection\[/caption\] This mode is usually found at the end of your shutter speed range (slowest shutter speed). You can activate it by increasing the shutter speed higher/longer than 30 seconds. On many DSLR camera, the knob controls the shutter speed in manual mode so rolling it will increase the shutter speed and will usually get you to activate bulb mode.
 
-## Turn off Image <span style="line-height: 36px;">stabilization</span> (IS)
+## Turn off Image stabilization (IS)
 
-\[caption id="attachment\_560" align="alignnone" width="500"\]![Image Stabilizer Turned off](https://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg) Image Stabilizer Turned off\[/caption\] <span style="line-height: 1.5;">Since you are using a tripod, turn off Image Stabilization (IS, Vibration Reduction on Nikon). Tripod and IS is always bad combination and you don't need it. Leaving it on probably does more harm than good. IS mechanism works by feeling the vibration the lens from your hands and creates a counter "vibration" to reduce the effect on the final image. It is better to switch off IS to prevent your lens stabilization mechanism from trying to stabilize a stabilized image which would result in image vibration (camera shake).</span>Some lens can successfully detect the use of a tripod and prevent adding more vibration to the equation but in doubt, just leave it off. On Canon lens, the IS switch is usually located on the lens itself.
+\[caption id="attachment\_560" align="alignnone" width="500"\]![Image Stabilizer Turned off](https://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg) Image Stabilizer Turned off\[/caption\]
+
+Since you are using a tripod, turn off Image Stabilization (IS, Vibration Reduction on Nikon). Tripod and IS is always bad combination and you don't need it. Leaving it on probably does more harm than good. IS mechanism works by feeling the vibration the lens from your hands and creates a counter "vibration" to reduce the effect on the final image. It is better to switch off IS to prevent your lens stabilization mechanism from trying to stabilize a stabilized image which would result in image vibration (camera shake).
+
+Some lens can successfully detect the use of a tripod and prevent adding more vibration to the equation but in doubt, just leave it off. On Canon lens, the IS switch is usually located on the lens itself.
 
 ## Set your camera to RAW mode
 
@@ -120,20 +124,20 @@ During the few burst at the beginning of the show, take the time to verify if yo
 
 During the firework show, the intensity or size of the fireworks will probably change. You might have to struggle finding the best exposure on demand (live). You will have to adapt to the situation to correct the exposure. Leave the ISO setting to 100. \[caption id="attachment\_563" align="alignnone" width="1000"\]![Quick Aperture Exposure compensation button With Main Dial](https://www.end2endzone.com/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial.jpg) Quick Aperture Exposure compensation button With Main Dial\[/caption\] Concentrate on the aperture to make corrections and adjust your exposure. If the image is too bright, reduce the aperture (increase the f number) and do not hesitate to go as low as f16 if it is required. Check your histogram and your preview window for identifying overexposed areas. Most camera will show a black and white blinking area when part of a image is overexposed.
 
-## <span style="font-size: 24px; font-weight: bold; line-height: 1;">Framing your shots and composition</span>
+## Framing your shots and composition
 
 Take your time to check if you are correctly framed. If you are a beginner, you should not really try to frame your shots or play with composition. You should just try to observe the sky. You will probably be busy enough trying to zoom in/out, focusing and finding the correct exposure. Simply try to capture the whole scene from the burst to the end of the explosion and that should be a good start. If the fireworks appears too small in your preview window, don't worry, you can always crop your images later. If you are a little more advanced, you can try to photograph the surrounding environment in your picture. Images look more dramatic if you can see the crowd, a river or a lake nearby in the field of view. A nice view of the city is always a winning bet but it can also increase the difficulty of finding the correct exposure because of multiple light source. Concentrate on your first goal which is capturing firework with a proper exposition and just have fun doing it.
 
-# <span style="font-size: 26px; font-weight: bold; line-height: 1.3846153846;">Save for the finale</span>
+# Save for the finale
 
 \[caption id="attachment\_562" align="alignnone" width="462"\]![Checking the Battery Level](https://www.end2endzone.com/wp-content/uploads/2014/12/Battery-check-2.jpg) Checking the Battery Level\[/caption\] The show is almost going to its end. The finale is coming and it is going to be short. Are you prepared ? It is the best part of the show and the one that will require the most attention for capturing great firework images. Make sure you have enough
 
 - Free space on your memory card.
-- <span style="text-align: justify;">Battery power left.</span>
+- Battery power left.
 
 How many stills you can shoot? You do not want to have to change your memory card and swap batteries during the finale. There is a good chance that changing your battery also means that you will loose your settings which is a bad thing during the finale. You might also have to disconnect the camera from the tripod which means that I will have to zoom and set focus again.
 
-# <span style="font-size: 26px; font-weight: bold; line-height: 1.3846153846;">Other considerations ?</span>
+# Other considerations ?
 
 Take your time.
 

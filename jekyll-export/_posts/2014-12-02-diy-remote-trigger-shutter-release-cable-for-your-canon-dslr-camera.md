@@ -22,7 +22,7 @@ I have been working on multiple projects since I bought my camera. Most of them 
 
 # Project data
 
-## <span style="font-size: 24px; font-weight: bold; line-height: 1;">Equipment</span>
+## Equipment
 
 The material for this project is as follows:
 
@@ -80,11 +80,23 @@ Next you have to drill two holes in the project box to insert the switches. Take
 
 ## Wiring
 
-Take your phone cable and insert the other end into the project box and tie a knot to prevent the wire from pulling on the switches solder joints. You can also put a small amount of hot glue on the knot inside the box for the same purpose. <span style="font-size: 24px; font-weight: bold; line-height: 1;">Soldering the switches </span>\[caption id="attachment\_531" align="aligncenter" width="474"\][![IMG_9004](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004.jpg) Remote trigger auto-focus button\[/caption\] \[caption id="attachment\_530" align="aligncenter" width="474"\][![IMG_9003](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003.jpg) Remote trigger shutter button\[/caption\] In this section, you will solder the wires to the switches. The next set of instructions will assume that you want the red switch to trigger the shutter. The ground wire (black) must be shared between the two switches. Take a short wire (preferably black) and solder one end to the black wire to make a Y shape. Solder each endings to a pin of each switch. The pins of the switch does not have a polarity which means that any pins can be used. Take the red wire and solder the wire to the remaining pins of the red switch (shutter button). Do the same with the green wire and solder to the last pin of the black button (auto-focus button). Please note that in the pictures above, I had to use a red wire to make the Y shape since I didn't had any black wire.
+Take your phone cable and insert the other end into the project box and tie a knot to prevent the wire from pulling on the switches solder joints. You can also put a small amount of hot glue on the knot inside the box for the same purpose.
+
+## Soldering the switches
+
+\[caption id="attachment\_531" align="aligncenter" width="474"\][![IMG_9004](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004.jpg) Remote trigger auto-focus button\[/caption\] \[caption id="attachment\_530" align="aligncenter" width="474"\][![IMG_9003](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003.jpg) Remote trigger shutter button\[/caption\]
+
+In this section, you will solder the wires to the switches. The next set of instructions will assume that you want the red switch to trigger the shutter. The ground wire (black) must be shared between the two switches. Take a short wire (preferably black) and solder one end to the black wire to make a Y shape. Solder each endings to a pin of each switch. The pins of the switch does not have a polarity which means that any pins can be used. Take the red wire and solder the wire to the remaining pins of the red switch (shutter button). Do the same with the green wire and solder to the last pin of the black button (auto-focus button). Please note that in the pictures above, I had to use a red wire to make the Y shape since I didn't had any black wire.
 
 ## Mounting
 
-That should be obvious... <span style="font-size: 26px; font-weight: bold; line-height: 1.3846153846;">Final Result</span>Here is the final result: \[caption id="attachment\_535" align="aligncenter" width="474"\][![DIY Remote trigger shutter release cable for your Canon DSLR camera](https://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg) DIY Remote trigger shutter release cable for your Canon DSLR camera\[/caption\]
+That should be obvious...
+
+# Final Result
+
+Here is the final result:
+
+\[caption id="attachment\_535" align="aligncenter" width="474"\][![DIY Remote trigger shutter release cable for your Canon DSLR camera](https://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg) DIY Remote trigger shutter release cable for your Canon DSLR camera\[/caption\]
 
 # Made anything differently?
 

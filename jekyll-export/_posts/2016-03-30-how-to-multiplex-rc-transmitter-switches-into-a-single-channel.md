@@ -367,7 +367,11 @@ Since reading switches states does not imply any analog value, you do not really
 
 ### Required Libraries
 
-<span style="text-decoration: underline;"><span style="font-size: 16pt;">[PinChangeInt ](https://github.com/GreyGnome/PinChangeInt)</span></span>This library allows the arduino to attach interrupts on multiple pins. <span style="text-decoration: underline;"><span style="font-size: 16pt;">[eRCaGuy\_Timer2\_Counter ](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html)</span></span>(optional) This library configures the arduino's timer2 to 0.5µs precision. It is used for a *micros()* function replacement and allows times calculations that are far more precise (8 times!) than the default's 4µs resolution.
+[PinChangeInt ](https://github.com/GreyGnome/PinChangeInt)
+
+This library allows the arduino to attach interrupts on multiple pins. [eRCaGuy\_Timer2\_Counter ](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html) (optional)
+
+This library configures the arduino's timer2 to 0.5µs precision. It is used for a *micros()* function replacement and allows times calculations that are far more precise (8 times!) than the default's 4µs resolution.
 
 ### Code sample
 

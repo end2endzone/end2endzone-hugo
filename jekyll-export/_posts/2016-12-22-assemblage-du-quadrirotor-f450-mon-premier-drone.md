@@ -26,7 +26,13 @@ Il s'agit d'une version clone du F450 de DJI. Je l'utilise depuis plus de 2 ans 
 
 # Time Lapse
 
-<span style="font-size: 14pt;">***<span style="text-decoration: underline;">29 juin 2015</span>***</span>Temps d'assemblage: 3h31m 2196 photos (52.8GB) affichées à 30 images par seconde. <span style="font-size: 14pt;">***<span style="text-decoration: underline;">6 juillet 2015</span>***</span>Temps d'assemblage: 4h55m 2968 photos (58.8GB) affichées à 30 images par seconde.
+***29 juin 2015***
+
+Temps d'assemblage: 3h31m 2196 photos (52.8GB) affichées à 30 images par seconde.
+
+***6 juillet 2015***
+
+Temps d'assemblage: 4h55m 2968 photos (58.8GB) affichées à 30 images par seconde.
 
 # Musique
 

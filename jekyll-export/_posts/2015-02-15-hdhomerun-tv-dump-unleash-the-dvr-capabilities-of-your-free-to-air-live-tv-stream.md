@@ -77,11 +77,11 @@ The application can be used as a DVR helping users to program a recording based 
 
 To add a new scheduled recording to the list, press the {{% windows-button3d %}}Add{{% /windows-button3d %}} button. This will display the *Add a new recording* dialog which allows a user to select a specific recording schedule: \[caption id="attachment\_725" align="aligncenter" width="217"\][![HDHomeRun Tv Dump - New Scheduled Recording](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording-217x300.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png) HDHomeRun Tv Dump - New Scheduled Recording\[/caption\] This dialog allows a user assign a name to the recording for better future referencing. The user also have to press the {{% windows-button3d %}}**...**{{% /windows-button3d %}} button to setup virtually any kind of schedule:
 
-- <span style="text-decoration: underline;">***Unique***</span>: Simply specify a date and time.
-- <span style="text-decoration: underline;">***Repetitive***</span>: A value is used for repeating on minutes, hours, days, weeks and months starting on specified date and time.
-- <span style="text-decoration: underline;">***Daily***</span>: Specify the type from Everyday, Week days and Week ends starting on the specified date and time.
-- <span style="text-decoration: underline;">***Weekly***</span>: Specify individual recording days, starting on the specified date and time.
-- <span style="text-decoration: underline;">***Monthly***</span>: Select individual recording months, starting on the specified date and time.
+- ***Unique***: Simply specify a date and time.
+- ***Repetitive***: A value is used for repeating on minutes, hours, days, weeks and months starting on specified date and time.
+- ***Daily***: Specify the type from Everyday, Week days and Week ends starting on the specified date and time.
+- ***Weekly***: Specify individual recording days, starting on the specified date and time.
+- ***Monthly***: Select individual recording months, starting on the specified date and time.
 
 Press {{% windows-button3d %}}OK{{% /windows-button3d %}} button to create the scheduled recording. A new entry will be listed on the scheduled recordings dialog.
 
@@ -103,7 +103,9 @@ Press {{% windows-button3d %}}OK{{% /windows-button3d %}} button to create the s
 
 # License
 
-<span lang="EN-US">*HDHomeRun TV Dump* is being distributed as Freeware for personal, commercial use, non-profit organization, and educational purpose. It may be included with CD-ROM/DVD-ROM distributions. You are NOT allowed to make a charge for distributing this Software (either for profit or merely to recover your media and distribution costs) whether as a stand-alone product, or as part of a compilation or anthology, nor to use it for supporting your business or customers. It may be distributed freely on any website or through any other distribution mechanism, as long as no part of it is changed in any way.</span>The full license is available [here](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-TV-Dump-EULA.htm).
+*HDHomeRun TV Dump* is being distributed as Freeware for personal, commercial use, non-profit organization, and educational purpose. It may be included with CD-ROM/DVD-ROM distributions. You are NOT allowed to make a charge for distributing this Software (either for profit or merely to recover your media and distribution costs) whether as a stand-alone product, or as part of a compilation or anthology, nor to use it for supporting your business or customers. It may be distributed freely on any website or through any other distribution mechanism, as long as no part of it is changed in any way.
+
+The full license is available [here](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-TV-Dump-EULA.htm).
 
 # History of changes
 

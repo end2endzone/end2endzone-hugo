@@ -180,7 +180,13 @@ Using extDelete would start deleting files and recovering space right away!
 
 ### Secure
 
-\[caption id="attachment\_445" align="alignnone" width="300"\][![extDelete screenshot (secure delete mode)](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-secure-delete-mode-300x163.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-secure-delete-mode.png) extDelete screenshot (secure delete mode)\[/caption\] <span style="font-size: 14pt;">Please note that extDelete ***secure*** deletion mode is not safe when deleting files on a Solid State Drive (SSD).</span>This mode allows a user to destroy the content of every file ([Zeroisation](http://en.wikipedia.org/wiki/Zeroisation)) before deleting it preventing any file recovery ([Undelete](http://en.wikipedia.org/wiki/Undeletion)). Each file deleted in secured mode will see its data lost forever. If a user successfully undeletes a file, the content of the file will all be 0. **Note:** This mode has to "discover" the files first.
+\[caption id="attachment\_445" align="alignnone" width="300"\][![extDelete screenshot (secure delete mode)](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-secure-delete-mode-300x163.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-secure-delete-mode.png) extDelete screenshot (secure delete mode)\[/caption\]
+
+Please note that extDelete ***secure*** deletion mode is not safe when deleting files on a Solid State Drive (SSD).
+
+This mode allows a user to destroy the content of every file ([Zeroisation](http://en.wikipedia.org/wiki/Zeroisation)) before deleting it preventing any file recovery ([Undelete](http://en.wikipedia.org/wiki/Undeletion)). Each file deleted in secured mode will see its data lost forever. If a user successfully undeletes a file, the content of the file will all be 0.
+
+**Note:** This mode has to "discover" the files first.
 
 ## extFileSplitter
 

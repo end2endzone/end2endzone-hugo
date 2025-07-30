@@ -71,7 +71,7 @@ Now is the time to take your shot. Adjust the shutter speed to get the water eff
 
 # Post processing
 
-## <span style="line-height: 1.3846153846;">Correcting underexposed trees and rocks </span>
+## Correcting underexposed trees and rocks
 
 After the capturing process, you may find your pictures are correctly exposed for the waterfall but all the vegetation and rocks around it might be underexposed. To correct this issue, you need to make a manual exposition correction in order to darken highly exposed areas while lightening underexposed areas. This is why it is important to shoot in RAW. The correction can be done with [Lightroom](http://www.adobe.com/ca/products/photoshop-lightroom.html) easily. If you do not have access to a copy of [Lightroom](http://www.adobe.com/ca/products/photoshop-lightroom.html), you can do the same effect (almost) with free tools. The same effect can be achieved by applying a "Contrast Mask" on the image using the free image editor [Gimp](http://www.gimp.org/). The process is described here: "[GIMP - Creating a Contrast Mask](http://www.gimp.org/tutorials/ContrastMask/)". **EDIT:** See below for a Lightroom corrected image.
 

@@ -5,7 +5,8 @@ jekyll shortcodes
 :```
 **\*
 	**8.25**\* 
-	** \* 
+	** \*
+: 1.[space]
 <span
 	<span style="text-align: justify; line-height: 1.5;">
 		<span\s+style="line-height:\s*1\.5;">([\s\S]*?)<\/span>

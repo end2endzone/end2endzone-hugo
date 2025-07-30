@@ -17,7 +17,9 @@ tags:
     - nature
 ---
 
-<span class="fbPhotoCaptionText">Le jour de Fête nationale, les Québécois n'hésite pas à faire la fête (ou des folies) afin de démontrer tous ensemble qu'ils sont fier de leur racines.</span><span class="fbPhotoCaptionText">Voici donc un symbole patriotique afin de vivifier votre flamme et votre amour de la Belle province.</span>
+Le jour de Fête nationale, les Québécois n'hésite pas à faire la fête (ou des folies) afin de démontrer tous ensemble qu'ils sont fier de leur racines.
+
+Voici donc un symbole patriotique afin de vivifier votre flamme et votre amour de la Belle province.
 
 En ce 24 juin, dites-le haut et fort: "Je suis fier d'être Québécois"
 

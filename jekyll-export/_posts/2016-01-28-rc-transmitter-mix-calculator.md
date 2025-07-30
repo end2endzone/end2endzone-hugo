@@ -27,16 +27,16 @@ Only white cells should be modified. Cells in light blue are the final mix value
 
 ## Screenshot
 
-| **<span style="color: black;">MIXING CALCULATOR</span>** |
+| **MIXING CALCULATOR** |
 |---|
-| **<span style="color: white;">Switch Pos</span>** | <span style="color: white;">0</span> | <span style="color: white;">1</span> | <span style="color: white;">2</span> |
-| **<span style="color: white;">Travel</span>** | <span style="color: black;">100</span> | <span style="color: black;">0</span> | <span style="color: black;">-100</span> |
-| **<span style="color: white;">Rates</span>** | **<span style="color: white;">High</span>** | **<span style="color: white;">Low</span>** | **<span style="color: white;">Offset</span>** |
-| <span style="color: black;">50</span> | <span style="color: black;">50</span> | <span style="color: black;">0</span> |
-| **<span style="color: white;">Offset Values</span>** | <span style="color: black;">100</span> | <span style="color: black;">0</span> | <span style="color: black;">-100</span> |
-| **<span style="color: white;">Intermediate Values</span>** | <span style="color: black;">50</span> | <span style="color: black;">0</span> | <span style="color: black;">-50</span> |
-| **<span style="color: black;"> </span>** | <span style="color: black;">0</span> | **<span style="color: black;"> </span>** |
-| **<span style="color: white;">Final Values</span>** | **<span style="color: black;">50</span>** | **<span style="color: black;">0</span>** | **<span style="color: black;">-50</span>** |
+| **Switch Pos** | 0 | 1 | 2 |
+| **Travel** | 100 | 0 | -100 |
+| **Rates** | **High** | **Low** | **Offset** |
+| 50 | 50 | 0 |
+| **Offset Values** | 100 | 0 | -100 |
+| **Intermediate Values** | 50 | 0 | -50 |
+| ** ** | 0 | ** ** |
+| **Final Values** | **50** | **0** | **-50** |
 
 ## Download
 

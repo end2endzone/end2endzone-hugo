@@ -79,9 +79,11 @@ J'ai décidé d'utiliser des DEL SMD 3528 au lieu des SMD 5050. Le code numériq
 
 Vous avez seulement besoin de 3 connecteurs DEL pour ce projet. Deux connecteurs sont nécessaires pour relier les trois armoires ensemble et un troisième pour connecter la bande DEL aux connecteurs "OUT" du gradateur. Cependant, j'en ai acheté cinq puisqu'ils sont moins cher en lot que d'acheter 3 connecteurs séparément.
 
-## <span style="font-size: 24px; font-weight: bold; line-height: 1;">Coût total du projet</span>
+## Coût total du projet
 
-<span class="notranslate">Comme je l'ai déjà dit, ce projet peut être réalisé avec un petit budget.</span> <span class="notranslate">Le coût total du projet est inférieur à 30 $.</span> <span class="notranslate">Je dois dire que j'ai acheté tous les éléments majeurs (bandes DEL, alimentation et gradateur) sur eBay pour vraiment pas très cher.</span> <span class="notranslate">Ne faites pas l'erreur et acheter ce genre de choses dans un magasin d'éclairage (Rona, Multi Luminaire) parce que vous pourriez facilement doubler ou même tripler le coût du projet!</span>
+Comme je l'ai déjà dit, ce projet peut être réalisé avec un petit budget. Le coût total du projet est inférieur à 30 $. Je dois dire que j'ai acheté tous les éléments majeurs (bandes DEL, alimentation et gradateur) sur eBay pour vraiment pas très cher.
+
+Ne faites pas l'erreur et acheter ce genre de choses dans un magasin d'éclairage (Rona, Multi Luminaire) parce que vous pourriez facilement doubler ou même tripler le coût du projet!
 
 Voici le prix détaillée de chacun des éléments:
 
