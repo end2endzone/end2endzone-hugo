@@ -113,13 +113,15 @@ The following section show the results of all my data capture sessions. Each dev
 4. Width of pulses in µs (difference between maximum and minimum length)
 5. Middle pulse length. Middle point between minimum and maximum pulses.
 
-<span style="text-decoration: underline;">**<span style="font-size: 16pt;">Table 2  
-</span>**</span>Table 2 shows selected control points and the polynomial function for the selected points. Multiple polynomial functions are found using different control points.
+**Table 2**
+
+Table 2 shows selected control points and the polynomial function for the selected points. Multiple polynomial functions are found using different control points.
 
 Note that pulse length from most devices are not perfectly linear. This means that most of the time, more than 2 control points are required to get a polynomial function that is accurate.
 
-<span style="text-decoration: underline;">**<span style="font-size: 16pt;">Table 3  
-</span>**</span>Table 3 shows each function's performance trying to properly predict a transmitter value from a pulse length. The function that offers the best performance is selected as the final function.
+**Table 3**
+
+Table 3 shows each function's performance trying to properly predict a transmitter value from a pulse length. The function that offers the best performance is selected as the final function.
 
 Note that some devices are low quality products and are not always constant or does not provide constant transmitter value.
 
@@ -129,8 +131,9 @@ Note that some devices are low quality products and are not always constant or d
 
 \[gallery link="none" ids="1587,1588"\]
 
-<span style="text-decoration: underline;">**<span style="font-size: 16pt;">Table 1  
-</span>**</span>The Spektrum DX9 Tx &amp; Orange R620X Rx shows a PWM range from **827 µs** to **2194 µs**. The following table shows the details of my data capture session:
+**Table 1**
+
+The Spektrum DX9 Tx &amp; Orange R620X Rx shows a PWM range from **827 µs** to **2194 µs**. The following table shows the details of my data capture session:
 
 | Spektrum DX9 Tx &amp; Orange R620X Rx |
 |---|
@@ -153,8 +156,9 @@ Note that some devices are low quality products and are not always constant or d
 | -149 | 827.47 | 822 | 833 | 11 | 827.5 |
 | -150 | 826.80 | 821 | 832 | 11 | 826.5 |
 
-<span style="text-decoration: underline;">**<span style="font-size: 16pt;">Table 2  
-</span>**</span>From these values, I extracted the following polynomial functions:
+**Table 2**
+
+From these values, I extracted the following polynomial functions:
 
 | Polynomial Equation | Py1 | Px1 | Py2 | Px2 | a2 | a1 | a0 |
 |---|---|---|---|---|---|---|---|
@@ -166,8 +170,9 @@ Note that some devices are low quality products and are not always constant or d
 | 5 | 149 | 2180.73 | -149 | 827.468 | 0 | 0.220208326 | -331.2153431 |
 | 6 |  |  |  |  | -8.0E-08 | 0.2203 | -331.37 |
 
-<span style="text-decoration: underline;">**<span style="font-size: 16pt;">Table 3  
-</span>**</span>The following table shows details for calculating the performance of each polynomial functions:
+**Table 3**
+
+The following table shows details for calculating the performance of each polynomial functions:
 
 | Tx | Avg PWM | Eq0 | Diff 0 | Eq1 | Diff 1 | Eq2 | Diff 2 | Eq3 | Diff 3 | Eq4 | Diff 4 | Eq5 | Diff 5 | Eq6 | Diff 6 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -207,8 +212,9 @@ Download the \[download id="1618"\] full data capture.
 
 \[gallery link="none" ids="1587,1776"\]
 
-<span style="text-decoration: underline;">**<span style="font-size: 16pt;">Table 1  
-</span>**</span>The Spektrum DX9 Tx &amp; Spektrum AR8000 Rx shows a PWM range from **921 µs** to **2129 µs**. The following table shows the details of my data capture session:
+**Table 1**
+
+The Spektrum DX9 Tx &amp; Spektrum AR8000 Rx shows a PWM range from **921 µs** to **2129 µs**. The following table shows the details of my data capture session:
 
 | Spektrum DX9 Tx &amp; Spektrum AR8000 Rx |
 |---|
@@ -231,8 +237,9 @@ Download the \[download id="1618"\] full data capture.
 | -149 | 931.24 | 926 | 936 | 10 | 931.0 |
 | -150 | 927.43 | 921 | 932 | 11 | 926.5 |
 
-<span style="text-decoration: underline;">**<span style="font-size: 16pt;">Table 2  
-</span>**</span>From these values, I extracted the following polynomial functions:
+**Table 2**
+
+From these values, I extracted the following polynomial functions:
 
 | Polynomial Equation | Py1 | Px1 | Py2 | Px2 | a2 | a1 | a0 |
 |---|---|---|---|---|---|---|---|
@@ -244,8 +251,9 @@ Download the \[download id="1618"\] full data capture.
 | 5 | 149 | 2119.40 | -149 | 931.24 | 0 | 0.25080797 | -382.563419 |
 | 6 |  |  |  |  | -1.0E-07 | 0.2513 | -382.95 |
 
-<span style="text-decoration: underline;">**<span style="font-size: 16pt;">Table 3  
-</span>**</span>Again, calculating the performance of each polynomial functions:
+**Table 3**
+
+Again, calculating the performance of each polynomial functions:
 
 | Tx | Average PWM | Eq0 | Diff 0 | Eq1 | Diff 1 | Eq2 | Diff 2 | Eq3 | Diff 3 | Eq4 | Diff 4 | Eq5 | Diff 5 | Eq6 | Diff 6 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -285,15 +293,17 @@ Download the \[download id="1620"\] full data capture.
 
 \[gallery link="none" ids="1633,1634"\]
 
-<span style="text-decoration: underline;">**<span style="font-size: 16pt;">Notes:  
-</span>**</span>The TTX600 transmitter is not digital. This means that it is hard to reproduce the exact behavior every time. As you can see the result are pretty erratic. Each different channel has a different behavior.
+**Notes:**
+
+The TTX600 transmitter is not digital. This means that it is hard to reproduce the exact behavior every time. As you can see the result are pretty erratic. Each different channel has a different behavior.
 
 For extracting the data, I assumed that moving ***any*** sticks to the top, bottom, left and right position would always match a perfect 100% (or -100%). Other values (+60%, -60%) are based on the documentation manual which states that high and low dual rates are based on a 100% and 60% ratio.
 
 Note that each channel section are identified by a unique color which helps to identify the source of each Polynomial Equation.
 
-<span style="text-decoration: underline;">**<span style="font-size: 16pt;">Table 1  
-</span>**</span>The Tactic TTX600 Tx &amp; Tactic TR624 Rx shows a PWM range from **984 µs** to **2030 µs**. The following table shows the details of my data capture session:
+**Table 1**
+
+The Tactic TTX600 Tx &amp; Tactic TR624 Rx shows a PWM range from **984 µs** to **2030 µs**. The following table shows the details of my data capture session:
 
 | Tactic TTX600 tx &amp; Tactic TR624 |
 |---|
@@ -313,8 +323,9 @@ Note that each channel section are identified by a unique color which helps to i
 | 100 | 2010.39 | 2004 | 2016 | 12 | 2010.0 | CH6 +100 |
 | -100 | 989.40 | 984 | 994 | 10 | 989.0 | CH6 -100 |
 
-<span style="text-decoration: underline;">**<span style="font-size: 16pt;">Table 2  
-</span>**</span>From these values, I extracted the following polynomial functions:
+**Table 2**
+
+From these values, I extracted the following polynomial functions:
 
 | Polynomial Equation | Py1 | Px1 | Py2 | Px2 | a2 | a1 | a0 |
 |---|---|---|---|---|---|---|---|
@@ -328,8 +339,9 @@ Note that each channel section are identified by a unique color which helps to i
 | 7 | CH1 control points | -3.00E-06 | 0.2221 | -327.22 |
 | 8 | CH2 control points | -3.00E-06 | 0.2135 | -318.97 |
 
-<span style="text-decoration: underline;">**<span style="font-size: 16pt;">Table 3 (for CH1)  
-</span>**</span>The following table shows details for calculating the performance of each polynomial functions:
+**Table 3 (for CH1)**
+
+The following table shows details for calculating the performance of each polynomial functions:
 
 | Tx | Avg PWM | Eq2 | Diff 2 | Eq3 | Diff 3 | Eq4 | Diff 4 | Eq5 | Diff 5 | Eq6 | Diff 6 | Eq7 | Diff 7 | Eq8 | Diff 8 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -340,8 +352,9 @@ Note that each channel section are identified by a unique color which helps to i
 | -100 | 1042.41 | -101 | 1.17 | -97 | 2.95 | -98 | 2.08 | -101 | 1.15 | -95 | 5.38 | -99 | 1.04 | -100 | 0.32 |
 |  |  |  | 31.88 |  | 35.55 |  | 27.46 |  | 38.26 |  | 20.12 |  | 6.3 |  | 25.28 |
 
-<span style="text-decoration: underline;">**<span style="font-size: 16pt;">Table 3 (for CH2)  
-</span>**</span>The following table shows details for calculating the performance of each polynomial functions:
+**Table 3 (for CH2)**
+
+The following table shows details for calculating the performance of each polynomial functions:
 
 | Tx | Avg PWM | Eq2 | Diff 2 | Eq3 | Diff 3 | Eq4 | Diff 4 | Eq5 | Diff 5 | Eq6 | Diff 6 | Eq7 | Diff 7 | Eq8 | Diff 8 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
