@@ -1,6 +1,20 @@
-<figure class="{{ .Get "class" }}">
-  <a href="{{ .Get "link" }}">
-    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}">
+{{- /* collect all params once */ -}}
+{{- $class   := .Get "class"      -}}
+{{- $link    := .Get "link"       -}}
+{{- $alt     := .Get "alt"        -}}
+{{- $caption := .Get "caption"    -}}
+{{- $src     := .Get "src"        -}}
+
+<figure{{ if $class }} class="{{ $class }}"{{ end }}>
+  {{- if $link }}
+  <a href="{{ $link }}">
+    <img src="{{ $src }}"{{ if $alt }} alt="{{ $alt }}"{{ end }}>
   </a>
-  {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+  {{- else }}
+  <img src="{{ $src }}"{{ if $alt }} alt="{{ $alt }}"{{ end }}>
+  {{- end }}
+  {{- if $caption }}
+  <figcaption>{{ $caption }}</figcaption>
+  {{- end }}
 </figure>
+
