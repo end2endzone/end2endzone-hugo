@@ -60,7 +60,9 @@ This library allows the arduino to attach interrupts on multiple pins.
 
 # Usage
 
-Use the DECLARE\_RECEIVER\_SIGNAL macro to declare an instance of RcReceiverSignal. ie:```
+Use the DECLARE\_RECEIVER\_SIGNAL macro to declare an instance of RcReceiverSignal. ie:
+
+```
 DECLARE_RECEIVER_SIGNAL(receiver_aux1_handler);
 DECLARE_RECEIVER_SIGNAL(receiver_throttle_handler);
 ```
@@ -71,7 +73,9 @@ Each macro will automatically declare the following:
 - receiver\_aux1\_handler\_setup() function.
 - receiver\_aux1\_handler\_pin\_change() ISR function.
 
-In the *setup()* function, you need to configure each instance by calling the *receiver\_aux1\_handler\_setup()* function with the interrupt pin as argument. ie:```
+In the *setup()* function, you need to configure each instance by calling the *receiver\_aux1\_handler\_setup()* function with the interrupt pin as argument. ie:
+
+```
 receiver_aux1_handler_setup(RECEIVER_AUX1_IN_PIN);
 receiver_throttle_handler_setup(RECEIVER_THROTTLE_IN_PIN);
 ```
