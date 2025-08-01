@@ -15,6 +15,19 @@ id = ""
 
 enableRobotsTXT = true
 
+# config.toml
+[minify]
+  # Set to false to disable HTML minification
+  disableHTML = false
+
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepWhitespace      = true  # collapse all unnecessary whitespace
+      keepConditionalComments = false
+      keepDocumentTags    = true  # drop optional <html>, <head>, <body> tags
+      keepEndTags         = true  # drop optional closing tags
+      keepQuotes          = true  # drop quotes from attributes when safe
+
 [markup]
 
   # https://gohugo.io/content-management/toc/
