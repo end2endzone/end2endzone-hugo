@@ -81,7 +81,9 @@ Like the kitchen project, this project can be completed at a pretty cheap price.
 - $4.00 - Colored wire (I used gauge 18awg) from dollar store
 - $0.00 - Male and Female [RCA connectors](https://www.google.ca/search?q=RCA+connectors&tbm=isch) (I have many lying around)
 
-Total cost: $**31.57**\* The cost of usual items such as screws and glue is not included in the cost of the project.
+Total cost: $**31.57**
+
+\* The cost of usual items such as screws and glue is not included in the cost of the project.
 
 ## Preparation time
 

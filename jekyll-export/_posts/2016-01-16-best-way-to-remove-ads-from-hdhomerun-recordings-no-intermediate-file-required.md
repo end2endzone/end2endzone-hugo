@@ -121,7 +121,9 @@ Now that your are done editing and removing ads from your video, you need to ena
 The following dialog should be displayed: \[caption id="attachment\_1198" align="alignnone" width="388"\][![VirtualDub Frameserver Options Window](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png) VirtualDub Frameserver Options Window\[/caption\] 1. Leave options as is. It does not matter what you put here.
 2. Click on *Start* button to start the frame server.
 
-The following dialog will be displayed: \[caption id="attachment\_1197" align="alignnone" width="394"\][![VirtualDub Frameserver Mode](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png) VirtualDub Frameserver Mode\[/caption\] The frameserver is now ready to provide frames to other applications. Leave the dialog running until the encoding with handbrake is complete. Press *Stop serving* button to return to VirtualDub's editing mode. A safe way to know if VirtualDub is done serving frames is to look at the "*Number of frames served*" value. If it stopped increasing, it means that Handbrake and the frameclient is done processing all frames. **\* Warning:**Pressing *Stop serving* button while the frame server is serving frames to Handbrake might corrupt your output (compressed) video.
+The following dialog will be displayed: \[caption id="attachment\_1197" align="alignnone" width="394"\][![VirtualDub Frameserver Mode](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png) VirtualDub Frameserver Mode\[/caption\] The frameserver is now ready to provide frames to other applications. Leave the dialog running until the encoding with handbrake is complete. Press *Stop serving* button to return to VirtualDub's editing mode. A safe way to know if VirtualDub is done serving frames is to look at the "*Number of frames served*" value. If it stopped increasing, it means that Handbrake and the frameclient is done processing all frames.
+
+**Warning:** Pressing *Stop serving* button while the frame server is serving frames to Handbrake might corrupt your output (compressed) video.
 
 ### Missing frameclients issue ?
 
@@ -182,7 +184,9 @@ Mounting with AVFS 1.0.0.6 requires a different process. 1. Open a new [Command 
 5. Leave the application running until the file is completely encoded in Handbrake.
 6. Press *CTRL+C* to stop the application properly.
 
-\[caption id="attachment\_1238" align="alignnone" width="597"\][![AVFS 1.0.0.6 running](https://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running.jpg) AVFS 1.0.0.6 running\[/caption\] **\* Warning:**Pressing *CTRL+C* key while the frame server is serving frames to Handbrake might corrupt your output (compressed) video.
+\[caption id="attachment\_1238" align="alignnone" width="597"\][![AVFS 1.0.0.6 running](https://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running.jpg) AVFS 1.0.0.6 running\[/caption\]
+
+**Warning:** Pressing *CTRL+C* key while the frame server is serving frames to Handbrake might corrupt your output (compressed) video.
 
 ## Test the virtual AVI file
 

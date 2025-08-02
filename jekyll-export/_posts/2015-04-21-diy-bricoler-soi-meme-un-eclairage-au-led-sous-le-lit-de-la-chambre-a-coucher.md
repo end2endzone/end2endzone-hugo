@@ -83,7 +83,9 @@ Voici le prix détaillée de chacun des éléments:
 - $4.00 - Fil électrique de couleur (j'ai utilisé du calibre 18) du magasin à un dollar.
 - $0.00 - 1x connecteur RCA male et 1x connecteur RCa femelle. J'en ai plusieurs à la maison.
 
-Coût total: $**31.57**\* Le coût des éléments habituels tels que des vis et la colle n'est pas inclus dans le coût du projet.
+Coût total: $**31.57**
+
+\* Le coût des éléments habituels tels que des vis et la colle n'est pas inclus dans le coût du projet.
 
 ## Preparation time
 

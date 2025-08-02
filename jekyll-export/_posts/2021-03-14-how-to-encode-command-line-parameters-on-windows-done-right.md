@@ -37,7 +37,7 @@ Tabs or \[space\] characters are argument delimiters (separators) but **\*only\*
 
 ## <a id="rule2"></a>Rule #2 - Strings
 
-Double quotes character (`"`) starts or ends a string. Strings allows one to insert a delimiter (or separators) character to an argument. The double quotes character is omitted from the argument. Note that strings **\*may** **not\*** always be ended (the end of the command line may be hit without the end-of-string character)
+Double quotes character (`"`) starts or ends a string. Strings allows one to insert a delimiter (or separators) character to an argument. The double quotes character is omitted from the argument. Note that strings **may** **not** always be ended (the end of the command line may be hit without the end-of-string character)
 
 If a string is juxtaposed to another argument (not separated by a delimiter character), they form the same argument. Examples:
 
@@ -61,7 +61,7 @@ Plain double quotes character (`"`) must be escaped with `<strong>\"</strong>` (
 
 ### Rule #2.2 - Caret-String
 
-`<strong>^"</strong>` sequence starts or ends a caret-string. Caret-strings are different than normal strings. Caret-strings may be ended with an unescaped `<strong>"</strong>` character. Caret-string may not be ended. Note that caret-strings **\*may** **not\*** always be ended (the end of the command line may be hit without the end-of-string character)
+`<strong>^"</strong>` sequence starts or ends a caret-string. Caret-strings are different than normal strings. Caret-strings may be ended with an unescaped `<strong>"</strong>` character. Caret-string may not be ended. Note that caret-strings **may** **not** always be ended (the end of the command line may be hit without the end-of-string character)
 
 If a caret-string is juxtaposed to another argument (not separated by a delimiter character), they are part of the same argument. Examples:
 

@@ -64,7 +64,9 @@ This project is really cheap and can be completed with less than 10$. Here is th
 - 1.00$ - Project box
 - 2.00$ - Audio plug
 
-Total cost: $**8.25**\* The cost of usual items such as screws and glue is not included in the cost of the project.
+Total cost: $**8.25**
+
+\* The cost of usual items such as screws and glue is not included in the cost of the project.
 
 ## Preparation time
 

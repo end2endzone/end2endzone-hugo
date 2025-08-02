@@ -96,7 +96,9 @@ Voici le prix détaillée de chacun des éléments:
 - $2.00 - Fil électrique de couleur (j'ai utilisé du calibre 18) du magasin à un dollar.
 - $1.00 - Ruban adhésif double face.
 
-Coût total: $**27.84** \* Le coût des éléments habituels tels que des vis et la colle n'est pas inclus dans le coût du projet.
+Coût total: $**27.84**
+
+\* Le coût des éléments habituels tels que des vis et la colle n'est pas inclus dans le coût du projet.
 
 ## Temps de préparation
 

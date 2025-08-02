@@ -90,7 +90,9 @@ As I said before, this project can be completed at a pretty cheap price. The tot
 - $2.00 - Colored wire (I used gauge 18awg) from dollar store
 - $1.00 - Double sided tape
 
-Total cost: $**27.84**\* The cost of usual items such as screws and glue is not included in the cost of the project.
+Total cost: $**27.84**
+
+\* The cost of usual items such as screws and glue is not included in the cost of the project.
 
 ## Preparation time
 

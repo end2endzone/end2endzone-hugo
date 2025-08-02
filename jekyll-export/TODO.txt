@@ -1,9 +1,7 @@
 jekyll shortcodes
 	characters `\`
 \[caption id="attachment\_387" align="aligncenter" width="474"\]
-**\*
-	**8.25**\* 
-	** \*
+<a id="rule2_3"></a>
 : 1.[space]
 links to `www.end2endzone.com`
 	https://www.end2endzone.com/wp-content
