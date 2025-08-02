@@ -1,7 +1,6 @@
 jekyll shortcodes
 	characters `\`
 \[caption id="attachment\_387" align="aligncenter" width="474"\]
-\[gallery
 **\*
 	**8.25**\* 
 	** \*

@@ -45,7 +45,15 @@ The material for this project is as follows:
 
 ### Other material
 
-\[gallery link="file" ids="526,525,524,523,522,521" orderby="rand"\]
+{{< image-gallery >}}
+[![](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766-1024x576.jpg "2.5 mm male stereo plug")](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg)
+[![](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996-672x504.jpg "A third hand")](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg)
+[![](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998-672x504.jpg "A soldering iron")](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg)
+[![](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993-960x576.jpg "Solder paste")](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993.jpg)
+[![](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991-672x504.jpg "1/16 inch heat shrink tubing")](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991.jpg)
+[![](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001-672x504.jpg "A multimeter")](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg)
+{{< /image-gallery >}}
+
 
 ## Total cost of the project
 

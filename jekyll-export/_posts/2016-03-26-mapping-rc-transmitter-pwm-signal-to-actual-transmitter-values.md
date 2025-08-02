@@ -129,7 +129,10 @@ Note that some devices are low quality products and are not always constant or d
 
 ## Spektrum DX9 Tx &amp; Orange R620X Rx
 
-\[gallery link="none" ids="1587,1588"\]
+{{< image-gallery >}}
+  [![](https://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx-150x150.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg)
+  [![](https://www.end2endzone.com/wp-content/uploads/2016/02/Orange-R620X-6-ch-RC-Rx-150x150.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/02/Orange-R620X-6-ch-RC-Rx.jpg)
+{{< /image-gallery >}}
 
 **Table 1**
 
@@ -210,7 +213,11 @@ Download the \[download id="1618"\] full data capture.
 
 ## Spektrum DX9 Tx &amp; Spektrum AR8000 Rx
 
-\[gallery link="none" ids="1587,1776"\]
+{{< image-gallery >}}
+  [![](https://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx-150x150.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg)
+  [![](https://www.end2endzone.com/wp-content/uploads/2016/03/Spektrum-AR8000-Rx-1-150x150.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/03/Spektrum-AR8000-Rx-1.jpg)
+{{< /image-gallery >}}
+
 
 **Table 1**
 
@@ -291,7 +298,10 @@ Download the \[download id="1620"\] full data capture.
 
 ## Tactic TTX600 Tx &amp; Tactic TR624 Rx
 
-\[gallery link="none" ids="1633,1634"\]
+{{< image-gallery >}}
+  [![](https://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx-150x150.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg)
+  [![](https://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TR624-6-ch-Rx-150x150.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TR624-6-ch-Rx.jpg)
+{{< /image-gallery >}}
 
 **Notes:**
 
@@ -389,7 +399,10 @@ Download the \[download id="1614"\] full data capture.
 
 ## CCPM Servo Tester
 
-\[gallery link="none" ids="1640"\]
+{{< image-gallery >}}
+  [![](https://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester-150x150.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg)
+{{< /image-gallery >}}
+
 
 **Table 1**  
 The CCPM Servo Tester shows a PWM range from **900 µs** to **2210 µs**. The following table shows the details of my data capture session:

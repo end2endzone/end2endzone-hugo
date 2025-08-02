@@ -45,7 +45,25 @@ Note: Please note that portable versions does not contain the shell extension mo
 
 # Screenshots
 
-\[gallery link="file" size="medium" ids="460,459,458,457,456,454,452,451,449,450,447,448,446,445,444,443,442"\]
+{{< image-gallery >}}
+  [![extWebGet screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extWebGet-screenshot-300x68.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extWebGet-screenshot.png "extWebGet screenshot")
+  [![extGuid screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extGuid-screenshot-300x233.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extGuid-screenshot.png "extGuid screenshot")
+  [![extHashCalculator screenshot (md5)](https://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5-300x113.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png "extHashCalculator screenshot (md5)")
+  [![extImageEncoder screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot-300x254.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot.png "extImageEncoder screenshot")
+  [![extSearch screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extSearch-screenshot-300x215.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extSearch-screenshot.png "extSearch screenshot")
+  [![extTools screenshot (clipboard)](https://www.end2endzone.com/wp-content/uploads/2014/10/extTools-screenshot-clipboard-300x212.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extTools-screenshot-clipboard.png "extTools screenshot (clipboard)")
+  [![extFileSplitter screenshot (split)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileSplitter-screenshot-split-300x163.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileSplitter-screenshot-split.png "extFileSplitter screenshot (split)")
+  [![extFileSplitter screenshot (join)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileSplitter-screenshot-join-300x163.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileSplitter-screenshot-join.png "extFileSplitter screenshot (join)")
+  [![extFileRenamer screenshot (search & replace #1)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-search-replace-1-287x300.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-search-replace-1.png "extFileRenamer screenshot (search & replace #1)")
+  [![extFileRenamer screenshot (search & replace #2)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-search-replace-2-287x300.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-search-replace-2.png "extFileRenamer screenshot (search & replace #2)")
+  [![extFileRenamer screenshot (pattern #1)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1-287x300.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png "extFileRenamer screenshot (pattern #1)")
+  [![extFileRenamer screenshot (pattern #2)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-2-287x300.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-2.png "extFileRenamer screenshot (pattern #2)")
+  [![extDelete screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-300x138.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot.png "extDelete screenshot")
+  [![extDelete screenshot (secure delete mode)](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-secure-delete-mode-300x163.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-secure-delete-mode.png "extDelete screenshot (secure delete mode)")
+  [![extDelete screenshot (normal delete mode)](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-normal-delete-mode-300x118.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-normal-delete-mode.png "extDelete screenshot (normal delete mode)")
+  [![extDelete screenshot (fast delete mode)](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-fast-delete-mode-300x123.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-fast-delete-mode.png "extDelete screenshot (fast delete mode)")
+  [![extBatchFileProcessor screenshot](https://www.end2endzone.com/wp-content/uploads/2014/10/extBatchFileProcessor-screenshot-300x188.png)](https://www.end2endzone.com/wp-content/uploads/2014/10/extBatchFileProcessor-screenshot.png "extBatchFileProcessor screenshot")
+{{< /image-gallery >}}
 
 # Application components
 

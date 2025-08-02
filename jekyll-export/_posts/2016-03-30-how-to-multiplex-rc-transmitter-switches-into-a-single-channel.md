@@ -383,7 +383,12 @@ https://www.end2endzone.com/wp-content/uploads/2016/03/MultiplexDemultiplexDiscr
 
 ### Sample data
 
-\[gallery link="file" ids="1477,1479,1489"\]
+{{< image-gallery >}}
+  [![Demultiplexing four 2-position switches : Sample data](https://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-4x-2-position-switches-Data-Capture-Sample-150x141.png)](https://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-4x-2-position-switches-Data-Capture-Sample.png "Demultiplexing four 2-position switches : Sample data")[
+  [![Demultiplexing a 3-Position and three 2-Position switches : Sample data](https://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-3x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample-150x145.png)](https://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-3x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample.png "Demultiplexing a 3-Position and three 2-Position switches : Sample data")
+  [![Demultiplexing three 3-Position switches : Sample data](https://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-3x-3-Position-switches-Data-Capture-Sample-150x145.png)](https://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-3x-3-Position-switches-Data-Capture-Sample.png "Demultiplexing three 3-Position switches : Sample data")
+{{< /image-gallery >}}
+
 
 # Multiplexing an analog input and switches
 
@@ -472,4 +477,6 @@ https://www.end2endzone.com/wp-content/uploads/2016/03/MultiplexDemultiplexAnalo
 
 ### Sample data
 
-\[gallery link="file" ids="1519"\]
+{{< image-gallery >}}
+  [![](https://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-Analog-Knob-with-1x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample-146x150.png)](https://www.end2endzone.com/wp-content/uploads/2016/02/Multiplexing-Analog-Knob-with-1x-2-Position-and-1x-3-Position-switches-Data-Capture-Sample.png)
+{{< /image-gallery >}}
