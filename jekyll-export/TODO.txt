@@ -9,4 +9,7 @@ links to `www.end2endzone.com`
 images from `www.end2endzone.com`
 \[download id="628"\]
 	\[download id="1893" template="button"\]
-
+	{{% download href="" %}}text{{% /download %}}
+	search:		\\\[download\s+id="([^"]+)"[^\\]*\\\]
+	replacewith:	{{% download id="$1" href="" %}}{{% /download %}}
+```\nhttps://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-Countdown-demo.ino\n```
