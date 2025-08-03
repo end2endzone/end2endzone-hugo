@@ -11,7 +11,7 @@ hits:
 'Snippet Title':
     - 'Downloadable content'
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Library binaries:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1863/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"1863\" template=\"title\"]</a></li>\n<li><a href=\"/download/1861/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"1861\" template=\"title\"]</a></li>\n<li><a href=\"/download/1859/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"1859\" template=\"title\"]</a></li>\n<li><a href=\"/download/1857/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"1857\" template=\"title\"]</a></li>\n</ul>\n</div>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Source code:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2035/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2035\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
+    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Library binaries:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1863/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"1863\" template=\"title\"]</a></li>\n<li><a href=\"/download/1861/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"1861\" template=\"title\"]</a></li>\n<li><a href=\"/download/1859/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"1859\" template=\"title\"]</a></li>\n<li><a href=\"/download/1857/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"1857\" template=\"title\"]</a></li>\n</ul>\n</div>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Source code:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2035/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2035\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
 image: /wp-content/uploads/2016/05/libRtttl-cplusplus-library.jpg
 categories:
     - Development
@@ -220,4 +220,10 @@ libRTTTL Library / rtttlOptimizer Copyright (C) 2016 Antoine Beauchamp The code 
 
 # Download
 
-You can download the libRTTTL library / rtttlOptimizer by clicking on the following links: \[download id="2035" template="button"\] \[download id="1863" template="button"\] \[download id="1861" template="button"\] \[download id="1859" template="button"\] \[download id="1857" template="button"\]
+You can download the libRTTTL library / rtttlOptimizer by clicking on the following links:
+
+- {{% download old-id="2035" href="/wp-content/uploads/2016/05/rtttlOptimizer-v1.2.195-src.zip" %}}rtttlOptimizer-v1.2.195-src.zip{{% /download %}}
+- {{% download old-id="1863" href="/wp-content/uploads/2016/05/rtttlOptimizer-v1.2.195-win32-portable.zip" %}}rtttlOptimizer-v1.2.195-win32-portable.zip{{% /download %}}
+<!-- - {{% download old-id="1861" href="" %}}{{% /download %}} -->
+- {{% download old-id="1859" href="/wp-content/uploads/2016/05/rtttlOptimizer-v1.2.195-x64-portable.zip" %}}rtttlOptimizer-v1.2.195-x64-portable.zip{{% /download %}}
+<!-- - {{% download old-id="1857" href="" %}}{{% /download %}} -->

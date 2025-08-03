@@ -36,10 +36,15 @@ extTools allows its users to execute tasks that are not available in a default W
 
 You can download extTools by clicking on the following links:
 
-- \[download id="825"\]
-- \[download id="822"\] (for Windows XP)
-- \[download id="831"\]
-- \[download id="828"\] (for Windows 7 and over)
+{{< pleasenote >}}
+  **Note:** The download files for extTools are not available anymore.
+{{< /pleasenote >}}
+<!--
+- {{% download old-id="825" href="N/A" %}}{{% /download %}}
+- {{% download old-id="822" href="N/A" %}}{{% /download %}} (for Windows XP)
+- {{% download old-id="831" href="N/A" %}}{{% /download %}}
+- {{% download old-id="828" href="N/A" %}}{{% /download %}} (for Windows 7 and over)
+-->
 
 Note: Please note that portable versions does not contain the shell extension module to register menu option with the File Explorer context menu.
 

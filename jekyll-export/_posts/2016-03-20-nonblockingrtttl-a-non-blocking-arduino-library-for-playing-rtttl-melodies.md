@@ -56,7 +56,7 @@ Call *rtttl::begin()* to setup the non-blocking RTTTL library. Then call *rtttl:
 
 ## Demo
 
-The following demo show how to use the library: (download the \[download id="1676"\])
+The following demo show how to use the library: {{% download old-id="1676" href="/wp-content/uploads/2016/03/NonBlockingRtttl-demo-v1.0.101.ino" %}}NonBlockingRtttl demo sample{{% /download %}}
 
 ```
 sample

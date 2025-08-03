@@ -11,7 +11,7 @@ hits:
 'Snippet Title':
     - 'Downloadable content'
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Source code:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2480/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2480\" template=\"title\"]</a></li>\n<li><a href=\"/download/2482/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2482\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
+    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Source code:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2480/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2480\" template=\"title\"]</a></li>\n<li><a href=\"/download/2482/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2482\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
 image: /wp-content/uploads/2017/06/libArgvCodec-cplusplus-library.jpg
 categories:
     - Development
@@ -72,4 +72,7 @@ This library is free software; you can redistribute it and/or modify it under th
 
 # Download
 
-You can download the libArgvCodec library by clicking on the following link: \[download id="2480" template="button"\] \[download id="2482" template="button"\]
+You can download the libArgvCodec library by clicking on the following link:
+
+- {{% download old-id="2480" href="https://github.com/end2endzone/libArgvCodec/archive/refs/tags/1.1.0.zip" %}}libArgvCodec v1.1.0.zip{{% /download %}}
+- {{% download old-id="2482" href="https://github.com/end2endzone/libArgvCodec/releases/download/1.1.0/libArgvCodec-1.1.0-win32-portable.zip" %}}libArgvCodec-1.1.0-win32-portable.zip{{% /download %}}

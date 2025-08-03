@@ -132,7 +132,7 @@ according to [this translator](http://morsecode.scphillips.com/translator.html).
 
 ## Demo
 
-The following demo show how to use the library: (download the \[download id="1691"\])
+The following demo show how to use the library: {{% download old-id="1691" href="/wp-content/uploads/2016/03/BitReader-v1.0.70-benchmark-demo.ino" %}}BitReader v1.0.70 benchmark demo.ino{{% /download %}}
 
 ```
 sample
@@ -144,4 +144,6 @@ This library is free software; you can redistribute it and/or modify it under th
 
 # Download
 
-You can download the BitReader arduino library by clicking on the following link: \[download id="1688" template="button"\]
+You can download the BitReader arduino library by clicking on the following link:
+
+{{% download old-id="1688" href="https://github.com/end2endzone/BitReader/archive/refs/tags/1.3.0.zip" %}}BitReader-v1.1.110.zip{{% /download %}}

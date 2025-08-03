@@ -11,7 +11,7 @@ hits:
 'Snippet Title':
     - 'Downloadable content'
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">RC Transmitter Mix Calculator:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1255/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"1255\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
+    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">RC Transmitter Mix Calculator:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1255/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"1255\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
 image: /wp-content/uploads/2016/01/Demystifying-RC-Transmitter-Mixing.jpg
 categories:
     - 'Model Aeronautics'

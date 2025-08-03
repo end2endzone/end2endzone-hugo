@@ -9,7 +9,7 @@ permalink: '/?p=2335'
 'Snippet Title':
     - 'Downloadable content'
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Code:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2339/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2339\" template=\"title\"]</a></li>\n</ul>\n<p class=\"nomarginbottom\">Exemple de polices:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2341/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2341\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
+    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Code:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2339/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2339\" template=\"title\"]</a></li>\n</ul>\n<p class=\"nomarginbottom\">Exemple de polices:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2341/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2341\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
 hits:
     - '3224'
 image: /wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg
@@ -51,7 +51,7 @@ Le script peut-être utilisé de deux façons. Les sections suivantes expliquent
 
 ## Télécharger le script
 
-Télécharger le script sur votre ordinateur en utilisant le lien suivant \[download id="2339" template="title"\]. Procédez avec les étapes suivantes pour installer le module téléchargé: 1. Ouvrir ***Microsoft Word***.
+Télécharger le script sur votre ordinateur en utilisant le lien suivant {{% download old-id="2339" href="/wp-content/uploads/2016/12/MsWordListInstalledFont.bas" %}}MsWordListInstalledFont.bas{{% /download %}}. Procédez avec les étapes suivantes pour installer le module téléchargé: 1. Ouvrir ***Microsoft Word***.
 2. Naviguer au menu ***Affichage*** du ***ruban***.
 3. Cliquer sur le bouton ***Macros*** pour ouvrir l'éditeur de macro Microsoft Visual Basic. [![](https://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)
 4. Entrer un nom de macro bidon. Par exemple '*police*'.
@@ -116,4 +116,5 @@ This library is free software; you can redistribute it and/or modify it under th
 
 # Téléchargement
 
-Vous pouvez télécharger le script en cliquant sur le lien de téléchargement suivant: \[download id="2339" template="button"\]
+Vous pouvez télécharger le script en cliquant sur le lien de téléchargement suivant:
+{{% download old-id="2339" href="/wp-content/uploads/2016/12/MsWordListInstalledFont.bas" %}}MsWordListInstalledFont.bas{{% /download %}}

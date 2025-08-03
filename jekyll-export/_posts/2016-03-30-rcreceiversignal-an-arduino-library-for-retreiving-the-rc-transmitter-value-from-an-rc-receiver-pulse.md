@@ -9,7 +9,7 @@ permalink: '/?p=1251'
 'Snippet Title':
     - 'Downloadable content'
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Library:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1792/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"1792\" template=\"title\"]</a></li>\n</ul>\n</div>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Example:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1794/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"1794\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
+    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Library:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1792/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"1792\" template=\"title\"]</a></li>\n</ul>\n</div>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Example:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1794/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"1794\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
 hits:
     - '1906'
 image: /wp-content/uploads/2016/03/Arduino-RcReceiverSignal-library.jpg
@@ -86,7 +86,8 @@ From a PWM value, one can call the *getSignalValue()* or *getDeviceSignalValue()
 
 # Demo
 
-The following demo show how to use the library: (download the \[download id="1794"\])
+The following demo show how to use the library:
+{{% download old-id="1794" href="/wp-content/uploads/2016/03/RcReceiverSignal-v1.0.124-LedUpdate.ino" %}}RcReceiverSignal-v1.0.124-LedUpdate.ino{{% /download %}}
 
 ```
 https://www.end2endzone.com/wp-content/uploads/2016/03/RcReceiverSignal-v1.1.203-LedUpdate.ino
@@ -98,4 +99,5 @@ This library is free software; you can redistribute it and/or modify it under th
 
 # Download
 
-You can download the RcReceiverSignal arduino library by clicking on the following link: \[download id="1792" template="button"\]
+You can download the RcReceiverSignal arduino library by clicking on the following link:
+{{% download old-id="1792" href="/wp-content/uploads/2016/03/RcReceiverSignal-v1.0.124.zip" %}}RcReceiverSignal-v1.0.124.zip{{% /download %}}

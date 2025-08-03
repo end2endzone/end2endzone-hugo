@@ -84,4 +84,5 @@ This library is free software; you can redistribute it and/or modify it under th
 
 # Download
 
-You can download ***svnpropertylog*** by clicking on the following link: \[download id="1908" template="button"\]
+You can download ***svnpropertylog*** by clicking on the following link:
+{{% download old-id="1908" href="/wp-content/uploads/2016/05/svnpropertylog-v1.1.29.zip" %}}svnpropertylog-v1.1.29.zip{{% /download %}}

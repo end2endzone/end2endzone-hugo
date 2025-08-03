@@ -53,10 +53,10 @@ It's main features are:
 
 You can download *HDHomeRun TV Dump* by clicking on the following link:
 
-- \[download id="744"\]
-- \[download id="746"\]
-- \[download id="748"\]
-- \[download id="750"\]
+- {{% download old-id="744" href="/wp-content/uploads/2015/02/HDHomeRun-TV-Dump-v1.2.79-x64-portable.zip" %}}HDHomeRun TV Dump v1.2.79 (x64 portable){{% /download %}}
+<!-- - {{% download old-id="746" href="" %}}HDHomeRun TV Dump v1.2.79 (x64 setup){{% /download %}}-->
+- {{% download old-id="748" href="/wp-content/uploads/2015/02/HDHomeRun-TV-Dump-v1.2.79-win32-portable.zip" %}}HDHomeRun TV Dump v1.2.79 (win32 portable){{% /download %}}
+<!-- - {{% download old-id="750" href="" %}}HDHomeRun TV Dump v1.2.79 (win32 setup){{% /download %}}-->
 
 # Hardware &amp; Software Requirements
 

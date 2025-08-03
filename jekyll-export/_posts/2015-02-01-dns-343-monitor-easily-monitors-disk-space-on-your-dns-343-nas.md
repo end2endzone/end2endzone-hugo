@@ -43,10 +43,10 @@ It's main features are:
 
 You can download DNS-343 Monitor by clicking on the following links:
 
-- \[download id="675"\]
-- \[download id="672"\]
-- \[download id="670"\]
-- \[download id="666"\]
+- {{% download old-id="675" href="/wp-content/uploads/2015/02/DNS-343-Monitor-v1.1.33-win32-portable.zip" %}}DNS-343 Monitor v1.1.33 (win32 portable){{% /download %}}
+<!-- - {{% download old-id="672" href="" %}}DNS-343 Monitor v1.1.33 (win32 Setup){{% /download %}}-->
+- {{% download old-id="670" href="/wp-content/uploads/2015/02/DNS-343-Monitor-v1.1.33-x64-portable.zip" %}}DNS-343 Monitor v1.1.33 (x64 portable){{% /download %}}
+<!-- - {{% download old-id="666" href="" %}}DNS-343 Monitor v1.1.33 (x64 Setup){{% /download %}}-->
 
 # Compatible with
 

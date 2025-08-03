@@ -11,7 +11,7 @@ hits:
 'Snippet Title':
     - 'Downloadable content'
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Fritzing project:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2240/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2240\" template=\"title\"]</a></li>\n</ul><p class=\"nomarginbottom\">Fritzing parts:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2237/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2237\" template=\"title\"]</a></li>\n<li><a href=\"/download/2235/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2235\" template=\"title\"]</a></li>\n<li><a href=\"/download/2233/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2233\" template=\"title\"]</a></li>\n</ul>\n<p class=\"nomarginbottom\">Source code files:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2263/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2263\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
+    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Fritzing project:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2240/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2240\" template=\"title\"]</a></li>\n</ul><p class=\"nomarginbottom\">Fritzing parts:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2237/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2237\" template=\"title\"]</a></li>\n<li><a href=\"/download/2235/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2235\" template=\"title\"]</a></li>\n<li><a href=\"/download/2233/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2233\" template=\"title\"]</a></li>\n</ul>\n<p class=\"nomarginbottom\">Source code files:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2263/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2263\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
 image: /wp-content/uploads/2016/10/Arduino-Quadcopter-Controler-featured.jpg
 categories:
     - 'Model Aeronautics'
@@ -131,13 +131,13 @@ The following section shows the drawings and the schematics used by the controll
 
 \[caption id="attachment\_2266" align="alignnone" width="1024"\][![Fritzing - Open-Source Hardware Initiative Tool](https://www.end2endzone.com/wp-content/uploads/2016/10/fritzing_logo_new-1024x410.png)](https://www.end2endzone.com/wp-content/uploads/2016/10/fritzing_logo_new.png) Fritzing - Open-Source Hardware Initiative Tool\[/caption\] All drawings and diagrams are build using [Fritzing](http://fritzing.org/home/) version 0.9.2b which is an open-source hardware initiative tool that allows developers to document their prototypes and share them with others. The application already features a huge parts library but there is no support for a [Generic Remote Controlled (RC) 6-Channels Receiver](#Components_and_Supplies) and for the [MR16 Constant Current LED Driver](#Components_and_Supplies). The additional parts which are required for rendering the project are available for download:
 
-- \[download id="2237" template="title"\]
-- \[download id="2235" template="title"\]
-- \[download id="2233" template="title"\]
+- {{% download old-id="2237" href="/wp-content/uploads/2016/08/MR16-Constant-Current-LED-Driver.fzpz" %}}/MR16-Constant-Current-LED-Driver.fzpz{{% /download %}}
+- {{% download old-id="2235" href="/wp-content/uploads/2016/08/Generic-2.4Ghz-RC-6ch-Receiver-OCRA.fzpz" %}}Generic-2.4Ghz-RC-6ch-Receiver-OCRA.fzpz{{% /download %}}
+- {{% download old-id="2233" href="/wp-content/uploads/2016/08/3S-3600mAh-Lipo-Battery.fzpz" %}}3S-3600mAh-Lipo-Battery.fzpz{{% /download %}}
 
 The project files are also available for download. Click the following link to get the *Fritzing project files* for this project:
 
-- \[download id="2240" template="title"\]
+- {{% download old-id="2240" href="/wp-content/uploads/2016/08/DIY-lost-plane-alarm-finder-and-10-watts-LED-visual-aids-for-easy-orientation.fzz" %}}DIY-lost-plane-alarm-finder-and-10-watts-LED-visual-aids-for-easy-orientation.fzz{{% /download %}}
 
 ## Circuit Diagram
 
@@ -165,7 +165,10 @@ The code on the arduino requires multiple external arduino libraries. The follow
 
 ## Arduino sketch
 
-Here is the brain of the project. Source code! Click the following to download the example below: (download \[download id="2263" template="title"\])
+Here is the brain of the project. Source code!
+
+Click the following to download the example below:
+{{% download old-id="2263" href="/wp-content/uploads/2016/10/QuadCtrl-v1.0.240.ino" %}}QuadCtrl-v1.0.240.ino{{% /download %}}
 
 ```
 sample

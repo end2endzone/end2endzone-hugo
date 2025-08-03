@@ -9,7 +9,7 @@ permalink: '/?p=1880'
 'Snippet Title':
     - 'Downloadable content'
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Library:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1893/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"1893\" template=\"title\"]</a></li>\n</ul>\n</div>"
+    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Library:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1893/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"1893\" template=\"title\"]</a></li>\n</ul>\n</div>"
 hits:
     - '1063'
 image: /wp-content/uploads/2016/04/libMidi-cplusplus-library.jpg
@@ -86,4 +86,4 @@ libMIDI Library Copyright (C) 2016 Antoine Beauchamp The code &amp; updates for 
 
 You can download the libMIDI library by clicking on the following link:
 
-- \[download id="1893" template="button"\]
+- {{% download old-id="1893" href="https://github.com/end2endzone/libMidi/archive/refs/tags/2.0.0.zip" %}}libMidi v2.0.0.zip{{% /download %}}

@@ -40,4 +40,4 @@ Only white cells should be modified. Cells in light blue are the final mix value
 
 ## Download
 
-\[download id="1255"\] Enjoy!
+{{% download old-id="1255" href="/wp-content/uploads/2016/01/Mixing-Calculator-2.xlsx" %}}Mixing Calculator for R/C Transmitter{{% /download %}} Enjoy!

@@ -69,7 +69,7 @@ Demo:
 
 The following demo show how to use the library in non-blocking mode:
 
-\[download id="1977"\]
+{{% download old-id="1977" href="/wp-content/uploads/2016/05/AnyRtttl-v2.0-NonBlocking-example.ino" %}}AnyRtttl-v2.0-NonBlocking-example.ino{{% /download %}}
 
 ```
 sample
@@ -83,7 +83,7 @@ Demo:
 
 The following demo show how to use the library with 16-bits per note binary RTTTL:
 
-\[download id="1981"\]
+{{% download old-id="1981" href="/wp-content/uploads/2016/05/AnyRtttl-v2.0-Play-16-bits-example.ino" %}}AnyRtttl-v2.0-Play-16-bits-example.ino{{% /download %}}
 
 ```
 sample
@@ -99,7 +99,7 @@ Demo:
 
 The following demo show how to use the library with 10-bits per note binary RTTTL:
 
-\[download id="1979"\]
+{{% download old-id="1979" href="/wp-content/uploads/2016/05/AnyRtttl-v2.0-Play-10-bits-example.ino" %}}AnyRtttl-v2.0-Play-10-bits-example.ino{{% /download %}}
 
 ```
 sample
@@ -148,7 +148,7 @@ Demo:
 
 The following demo show how to use the library with custom functions:
 
-\[download id="1983"\]
+{{% download old-id="1983" href="/wp-content/uploads/2016/05/AnyRtttl-v2.0-Rtttl-2-Code-example.ino" %}}AnyRtttl-v2.0-Rtttl-2-Code-example.ino{{% /download %}}
 
 ```
 sample
@@ -197,4 +197,5 @@ This library is free software; you can redistribute it and/or modify it under th
 
 # Download
 
-You can download the AnyRtttl library by clicking on the following link: \[download id="1988" template="button"\]
+You can download the AnyRtttl library by clicking on the following link:
+{{% download old-id="1988" href="https://github.com/end2endzone/AnyRtttl/archive/refs/tags/2.3.1.zip" %}}AnyRtttl v2.3.1.zip{{% /download %}}

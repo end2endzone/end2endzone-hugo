@@ -40,10 +40,10 @@ Microsoft Office does not supports opening files as read-only when right-clickin
 
 You can download OfficeReadOnly by clicking on the following links:
 
-- \[download id="628"\]
-- \[download id="625"\]
-- \[download id="620"\]
-- \[download id="618"\]
+- {{% download old-id="628" href="/wp-content/uploads/2015/01/Office-Read-Only-v1.2.40-Win32-portable.zip" %}}Office Read Only v1.2.40 (win32 portable){{% /download %}}
+- {{% download old-id="625" href="/wp-content/uploads/2015/01/Office-Read-Only-v1.2.31-Win32-Setup-portable.zip" %}}Office Read Only v1.2.40 (win32 Setup){{% /download %}}
+- {{% download old-id="620" href="/wp-content/uploads/2015/01/Office-Read-Only-v1.2.40-x64-portable.zip" %}}Office Read Only v1.2.40 (x64 portable){{% /download %}}
+- {{% download old-id="618" href="/wp-content/uploads/2015/01/Office-Read-Only-v1.2.31-x64-Setup-portable.zip" %}}Office Read Only v1.2.40 (x64 Setup){{% /download %}}
 
 # Compatible with
 

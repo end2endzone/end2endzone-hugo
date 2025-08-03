@@ -9,7 +9,7 @@ permalink: '/?p=2300'
 'Snippet Title':
     - 'Downloadable content'
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Source code:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2328/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2328\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
+    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Source code:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2328/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2328\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
 hits:
     - '495'
 image: /wp-content/uploads/2016/10/libVariant-cplusplus-library.jpg
@@ -110,4 +110,5 @@ libVariant Copyright (C) 2016 Antoine Beauchamp The code &amp; updates for the l
 
 # Download
 
-You can download the libVariant library by clicking on the following link: \[download id="2328" template="button"\]
+You can download the libVariant library by clicking on the following link:
+{{% download old-id="2328" href="https://github.com/end2endzone/libVariant/archive/refs/tags/3.0.0.zip" %}}libVariant v3.0.0.zip{{% /download %}}

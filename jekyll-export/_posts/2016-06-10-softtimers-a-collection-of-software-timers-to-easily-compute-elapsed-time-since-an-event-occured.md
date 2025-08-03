@@ -9,7 +9,7 @@ permalink: '/?p=2056'
 'Snippet Title':
     - 'Downloadable content'
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Library:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2089/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2089\" template=\"title\"]</a></li>\n</ul>\n</div>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Examples:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2109/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2109\" template=\"title\"]</a></li>\n<li><a href=\"/download/2105/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2105\" template=\"title\"]</a></li>\n<li><a href=\"/download/2107/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2107\" template=\"title\"]</a></li>\n<li><a href=\"/download/2111/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2111\" template=\"title\"]</a></li>\n</ul>\n</div>"
+    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Library:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2089/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2089\" template=\"title\"]</a></li>\n</ul>\n</div>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Examples:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2109/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2109\" template=\"title\"]</a></li>\n<li><a href=\"/download/2105/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2105\" template=\"title\"]</a></li>\n<li><a href=\"/download/2107/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2107\" template=\"title\"]</a></li>\n<li><a href=\"/download/2111/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2111\" template=\"title\"]</a></li>\n</ul>\n</div>"
 hits:
     - '973'
 image: /wp-content/uploads/2016/06/Arduino-SoftTimers-library.jpg
@@ -56,7 +56,7 @@ Demo:
 
 Click the following to download the example below:
 
-\[download id="2109" template="title"\]
+{{% download old-id="2109" href="/wp-content/uploads/2016/06/SoftTimers-v1.1.219-FadeLed-demo.ino" %}}SoftTimers-v1.1.219-FadeLed-demo.ino{{% /download %}}
 
 ```
 https://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-FadeLed-demo.ino
@@ -70,7 +70,7 @@ Demo:
 
 Click the following to download the example below:
 
-\[download id="2105" template="title"\]
+{{% download old-id="2105" href="/wp-content/uploads/2016/06/SoftTimers-v1.1.219-Countdown-demo.ino" %}}SoftTimers-v1.1.219-Countdown-demo.ino{{% /download %}}
 
 ```
 https://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-Countdown-demo.ino
@@ -89,7 +89,7 @@ Demo:
 
 Click the following to download the example below:
 
-\[download id="2107" template="title"\]
+{{% download old-id="2107" href="/wp-content/uploads/2016/06/SoftTimers-v1.1.219-CycleHighPin-demo.ino" %}}SoftTimers-v1.1.219-CycleHighPin-demo.ino{{% /download %}}
 
 ```
 https://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-CycleHighPin-demo.ino
@@ -109,7 +109,7 @@ Demo:
 
 Click the following to download the example below:
 
-\[download id="2111" template="title"\]
+{{% download old-id="2111" href="/wp-content/uploads/2016/06/SoftTimers-v1.1.219-StateMachine-demo.ino" %}}SoftTimers-v1.1.219-StateMachine-demo.ino{{% /download %}}
 
 ```
 https://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-StateMachine-demo.ino
@@ -121,4 +121,6 @@ This library is free software; you can redistribute it and/or modify it under th
 
 # Download
 
-You can download the SoftTimers arduino library by clicking on the following link: \[download id="2089" template="button"\]
+You can download the SoftTimers arduino library by clicking on the following link:
+
+{{% download old-id="2089" href="https://github.com/end2endzone/SoftTimers/archive/refs/tags/2.1.0.zip" %}}SoftTimers v2.1.0.zip{{% /download %}}

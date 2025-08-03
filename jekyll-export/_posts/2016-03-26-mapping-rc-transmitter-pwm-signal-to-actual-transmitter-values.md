@@ -99,7 +99,7 @@ Here is the final arduino code that allowed raw data capture to extract average 
 sample
 ```
 
-Download the arduino source code: \[download id="1582"\].
+Download the arduino source code: {{% download old-id="1582" href="/wp-content/uploads/2016/02/RcPwmReader-v95.ino" %}}RC Transmitter PWM Reader (RcPwmReader-v95.ino){{% /download %}}.
 
 # Benchmark results
 
@@ -209,7 +209,7 @@ The following polynomial function offers the best performance to compute the *Sp
 
 f(x) = -8.0e-8\*x<sup>2</sup> + 0.2203\*x – 331.37
 
-Download the \[download id="1618"\] full data capture.
+Download the {{% download old=id="1618" href="/wp-content/uploads/2016/02/Spektrum-DX9-tx-Orange-R620X-Rx-Capture.xlsx" %}}Spektrum DX9 Tx & Orange R620X Rx{{% /download %}} full data capture.
 
 ## Spektrum DX9 Tx &amp; Spektrum AR8000 Rx
 
@@ -294,7 +294,7 @@ The following polynomial function offers the best performance to compute the Spe
 
 f(x) = 0.25089444\*x – 382.665703
 
-Download the \[download id="1620"\] full data capture.
+Download the {{% download old-id="1620" href="/wp-content/uploads/2016/02/Spektrum-DX9-tx-Spektrum-AR8000-Rx-Capture.xlsx" %}}Spektrum DX9 Tx & Spektrum AR8000 Rx{{% /download %}} full data capture.
 
 ## Tactic TTX600 Tx &amp; Tactic TR624 Rx
 
@@ -395,7 +395,7 @@ Channel 2 :
 
 f(x) = -3.0E-6\*x2 + 0.2135\*x – 318.97
 
-Download the \[download id="1614"\] full data capture.
+Download the {{% download old-id="1614" href="/wp-content/uploads/2016/02/Tactic-TTX600-tx-Tactic-TR624-Capture.xlsx" %}}Tactic TTX600 Tx & Tactic TR624 Rx{{% /download %}} full data capture.
 
 ## CCPM Servo Tester
 
@@ -444,4 +444,4 @@ The following polynomial function offers the best performance to compute the *CC
 
 f(x) = 4.0E-07\*x<sup>2</sup> + 0.1653\*x – 249.78
 
-Download the \[download id="1616"\] full data capture.
+Download the {{% download old-id="1616" href="/wp-content/uploads/2016/02/CCPM-Servo-Tester-Capture.xlsx" %}}CCPM-Servo-Tester-Capture.xlsx{{% /download %}} full data capture.

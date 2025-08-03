@@ -11,7 +11,7 @@ hits:
 'Snippet Title':
     - 'Downloadable content'
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Cheat sheets:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1486/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>Multiplexing 2-position switches</a></li>\n<li><a href=\"/download/1482/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>Multiplexing 2-position + 3-position switches</a></li>\n<li><a href=\"/download/1484/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>Multiplexing 3-position switches</a></li>\n<li><a href=\"/download/1510/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>Multiplexing analog &amp; switches</a></li>\n</ul>\n</div>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Code samples:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2071/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2071\" template=\"title\"]</a></li>\n<li><a href=\"/download/2069/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download id=\"2069\" template=\"title\"]</a></li>\n</ul>\n</div>"
+    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Cheat sheets:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1486/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>Multiplexing 2-position switches</a></li>\n<li><a href=\"/download/1482/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>Multiplexing 2-position + 3-position switches</a></li>\n<li><a href=\"/download/1484/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>Multiplexing 3-position switches</a></li>\n<li><a href=\"/download/1510/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>Multiplexing analog &amp; switches</a></li>\n</ul>\n</div>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Code samples:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2071/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2071\" template=\"title\"]</a></li>\n<li><a href=\"/download/2069/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2069\" template=\"title\"]</a></li>\n</ul>\n</div>"
 image: /wp-content/uploads/2016/03/How-to-multiplex-RC-Transmitter-switches-into-a-single-channel.jpg
 categories:
     - 'Model Aeronautics'
@@ -198,7 +198,7 @@ As you can see, the sum of all combined mixes matches the middle section of each
 | 14 | 1 | 1 | 1 | 0 | -100 | -46 | 20 | 40 | 80 | -6 |
 | 15 | 1 | 1 | 1 | 1 | -100 | -36 | 20 | 40 | 80 | 4 |
 
-Use the \[download id="1486"\] for calculating all block offset when multiplexing four 2-position switches.
+Use the {{% download old-id="1486" href="/wp-content/uploads/2016/02/Multiplexing-4x-2-position-switches-cheat-sheet.xlsx" %}}Multiplexing 4x 2-position switches Cheat Sheet.xlsx{{% /download %}} for calculating all block offset when multiplexing four 2-position switches.
 
 ### Three 2-position and one 3-position switches
 
@@ -276,7 +276,7 @@ As you can see, the sum of all combined mixes matches the middle section of each
 | 22 | 1 | 1 | 1 | 1 | -68 | -68 | 0 | 30 | 60 | 120 | 74 |
 | 23 | 1 | 1 | 1 | 2 | -136 | 0 | 10 | 30 | 60 | 120 | 84 |
 
-Use the \[download id="1482"\] for calculating all block offset when multiplexing three 2-position switches and one 3-position switch.
+Use the {{% download old-id="1482" href="/wp-content/uploads/2016/02/Multiplexing-3x-2-Position-and-1x-3-Position-switches-Cheat-Sheet.xlsx" %}}Multiplexing 3x 2-Position and 1x 3-Position switches Cheat Sheet.xlsx{{% /download %}} for calculating all block offset when multiplexing three 2-position switches and one 3-position switch.
 
 ### Three 3-position switches
 
@@ -357,7 +357,7 @@ As you can see, the sum of all combined mixes matches the middle section of each
 | 25 | 2 | 2 | 1 | 0 | 30 | 90 | 120 |
 | 26 | 2 | 2 | 2 | 10 | 30 | 90 | 130 |
 
-Use the \[download id="1484"\] for calculating all block offset when multiplexing three 3-position switches.
+Use the {{% download old-id="1484" href="/wp-content/uploads/2016/02/Multiplexing-3x-3-Position-switches-Cheat-Sheet.xlsx" %}}Multiplexing 3x 3-Position switches Cheat Sheet.xlsx{{% /download %}} for calculating all block offset when multiplexing three 3-position switches.
 
 ## Decoding
 
@@ -461,7 +461,7 @@ As you can see, the sum of all combined mixes matches the middle section of each
 | 5 | 1 | 2 | 0 | -147 | 0 | 138 | 92 | 83 |
 | 5 | 1 | 2 | 40 | 0 | -108 | 138 | 92 | 122 |
 
-Use the \[download id="1510"\] for calculating all block offset when multiplexing an analog value with a 2-position and a 3-position switch.
+Use the {{% download old-id="1510" href="/wp-content/uploads/2016/02/Multiplexing-Analog-Knob-with-1x-2-Position-and-1x-3-Position-switches-Cheat-Sheet.xlsx" %}}Multiplexing Analog Knob with 1x 2-Position and 1x 3-Position switches Cheat Sheet.xlsx{{% /download %}} for calculating all block offset when multiplexing an analog value with a 2-position and a 3-position switch.
 
 ## Decoding
 
