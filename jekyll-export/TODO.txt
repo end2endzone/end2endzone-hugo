@@ -2,9 +2,7 @@ jekyll shortcodes
 	characters `\`
 \[caption id="attachment\_387" align="aligncenter" width="474"\]
 <a id="rule2_3"></a>
-: 1.[space]
 links to `www.end2endzone.com`
 	https://www.end2endzone.com/wp-content
-	
 images from `www.end2endzone.com`
 ```\nhttps://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-Countdown-demo.ino\n```

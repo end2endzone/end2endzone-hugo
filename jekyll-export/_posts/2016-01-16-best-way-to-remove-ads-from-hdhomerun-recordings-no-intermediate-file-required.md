@@ -58,17 +58,23 @@ AVFS is the heart of the whole process. It allows the user to create a virtual f
 
 ### Installing version 1.0.0.5 (and previous versions)
 
-Version 1.0.0.5 (and previous versions) are released with *avfs.dll*. To install, run the following commands: 1. Copy *avfs.dll* to a folder of your choosing. The *c:\\windows* folder will work or use any other folder.
+Version 1.0.0.5 (and previous versions) are released with *avfs.dll*. To install, run the following commands:
+
+1. Copy *avfs.dll* to a folder of your choosing. The *c:\\windows* folder will work or use any other folder.
 2. Open a *cmd prompt* by clicking on the *Start Menu* and enter *cmd.exe* and press *Enter*.
 3. Type *pfm register c:\\windows\\avfs.dll*. This will register *avfs.dll* to the *Prismo File Mount* application.
 
-To uninstall, run the following commands: 1. Open a *cmd prompt* by clicking on the *Start Menu* and enter *cmd.exe* and press *Enter*.
+To uninstall, run the following commands:
+
+1. Open a *cmd prompt* by clicking on the *Start Menu* and enter *cmd.exe* and press *Enter*.
 2. Type *pfm unregister c:\\windows\\avfs.dll*.
 3. Delete the *c:\\windows\\avfs.dll* file.
 
 ### Installing version 1.0.0.6 (and previous versions)
 
-AVSF 1.0.0.6 is not compatible with build 173 of Pismo File Mount. Build 178 must be downloaded to be able to create a virtual file. Version 1.0.0.6 (and future versions) are released with *avfs.exe*. To install, run the following commands: 1. Copy *avfs.exe* to a folder of your choosing. The *c:\\windows* folder will work or use any other folder.
+AVSF 1.0.0.6 is not compatible with build 173 of Pismo File Mount. Build 178 must be downloaded to be able to create a virtual file. Version 1.0.0.6 (and future versions) are released with *avfs.exe*. To install, run the following commands:
+
+1. Copy *avfs.exe* to a folder of your choosing. The *c:\\windows* folder will work or use any other folder.
 
 To uninstall, delete the *c:\\windows\\avfs.exe* file.
 
@@ -86,13 +92,17 @@ MPEG2 recording ⇨ VirtualDub ⇨ Editing ⇨ VirtualDub \*.vdscript file (Edit
 
 ## Open video file in Virtualdub
 
-\[caption id="attachment\_1157" align="alignnone" width="967"\][![VirtualDub default video](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg) VirtualDub default video\[/caption\] 1. Click on *File* menu.
+\[caption id="attachment\_1157" align="alignnone" width="967"\][![VirtualDub default video](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg) VirtualDub default video\[/caption\]
+
+1. Click on *File* menu.
 2. Click on *Open video file...*
 3. Browse to your MPEG2 video file.
 
 ## Cut ads / video section
 
-Virtualdub is the best video editing application I know. It supports video resizing, splitting, joining, filters but mostly removing ADS! 1. Move the cursor to the first frame of an ad. Note: you can use your keyboard arrows to move 1 frame forward or backward to set the cursor at the exact desired frame.
+Virtualdub is the best video editing application I know. It supports video resizing, splitting, joining, filters but mostly removing ADS!
+
+1. Move the cursor to the first frame of an ad. Note: you can use your keyboard arrows to move 1 frame forward or backward to set the cursor at the exact desired frame.
 2. Click on *Edit* menu and select *Set Selection Start* to mark the beginning of the ad. You can also press the [![VirtualDub Set Selection Start](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-Start.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-Start.jpg) button.
 3. Move the cursor to the last frame of the same ad.
 4. Click on *Edit* menu and select *Set Selection End* to mark the end of the ad. You can also press the [![VirtualDub Set Selection End](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg) button.
@@ -105,20 +115,28 @@ Virtualdub is the best video editing application I know. It supports video resiz
 
 ## Video codec selection
 
-Since we are chaining application one into the other, there is no need to use video codec compression between application. Compressing frames between application will only slow down the speed at which each frames are pushed in the chain. You computer is more than capable dealing with uncompressed frames even in full HD resolution. You also reduce the risk of loosing quality between applications so leave the video compression to "*Uncompressed RGB/YCbCr*". The final video compression will occur within Handbrake. \[caption id="attachment\_1204" align="alignnone" width="541"\][![Virtualdub Uncompressed RGB Video Codec Selection](https://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png) Virtualdub Uncompressed RGB Video Codec Selection\[/caption\] 1. Click on *Video* menu and select *Compression*...
+Since we are chaining application one into the other, there is no need to use video codec compression between application. Compressing frames between application will only slow down the speed at which each frames are pushed in the chain. You computer is more than capable dealing with uncompressed frames even in full HD resolution. You also reduce the risk of loosing quality between applications so leave the video compression to "*Uncompressed RGB/YCbCr*". The final video compression will occur within Handbrake. \[caption id="attachment\_1204" align="alignnone" width="541"\][![Virtualdub Uncompressed RGB Video Codec Selection](https://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png) Virtualdub Uncompressed RGB Video Codec Selection\[/caption\]
+
+1. Click on *Video* menu and select *Compression*...
 2. Select *Uncompressed RGB/YCbCr*
 
 ## Audio codec
 
-There is no need to use any compression codec for the audio. A typical TV show is 45 minutes long which only takes ~2.9 GiB (66 MiB / min) for 5.1 Surround sound and ~495 MiB (11 MiB / min) for Stereo sound. Transferring this amount of data within memory should not be an issue. The final audio compression codec selection will occur within Handbrake. 1. Click on *Audio* menu and select *Full Processing Mode*.
+There is no need to use any compression codec for the audio. A typical TV show is 45 minutes long which only takes ~2.9 GiB (66 MiB / min) for 5.1 Surround sound and ~495 MiB (11 MiB / min) for Stereo sound. Transferring this amount of data within memory should not be an issue. The final audio compression codec selection will occur within Handbrake.
+
+1. Click on *Audio* menu and select *Full Processing Mode*.
 
 ## Start VirtualDub's frame server
 
-Now that your are done editing and removing ads from your video, you need to enable VirtualDub's frame server. 1. Click on *File* menu.
+Now that your are done editing and removing ads from your video, you need to enable VirtualDub's frame server.
+
+1. Click on *File* menu.
 2. Select *Start frame server*...
 3. Enter a location for the VirtualDub AVIFile signpost (\*.vdr) file. Click [here](/wp-content/uploads/2015/11/1021_20150405183000.vdr) for a sample file generated by VirtualDub.
 
-The following dialog should be displayed: \[caption id="attachment\_1198" align="alignnone" width="388"\][![VirtualDub Frameserver Options Window](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png) VirtualDub Frameserver Options Window\[/caption\] 1. Leave options as is. It does not matter what you put here.
+The following dialog should be displayed: \[caption id="attachment\_1198" align="alignnone" width="388"\][![VirtualDub Frameserver Options Window](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png) VirtualDub Frameserver Options Window\[/caption\]
+
+1. Leave options as is. It does not matter what you put here.
 2. Click on *Start* button to start the frame server.
 
 The following dialog will be displayed: \[caption id="attachment\_1197" align="alignnone" width="394"\][![VirtualDub Frameserver Mode](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png) VirtualDub Frameserver Mode\[/caption\] The frameserver is now ready to provide frames to other applications. Leave the dialog running until the encoding with handbrake is complete. Press *Stop serving* button to return to VirtualDub's editing mode. A safe way to know if VirtualDub is done serving frames is to look at the "*Number of frames served*" value. If it stopped increasing, it means that Handbrake and the frameclient is done processing all frames.
@@ -131,7 +149,9 @@ The following dialog will be displayed: \[caption id="attachment\_1197" align="a
 
 ## AviSynth Custom Script
 
-Now that VirtualDub is ready to server frames to the next application, you need to create an AviSynth file that will wrap the VirtualDub AVIFile signpost (\*.vdr) file and generate a valid AVI stream. 1. Create a text file next to the VirtualDub AVIFile signpost (\*.vdr) file with the avs file extension (\*.avs). It is a good practice to use the same path &amp; filename as the \*.vdr file.
+Now that VirtualDub is ready to server frames to the next application, you need to create an AviSynth file that will wrap the VirtualDub AVIFile signpost (\*.vdr) file and generate a valid AVI stream.
+
+1. Create a text file next to the VirtualDub AVIFile signpost (\*.vdr) file with the avs file extension (\*.avs). It is a good practice to use the same path &amp; filename as the \*.vdr file.
 2. Enter the following text in the file: *AviSource("full\_path\_to\_vdr")* (replace *full\_path\_to\_vdr* by the actual full path to your vdr file).
 3. Save the file.
 
@@ -161,7 +181,9 @@ Mount the \*.avs file as a virtual folder containing the virtual AVI file.
 2. Select the *Mount* option.
 3. The following dialog will be displayed.
 
-\[caption id="attachment\_1195" align="alignnone" width="391"\][![AVFS Mounting Options](https://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options.png) AVFS Mounting Options\[/caption\] 1. Select your desired options. The following options is suggested: 
+\[caption id="attachment\_1195" align="alignnone" width="391"\][![AVFS Mounting Options](https://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options.png) AVFS Mounting Options\[/caption\]
+
+1. Select your desired options. The following options is suggested: 
     1. Force read-only mount.
     2. Open after mount.
 2. Click the *Mount* button.
@@ -177,7 +199,9 @@ If you selected the option *Open after mount*, the following window will be disp
 
 ### Using AVFS 1.0.0.6
 
-Mounting with AVFS 1.0.0.6 requires a different process. 1. Open a new [Command Prompt](http://www.google.ca/?q=open+a+command+prompt&gws_rd=ssl#).
+Mounting with AVFS 1.0.0.6 requires a different process.
+
+1. Open a new [Command Prompt](http://www.google.ca/?q=open+a+command+prompt&gws_rd=ssl#).
 2. Change the current directory to the location where you installed AVFS 1.0.0.6. For example, if AVFS is installed in *F:\\Apps\\avfs\_1.0.0.6,* enter the following command in the prompt: *cd /d F:\\Apps\\avfs\_1.0.0.6*
 3. Enter the command to mount the file. For example, if the AVS file is located in folder *G:\\TV*, enter the following command in the prompt: *avfs.exe G:\\TV\\1021\_20150405183000.avs*
 4. If command is executed properly, the application should display the following message: *Press CTRL+C to exit.*

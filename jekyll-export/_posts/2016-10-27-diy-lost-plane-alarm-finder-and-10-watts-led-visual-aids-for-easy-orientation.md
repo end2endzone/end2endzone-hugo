@@ -29,7 +29,9 @@ The reason I started this project is because I recently had a bad experience fly
 
 # Background story
 
-I have been flying planes for many years now and over time, I learned to increase my skills and I became a nice pilot. I am still new to the RC hobby and I got pulled into flying quadcopters. Quadcopters are not piloted the same way as planes. They look safer or easier to pilot since you can always slow down and hover if anything gets out of control. Recently, I had an interesting experience. I was flying my quad for around 3 months and I felt too much confident: I wanted to try doing flips. Coming from a plane world, I though that climbing to a safe altitude would be the best strategy in case something went wrong. I got carried away and I ended up to a much higher altitude and further away than I was used to. I tried to drop height and drive the quadcopter back to me but it was too late. The wind was so strong that it moved the quad further away and made the quadcopter swirl. I quickly lost orientation of the quad and had no way to bring it back. Luckily, a more experienced pilot help me get the quadcopter back to a safe landing zone which was 615 meters away from my takeoff location. It took me 3 hours to locate the landing site and find the quad which was still intact! I learn multiple things this day: 1. I was lacking experience and I need much more practice before attempting stupid aerobatics.
+I have been flying planes for many years now and over time, I learned to increase my skills and I became a nice pilot. I am still new to the RC hobby and I got pulled into flying quadcopters. Quadcopters are not piloted the same way as planes. They look safer or easier to pilot since you can always slow down and hover if anything gets out of control. Recently, I had an interesting experience. I was flying my quad for around 3 months and I felt too much confident: I wanted to try doing flips. Coming from a plane world, I though that climbing to a safe altitude would be the best strategy in case something went wrong. I got carried away and I ended up to a much higher altitude and further away than I was used to. I tried to drop height and drive the quadcopter back to me but it was too late. The wind was so strong that it moved the quad further away and made the quadcopter swirl. I quickly lost orientation of the quad and had no way to bring it back. Luckily, a more experienced pilot help me get the quadcopter back to a safe landing zone which was 615 meters away from my takeoff location. It took me 3 hours to locate the landing site and find the quad which was still intact! I learn multiple things this day:
+
+1. I was lacking experience and I need much more practice before attempting stupid aerobatics.
 2. Getting altitude for quadcopters is not as safe as for planes.
 3. It is always better to fly with someone more experienced than you are.
 4. I needed a way to know the orientation of the quad when it is over or away from me.
@@ -107,7 +109,9 @@ This project is really cheap and can be completed with less than 30$. Here is th
 | 10k Ohm Resistor | [eBay](http://www.ebay.ca/sch/i.html?LH_BIN=1&_from=R40&_sacat=0&_nkw=10k+Ohm+Resistor&_sop=15) | 2 | $1.00<sup>3</sup> |
 | CCPM-Servo-Tester | [eBay](http://www.ebay.ca/sch/i.html?LH_BIN=1&_from=R40&_sacat=0&_nkw=CCPM-Servo-Tester&_sop=15) | 1 | $1.61 |
 
-Notes: 1. Bying 5 pieces is cheaper than buying 2 individual pieces.
+Notes:
+
+1. Bying 5 pieces is cheaper than buying 2 individual pieces.
 2. Lowest price is for 2 pieces.
 3. For a pack of 50 pieces.
 
@@ -251,12 +255,16 @@ For maintainability, portability and reusability reasons, it might be interestin
 
 # References
 
-Here is the list of all sub-articles that made this project a reality: Documentation: 1. [How to multiplex RC Transmitter switches into a single channel](https://www.end2endzone.com/how-to-multiplex-rc-transmitter-switches-into-a-single-channel/).
+Here is the list of all sub-articles that made this project a reality: Documentation:
+
+1. [How to multiplex RC Transmitter switches into a single channel](https://www.end2endzone.com/how-to-multiplex-rc-transmitter-switches-into-a-single-channel/).
 2. [Mapping RC Transmitter PWM signal to actual transmitter values](https://www.end2endzone.com/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/).
 3. [Demystifying RC Transmitter Mixing](https://www.end2endzone.com/demystifying-rc-transmitter-mixing/).
 4. [RC Transmitter Mix Calculator](https://www.end2endzone.com/rc-transmitter-mix-calculator/).
 
-Arduino libraries: 1. [SoftTimers – A collection of software timers to easily compute elapsed time since an event occurred](https://www.end2endzone.com/softtimers-a-collection-of-software-timers-to-easily-compute-elapsed-time-since-an-event-occured/).
+Arduino libraries:
+
+1. [SoftTimers – A collection of software timers to easily compute elapsed time since an event occurred](https://www.end2endzone.com/softtimers-a-collection-of-software-timers-to-easily-compute-elapsed-time-since-an-event-occured/).
 2. [libRtttl – A c++ library (with UI) for compressing/optimizing the RTTTL audio format](https://www.end2endzone.com/librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/).
 3. [AnyRtttl – A feature rich arduino library for playing RTTTL melodies](https://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/).
 4. [RcReceiverSignal: an arduino library for retrieving the RC Transmitter value from an RC Receiver pulse](https://www.end2endzone.com/rcreceiversignal-an-arduino-library-for-retreiving-the-rc-transmitter-value-from-an-rc-receiver-pulse/).

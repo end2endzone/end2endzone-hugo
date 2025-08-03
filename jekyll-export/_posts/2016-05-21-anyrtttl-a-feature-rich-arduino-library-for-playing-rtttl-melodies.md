@@ -165,9 +165,9 @@ The first 16 bits stores the RTTTL default section which is defined as the follo
 3. **Beats per minutes (BPM)**, 10 bits, with values within \[1, 900\].
 4. **Padding**, 1 bit
 
-Next is each note's of the melody. Each note is encoded as 10 bits (or 16 bits) per note and is defined as the following
+Next is each note's of the melody. Each note is encoded as 10 bits (or 16 bits) per note and is defined as the following:
 
- 1. **Duration index**, 3 bits, with values within \[0, 7\] range, matches the index used for `getNoteDurationFromIndex()` API.
+1. **Duration index**, 3 bits, with values within \[0, 7\] range, matches the index used for `getNoteDurationFromIndex()` API.
 2. **Note letter index**, 3 bits, with values within \[0, 7\] range, matches the index used for `getNoteLetterFromIndex()` API.
 3. **Pound**, 1 bit, defines if the note is pounded or not.
 4. **Dotted**, 1 bit, defines if the note is dotted or not.

@@ -51,7 +51,9 @@ Le script peut-être utilisé de deux façons. Les sections suivantes expliquent
 
 ## Télécharger le script
 
-Télécharger le script sur votre ordinateur en utilisant le lien suivant {{% download old-id="2339" href="/wp-content/uploads/2016/12/MsWordListInstalledFont.bas" %}}MsWordListInstalledFont.bas{{% /download %}}. Procédez avec les étapes suivantes pour installer le module téléchargé: 1. Ouvrir ***Microsoft Word***.
+Télécharger le script sur votre ordinateur en utilisant le lien suivant {{% download old-id="2339" href="/wp-content/uploads/2016/12/MsWordListInstalledFont.bas" %}}MsWordListInstalledFont.bas{{% /download %}}. Procédez avec les étapes suivantes pour installer le module téléchargé:
+
+1. Ouvrir ***Microsoft Word***.
 2. Naviguer au menu ***Affichage*** du ***ruban***.
 3. Cliquer sur le bouton ***Macros*** pour ouvrir l'éditeur de macro Microsoft Visual Basic. [![](https://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)
 4. Entrer un nom de macro bidon. Par exemple '*police*'.
@@ -74,7 +76,9 @@ Certain fureteur ou antivirus ne permettent pas le téléchargement de module Mi
 sample code
 ```
 
-Ensuite, suivez les étapes suivante: 1. Ouvrir ***Microsoft Word***.
+Ensuite, suivez les étapes suivante:
+
+1. Ouvrir ***Microsoft Word***.
 2. Naviguer au menu ***Affichage*** du ***ruban***.
 3. Cliquer sur le bouton ***Macros*** pour ouvrir l'éditeur de macro Microsoft Visual Basic. [![](https://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)
 4. Entrer un nom de macro bidon. Par exemple '*police*'.
@@ -93,7 +97,9 @@ Le module est maintenant installé sur le système.
 
 # Exécuter le script
 
-Procédez avec les étapes suivantes pour exécuter le module installé: 1. Ouvrir ***Microsoft Word***.
+Procédez avec les étapes suivantes pour exécuter le module installé:
+
+1. Ouvrir ***Microsoft Word***.
 2. Naviguer au menu ***Affichage*** du ***ruban***.
 3. Cliquer sur le bouton ***Macros***. L'éditeur de macro Microsoft Visual Basic s’ouvrira.
 4. Sélectionner la macro ***ListInstalledFonts***. \[caption id="attachment\_2357" align="alignnone" width="550"\][![Éditeur de macro Microsoft Word - Macro ListInstalledFonts sélectionnée](https://www.end2endzone.com/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée.jpg) Éditeur de macro Microsoft Word - Macro ListInstalledFonts sélectionnée\[/caption\]

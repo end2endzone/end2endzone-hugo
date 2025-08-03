@@ -27,7 +27,9 @@ The subversion application does not offer native support for identifying changes
 
 # Usage
 
-The script has 5 command line arguments which are: 1. Oldest revision number
+The script has 5 command line arguments which are:
+
+1. Oldest revision number
 2. Newest revision number
 3. File or folder URL
 4. Property name

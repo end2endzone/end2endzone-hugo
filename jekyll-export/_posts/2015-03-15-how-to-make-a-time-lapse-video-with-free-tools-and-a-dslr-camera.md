@@ -145,7 +145,9 @@ If you see an erroneous image or an image that would break the flow of movement,
 
 ### Resize your images
 
-This step is optional but it is suggested to resize your images to help Windows Movie Maker or VirtualDub to load all images into your project. It is a good idea to resize all your images to match the final resolution of your movie (that is 720p or 1080p pixels high). The best way to resize your images is to use [David's Batch Processor 1.1.8](http://members.ozemail.com.au/~hodsond/dbp.html) plugin for [Gimp](http://www.gimp.org/downloads/) and follow theses steps: 1. Open Gimp.
+This step is optional but it is suggested to resize your images to help Windows Movie Maker or VirtualDub to load all images into your project. It is a good idea to resize all your images to match the final resolution of your movie (that is 720p or 1080p pixels high). The best way to resize your images is to use [David's Batch Processor 1.1.8](http://members.ozemail.com.au/~hodsond/dbp.html) plugin for [Gimp](http://www.gimp.org/downloads/) and follow theses steps:
+
+1. Open Gimp.
 2. Click on ***Filters\\Batch Process...*** menu to launch David's Batch Processor.
 3. Import your images into David's Batch Processor: 
     1. In the ***Input tab***, click the Add Files button and browse to your images location. ie *G:\\Temp\\timelapse\\noel2014*
@@ -200,7 +202,9 @@ Download and install each software before processing to the next steps.
 
 ### Add photos to movie timeline
 
-All your images are ready. Now is the time to import them in Windows Movie Maker by following theses steps: 1. Open ***Windows Movie Maker***.
+All your images are ready. Now is the time to import them in Windows Movie Maker by following theses steps:
+
+1. Open ***Windows Movie Maker***.
 2. Importing all images 
     1. Press the ***Add videos and photos*** button.
     2. Select all your images and press the Open button.
@@ -214,7 +218,9 @@ All your images are ready. Now is the time to import them in Windows Movie Maker
 
 ### Adding an audio track
 
-Windows Movie Maker supports adding an audio track to the video. You can use an audio file or the audio of another video as an audio track. To add an audio track, follow theses steps: 1. Left-click on the ***timeline*** and move the cursor to the beginning of the timeline.
+Windows Movie Maker supports adding an audio track to the video. You can use an audio file or the audio of another video as an audio track. To add an audio track, follow theses steps:
+
+1. Left-click on the ***timeline*** and move the cursor to the beginning of the timeline.
 2. Click on ***Add Music*** button in the ribbon toolbar.
 3. Browse the audio or video file and click on Open button.
 4. You should see a new track with a green background on the timeline view.
@@ -223,7 +229,9 @@ If you do not have an audio file on your computer, you can try to find some on t
 
 ### Saving to MP4 file
 
-Now that your composition is complete, save your project into an MP4 video by following theses steps: 1. Click on ***Save Movie*** button in the ribbon toolbar.
+Now that your composition is complete, save your project into an MP4 video by following theses steps:
+
+1. Click on ***Save Movie*** button in the ribbon toolbar.
 2. Select the export settings that matches your needs and file size. For maximum quality, save your movie using the ***For high-definition display*** setting.
 
 \[caption id="attachment\_789" align="alignnone" width="300"\][![Windows Movie Maker Export Completed](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed-300x120.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png) Windows Movie Maker Export Completed\[/caption\]
@@ -244,7 +252,9 @@ Download and install each software before processing to the next steps.
 
 ### Importing
 
-Importing your images as a video in VirtualDub is also really easy: simply follow theses steps: 1. Start VirtualDub.
+Importing your images as a video in VirtualDub is also really easy: simply follow theses steps:
+
+1. Start VirtualDub.
 2. Click on ***File/Open video file*** menu.
 3. In the Open file dialog, make sure that ***Automatically load linked segments*** is checked.
 4. Select the first image of the sequence and click the Open button. VirtualDub will automatically detect the next images and will update the timeline accordingly.
@@ -259,13 +269,17 @@ Importing your images as a video in VirtualDub is also really easy: simply follo
 
 ### Lossless video codec
 
-VirtualDub output uncompressed AVI files by default which is not an option considering the resolution of the video. It needs to be configured to use a [video codec](http://en.wikipedia.org/wiki/Video_codec) for compressing the video. Since this guide will handle re-encoding using Handbrake, it is suggested to use a lossless video codec to prevent loosing any quality while exporting your video from VirtualDub to Handbrake. The best lossless video codec available is [Lagarith Lossless Video Codec](http://lags.leetcode.net/codec.html). Here are the steps for configuring the codec: 1. Click on ***Video/Compression*** menu. That will open the ***Select video compression*** dialog.
+VirtualDub output uncompressed AVI files by default which is not an option considering the resolution of the video. It needs to be configured to use a [video codec](http://en.wikipedia.org/wiki/Video_codec) for compressing the video. Since this guide will handle re-encoding using Handbrake, it is suggested to use a lossless video codec to prevent loosing any quality while exporting your video from VirtualDub to Handbrake. The best lossless video codec available is [Lagarith Lossless Video Codec](http://lags.leetcode.net/codec.html). Here are the steps for configuring the codec:
+
+1. Click on ***Video/Compression*** menu. That will open the ***Select video compression*** dialog.
 2. Select ***Lagarith Lossless Codec*** and press the Configure button.
 3. Check ***Use Multithreading*** and ***Prevent Upsampling When Decoding***.
 
 ### Reducing flickering
 
-Flickering occurs when the exposition between each video frame is not identical which gives the fading effect that you may see. That is why your should shoot in manual: to reduce flickering to a minimum. If you see flickering in your video, a filter can be applied to the video to reduce it. Here are the steps for configuring the filter: 1. Click on ***Video/Filters*** menu. That will open the ***Filter*** dialog.
+Flickering occurs when the exposition between each video frame is not identical which gives the fading effect that you may see. That is why your should shoot in manual: to reduce flickering to a minimum. If you see flickering in your video, a filter can be applied to the video to reduce it. Here are the steps for configuring the filter:
+
+1. Click on ***Video/Filters*** menu. That will open the ***Filter*** dialog.
 2. Click on the Add button. That will open the ***Add Filter*** dialog.
 3. Click on the Load button and ***browse*** to the location where you extracted one of the ***deflicker filter (\*.vdf)***
 4. Press the OK Button.
@@ -275,7 +289,9 @@ Flickering occurs when the exposition between each video frame is not identical 
 
 ### Applying additional filters (optional)
 
-If you want to add fade-in or fade-off effects you can use the FadeFX filter with the following: 1. Click on ***Video/Filters*** menu. That will open the ***Filter*** dialog.
+If you want to add fade-in or fade-off effects you can use the FadeFX filter with the following:
+
+1. Click on ***Video/Filters*** menu. That will open the ***Filter*** dialog.
 2. Click on the Add button. That will open the ***Add Filter*** dialog.
 3. Click on the Load button and ***browse*** to the location where you extracted one of the ***fadefx filter (\*.vdf)***
 4. Press the OK Button.
@@ -285,7 +301,9 @@ If you want to add fade-in or fade-off effects you can use the FadeFX filter wit
 
 ### Adding an audio track
 
-VirtualDub also support adding an audio track from an external audio file. VirtualDub works best with ***WAV*** of ***MP3*** audio file. Here are the steps for adding an audio file to your video: 1. Click on ***Audio/Audio from other file*** menu. That will open the ***Open an audio file*** dialog.
+VirtualDub also support adding an audio track from an external audio file. VirtualDub works best with ***WAV*** of ***MP3*** audio file. Here are the steps for adding an audio file to your video:
+
+1. Click on ***Audio/Audio from other file*** menu. That will open the ***Open an audio file*** dialog.
 2. ***B******rowse*** to the location of the audio file add *and click the Open button.*
 3. If you are importing an MP3 file, ***select*** the type of bitrate of the file. That is CBR or VBR. In case you do not know, select ***Autodetect***.
 4. Press the OK Button.
@@ -294,7 +312,9 @@ For free creative commons licensed music, visit the following link: [Creative Co
 
 ### Saving to temporary \*.avi file
 
-As explained in the [Lossless video codec](#Lossless_video_codec) section, VirtualDub is not the best software for encoding your video (compressing). It is better to use Handbrake for this task. To save your video without loosing any detail or data, a temporary AVI file must be created. 1. Click on ***File/Save as AVI*** menu. That will open the ***Save file*** dialog.
+As explained in the [Lossless video codec](#Lossless_video_codec) section, VirtualDub is not the best software for encoding your video (compressing). It is better to use Handbrake for this task. To save your video without loosing any detail or data, a temporary AVI file must be created.
+
+1. Click on ***File/Save as AVI*** menu. That will open the ***Save file*** dialog.
 2. ***B******rowse*** to the location where you want to save your video and enter a filename for saving. Click the Save button.
 3. Wait for the encoding to complete.
 
@@ -302,7 +322,9 @@ As explained in the [Lossless video codec](#Lossless_video_codec) section, Virtu
 
 ### Re-encoding using Handbrake
 
-Handbrake is the best video encoder to use for compressing your video because it supports [constant quality](https://handbrake.fr/docs/en/1.0.0/technical/video-cq-vs-abr.html) encoding parameters. Here are the steps for compressing your video: 1. Click on ***Source*** icon in the toolbar and select ***File***. That will open the ***Open file*** dialog.
+Handbrake is the best video encoder to use for compressing your video because it supports [constant quality](https://handbrake.fr/docs/en/1.0.0/technical/video-cq-vs-abr.html) encoding parameters. Here are the steps for compressing your video:
+
+1. Click on ***Source*** icon in the toolbar and select ***File***. That will open the ***Open file*** dialog.
 2. ***B******rowse*** to the location of the temporary video (\*.avi) you created in the previous step. Click the Open button.
 3. Click on the Browse button. That will open the ***Save file*** dialog.
 4. ***B******rowse*** to the location where you want to save your final video and enter a filename for saving. Click the Save button.
