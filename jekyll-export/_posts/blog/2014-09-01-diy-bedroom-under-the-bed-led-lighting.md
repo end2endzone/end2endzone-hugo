@@ -91,7 +91,9 @@ The preparation time is simple, it requires to test all the circuit before fixin
 
 # Building steps
 
-Construction steps are very simple. Screw, wire everything up and enjoy. Here is a picture of the circuit that you need to assemble: [![Bedroom led lighting circuit](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)
+Construction steps are very simple. Screw, wire everything up and enjoy. Here is a picture of the circuit that you need to assemble:
+
+[![Bedroom led lighting circuit](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)
 
 # Testing everything together
 
@@ -129,7 +131,9 @@ Now is the time to stick the LEDs to the base of the bed. The opposite side of t
 
 ### Connecting
 
-![IMG_7133](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133-1024x683.jpg)Use the connectors to link each strip together. The connectors are specifically designed for connecting LED strip together. You just have to open a door, slide the strip in place and close the door which will hold the strip in place. When linking the strip together, make sure that you align the positive (red) and negative (black) leads of the strip with the appropriate color code of the connector. I also used hot glue for holding the connector on the base and prevent any loose or hanging wires. We do have 2 cats living with us and that is a good idea to make sure this does not look like a cat toy :)
+![IMG_7133](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133-1024x683.jpg)
+
+Use the connectors to link each strip together. The connectors are specifically designed for connecting LED strip together. You just have to open a door, slide the strip in place and close the door which will hold the strip in place. When linking the strip together, make sure that you align the positive (red) and negative (black) leads of the strip with the appropriate color code of the connector. I also used hot glue for holding the connector on the base and prevent any loose or hanging wires. We do have 2 cats living with us and that is a good idea to make sure this does not look like a cat toy :)
 
 # Final Result
 

@@ -302,7 +302,11 @@ After installation, connect to the tvheadend web interface to configure the appl
 
 ### Welcome (1 of 2)
 
-\[caption id="attachment\_2561" align="aligncenter" width="625"\][![tvheadend - welcome page (1 or 2)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01-1.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01-1.png) tvheadend - welcome page (1 or 2)\[/caption\] ![](RackMultipart20210314-4-ej0w6x_html_69043a9e7dd44345.png)This first screen will require you to select a language the web interface and the electronic program guide (EPG):
+\[caption id="attachment\_2561" align="aligncenter" width="625"\][![tvheadend - welcome page (1 or 2)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01-1.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01-1.png) tvheadend - welcome page (1 or 2)\[/caption\]
+
+![](RackMultipart20210314-4-ej0w6x_html_69043a9e7dd44345.png)
+
+This first screen will require you to select a language the web interface and the electronic program guide (EPG):
 
 Enter the following values:
 
@@ -327,7 +331,11 @@ Click **Save &amp; Next** to get to the next page.
 
 ### Network settings
 
-\[caption id="attachment\_2563" align="aligncenter" width="610"\][![tvheadend - network settings](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03-1.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03-1.png) tvheadend - network settings\[/caption\] ![](RackMultipart20210314-4-ej0w6x_html_40136d095fe9be97.png)The next screen configures the tuners.
+\[caption id="attachment\_2563" align="aligncenter" width="610"\][![tvheadend - network settings](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03-1.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03-1.png) tvheadend - network settings\[/caption\]
+
+![](RackMultipart20210314-4-ej0w6x_html_40136d095fe9be97.png)
+
+The next screen configures the tuners.
 
 Leave the *IPTV* fields from *Network 1* blank.
 
@@ -481,7 +489,9 @@ For example:
 
 ### UTF-8 characters in Electronic Program Guide (EPG) - bug
 
-![](RackMultipart20210314-4-ej0w6x_html_16af1b06ba9c6ad8.png)The tv guide seems to be still using non-utf8 characters. This is still an open issue and I have not yet figured out a way to solve the issue:
+![](RackMultipart20210314-4-ej0w6x_html_16af1b06ba9c6ad8.png)
+
+The tv guide seems to be still using non-utf8 characters. This is still an open issue and I have not yet figured out a way to solve the issue:
 
 [![](https://www.end2endzone.com/wp-content/uploads/2021/03/EPG-utf-8-bug.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/EPG-utf-8-bug.png)
 

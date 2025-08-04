@@ -38,7 +38,17 @@ The following software must be downloaded and installed:
 
 ## Register VirtualDub AVIFile handler
 
-For the process to work, you must register the AVIFile handler on your computer. After installing VirtualDub, run the following file: ![VirtualDub auxsetup.exe icon](https://www.end2endzone.com/wp-content/uploads/2015/12/auxsetup-exe-icon.png) *auxsetup.exe*. The following dialog will be displayed: \[caption id="attachment\_1229" align="alignnone" width="528"\][![VirtualDub auxsetup.exe Dialog](https://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg) VirtualDub auxsetup.exe Dialog\[/caption\] Click on the *Install handler* button and the following dialog will be displayed: \[caption id="attachment\_1230" align="alignnone" width="466"\][![VirtualDub Installing AVIFile frameclient](https://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg) VirtualDub Installing AVIFile frameclient\[/caption\] Click on *OK* button and you should get the following confirmation message: *AVIFile frameclient install successful*.
+For the process to work, you must register the AVIFile handler on your computer. After installing VirtualDub, run the following file:
+
+![VirtualDub auxsetup.exe icon](https://www.end2endzone.com/wp-content/uploads/2015/12/auxsetup-exe-icon.png) *auxsetup.exe*.
+
+The following dialog will be displayed:
+
+\[caption id="attachment\_1229" align="alignnone" width="528"\][![VirtualDub auxsetup.exe Dialog](https://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg) VirtualDub auxsetup.exe Dialog\[/caption\] Click on the *Install handler* button and the following dialog will be displayed:
+
+\[caption id="attachment\_1230" align="alignnone" width="466"\][![VirtualDub Installing AVIFile frameclient](https://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg) VirtualDub Installing AVIFile frameclient\[/caption\]
+
+Click on *OK* button and you should get the following confirmation message: *AVIFile frameclient install successful*.
 
 ## VirtualDub FFMpeg Input Plugin
 
