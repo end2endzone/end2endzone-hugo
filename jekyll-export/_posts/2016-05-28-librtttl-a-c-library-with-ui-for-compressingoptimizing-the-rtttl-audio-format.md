@@ -143,7 +143,6 @@ is encoded into the following RTTTL code:
 
 ```
 unknown:d=8,o=6,b=140:g,16p,16g.,2a#,32p,a,g,f,a,2g
-
 ```
 
 This feature is useful for moving data from _program storage space_ to _dynamic memory_.
@@ -188,9 +187,7 @@ tetris:d=4,o=5,b=160:e6,8b,8c6,8d6,16e6,16d6,8c6,8b,a,8a,
 
 is compressed to the following :
 
-```
-https://www.end2endzone.com/wp-content/uploads/2016/04/Tetris-theme-RTTTL-encoded-as-10-bits-notes.ino
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/04/Tetris-theme-RTTTL-encoded-as-10-bits-notes.ino" lang="cpp" >}}
 
 which reduces the original code length by 104 bytes (from 159 bytes to 55 bytes), that is a 65% size reduction.
 
@@ -206,9 +203,7 @@ tetris:d=4,o=5,b=160:e6,8b,8c6,8d6,16e6,16d6,8c6,8b,a,8a,
 
 is compressed to the following :
 
-```
-https://www.end2endzone.com/wp-content/uploads/2016/04/Tetris-theme-RTTTL-encoded-as-16-bits-notes.ino
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/04/Tetris-theme-RTTTL-encoded-as-16-bits-notes.ino" lang="cpp" >}}
 
 which reduces the original code length by 73 bytes (from 159 bytes to 86 bytes), that is a 46% size reduction.
 

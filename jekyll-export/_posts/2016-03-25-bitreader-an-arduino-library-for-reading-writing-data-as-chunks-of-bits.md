@@ -132,11 +132,11 @@ according to [this translator](http://morsecode.scphillips.com/translator.html).
 
 ## Demo
 
-The following demo show how to use the library: {{% download old-id="1691" href="/wp-content/uploads/2016/03/BitReader-v1.0.70-benchmark-demo.ino" %}}BitReader v1.0.70 benchmark demo.ino{{% /download %}}
+The following demo show how to use the library:
 
-```
-sample
-```
+{{% download old-id="1691" href="/wp-content/uploads/2016/03/BitReader-v1.0.70-benchmark-demo.ino" %}}BitReader v1.0.70 benchmark demo.ino{{% /download %}}
+
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/03/BitReader-v1.0.70-benchmark-demo.ino" lang="" >}}
 
 # License
 

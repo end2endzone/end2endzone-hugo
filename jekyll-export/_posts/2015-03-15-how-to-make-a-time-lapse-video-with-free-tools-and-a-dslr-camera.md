@@ -132,10 +132,15 @@ In the low probability that you started shooting pictures when your camera's fil
 - IMG\_0000.jpg \[...\] IMG\_2345.jpg renamed to IMG\_1000.jpg \[...\] IMG\_3345.jpg
 - IMG\_9000.jpg \[...\] IMG\_9999.jpg renamed to IMG\_0000.jpg \[...\] IMG\_0999.jpg
 
-to get the target range IMG\_0000.jpg \[...\] IMG\_3345.jpg. The easiest way to do this is to use the following script. Copy and paste the content of the following window and create a file located next to the images called "rename.vbs". Take note that the .vbs file extension is mandatory for Windows to recognize the file as a runnable script.
+to get the target range IMG\_0000.jpg \[...\] IMG\_3345.jpg.
 
-```
-```
+The easiest way to do this is to use the following script. Copy and paste the content of the following window and create a file located next to the images called "rename.vbs".
+
+{{< pleasenote >}}
+  Take note that the .vbs file extension is mandatory for Windows to recognize the file as a runnable script.
+{{< /pleasenote >}}
+
+{{< hightlight-static-file file="/static/wp-content/uploads/2015/02/Reorder-photography-blocks.vbs" lang="vb" >}}
 
 The script will ask for the required parameters and take care of the issue and all the renaming. Once executed, you will have a single block of continuous images: IMG\_0000.jpg \[...\] IMG\_3345.jpg. Note: This script is only available for the Windows platform.
 

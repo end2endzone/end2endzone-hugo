@@ -72,9 +72,7 @@ Le module est maintenant installé sur le système.
 
 Certain fureteur ou antivirus ne permettent pas le téléchargement de module Microsoft Word (\*.bas). L'option de téléchargement du module n'est donc pas possible. Dans ce cas, l'option copier-coller doit être utilisé. Pour ce faire, copier le code suivant dans le presse-papier :
 
-```
-sample code
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/12/MsWordListInstalledFont.bas" lang="vb" >}}
 
 Ensuite, suivez les étapes suivante:
 

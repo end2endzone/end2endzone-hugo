@@ -174,9 +174,7 @@ Here is the brain of the project. Source code!
 Click the following to download the example below:
 {{% download old-id="2263" href="/wp-content/uploads/2016/10/QuadCtrl-v1.0.240.ino" %}}QuadCtrl-v1.0.240.ino{{% /download %}}
 
-```
-sample
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/10/QuadCtrl-v1.0.240.ino" lang="cpp" >}}
 
 # Building steps
 

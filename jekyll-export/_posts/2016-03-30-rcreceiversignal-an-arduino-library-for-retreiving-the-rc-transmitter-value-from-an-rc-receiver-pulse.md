@@ -89,9 +89,7 @@ From a PWM value, one can call the *getSignalValue()* or *getDeviceSignalValue()
 The following demo show how to use the library:
 {{% download old-id="1794" href="/wp-content/uploads/2016/03/RcReceiverSignal-v1.0.124-LedUpdate.ino" %}}RcReceiverSignal-v1.0.124-LedUpdate.ino{{% /download %}}
 
-```
-https://www.end2endzone.com/wp-content/uploads/2016/03/RcReceiverSignal-v1.1.203-LedUpdate.ino
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/03/RcReceiverSignal-v1.1.203-LedUpdate.ino" lang="cpp" >}}
 
 # License
 

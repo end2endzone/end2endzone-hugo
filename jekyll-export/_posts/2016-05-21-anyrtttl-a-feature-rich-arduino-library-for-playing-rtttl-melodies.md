@@ -71,9 +71,7 @@ The following demo show how to use the library in non-blocking mode:
 
 {{% download old-id="1977" href="/wp-content/uploads/2016/05/AnyRtttl-v2.0-NonBlocking-example.ino" %}}AnyRtttl-v2.0-NonBlocking-example.ino{{% /download %}}
 
-```
-sample
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/05/AnyRtttl-v2.0-NonBlocking-example.ino" lang="cpp" >}}
 
 ## Play 16 bits per note RTTTL
 
@@ -85,9 +83,7 @@ The following demo show how to use the library with 16-bits per note binary RTTT
 
 {{% download old-id="1981" href="/wp-content/uploads/2016/05/AnyRtttl-v2.0-Play-16-bits-example.ino" %}}AnyRtttl-v2.0-Play-16-bits-example.ino{{% /download %}}
 
-```
-sample
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/05/AnyRtttl-v2.0-Play-16-bits-example.ino" lang="cpp" >}}
 
 ## Play 10 bits per note RTTTL
 
@@ -150,9 +146,7 @@ The following demo show how to use the library with custom functions:
 
 {{% download old-id="1983" href="/wp-content/uploads/2016/05/AnyRtttl-v2.0-Rtttl-2-Code-example.ino" %}}AnyRtttl-v2.0-Rtttl-2-Code-example.ino{{% /download %}}
 
-```
-sample
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/05/AnyRtttl-v2.0-Rtttl-2-Code-example.ino" lang="cpp" >}}
 
 # Binary RTTTL format definition
 

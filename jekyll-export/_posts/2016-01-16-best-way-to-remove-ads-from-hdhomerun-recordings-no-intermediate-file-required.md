@@ -157,8 +157,7 @@ Now that VirtualDub is ready to server frames to the next application, you need 
 
 Here is an example of a valid AviSynth Script file (\*.avs):
 
-```
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2015/11/1021_20150405183000.avs" lang="cpp" >}}
 
 ## Workspace
 

@@ -57,15 +57,11 @@ Source code:
 
 Modify the code by adding the *"Arduino tone and delay functions overrides"* to the code. Once done, the code should be looking like this:
 
-```
-https://www.end2endzone.com/wp-content/uploads/2016/05/FULL-Game-of-Thrones-Theme-Song-on-Arduino-call-extraction-version.ino
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/05/FULL-Game-of-Thrones-Theme-Song-on-Arduino-call-extraction-version.ino" lang="cpp" >}}
 
 which result in the following data outputted on the serial port when executed:
 
-```
-https://www.end2endzone.com/wp-content/uploads/2016/05/FULL-Game-of-Thrones-Theme-Song-on-Arduino-serial-output.txt
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/05/FULL-Game-of-Thrones-Theme-Song-on-Arduino-serial-output.txt" lang="cpp" >}}
 
 Using libRtttl gui, the above code can be converted to the following RTTTL melody: Settings: force default, enable tone() octave offsetting.
 
@@ -91,15 +87,11 @@ Source code:
 
 Modify the code by adding the "*Arduino tone and delay functions overrides*" to the code. Once done, the code should be looking like this:
 
-```
-https://www.end2endzone.com/wp-content/uploads/2016/05/Star_Wars_-_The_imperial_March-modified.ino
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/05/Star_Wars_-_The_imperial_March-modified.ino" lang="cpp" >}}
 
 which result in the following data outputted on the serial port:
 
-```
-https://www.end2endzone.com/wp-content/uploads/2016/05/Star_Wars_-_The_imperial_March-function-calls.txt
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/05/Star_Wars_-_The_imperial_March-function-calls.txt" lang="cpp" >}}
 
 Using libRtttl gui, the above code can be converted to the following RTTTL melody: Settings: force default, enable tone() octave offsetting
 
@@ -125,15 +117,11 @@ Source code:
 
 Modify the code by adding the "*Arduino tone and delay functions overrides*" to the code. Once done, the code should be looking like this:
 
-```
-https://www.end2endzone.com/wp-content/uploads/2016/11/WiiClassicSoundboard-Super-Mario-Bros.-themes-modified.ino
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/11/WiiClassicSoundboard-Super-Mario-Bros.-themes-modified.ino" lang="cpp" >}}
 
 which result in the following data outputted on the serial port:
 
-```
-https://www.end2endzone.com/wp-content/uploads/2016/11/Super-Mario-Bros.-themes-function-calls.txt
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/11/Super-Mario-Bros.-themes-function-calls.txt" lang="cpp" >}}
 
 Note that output contains the following function calls: `tone(12,0,something);`. Unfortunately, the libRtttl does not properly identify these lines as "silence pin 12" but they can safely be removed from the output without any issue.
 

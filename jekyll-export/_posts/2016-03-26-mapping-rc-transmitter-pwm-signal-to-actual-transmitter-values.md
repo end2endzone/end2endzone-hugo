@@ -95,11 +95,11 @@ This library configures the arduino's timer2 to 0.5µs precision. It is used for
 
 Here is the final arduino code that allowed raw data capture to extract average pulse length for each critical target point:
 
-```
-sample
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/02/RcPwmReader-v95.ino" lang="" >}}
 
-Download the arduino source code: {{% download old-id="1582" href="/wp-content/uploads/2016/02/RcPwmReader-v95.ino" %}}RC Transmitter PWM Reader (RcPwmReader-v95.ino){{% /download %}}.
+Download the arduino source code:
+
+{{% download old-id="1582" href="/wp-content/uploads/2016/02/RcPwmReader-v95.ino" %}}RC Transmitter PWM Reader (RcPwmReader-v95.ino){{% /download %}}.
 
 # Benchmark results
 

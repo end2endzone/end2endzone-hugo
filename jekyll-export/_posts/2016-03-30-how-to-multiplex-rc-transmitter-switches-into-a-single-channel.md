@@ -377,9 +377,7 @@ This library configures the arduino's timer2 to 0.5µs precision. It is used for
 
 The following arduino code (\*.ino) can be used to demultiplex the three scenarios above:
 
-```
-https://www.end2endzone.com/wp-content/uploads/2016/03/MultiplexDemultiplexDiscrete.ino
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/03/MultiplexDemultiplexDiscrete.ino" lang="" >}}
 
 ### Sample data
 
@@ -471,9 +469,7 @@ Decoding an analog value with switches configuration is different: First identif
 
 The following arduino code (\*.ino) can be used to demultiplex the scenario above:
 
-```
-https://www.end2endzone.com/wp-content/uploads/2016/03/MultiplexDemultiplexAnalog.ino
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/03/MultiplexDemultiplexAnalog.ino" lang="cpp" >}}
 
 ### Sample data
 

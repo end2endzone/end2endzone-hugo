@@ -49,13 +49,11 @@ You can download MSBuildReorder by clicking on the following link: Please note t
 
 The following shows a multi-process build log compiling [libprotobuf](http://code.google.com/p/protobuf/). MSBuildReorder can be used to reorder the multi-threaded log on a [Continuous Integration (CI)](http://en.wikipedia.org/wiki/Continuous_integration) server.
 
-```
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2015/01/libprotobuf.build_.log" lang="cpp" >}}
 
 Reordered build log:
 
-```
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2015/01/libprotobuf.buildorder.log" lang="" >}}
 
 # Compatible with
 

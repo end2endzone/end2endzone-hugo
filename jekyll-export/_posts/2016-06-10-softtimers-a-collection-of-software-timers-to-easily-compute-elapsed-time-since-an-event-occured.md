@@ -58,9 +58,7 @@ Click the following to download the example below:
 
 {{% download old-id="2109" href="/wp-content/uploads/2016/06/SoftTimers-v1.1.219-FadeLed-demo.ino" %}}SoftTimers-v1.1.219-FadeLed-demo.ino{{% /download %}}
 
-```
-https://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-FadeLed-demo.ino
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/06/SoftTimers-v1.1.219-FadeLed-demo.ino" lang="cpp" >}}
 
 ## Countdown or Elapsed time
 
@@ -72,9 +70,7 @@ Click the following to download the example below:
 
 {{% download old-id="2105" href="/wp-content/uploads/2016/06/SoftTimers-v1.1.219-Countdown-demo.ino" %}}SoftTimers-v1.1.219-Countdown-demo.ino{{% /download %}}
 
-```
-https://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-Countdown-demo.ino
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/06/SoftTimers-v1.1.219-Countdown-demo.ino" lang="cpp" >}}
 
 ## Timed repetitive cycles
 
@@ -91,9 +87,7 @@ Click the following to download the example below:
 
 {{% download old-id="2107" href="/wp-content/uploads/2016/06/SoftTimers-v1.1.219-CycleHighPin-demo.ino" %}}SoftTimers-v1.1.219-CycleHighPin-demo.ino{{% /download %}}
 
-```
-https://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-CycleHighPin-demo.ino
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/06/SoftTimers-v1.1.219-CycleHighPin-demo.ino" lang="cpp" >}}
 
 ## Timed restricted state machines
 
@@ -111,9 +105,7 @@ Click the following to download the example below:
 
 {{% download old-id="2111" href="/wp-content/uploads/2016/06/SoftTimers-v1.1.219-StateMachine-demo.ino" %}}SoftTimers-v1.1.219-StateMachine-demo.ino{{% /download %}}
 
-```
-https://www.end2endzone.com/wp-content/uploads/2016/06/SoftTimers-v1.1.219-StateMachine-demo.ino
-```
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/06/SoftTimers-v1.1.219-StateMachine-demo.ino" lang="cpp" >}}
 
 # License
 
