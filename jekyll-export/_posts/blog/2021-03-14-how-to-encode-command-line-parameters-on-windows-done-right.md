@@ -35,7 +35,7 @@ Tabs or \[space\] characters are argument delimiters (separators) but **\*only\*
 |---|---|---|---|
 | a b c | a | b | c |
 
-## <a id="rule2"></a>Rule #2 - Strings
+## Rule #2 - Strings {#rule2}
 
 Double quotes character (`"`) starts or ends a string. Strings allows one to insert a delimiter (or separators) character to an argument. The double quotes character is omitted from the argument. Note that strings **may** **not** always be ended (the end of the command line may be hit without the end-of-string character)
 
@@ -75,7 +75,7 @@ If a caret-string is juxtaposed to another argument (not separated by a delimite
 | a^" b^" c | a b | c |  |
 | ^"a ^"b c | a b | c |  |
 
-### <a id="rule2_3"></a>Rule #2.3 - Plain double quotes (Caret-String)
+### Rule #2.3 - Plain double quotes (Caret-String) {#rule2_3}
 
 Plain double quotes character (`"`) must be escaped with `<strong>\^"</strong>` when inside a caret-string. Note that `<strong>\^"</strong>` characters sequence can also be visible outside a string.
 
@@ -155,7 +155,7 @@ Examples:
 | ^"" a b | \[empty\] | a | b |
 | a b ^"" | a | b | \[empty\] |
 
-## <a id="rule6"></a>Rule #6 - Juxtaposed strings
+## Rule #6 - Juxtaposed strings {#rule6}
 
 Two juxtaposed strings (not separated by a delimiter character), will insert a plain double quotes character (`"`) between each other. This rule applies to normal strings, caret-strings, or any combinations. Examples:
 
