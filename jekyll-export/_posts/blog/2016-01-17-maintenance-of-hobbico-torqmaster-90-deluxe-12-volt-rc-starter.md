@@ -32,8 +32,9 @@ This is a Hobbico Torqmaster 90 Deluxe 12 Volt Starter. It is designed for start
 
 ## Replace the rubber insert adapter for aircraft
 
-| \[caption id="attachment\_1007" align="alignnone" width="150"\][![Hobbico TorqMaster Rubber Insert (Air)](https://www.end2endzone.com/wp-content/uploads/2015/07/Hobbico-TorqMaster-Rubber-Insert-Air-150x132.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/07/Hobbico-TorqMaster-Rubber-Insert-Air.jpg) Hobbico TorqMaster Rubber Insert (Air)\[/caption\] |  | \[caption id="attachment\_1177" align="alignnone" width="150"\][![Hobbico TorqMaster Rubber Insert (Air)](https://www.end2endzone.com/wp-content/uploads/2015/09/IMG_6803_LR5-150x100.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/09/IMG_6803_LR5.jpg) Hobbico TorqMaster Rubber Insert (Air)\[/caption\] |
-|---|---|---|
+\[caption id="attachment\_1007" align="alignnone" width="150"\][![Hobbico TorqMaster Rubber Insert (Air)](https://www.end2endzone.com/wp-content/uploads/2015/07/Hobbico-TorqMaster-Rubber-Insert-Air-150x132.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/07/Hobbico-TorqMaster-Rubber-Insert-Air.jpg) Hobbico TorqMaster Rubber Insert (Air)\[/caption\]
+
+\[caption id="attachment\_1177" align="alignnone" width="150"\][![Hobbico TorqMaster Rubber Insert (Air)](https://www.end2endzone.com/wp-content/uploads/2015/09/IMG_6803_LR5-150x100.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/09/IMG_6803_LR5.jpg) Hobbico TorqMaster Rubber Insert (Air)\[/caption\]
 
 The rubber insert can be changed **without** dissembling the whole unit. The insert is not glued or screwed into the drive cone but is inserted by pressure. Removing the insert can be done using one of the following ways: If the old rubber insert can be disposed, then the easiest way is to use long nose pliers and try to "pluck" the rubber material around the hex screw until the insert can be removed with your hands. Here is a picture of the insert removed with this method:
 
@@ -85,8 +86,9 @@ Align the rotor on the back cover bearing and slide it in place. Do not forget t
 
 ### The driver cone
 
-| \[caption id="attachment\_1176" align="alignnone" width="150"\][![Hobbico TorqMaster 90 Old / Used Drive Cone](https://www.end2endzone.com/wp-content/uploads/2015/09/IMG_6778_LR5-150x100.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/09/IMG_6778_LR5.jpg) Hobbico TorqMaster 90 Old / Used Drive Cone\[/caption\] |  | \[caption id="attachment\_1008" align="alignnone" width="147"\][![Hobbico TorqMaster 90 Drive Cone](https://www.end2endzone.com/wp-content/uploads/2015/07/Hobbico-TorqMaster-90-Drive-Cone-147x150.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/07/Hobbico-TorqMaster-90-Drive-Cone.jpg) Hobbico TorqMaster 90 Drive Cone\[/caption\] |
-|---|---|---|
+\[caption id="attachment\_1176" align="alignnone" width="150"\][![Hobbico TorqMaster 90 Old / Used Drive Cone](https://www.end2endzone.com/wp-content/uploads/2015/09/IMG_6778_LR5-150x100.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/09/IMG_6778_LR5.jpg) Hobbico TorqMaster 90 Old / Used Drive Cone\[/caption\]
+
+\[caption id="attachment\_1008" align="alignnone" width="147"\][![Hobbico TorqMaster 90 Drive Cone](https://www.end2endzone.com/wp-content/uploads/2015/07/Hobbico-TorqMaster-90-Drive-Cone-147x150.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/07/Hobbico-TorqMaster-90-Drive-Cone.jpg) Hobbico TorqMaster 90 Drive Cone\[/caption\]
 
 The Driver Cone does not require any explanation. Simply push the cone on the motor's shaft while aligning the pin on the shaft until it is fully inserted into the cone. Then screw the cone in place using the 10 mm hex socket. Here is a picture of the shaft without the Driver Cone inserted:
 
