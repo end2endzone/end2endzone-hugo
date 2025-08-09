@@ -196,7 +196,9 @@ In the next sections, I will explain 2 methods that you can use to combine photo
 
 ## Windows Movie Maker
 
-This sections explains how to process your captured images into a video using Windows Movie Maker. \[caption id="attachment\_788" align="alignnone" width="300"\][![Windows Movie Maker screenshot](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-300x163.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg) Windows Movie Maker screenshot\[/caption\]
+This sections explains how to process your captured images into a video using Windows Movie Maker.
+
+\[caption id="attachment\_788" align="alignnone" width="300"\][![Windows Movie Maker screenshot](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-300x163.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg) Windows Movie Maker screenshot\[/caption\]
 
 ### Download required files
 

@@ -33,15 +33,21 @@ The material for this project is as follows:
 
 ### Switches
 
-\[caption id="attachment\_517" align="aligncenter" width="474"\][![IMG_8772](https://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772.jpg) Black and red momentary switches\[/caption\] Switches can be any type you want as long as its a momentary switch (normally opened, push to close). I do recommend to have different colors for assigning auto-focus and shutter buttons to a wire color. I used these switches from eBay. They are cheap and are ready for mounting to a hard surface.
+\[caption id="attachment\_517" align="aligncenter" width="474"\][![IMG_8772](https://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772.jpg) Black and red momentary switches\[/caption\]
+
+Switches can be any type you want as long as its a momentary switch (normally opened, push to close). I do recommend to have different colors for assigning auto-focus and shutter buttons to a wire color. I used these switches from eBay. They are cheap and are ready for mounting to a hard surface.
 
 ### Cable
 
-\[caption id="attachment\_518" align="aligncenter" width="474"\][![IMG_8756](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756.jpg) 20 feet telephone extension cord\[/caption\] You can use any type of cable as long as it have at least 3 colored wires. you basically have to extend the connections of the 2.5 mm plug. I decided to go with a 20 feet phone cable because it is cheap and easily available. Make sure the cable is not too rough and can bent without too much force because you do not want to move your camera while you are pulling or raising your trigger.
+\[caption id="attachment\_518" align="aligncenter" width="474"\][![IMG_8756](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756.jpg) 20 feet telephone extension cord\[/caption\]
+
+You can use any type of cable as long as it have at least 3 colored wires. you basically have to extend the connections of the 2.5 mm plug. I decided to go with a 20 feet phone cable because it is cheap and easily available. Make sure the cable is not too rough and can bent without too much force because you do not want to move your camera while you are pulling or raising your trigger.
 
 ### Project box
 
-\[caption id="attachment\_519" align="aligncenter" width="169"\][![IMG_8979](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979-169x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979.jpg) Crazy glue box\[/caption\] The project box is used for the switches. It can be anything as long as you can drill holes big enough for mounting the switches on. It also has to be small enough to be held in one hand. I decided to use a super glue container which is the perfect size for fitting in my hands.
+\[caption id="attachment\_519" align="aligncenter" width="169"\][![IMG_8979](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979-169x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979.jpg) Crazy glue box\[/caption\]
+
+The project box is used for the switches. It can be anything as long as you can drill holes big enough for mounting the switches on. It also has to be small enough to be held in one hand. I decided to use a super glue container which is the perfect size for fitting in my hands.
 
 ### Other material
 
@@ -82,7 +88,11 @@ This is the first step and allows you to verify if your camera will properly rea
 
 ## Soldering the audio plug
 
-[![IMG_8785](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785.jpg)I do recommend that you start with soldering of the audio plug to the cable. This is the easiest part and can be completed quickly. Take off the protective cap of the audio plug leaving the pins exposed. Pass the cable through the protective cap so that once finished, you can put the cap back on the audio plug. Cut 3 pieces of 1/8 inch (each) from the heat shrink tubing. Insert a piece of tubing over each wire that we are about to solder: black, red and green. Locate the black wire of the cable. This is the ground wire. Skin a small amount of the cable (1/8 inch) and solder to the ground connector of the audio plug which is the longest pin. Locate the red wire. This cable will trigger the shutter. Solder the wire to the left pin of the plug. Solder the green wire (last) to the right pin of the plug. This will trigger the auto-focus of your camera. Cut the yellow wire. You won't need it. Put the heat shrink tubing over each soldered section to protect the circuit. If you have issues finding which pin are what, refer to the following image: \[caption id="attachment\_528" align="aligncenter" width="474"\][![Audio plug 2.5 mm pins usage](https://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg) Audio plug 2.5 mm pins usage\[/caption\]
+[![IMG_8785](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785.jpg)
+
+I do recommend that you start with soldering of the audio plug to the cable. This is the easiest part and can be completed quickly. Take off the protective cap of the audio plug leaving the pins exposed. Pass the cable through the protective cap so that once finished, you can put the cap back on the audio plug. Cut 3 pieces of 1/8 inch (each) from the heat shrink tubing. Insert a piece of tubing over each wire that we are about to solder: black, red and green. Locate the black wire of the cable. This is the ground wire. Skin a small amount of the cable (1/8 inch) and solder to the ground connector of the audio plug which is the longest pin. Locate the red wire. This cable will trigger the shutter. Solder the wire to the left pin of the plug. Solder the green wire (last) to the right pin of the plug. This will trigger the auto-focus of your camera. Cut the yellow wire. You won't need it. Put the heat shrink tubing over each soldered section to protect the circuit. If you have issues finding which pin are what, refer to the following image:
+
+\[caption id="attachment\_528" align="aligncenter" width="474"\][![Audio plug 2.5 mm pins usage](https://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg) Audio plug 2.5 mm pins usage\[/caption\]
 
 ## Drilling
 
@@ -94,7 +104,9 @@ Take your phone cable and insert the other end into the project box and tie a kn
 
 ## Soldering the switches
 
-\[caption id="attachment\_531" align="aligncenter" width="474"\][![IMG_9004](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004.jpg) Remote trigger auto-focus button\[/caption\] \[caption id="attachment\_530" align="aligncenter" width="474"\][![IMG_9003](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003.jpg) Remote trigger shutter button\[/caption\]
+\[caption id="attachment\_531" align="aligncenter" width="474"\][![IMG_9004](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004.jpg) Remote trigger auto-focus button\[/caption\]
+
+\[caption id="attachment\_530" align="aligncenter" width="474"\][![IMG_9003](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003-1024x576.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003.jpg) Remote trigger shutter button\[/caption\]
 
 In this section, you will solder the wires to the switches. The next set of instructions will assume that you want the red switch to trigger the shutter. The ground wire (black) must be shared between the two switches. Take a short wire (preferably black) and solder one end to the black wire to make a Y shape. Solder each endings to a pin of each switch. The pins of the switch does not have a polarity which means that any pins can be used. Take the red wire and solder the wire to the remaining pins of the red switch (shutter button). Do the same with the green wire and solder to the last pin of the black button (auto-focus button). Please note that in the pictures above, I had to use a red wire to make the Y shape since I didn't had any black wire.
 

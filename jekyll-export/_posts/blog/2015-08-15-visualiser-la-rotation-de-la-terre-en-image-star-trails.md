@@ -25,4 +25,6 @@ Suite à [ce vidéo](/visualiser-la-rotation-de-la-terre-en-video/), j'ai aussi 
 - Duré de la séance 2h38.
 - 297 photos cumulées.
 
-**Voici le résultat:**\[caption id="attachment\_1138" align="alignnone" width="474"\][![Star Trails over the woods of Mirabel](https://www.end2endzone.com/wp-content/uploads/2015/08/StarStaX_IMG_5753-IMG_6050_lighten_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37690259711/in/dateposted-public/) Star Trails over the woods of Mirabel\[/caption\]
+**Voici le résultat:**
+
+\[caption id="attachment\_1138" align="alignnone" width="474"\][![Star Trails over the woods of Mirabel](https://www.end2endzone.com/wp-content/uploads/2015/08/StarStaX_IMG_5753-IMG_6050_lighten_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37690259711/in/dateposted-public/) Star Trails over the woods of Mirabel\[/caption\]

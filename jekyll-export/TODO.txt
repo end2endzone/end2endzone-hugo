@@ -2,6 +2,7 @@ jekyll shortcodes
 	characters `\`
 	characters `\[`
 \[caption id="attachment\_387" align="aligncenter" width="474"\]
+	not at line endding:   \\\[/caption\\\](?!\r?\n)
 images not followed by a newline:
 	(?<!\[)!\[[^\]]*\]\([^\)\r\n]*\)(?!\r?\n|\]\(http)
 links to `www.end2endzone.com`

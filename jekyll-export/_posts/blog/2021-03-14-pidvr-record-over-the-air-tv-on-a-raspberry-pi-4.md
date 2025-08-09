@@ -321,7 +321,9 @@ Click **Save &amp; Next** to get to the next page.
 
 ![](RackMultipart20210314-4-ej0w6x_html_8ff4b1990405bb00.png)
 
-\[caption id="attachment\_2562" align="aligncenter" width="610"\][![tvheadend - welcome page (2 or 2)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot02-1.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot02-1.png) tvheadend - welcome page (2 or 2)\[/caption\] The next page allows you to configure the network access.
+\[caption id="attachment\_2562" align="aligncenter" width="610"\][![tvheadend - welcome page (2 or 2)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot02-1.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot02-1.png) tvheadend - welcome page (2 or 2)\[/caption\]
+
+The next page allows you to configure the network access.
 
 We are going to allow all network access by leaving the 'Allowed network' field blank.
 
@@ -345,25 +347,35 @@ Click **Save &amp; Next** to get to the next page.
 
 ### Assign predefined muxes to networks
 
-\[caption id="attachment\_2564" align="aligncenter" width="610"\][![tvheadend - muxes](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04-1.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04-1.png) tvheadend - muxes\[/caption\] We now have to set the "muxes". To save you from manually entering muxes, Tvheadend includes predefined mux lists. For best results in Montreal area, select the following muxes: **United States: us-ATSC-center-frequencies-8VSB**
+\[caption id="attachment\_2564" align="aligncenter" width="610"\][![tvheadend - muxes](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04-1.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04-1.png) tvheadend - muxes\[/caption\]
+
+We now have to set the "muxes". To save you from manually entering muxes, Tvheadend includes predefined mux lists. For best results in Montreal area, select the following muxes: **United States: us-ATSC-center-frequencies-8VSB**
 
 Click **Save &amp; Next** to get to the next page.
 
 ### Scan status
 
-\[caption id="attachment\_2565" align="aligncenter" width="610"\][![tvheadend - scan status](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a-1.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a-1.png) tvheadend - scan status\[/caption\] The scan will now commence. It will search for "muxes" and "services" that are distributed via those muxes. Note, a service is a TV channel. When the scan hits 100% you'll be able to see how many muxes and services it's picked up.
+\[caption id="attachment\_2565" align="aligncenter" width="610"\][![tvheadend - scan status](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a-1.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a-1.png) tvheadend - scan status\[/caption\]
 
-\[caption id="attachment\_2566" align="aligncenter" width="610"\][![tvheadend - scan status (100% completed)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b-1.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b-1.png) tvheadend - scan status (100% completed)\[/caption\] Click **Save &amp; Next** to get to the next page
+The scan will now commence. It will search for "muxes" and "services" that are distributed via those muxes. Note, a service is a TV channel. When the scan hits 100% you'll be able to see how many muxes and services it's picked up.
+
+\[caption id="attachment\_2566" align="aligncenter" width="610"\][![tvheadend - scan status (100% completed)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b-1.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b-1.png) tvheadend - scan status (100% completed)\[/caption\]
+
+Click **Save &amp; Next** to get to the next page
 
 ### Service mapping
 
-\[caption id="attachment\_2567" align="aligncenter" width="608"\][![tvheadend - service mapping](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06-1.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06-1.png) tvheadend - service mapping\[/caption\] Next on the wizard is service mapping. This step maps the services that your scan discovered to channels. If you are interested in adding all channels in your area, do not tick any checkbox. Otherwise, tick the three check boxes.
+\[caption id="attachment\_2567" align="aligncenter" width="608"\][![tvheadend - service mapping](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06-1.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06-1.png) tvheadend - service mapping\[/caption\]
+
+Next on the wizard is service mapping. This step maps the services that your scan discovered to channels. If you are interested in adding all channels in your area, do not tick any checkbox. Otherwise, tick the three check boxes.
 
 Click **Save &amp; Next** to get to the next page.
 
 ### Finished
 
-\[caption id="attachment\_2568" align="aligncenter" width="608"\][![tvheadend - setup finished](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07-1.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07-1.png) tvheadend - setup finished\[/caption\] The initial setup is finished. Click **Finish** to complete the
+\[caption id="attachment\_2568" align="aligncenter" width="608"\][![tvheadend - setup finished](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07-1.png)](https://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07-1.png) tvheadend - setup finished\[/caption\]
+
+The initial setup is finished. Click **Finish** to complete the
 
 At this stage we like to reboot the Raspberry Pi. In the terminal use the following command to restart your Raspberry Pi:
 

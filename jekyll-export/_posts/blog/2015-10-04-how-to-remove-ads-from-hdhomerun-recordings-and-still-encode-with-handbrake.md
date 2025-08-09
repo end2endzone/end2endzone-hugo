@@ -56,13 +56,16 @@ Virtualdub is the best video editing application I know. It support video resizi
 2. Click on *Edit* menu and select *Set Selection Start* to mark the beginning of the ad. You can also press the [![VirtualDub Set Selection Start](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-Start.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-Start.jpg) button.
 3. Move the cursor to the last frame of the same ad.
 4. Click on *Edit* menu and select *Set Selection End* to mark the end of the ad. You can also press the [![VirtualDub Set Selection End](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg) button.
-5. This will highlight the area that will be cut out of the final video: \[caption id="attachment\_1162" align="alignnone" width="426"\][![Virtualdub Selection](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg) Virtualdub Selection\[/caption\]
+5. This will highlight the area that will be cut out of the final video:
+\[caption id="attachment\_1162" align="alignnone" width="426"\][![Virtualdub Selection](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg) Virtualdub Selection\[/caption\]
 6. Click on *Edit* menu and select *Delete* to remove the selection from the video. You can also press the *Delete* key on your keyboard.
 7. Repeat all steps for each ads.
 
 ## Lossless video codec
 
-You need to select an appropriate video codec for saving the temporary file. You may be aware that most video codec makes approximation and even tries to encode "movement" in the stream to maximize compression. However, they loose quality (some less than other) during each encoding. To prevent any quality loss, a lossless video codec must be selected. As it's name implies, the Lagarith video codec is lossless which means that it does not loose quality each time you re-encode a new video. \[caption id="attachment\_1163" align="alignnone" width="541"\][![Virtualdub Lagarith Lossless Video Codec Selection](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg) Virtualdub Lagarith Lossless Video Codec Selection\[/caption\]
+You need to select an appropriate video codec for saving the temporary file. You may be aware that most video codec makes approximation and even tries to encode "movement" in the stream to maximize compression. However, they loose quality (some less than other) during each encoding. To prevent any quality loss, a lossless video codec must be selected. As it's name implies, the Lagarith video codec is lossless which means that it does not loose quality each time you re-encode a new video.
+
+\[caption id="attachment\_1163" align="alignnone" width="541"\][![Virtualdub Lagarith Lossless Video Codec Selection](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg) Virtualdub Lagarith Lossless Video Codec Selection\[/caption\]
 
 1. Click on *Video* menu and select *Compression*...
 2. Select **Lagarith Lossless Video Codec:**
@@ -82,7 +85,9 @@ There is no need to use any compression codec for the audio. A typical TV show i
 
 ## Encode final video with Handbrake
 
-Now you got a nice TV show episode without any ads. Just open the file in Handbrake and encode using your favorite video parameters. \[caption id="attachment\_1168" align="alignnone" width="1015"\][![Handbrake video settings](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg) Handbrake video settings\[/caption\]
+Now you got a nice TV show episode without any ads. Just open the file in Handbrake and encode using your favorite video parameters.
+
+\[caption id="attachment\_1168" align="alignnone" width="1015"\][![Handbrake video settings](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg) Handbrake video settings\[/caption\]
 
 # What you get
 
