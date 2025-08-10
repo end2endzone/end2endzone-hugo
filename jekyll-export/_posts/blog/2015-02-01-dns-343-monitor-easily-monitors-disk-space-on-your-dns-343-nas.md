@@ -37,11 +37,11 @@ It's main features are:
 
 # Screenshots
 
-{{% caption %}}[![DNS-343 Monitor (Idle)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png) DNS-343 Monitor (Idle){{% /caption %}}
+[![DNS-343 Monitor (Idle)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png "DNS-343 Monitor (Idle)")](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png)
 
-{{% caption %}}[![DNS-343 Monitor (Searching)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png) DNS-343 Monitor (Searching){{% /caption %}}
+[![DNS-343 Monitor (Searching)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png "DNS-343 Monitor (Searching)")](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png)
 
-{{% caption %}}[![DNS-343 Monitor (Usage)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png) DNS-343 Monitor (Usage){{% /caption %}}
+[![DNS-343 Monitor (Usage)](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png "DNS-343 Monitor (Usage)")](https://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png)
 
 # Download
 

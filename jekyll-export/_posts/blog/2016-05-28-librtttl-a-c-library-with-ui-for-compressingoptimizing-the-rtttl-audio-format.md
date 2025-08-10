@@ -70,7 +70,7 @@ The library has some compilation requirements and library dependencies which are
 
 All functionalities of the library are available through the UI. Start the UI by launching rtttlOptimizerGui.exe.
 
-{{% caption %}}[![rtttlOptimizerGui with default options](https://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg) rtttlOptimizerGui with default options{{% /caption %}}
+[![rtttlOptimizerGui with default options](https://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg "rtttlOptimizerGui with default options")](https://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg)
 
 Copy &amp; paste the input data in the _Command Input_ text area. Click on one of the available command buttons. The output result will be displayed in the _Command Output_ area.
 

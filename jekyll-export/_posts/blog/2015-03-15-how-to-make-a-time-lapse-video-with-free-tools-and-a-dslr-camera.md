@@ -188,7 +188,7 @@ This step is optional but it is suggested to resize your images to help Windows 
     3. Press the Start button to start resizing your images.
     4. Wait for the process to complete.
 
-{{% caption %}}[![David Batch Processor Done](https://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done-234x300.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png) David Batch Processor Done{{% /caption %}}
+[![David Batch Processor Done](https://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done-234x300.png "David Batch Processor Done")](https://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png)
 
 # Combining photos into a movie
 
@@ -198,7 +198,7 @@ In the next sections, I will explain 2 methods that you can use to combine photo
 
 This sections explains how to process your captured images into a video using Windows Movie Maker.
 
-{{% caption %}}[![Windows Movie Maker screenshot](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-300x163.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg) Windows Movie Maker screenshot{{% /caption %}}
+[![Windows Movie Maker screenshot](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-300x163.jpg "Windows Movie Maker screenshot")](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg)
 
 ### Download required files
 
@@ -241,7 +241,7 @@ Now that your composition is complete, save your project into an MP4 video by fo
 1. Click on ***Save Movie*** button in the ribbon toolbar.
 2. Select the export settings that matches your needs and file size. For maximum quality, save your movie using the ***For high-definition display*** setting.
 
-{{% caption %}}[![Windows Movie Maker Export Completed](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed-300x120.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png) Windows Movie Maker Export Completed{{% /caption %}}
+[![Windows Movie Maker Export Completed](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed-300x120.png "Windows Movie Maker Export Completed")](https://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png)
 
 ## VirtualDub
 
@@ -267,7 +267,7 @@ Importing your images as a video in VirtualDub is also really easy: simply follo
 4. Select the first image of the sequence and click the Open button. VirtualDub will automatically detect the next images and will update the timeline accordingly.
 5. Verify that the timeline length (in video frames) matches the total number of captured images in your project.
 
-{{% caption %}}[![VirtualDub editing](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing-300x135.png)](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png) VirtualDub editing{{% /caption %}}
+[![VirtualDub editing](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing-300x135.png "VirtualDub editing")](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png)
 
 ### Configure Frame Rate
 
@@ -292,7 +292,7 @@ Flickering occurs when the exposition between each video frame is not identical 
 4. Press the OK Button.
 5. Configure the filter parameters and press the OK button.
 
-{{% caption %}}[![VirtualDub Deflicker filter](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter-300x208.png)](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png) VirtualDub Deflicker filter{{% /caption %}}
+[![VirtualDub Deflicker filter](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter-300x208.png "VirtualDub Deflicker filter")](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png)
 
 ### Applying additional filters (optional)
 
@@ -304,7 +304,7 @@ If you want to add fade-in or fade-off effects you can use the FadeFX filter wit
 4. Press the OK Button.
 5. Configure the filter parameters and press the OK button.
 
-{{% caption %}}[![VirtualDub Fade In Fade Out filter](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter-300x208.png)](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png) VirtualDub Fade In Fade Out filter{{% /caption %}}
+[![VirtualDub Fade In Fade Out filter](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter-300x208.png "VirtualDub Fade In Fade Out filter")](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png)
 
 ### Adding an audio track
 
@@ -325,7 +325,7 @@ As explained in the [Lossless video codec](#Lossless_video_codec) section, Virtu
 2. ***B******rowse*** to the location where you want to save your video and enter a filename for saving. Click the Save button.
 3. Wait for the encoding to complete.
 
-{{% caption %}}[![VirtualDub encoding](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding-247x300.png)](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png) VirtualDub encoding{{% /caption %}}
+[![VirtualDub encoding](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding-247x300.png "VirtualDub encoding")](https://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png)
 
 ### Re-encoding using Handbrake
 
