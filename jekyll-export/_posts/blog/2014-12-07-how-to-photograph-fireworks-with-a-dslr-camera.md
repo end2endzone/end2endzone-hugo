@@ -28,13 +28,13 @@ Before ever start looking for the perfect holiday to go outside on a hunt, you n
 
 ### Tripod
 
-\[caption id="attachment\_544" align="alignnone" width="239"\]![Manfrotto 190XPROB Tripod](https://www.end2endzone.com/wp-content/uploads/2014/12/Manfrotto-190XPROB-Tripod-239x300.jpg) Manfrotto 190XPROB Tripod{{% /caption %}}
+{{% caption %}}![Manfrotto 190XPROB Tripod](https://www.end2endzone.com/wp-content/uploads/2014/12/Manfrotto-190XPROB-Tripod-239x300.jpg) Manfrotto 190XPROB Tripod{{% /caption %}}
 
 A tripod. This is the most important gear of all. Photographing fireworks usually requires pretty long exposure time. A nice shoot could take as long as 4 seconds. To get a crystal clear picture, you need to be steady as a rock. On every perfect firework picture, you can see the light trail of the flare going away from the explosion and slowly falling down. Even the smallest change in the camera angle or the smallest movement would ruin the picture and leave you with bad trails.
 
 ### Remote shutter release
 
-\[caption id="attachment\_546" align="alignnone" width="300"\]![Canon Remote Switch RS-60E3](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Remote-Switch-RS-60E3-300x256.jpg) Canon Remote Switch RS-60E3{{% /caption %}}
+{{% caption %}}![Canon Remote Switch RS-60E3](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Remote-Switch-RS-60E3-300x256.jpg) Canon Remote Switch RS-60E3{{% /caption %}}
 
 A remote trigger is also mandatory. You must have a remote trigger and there is no acceptable alternative. You can't simply use the "delay" option on your camera. For most [other photography project](/category/photography/) (like[ shooting waterfalls](/how-to-shoot-a-waterfall-with-a-dslr-camera/)), using the "delay" option on your camera is often a good choice as an alternative to a remote trigger. However, when you are shooting fireworks, it is pretty hard to know when the burst will explode which mean you won't be able to accurately predict when you have to start the delay. The length of each burst is also unpredictable which means that you can't use "Shutter speed priority" to automatically close the shutter. You will have to physically press/release a button to close the shutter. If you do not own a remote trigger, you could make one yourself. Here is a simple guide that I have written that could help you making your own remote trigger: [DIY Remote trigger shutter release cable for your Canon DSLR camera](/diy-remote-trigger-shutter-release-cable-for-your-canon-dslr-camera/)A remote trigger is the only way to open the shutter on time (just before a firework pops) and close the shutter before another firework burst.
 
@@ -42,13 +42,13 @@ A remote trigger is also mandatory. You must have a remote trigger and there is 
 
 ### Flashlight
 
-\[caption id="attachment\_548" align="alignnone" width="474"\]![9 LED Mini Flashlight](https://www.end2endzone.com/wp-content/uploads/2014/12/9-LED-Mini-Flashlight-1024x576.jpg) 9 LED Mini Flashlight{{% /caption %}}
+{{% caption %}}![9 LED Mini Flashlight](https://www.end2endzone.com/wp-content/uploads/2014/12/9-LED-Mini-Flashlight-1024x576.jpg) 9 LED Mini Flashlight{{% /caption %}}
 
 It is going to get dark pretty quickly. It is a good idea to bring with yourself a flashlight to be able to see your controls, levels or equipment in the dark. Today, most people have a decent flashlight on their phone but a dollar store flashlight is as good as any other.
 
 ### Masking tape
 
-\[caption id="attachment\_572" align="alignnone" width="474"\]![Scotch Greener Masking Tape Basic Painting](https://www.end2endzone.com/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting-1024x663.jpg) Scotch Greener Masking Tape Basic Painting{{% /caption %}}
+{{% caption %}}![Scotch Greener Masking Tape Basic Painting](https://www.end2endzone.com/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting-1024x663.jpg) Scotch Greener Masking Tape Basic Painting{{% /caption %}}
 
 Masking tape is optional but having some can be useful. You can also use it to tape the focus ring to prevent accidental focus change to make sure it stays where it was set.
 
@@ -56,19 +56,19 @@ Masking tape is optional but having some can be useful. You can also use it to t
 
 ### Filters
 
-\[caption id="attachment\_550" align="alignnone" width="316"\]![Hoya 58.0mm PL-CIR filter](https://www.end2endzone.com/wp-content/uploads/2014/12/Hoya-58.0mm-PL-CIR-filter.jpg) Hoya 58.0mm PL-CIR filter{{% /caption %}}
+{{% caption %}}![Hoya 58.0mm PL-CIR filter](https://www.end2endzone.com/wp-content/uploads/2014/12/Hoya-58.0mm-PL-CIR-filter.jpg) Hoya 58.0mm PL-CIR filter{{% /caption %}}
 
 Even if the fireworks are really bright, there is no need to bring filters. Simply use a narrower aperture (higher f number) to get the right exposition. Polarized filters are also not required. There is no need to filter out a specific angle of the light coming through your camera. I also do not know of any record of polarized fireworks burst or that looking at fireworks through a polarized filter would change its appearance.
 
 ### Flash
 
-\[caption id="attachment\_568" align="alignnone" width="245"\]![Canon Speedlite Flash (600EX-RT)](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Speedlite-Flash-600EX-RT.jpg) Canon Speedlite Flash (600EX-RT){{% /caption %}}
+{{% caption %}}![Canon Speedlite Flash (600EX-RT)](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Speedlite-Flash-600EX-RT.jpg) Canon Speedlite Flash (600EX-RT){{% /caption %}}
 
 A flash is also not really required. There is no object close enough that would reflect the light of the flash back to the camera. Unless you plan on capturing people or the crowd while you are framing your shot, there is really no need for a flash.
 
 ### Expensive lenses
 
-\[caption id="attachment\_549" align="alignnone" width="444"\]![Canon EF 70-200mm f2.8L USM Standard Lens](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-EF-70-200mm-f2.8L-USM-Standard-Lens.jpg) Canon EF 70-200mm f2.8L USM Standard Lens{{% /caption %}}
+{{% caption %}}![Canon EF 70-200mm f2.8L USM Standard Lens](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-EF-70-200mm-f2.8L-USM-Standard-Lens.jpg) Canon EF 70-200mm f2.8L USM Standard Lens{{% /caption %}}
 
 You do not require any professional lenses for shooting firework. The fireworks are bright enough in the sky so you do not need a specialized wide aperture lens (read below/wider than f3.5). If you are positioned with the crowd, there is few chance that you need a zoom lens unless you want to frame a specific area of the sky. I got my first firework shots with a standard 18-55mm lens and never had to zoom higher than 55mm. You can leave your 70-200mm at home. You might want to bring a wide angle lens to capture the whole ending scene but that would be only required if you are really too close the show.
 
@@ -84,41 +84,41 @@ Find a location that offers a clean view. Watch out for trees, branches and powe
 
 ## Focus to infinity
 
-\[caption id="attachment\_552" align="alignnone" width="474"\]![Focus on infinity](https://www.end2endzone.com/wp-content/uploads/2014/12/Focus-on-infinity-1024x576.jpg) Focus on infinity{{% /caption %}}
+{{% caption %}}![Focus on infinity](https://www.end2endzone.com/wp-content/uploads/2014/12/Focus-on-infinity-1024x576.jpg) Focus on infinity{{% /caption %}}
 
 If your lens has auto-focus, turn it off. It is best to use manual focus in this situation. The fireworks are far enough to set your lens to infinity. As a personal suggestion, you should not trust the infinity symbol/mark on your lenses. The focus ring can sometimes moves "beyond infinity" which would make picture as bad as out of focus ones. This is because the infinity point can move depending on the ambient temperature which means that the infinity symbol position is set somewhere between the lens operating temperature range. It may not always be accurate for your situation. The best method for adjusting your focus is still to search for a far away object and focus on it.
 
 ## Set camera in manual mode
 
-\[caption id="attachment\_553" align="alignnone" width="474"\]![Canon SL1 Mode Dial to Manual](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual-1024x576.jpg) Canon SL1 Mode Dial to Manual{{% /caption %}}
+{{% caption %}}![Canon SL1 Mode Dial to Manual](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual-1024x576.jpg) Canon SL1 Mode Dial to Manual{{% /caption %}}
 
 The only mode that can be used for photographing fireworks is the manual mode. Aperture priority cannot help in this situation for obvious reasons. Shutter priority mode is also not helpful. As explained before, there is no way to know how long a firework will last. Setting an average shutter speed of 3-4 seconds will either not completely capture the light trail or will capture part of the next one.
 
 ## Low ISO
 
-\[caption id="attachment\_556" align="alignnone" width="1000"\]![Canon SL1 ISO Selection](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-ISO-Selection.jpg) Canon SL1 ISO Selection{{% /caption %}}
+{{% caption %}}![Canon SL1 ISO Selection](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-ISO-Selection.jpg) Canon SL1 ISO Selection{{% /caption %}}
 
 Since you are capturing images over a perfect black background, noise can quickly become an issue. It will also be really perceptible. It will be easy to distinguish noise on dark areas so it is best to use a low ISO setting to reduce noise as much as possible. ISO 100 is the recommended value to use. In case your picture are underexposed, do not increase ISO to 200 but instead uses a wider aperture.
 
 ## Use a small aperture
 
-\[caption id="attachment\_555" align="alignnone" width="1000"\]![Canon SL1 aperture selection](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-aperture-selection.jpg) Canon SL1 aperture selection{{% /caption %}}
+{{% caption %}}![Canon SL1 aperture selection](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-aperture-selection.jpg) Canon SL1 aperture selection{{% /caption %}}
 
 The fireworks are bright enough in the sky to let you use a narrow aperture (higher f number). During your shooting session you will need to set the aperture in the range of f8 to f16. You can safely set your aperture to f11 at the beginning of the show and adjust as needed.
 
 ## Set camera to Bulb mode
 
-\[caption id="attachment\_559" align="alignnone" width="1000"\]![Canon SL1 Bulb Selection](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection.jpg) Canon SL1 Bulb Selection{{% /caption %}}
+{{% caption %}}![Canon SL1 Bulb Selection](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection.jpg) Canon SL1 Bulb Selection{{% /caption %}}
 
 Most cameras now have a BULB mode. Bulb mode is a perfect candidate for this task. It allows you to have a variable shutter speed for each shots. In bulb mode, pressing the shutter button will open the shutter to start capturing light and will leave the shutter open as long as you press the shutter button. This is pretty convenient when you are trying to capture an event that you don't know how long it will last.
 
-\[caption id="attachment\_558" align="alignnone" width="1000"\]![Canon SL1 Bulb Dial Selection](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection.jpg) Canon SL1 Bulb Dial Selection{{% /caption %}}
+{{% caption %}}![Canon SL1 Bulb Dial Selection](https://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection.jpg) Canon SL1 Bulb Dial Selection{{% /caption %}}
 
 This mode is usually found at the end of your shutter speed range (slowest shutter speed). You can activate it by increasing the shutter speed higher/longer than 30 seconds. On many DSLR camera, the knob controls the shutter speed in manual mode so rolling it will increase the shutter speed and will usually get you to activate bulb mode.
 
 ## Turn off Image stabilization (IS)
 
-\[caption id="attachment\_560" align="alignnone" width="500"\]![Image Stabilizer Turned off](https://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg) Image Stabilizer Turned off{{% /caption %}}
+{{% caption %}}![Image Stabilizer Turned off](https://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg) Image Stabilizer Turned off{{% /caption %}}
 
 Since you are using a tripod, turn off Image Stabilization (IS, Vibration Reduction on Nikon). Tripod and IS is always bad combination and you don't need it. Leaving it on probably does more harm than good. IS mechanism works by feeling the vibration the lens from your hands and creates a counter "vibration" to reduce the effect on the final image. It is better to switch off IS to prevent your lens stabilization mechanism from trying to stabilize a stabilized image which would result in image vibration (camera shake).
 
@@ -126,7 +126,7 @@ Some lens can successfully detect the use of a tripod and prevent adding more vi
 
 ## Set your camera to RAW mode
 
-\[caption id="attachment\_564" align="alignnone" width="1000"\]![RAW image quality](https://www.end2endzone.com/wp-content/uploads/2014/12/RAW-image-quality.jpg) RAW image quality{{% /caption %}}
+{{% caption %}}![RAW image quality](https://www.end2endzone.com/wp-content/uploads/2014/12/RAW-image-quality.jpg) RAW image quality{{% /caption %}}
 
 Since you will have to [adapt to the situation](#Adapt_to_the_situation), you may end up with a shot perfectly composed and aligned but which is underexposed or overexposed. To help you correct the situation, it is better to capture your images in RAW mode. Making corrections on RAW images does much less harm to the picture quality than it does in JPG because of the image's compression. If you do not have access to a RAW image editor, set your camera to shoot in RAW+JPG. You might only be able to make corrections on the JPG image but years later, when RAW image format will be mainstream, you may be proud to have the uncompressed RAW data to make the perfect corrections to get a better final result.
 
@@ -136,7 +136,7 @@ Setting this mode is optional as it is only used during JPG image capture. If yo
 
 # Wait until the show begins
 
-\[caption id="attachment\_570" align="alignnone" width="474"\]![Kaïn célèbre la Fête nationale à Saint-Jérôme](https://www.end2endzone.com/wp-content/uploads/2014/12/Kaïn-célèbre-la-Fête-nationale-à-Saint-Jérôme-1024x576.jpg) Kaïn célèbre la Fête nationale à Saint-Jérôme{{% /caption %}}
+{{% caption %}}![Kaïn célèbre la Fête nationale à Saint-Jérôme](https://www.end2endzone.com/wp-content/uploads/2014/12/Kaïn-célèbre-la-Fête-nationale-à-Saint-Jérôme-1024x576.jpg) Kaïn célèbre la Fête nationale à Saint-Jérôme{{% /caption %}}
 
 For some people, that's the hardest part :)
 
@@ -156,7 +156,7 @@ During the few burst at the beginning of the show, take the time to verify if yo
 
 During the firework show, the intensity or size of the fireworks will probably change. You might have to struggle finding the best exposure on demand (live). You will have to adapt to the situation to correct the exposure. Leave the ISO setting to 100.
 
-\[caption id="attachment\_563" align="alignnone" width="1000"\]![Quick Aperture Exposure compensation button With Main Dial](https://www.end2endzone.com/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial.jpg) Quick Aperture Exposure compensation button With Main Dial{{% /caption %}}
+{{% caption %}}![Quick Aperture Exposure compensation button With Main Dial](https://www.end2endzone.com/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial.jpg) Quick Aperture Exposure compensation button With Main Dial{{% /caption %}}
 
 Concentrate on the aperture to make corrections and adjust your exposure. If the image is too bright, reduce the aperture (increase the f number) and do not hesitate to go as low as f16 if it is required. Check your histogram and your preview window for identifying overexposed areas. Most camera will show a black and white blinking area when part of a image is overexposed.
 
@@ -166,7 +166,7 @@ Take your time to check if you are correctly framed. If you are a beginner, you 
 
 # Save for the finale
 
-\[caption id="attachment\_562" align="alignnone" width="462"\]![Checking the Battery Level](https://www.end2endzone.com/wp-content/uploads/2014/12/Battery-check-2.jpg) Checking the Battery Level{{% /caption %}}
+{{% caption %}}![Checking the Battery Level](https://www.end2endzone.com/wp-content/uploads/2014/12/Battery-check-2.jpg) Checking the Battery Level{{% /caption %}}
 
 The show is almost going to its end. The finale is coming and it is going to be short. Are you prepared ? It is the best part of the show and the one that will require the most attention for capturing great firework images. Make sure you have enough
 

@@ -76,43 +76,43 @@ On the first application launch, users must execute a scan by pressing the {{% w
 
 The channel list will also be updated:
 
-\[caption id="attachment\_722" align="aligncenter" width="295"\][![HDHomeRun Tv Dump - Main Window showing channels](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png) HDHomeRun Tv Dump - Main Window showing channels{{% /caption %}}
+{{% caption %}}[![HDHomeRun Tv Dump - Main Window showing channels](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png) HDHomeRun Tv Dump - Main Window showing channels{{% /caption %}}
 
 ## Watch
 
 This button allows you to watch live TV using the [VLC](http://www.videolan.org/vlc/download-windows.html) application. Select your desired device &amp; channel in the available lists and press the {{% windows-button3d %}}Watch{{% /windows-button3d %}}. The application will automatically select an available tuner and will initiate a request to the device. A VLC window will open which will play the live TV stream:
 
-\[caption id="attachment\_732" align="aligncenter" width="300"\][![HDHomeRun Tv Dump - VLC 01](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01-300x199.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01.png) HDHomeRun Tv Dump - VLC playing{{% /caption %}}
+{{% caption %}}[![HDHomeRun Tv Dump - VLC 01](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01-300x199.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-VLC-01.png) HDHomeRun Tv Dump - VLC playing{{% /caption %}}
 
 During this time, a play icon will be displayed on the *HDHomeRun TV Dump* window next to the selected tuner that is sending content to the VLC application:
 
-\[caption id="attachment\_736" align="aligncenter" width="295"\][![HDHomeRun Tv Dump - Watching Tuner 0](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png) HDHomeRun Tv Dump - Watching Tuner 0\[/caption\
+{{% caption %}}[![HDHomeRun Tv Dump - Watching Tuner 0](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png) HDHomeRun Tv Dump - Watching Tuner 0\[/caption\
 
 ## Record
 
 *HDHomeRun TV Dump* can also be used to start a recording of the TV stream. Select your desired device &amp; channel in the available lists and press {{% windows-button3d %}}Record{{% /windows-button3d %}}. The following user dialog will be displayed:
 
-\[caption id="attachment\_724" align="aligncenter" width="217"\][![HDHomeRun Tv Dump - Manual Recording Dialog](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog-217x300.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog.png) HDHomeRun Tv Dump - Manual Recording Dialog{{% /caption %}}
+{{% caption %}}[![HDHomeRun Tv Dump - Manual Recording Dialog](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog-217x300.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog.png) HDHomeRun Tv Dump - Manual Recording Dialog{{% /caption %}}
 
 This dialog allows a user to enter the total recording time which *HDHomeRun TV Dump* is using to automatically stop the recording. Pressing the {{% windows-button3d %}}OK{{% /windows-button3d %}} button to initiate a recording request to the device. A recording status windows will be displayed for each recording:
 
-\[caption id="attachment\_727" align="aligncenter" width="295"\][![HDHomeRun Tv Dump - Recording monitor](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor.png) HDHomeRun Tv Dump - Recording monitor{{% /caption %}}
+{{% caption %}}[![HDHomeRun Tv Dump - Recording monitor](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Recording-monitor.png) HDHomeRun Tv Dump - Recording monitor{{% /caption %}}
 
 This window help users keep track of the recording program and shows the elapsed and remaining times. During this time, a busy icon will be displayed on the *HDHomeRun TV Dump* window next to the selected tuner that is used for recording:
 
-\[caption id="attachment\_731" align="aligncenter" width="295"\][![HDHomeRun Tv Dump - Tuner 0 Recording](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Tuner-0-Recording.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Tuner-0-Recording.png) HDHomeRun Tv Dump - Tuner 0 Recording{{% /caption %}}
+{{% caption %}}[![HDHomeRun Tv Dump - Tuner 0 Recording](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Tuner-0-Recording.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Tuner-0-Recording.png) HDHomeRun Tv Dump - Tuner 0 Recording{{% /caption %}}
 
 ## Program
 
 The application can be used as a DVR helping users to program a recording based on a schedule. Press the {{% windows-button3d %}}Program{{% /windows-button3d %}} button for displaying the scheduled recordings dialog:
 
-\[caption id="attachment\_729" align="aligncenter" width="300"\][![HDHomeRun Tv Dump - Scheduled Recording List](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List-300x161.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List.png) HDHomeRun Tv Dump - Scheduled Recording List{{% /caption %}}
+{{% caption %}}[![HDHomeRun Tv Dump - Scheduled Recording List](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List-300x161.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Scheduled-Recording-List.png) HDHomeRun Tv Dump - Scheduled Recording List{{% /caption %}}
 
 **Note**: The scheduled recordings dialog can be configured to automatically reset tuner 0 and/or tuner 1 each day at midnight. Resetting each tuners fixes some issues for long recordings.
 
 To add a new scheduled recording to the list, press the {{% windows-button3d %}}Add{{% /windows-button3d %}} button. This will display the *Add a new recording* dialog which allows a user to select a specific recording schedule:
 
-\[caption id="attachment\_725" align="aligncenter" width="217"\][![HDHomeRun Tv Dump - New Scheduled Recording](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording-217x300.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png) HDHomeRun Tv Dump - New Scheduled Recording{{% /caption %}}
+{{% caption %}}[![HDHomeRun Tv Dump - New Scheduled Recording](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording-217x300.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-New-Scheduled-Recording.png) HDHomeRun Tv Dump - New Scheduled Recording{{% /caption %}}
 
 This dialog allows a user assign a name to the recording for better future referencing. The user also have to press the {{% windows-button3d %}}**...**{{% /windows-button3d %}} button to setup virtually any kind of schedule:
 

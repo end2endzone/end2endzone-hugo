@@ -24,4 +24,4 @@ Je vous présente l'éclipse totale de lune ou plus communément appelée "lune 
 
 J'espère que vous appréciez le résultat:
 
-\[caption id="attachment\_1150" align="alignnone" width="976"\][![Blood moon / Lune de sang](https://www.end2endzone.com/wp-content/uploads/2015/09/IMG_7099_e2ez.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/09/IMG_7099_e2ez.jpg) Blood moon / Lune de sang{{% /caption %}}
+{{% caption %}}[![Blood moon / Lune de sang](https://www.end2endzone.com/wp-content/uploads/2015/09/IMG_7099_e2ez.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/09/IMG_7099_e2ez.jpg) Blood moon / Lune de sang{{% /caption %}}

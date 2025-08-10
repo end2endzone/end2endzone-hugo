@@ -139,7 +139,7 @@ Use the connectors to link each strip together. The connectors are specifically 
 
 Here is the final result:
 
-\[caption id="attachment\_369" align="aligncenter" width="474"\][![DIY Bedroom under the bed led lighting](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg) DIY Bedroom under the bed led lighting{{% /caption %}}
+{{% caption %}}[![DIY Bedroom under the bed led lighting](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg) DIY Bedroom under the bed led lighting{{% /caption %}}
 
 # Made anything differently?
 

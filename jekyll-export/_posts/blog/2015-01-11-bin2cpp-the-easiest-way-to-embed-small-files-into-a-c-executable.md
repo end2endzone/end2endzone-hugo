@@ -44,9 +44,9 @@ bin2cpp is not implemented using [executable resources](http://en.wikipedia.org/
 
 # Screenshots
 
-\[caption id="attachment\_575" align="aligncenter" width="837"\][![bin2cpp v1.3 Sample](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png) bin2cpp v1.3 Sample{{% /caption %}}
+{{% caption %}}[![bin2cpp v1.3 Sample](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png) bin2cpp v1.3 Sample{{% /caption %}}
 
-\[caption id="attachment\_576" align="aligncenter" width="1013"\][![bin2cpp v1.3 Usage](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png) bin2cpp v1.3 Usage{{% /caption %}}
+{{% caption %}}[![bin2cpp v1.3 Usage](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png) bin2cpp v1.3 Usage{{% /caption %}}
 
 # Download
 
