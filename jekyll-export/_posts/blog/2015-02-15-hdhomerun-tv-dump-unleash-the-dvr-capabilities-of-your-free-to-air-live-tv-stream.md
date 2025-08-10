@@ -86,7 +86,7 @@ This button allows you to watch live TV using the [VLC](http://www.videolan.org/
 
 During this time, a play icon will be displayed on the *HDHomeRun TV Dump* window next to the selected tuner that is sending content to the VLC application:
 
-{{% caption %}}[![HDHomeRun Tv Dump - Watching Tuner 0](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png) HDHomeRun Tv Dump - Watching Tuner 0\[/caption\
+[![HDHomeRun Tv Dump - Watching Tuner 0](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png "HDHomeRun Tv Dump - Watching Tuner 0")](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Watching-Tuner-0.png)
 
 ## Record
 
