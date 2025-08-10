@@ -77,7 +77,7 @@ pause
 
 On execution, the following output is produced by the script:
 
-\[caption id="attachment\_2181" align="alignnone" width="660"\][![csvplot Command Line Output](https://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png)](https://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png) csvplot Command Line Output\[/caption\]
+\[caption id="attachment\_2181" align="alignnone" width="660"\][![csvplot Command Line Output](https://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png)](https://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png) csvplot Command Line Output{{% /caption %}}
 
 ```
 Microsoft Windows [Version 6.1.7601]
@@ -108,19 +108,19 @@ The following section shows some example of using cvsplot to plot a series
 
 The following example show the Apple Share Prices closing value over the year 2015. The data is provided by Nasdaq at the following address: <http://www.nasdaq.com/symbol/aapl/historical>. The CSV data can be downloaded here: {{% download old-id="2212" href="/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.csv" %}}Apple-Share-Prices-over-time-2015.csv{{% /download %}}
 
-\[caption id="attachment\_2199" align="alignnone" width="802"\][![Apple Share Prices over time (2015) plot using cvsplot](https://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png)](https://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png) Apple Share Prices over time (2015) plot using cvsplot\[/caption\]
+\[caption id="attachment\_2199" align="alignnone" width="802"\][![Apple Share Prices over time (2015) plot using cvsplot](https://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png)](https://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png) Apple Share Prices over time (2015) plot using cvsplot{{% /caption %}}
 
 ## Car Engine Model
 
 The following show a hypothetical car engine model which speed increase of decrease over time based on the feedback of the gas pedal. The CSV data can be downloaded here: {{% download old-id="2214" href="/wp-content/uploads/2016/08/CarEngineModel.csv" %}}CarEngineModel.csv{{% /download %}}
 
-\[caption id="attachment\_2182" align="alignnone" width="855"\][![Car Engine Model plot using cvsplot](https://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png)](https://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png) Car Engine Model plot using cvsplot\[/caption\]
+\[caption id="attachment\_2182" align="alignnone" width="855"\][![Car Engine Model plot using cvsplot](https://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png)](https://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png) Car Engine Model plot using cvsplot{{% /caption %}}
 
 ## Sin(x), Cos(x) and Log(x)
 
 The following show a graph of sin(), cos() and log() function in Excel. The CSV data can be downloaded here: {{% download old-id="2216" href="/wp-content/uploads/2016/08/sinxcosxlogx.csv" %}}sinxcosxlogx.csv{{% /download %}}
 
-\[caption id="attachment\_2205" align="alignnone" width="802"\][![sin(x), cos(x) & log(x) plot using cvsplot](https://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png)](https://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png) sin(x), cos(x) &amp; log(x) plot using cvsplot\[/caption\]
+\[caption id="attachment\_2205" align="alignnone" width="802"\][![sin(x), cos(x) & log(x) plot using cvsplot](https://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png)](https://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png) sin(x), cos(x) &amp; log(x) plot using cvsplot{{% /caption %}}
 
 # License
 

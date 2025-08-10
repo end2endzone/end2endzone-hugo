@@ -24,4 +24,4 @@ Je vous présente la lune de Pâques. La photo a été prise le 5 avril 2015 à 
 
 J'espère que vous appréciez le résultat:
 
-\[caption id="attachment\_872" align="alignnone" width="807"\][![Lune de Pâques](https://www.end2endzone.com/wp-content/uploads/2015/04/IMG_0002_LR5.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/04/IMG_0002_LR5.jpg) Lune de Pâques\[/caption\]
+\[caption id="attachment\_872" align="alignnone" width="807"\][![Lune de Pâques](https://www.end2endzone.com/wp-content/uploads/2015/04/IMG_0002_LR5.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/04/IMG_0002_LR5.jpg) Lune de Pâques{{% /caption %}}

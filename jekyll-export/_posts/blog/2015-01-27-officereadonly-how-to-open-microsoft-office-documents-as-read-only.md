@@ -34,11 +34,11 @@ Microsoft Office does not supports opening files as read-only when right-clickin
 
 # Screenshots
 
-\[caption id="attachment\_635" align="alignnone" width="300"\][![Office Read Only (context menu)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu-300x246.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu.png) Office Read Only (context menu)\[/caption\]
+\[caption id="attachment\_635" align="alignnone" width="300"\][![Office Read Only (context menu)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu-300x246.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu.png) Office Read Only (context menu){{% /caption %}}
 
-\[caption id="attachment\_636" align="alignnone" width="300"\][![Office Read Only (send to menu)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu-300x169.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu.png) Office Read Only (send to menu)\[/caption\]
+\[caption id="attachment\_636" align="alignnone" width="300"\][![Office Read Only (send to menu)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu-300x169.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu.png) Office Read Only (send to menu){{% /caption %}}
 
-\[caption id="attachment\_637" align="alignnone" width="300"\][![Office Read Only (unsupported file)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file-300x171.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file.png) Office Read Only (unsupported file)\[/caption\]
+\[caption id="attachment\_637" align="alignnone" width="300"\][![Office Read Only (unsupported file)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file-300x171.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file.png) Office Read Only (unsupported file){{% /caption %}}
 
 # Download
 
