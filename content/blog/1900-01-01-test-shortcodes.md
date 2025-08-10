@@ -44,6 +44,7 @@ Click on the {{% windows-button3d %}}Play{{% /windows-button3d %}} button then o
 
 
 ### image captions
+
 {{% image-caption %}}[![HDHomeRun Tv Dump - Main Window showing channels](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png) HDHomeRun Tv Dump - Main Window showing channels{{% /image-caption %}}
 
 ### image figures
@@ -73,3 +74,12 @@ Click on the {{% windows-button3d %}}Play{{% /windows-button3d %}} button then o
       src="http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg"
   >}}
 {{< /image-gallery >}}
+
+### Images with and without captions
+No captions:
+
+![No captions](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png)
+
+With captions:
+
+![With captions](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png "this is the image's caption")
