@@ -47,6 +47,16 @@ Click on the {{% windows-button3d %}}Play{{% /windows-button3d %}} button then o
 
 {{% image-caption %}}[![HDHomeRun Tv Dump - Main Window showing channels](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png) HDHomeRun Tv Dump - Main Window showing channels{{% /image-caption %}}
 
+### image gallery
+
+{{< image-gallery >}}
+  [![La vue du Lac Monroe. Au loin, les montagnes et un peu de nuages. La grande ourse dans le ciel. On peut aussi apercevoir en bas à gauche la pollution lumineuse provenant du Village du Mont-Tremblant.](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5300_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/36893577574/in/album-72157687682410954/ "La vue du Lac Monroe. Au loin, les montagnes et un peu de nuages. La grande ourse dans le ciel. On peut aussi apercevoir en bas à gauche la pollution lumineuse provenant du Village du Mont-Tremblant.")
+  [![Le ciel observé à plus de 60 degrés d'inclinaison. 30 secondes d'exposition au total. Les étoiles sont plus brillantes mais aussi plus élongées. Le ciel est aussi plus clair. On peut distinguer des teintes orangées et bleutées](https://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5303_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/36933665833/in/album-72157687682410954/ "Le ciel observé à plus de 60 degrés d'inclinaison. 30 secondes d'exposition au total. Les étoiles sont plus brillantes mais aussi plus élongées. Le ciel est aussi plus clair. On peut distinguer des teintes orangées et bleutées")
+  ![image without a link](http://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg "image without a link")
+  [![](http://www.end2endzone.com/wp-content/uploads/2016/03/Mapping-RC-Transmitter-PWM-signal-to-actual-transmitter-values-300x169.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/03/Mapping-RC-Transmitter-PWM-signal-to-actual-transmitter-values-300x169.jpg)
+  ![](http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg)
+{{< /image-gallery >}}
+
 ### image figures
 
 {{< image-gallery >}}
