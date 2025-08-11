@@ -1,6 +1,3 @@
-images in tables ?
-	search for literal `| [!`
-	wrap in {{< image-gallery >}}{{< /image-gallery >}} ?
 links to `www.end2endzone.com`
 	https://www.end2endzone.com/wp-content
 images from `www.end2endzone.com`
