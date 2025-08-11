@@ -130,16 +130,12 @@ This section defines how to connect all the components together. Connect the pow
 
 ## Deciding where to put your stuff
 
-<center>
-
-[![DSC04072](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg)
-
-[![DSC04068](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg)
-
-[![DSC04060](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg)
-
-[![DSC04062](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)
-</center>
+{{< image-gallery >}}
+  [![DSC04072](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg)
+  [![DSC04068](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg)
+  [![DSC04060](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg)
+  [![DSC04062](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)
+{{< /image-gallery >}}
 
 I wanted to position the switch at a location where is can be reached easily with your fingers but I also wanted the switch to be invisible to the eye. I decided to install the switch below the cabinets but hidden behind the front panel under the cabinets. For the same reasons, the dimmer is located at the same location. I used double sided tape to stick the dimmer and the power switch in place. The tape is strong enough to keep the switch in place even when someone is turning the lights on or off. I also decided to position the power supply below the cabinet, at the back. This location is close to the switch and the dimmer and is also well ventilated. The power supply has two holes for screwing the case to a wood surface. I used small length screws to screw the power to the cabinet's wood panel.
 
@@ -157,13 +153,10 @@ Since I have 3 kitchen cabinets, I had to cut 3 slices of strip. The strip can b
 
 ### Drilling
 
-<center>
-
-[![DSC04085](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085-225x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg)
-
-[![DSC04086](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086-225x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg)
-
-</center>
+{{< image-gallery >}}
+  [![DSC04085](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085-225x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg)
+  [![DSC04086](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086-225x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg)
+{{< /image-gallery >}}
 
 In order to get electricity from one cabinet to another, I had to drill holes in the bottom of the cabinet. This is the only intrusive change that I had to do for this project. I had to drill holes to get the wires above the kitchen hood and above the sink.
 

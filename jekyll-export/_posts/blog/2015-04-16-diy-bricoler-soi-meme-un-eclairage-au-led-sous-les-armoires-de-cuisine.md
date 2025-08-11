@@ -136,16 +136,12 @@ Cette section définit comment connecter tous les composants ensemble. Branchez 
 
 ## Choisir où mettre les composants
 
-<center>
-
-[![DSC04072](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg)
-
-[![DSC04068](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg)
-
-[![DSC04060](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg)
-
-[![DSC04062](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)
-</center>
+{{< image-gallery >}}
+  [![DSC04072](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg)
+  [![DSC04068](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg)
+  [![DSC04060](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg)
+  [![DSC04062](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)
+{{< /image-gallery >}}
 
 Je voulais placer l'interrupteur à un endroit où il peut être atteint facilement avec les doigts mais je voulais aussi le que le commutateur soit invisible à l'œil. J'ai décidé d'installer le commutateur sous les armoires, mais caché derrière les moulures avant. Pour les mêmes raisons, le gradateur est situé au même endroit. J'ai utilisé du ruban adhésif double face pour coller le gradateur et l'interrupteur d'alimentation en place. Le ruban adhésif est assez fort pour garder le l'interrupteur en place même lorsque quelqu'un est en train d'allumer ou d'éteindre le commutateur. J'ai aussi décidé de positionner l'alimentation sous l'armoire, à l'arrière. Cet emplacement est à proximité de l'interrupteur et du gradateur et c'est aussi bien aéré. L'alimentation possède 2 trous pour être visser à une surface. J'ai utilisé des petites vis pour visser le bloc d'alimentation au panel de bois des armoires.
 
@@ -163,12 +159,10 @@ Puisque j'ai trois armoires de cuisine, j'ai dû couper trois longueurs de bande
 
 ### Perçage
 
-<center>
-
-[![DSC04086](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086-225x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg)
-
-[![DSC04085](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085-225x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg)
-</center>
+{{< image-gallery >}}
+  [![DSC04086](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086-225x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg)
+  [![DSC04085](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085-225x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg)
+{{< /image-gallery >}}
 
 Afin d'obtenir de l'électricité d'une armoire à l'autre, j'ai dû parfois percer des trous dans le fond des l'armoire. C'était nécessaire pour passer les fils dessus de la hotte de cuisine et au dessus de l'évier. C'est le seul changement intrusif que j'avais à faire pour ce projet.
 
