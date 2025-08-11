@@ -1,16 +1,3 @@
-jekyll shortcodes
-	characters `\`
-	characters `\[`
-\[caption id="attachment\_387" align="aligncenter" width="474"\]
-	Linked images in caption blocks:
-		search:		\{\{% caption %\}\}\s*\[!\[([^\]]+)\]\(([^)]+)\)\]\(([^)]+)\)\s+(.+?)\s*\{\{% /caption %\}\}
-		replace by:	[![$1]($2 "$4")]($3)
-	Bare images in caption blocks:
-		search:		\{\{% caption %\}\}\s*!\[([^\]]+)\]\(([^)]+)\)\s*(.+?)\s*\{\{% /caption %\}\}
-		replace by:	![$1]($2 "$3")
-images not followed by a newline:
-	(?<!\[)!\[[^\]]*\]\([^\)\r\n]*\)(?!\r?\n|\]\(http)
-	search for literal ` [![`
 images in <center> tags:
 	search for `<center>`
 images in tables ?
