@@ -592,10 +592,25 @@ input:focus, select:focus, textarea:focus {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 20px;
   padding: 0px;
+
+  /*
+  In a CSS Grid, each direct child becomes a grid item.
+  Grid items use:
+    justify-self: stretch; (fill the cell's width)
+    align-self: stretch; (fill the cell's height)
+  which streaches the anchor bigger than the actual images it contains.
+  To prevent this for child tags of the div, set to `start`.
+  */
+  justify-items: start;
+  align-items: start;
 }
 
 .content>.image-gallery figure {
   max-width: 100%;
+}
+
+.content>.image-gallery a {
+  border-bottom: none;
 }
 
 .content>.image-gallery figure figcaption p {
