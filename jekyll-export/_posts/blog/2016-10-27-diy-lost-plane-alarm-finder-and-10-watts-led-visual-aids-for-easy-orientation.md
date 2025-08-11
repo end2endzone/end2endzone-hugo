@@ -241,7 +241,11 @@ For a greater testing, connect your receiver and use your transmitter to change 
 
 ### Test each component (optional)
 
-Now that you know that the code is working as expected, you may want to test each components before [soldering them](#Solderingcomponents_on_thestripboard) on the breadboard. The final step is to integrate all real components to the breadboard prototype and use external 12v power supply (to mimic a 3S LiPo battery). [![Quadcopter Controller Project - Breadboard view](https://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_breadboard-300x171.png)](https://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)Complete the actual circuit as defined in [Breadboard Layout](#Breadboard_Layout) section.
+Now that you know that the code is working as expected, you may want to test each components before [soldering them](#Solderingcomponents_on_thestripboard) on the breadboard. The final step is to integrate all real components to the breadboard prototype and use external 12v power supply (to mimic a 3S LiPo battery).
+
+[![Quadcopter Controller Project - Breadboard view](https://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_breadboard-300x171.png)](https://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)
+
+Complete the actual circuit as defined in [Breadboard Layout](#Breadboard_Layout) section.
 
 ## Solder components
 

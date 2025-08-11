@@ -85,7 +85,9 @@ This is the best picture I got using this technique. Here is the full scale imag
 
 [![IMG_8597_e2ez](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8597_e2ez-672x448.jpg "Chute du Diable")](https://www.flickr.com/photos/154618444@N05/37139651090/in/album-72157686721493240/)
 
-In contrast, here is a static image of the same waterfall with motion freeze on automatic settings. [![IMG_8579](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579.jpg)
+In contrast, here is a static image of the same waterfall with motion freeze on automatic settings.
+
+[![IMG_8579](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_8579.jpg)
 
 # What I would change for next time ?
 

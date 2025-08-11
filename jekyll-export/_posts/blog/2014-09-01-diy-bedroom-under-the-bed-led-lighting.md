@@ -105,23 +105,31 @@ This section defines the basic reasons that lead to the final design.
 
 ### Orientation of the LEDs
 
-[![IMG_7135](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg)The location of the LEDs is obvious. However, I didn't know if I had to stick the LEDs facing down or facing out of the base. If you stick the LEDs facing out, all the lower section of the room get illuminated but the light does not go as high as if the LEDs were facing down. Turns out that best method for me was to stick them facing down. Choose the option that is best for you. 
+[![IMG_7135](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg)
+
+The location of the LEDs is obvious. However, I didn't know if I had to stick the LEDs facing down or facing out of the base. If you stick the LEDs facing out, all the lower section of the room get illuminated but the light does not go as high as if the LEDs were facing down. Turns out that best method for me was to stick them facing down. Choose the option that is best for you. 
 
 **Note:**Both options do not illuminate the people sleeping and should not disturb your lover's sleep.
 
 ### Switches
 
-[![IMG_7125](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg)I had a hard time figuring out where I would put the switches and the dimmer. They had to be freely available and I wanted to be able to find the switches with my hands only, without having to take a look first. You will turn them on in the middle of the night when not fully awake! My first idea was to install the switch through the headboard by drilling small holes the size of the switch and use switch plates to cover everything. That was not accepted as a viable solution because we though that it will be too intrusive. It would also be hard finding the switch in almost total darkness. I opted to position the circuit of the switches at the same level than the bed's headboard. The moving part of the switch is raised a little bit above the headboard. This option is perfect because it is really easy to turn on the lights even when lying on the bed. You simply have to slide your hand on the top of the headboard from left to right (or right to left).
+[![IMG_7125](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg)
+
+I had a hard time figuring out where I would put the switches and the dimmer. They had to be freely available and I wanted to be able to find the switches with my hands only, without having to take a look first. You will turn them on in the middle of the night when not fully awake! My first idea was to install the switch through the headboard by drilling small holes the size of the switch and use switch plates to cover everything. That was not accepted as a viable solution because we though that it will be too intrusive. It would also be hard finding the switch in almost total darkness. I opted to position the circuit of the switches at the same level than the bed's headboard. The moving part of the switch is raised a little bit above the headboard. This option is perfect because it is really easy to turn on the lights even when lying on the bed. You simply have to slide your hand on the top of the headboard from left to right (or right to left).
 
 ### Dimmer
 
-[![IMG_7099](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg)The dimmer is not always used in this setup. Most of the time, you want the light to be set at the minimum brightness level. In some scenarios, you will want to get more light and you will have to turn the knob of the dimmer. For this reason, I decided to position the dimmer behind the headboard. It cannot be reached when lying on the bed but it can still be reached when sitting/standing face to the headboard.
+[![IMG_7099](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg)
+
+The dimmer is not always used in this setup. Most of the time, you want the light to be set at the minimum brightness level. In some scenarios, you will want to get more light and you will have to turn the knob of the dimmer. For this reason, I decided to position the dimmer behind the headboard. It cannot be reached when lying on the bed but it can still be reached when sitting/standing face to the headboard.
 
 ## LED strip installation
 
 ### Cutting
 
-[![DSC04092](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png)I had to cut 3 slices of strip, one for each side of the base. The strip can be cut safely at every 3 LEDs. Each cut point is identified by the contact points in copper. Simply cut in the middle of the contact points to leave enough copper for the 2-pins connectors. Use a measuring tape to calculate the length of each side of the base. If the length of the base does not match a cut point, do not hesitate to get a smaller length since 3 missing LEDs wont make a difference.
+[![DSC04092](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png)
+
+I had to cut 3 slices of strip, one for each side of the base. The strip can be cut safely at every 3 LEDs. Each cut point is identified by the contact points in copper. Simply cut in the middle of the contact points to leave enough copper for the 2-pins connectors. Use a measuring tape to calculate the length of each side of the base. If the length of the base does not match a cut point, do not hesitate to get a smaller length since 3 missing LEDs wont make a difference.
 
 ### Sticking
 

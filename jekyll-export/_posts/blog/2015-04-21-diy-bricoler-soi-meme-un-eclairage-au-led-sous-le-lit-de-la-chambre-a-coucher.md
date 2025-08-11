@@ -93,7 +93,9 @@ Le temps de préparation est simple, il nécessite de tester tous le circuit ava
 
 # Étapes de construction
 
-Les étapes de construction sont tout aussi simple. Voici une photo du circuit en entier: [![Bedroom led lighting circuit](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)
+Les étapes de construction sont tout aussi simple. Voici une photo du circuit en entier:
+
+[![Bedroom led lighting circuit](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)
 
 ## Tester le tout
 
