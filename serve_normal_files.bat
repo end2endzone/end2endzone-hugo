@@ -1,2 +1,2 @@
 @echo off
-cls && hugo --minify build && hugo --minify -D server
+cls && hugo --minify build -D && hugo --minify -D server
