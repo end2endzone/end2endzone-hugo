@@ -6,11 +6,16 @@ jekyll shortcodes
 		search:		\{\{% caption %\}\}\s*\[!\[([^\]]+)\]\(([^)]+)\)\]\(([^)]+)\)\s+(.+?)\s*\{\{% /caption %\}\}
 		replace by:	[![$1]($2 "$4")]($3)
 	Bare images in caption blocks:
-		search:		
-		replace by:	
+		search:		\{\{% caption %\}\}\s*!\[([^\]]+)\]\(([^)]+)\)\s*(.+?)\s*\{\{% /caption %\}\}
+		replace by:	![$1]($2 "$3")
 images not followed by a newline:
 	(?<!\[)!\[[^\]]*\]\([^\)\r\n]*\)(?!\r?\n|\]\(http)
 	search for literal ` [![`
+images in <center> tags:
+	search for `<center>`
+images in tables ?
+	search for literal `| [!`
+	wrap in {{< image-gallery >}}{{< /image-gallery >}} ?
 links to `www.end2endzone.com`
 	https://www.end2endzone.com/wp-content
 images from `www.end2endzone.com`
