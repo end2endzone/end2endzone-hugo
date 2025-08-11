@@ -44,11 +44,11 @@ For the process to work, you must register the AVIFile handler on your computer.
 
 The following dialog will be displayed:
 
-\[caption id="attachment\_1229" align="alignnone" width="528"\][![VirtualDub auxsetup.exe Dialog](https://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg) VirtualDub auxsetup.exe Dialog\[/caption\]
+[![VirtualDub auxsetup.exe Dialog](https://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg "VirtualDub auxsetup.exe Dialog")](https://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg)
 
 Click on the *Install handler* button and the following dialog will be displayed:
 
-\[caption id="attachment\_1230" align="alignnone" width="466"\][![VirtualDub Installing AVIFile frameclient](https://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg) VirtualDub Installing AVIFile frameclient\[/caption\]
+[![VirtualDub Installing AVIFile frameclient](https://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg "VirtualDub Installing AVIFile frameclient")](https://www.end2endzone.com/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg)
 
 Click on *OK* button and you should get the following confirmation message: *AVIFile frameclient install successful*.
 
@@ -64,7 +64,7 @@ Avisynth as its name implies is an AVI file generator. The Avisynth web site des
 
 "*Pismo File Mount is an operating system extension that enables application controlled virtual and user mode file systems. Using Pismo File Mount, applications can expose all kinds of program and user data through the file system interface*". This software does not have any interaction with the user but it is required by AVFS to create the virtual folder containing the virtual files (\*.AVI, \*.WAV).
 
-\[caption id="attachment\_1235" align="alignnone" width="481"\][![Pismo File Mount Audit Package Install](https://www.end2endzone.com/wp-content/uploads/2015/12/Pismo-File-Mount-Audit-Package-Install.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/12/Pismo-File-Mount-Audit-Package-Install.jpg) Pismo File Mount Audit Package Install\[/caption\]
+[![Pismo File Mount Audit Package Install](https://www.end2endzone.com/wp-content/uploads/2015/12/Pismo-File-Mount-Audit-Package-Install.jpg "Pismo File Mount Audit Package Install")](https://www.end2endzone.com/wp-content/uploads/2015/12/Pismo-File-Mount-Audit-Package-Install.jpg)
 
 To install, run *pfmap-173-win.exe* and following the on-screen instructions.
 
@@ -108,7 +108,7 @@ MPEG2 recording ⇨ VirtualDub ⇨ Editing ⇨ VirtualDub \*.vdscript file (Edit
 
 ## Open video file in Virtualdub
 
-\[caption id="attachment\_1157" align="alignnone" width="967"\][![VirtualDub default video](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg) VirtualDub default video\[/caption\]
+[![VirtualDub default video](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg "VirtualDub default video")](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg)
 
 1. Click on *File* menu.
 2. Click on *Open video file...*
@@ -123,7 +123,7 @@ Virtualdub is the best video editing application I know. It supports video resiz
 3. Move the cursor to the last frame of the same ad.
 4. Click on *Edit* menu and select *Set Selection End* to mark the end of the ad. You can also press the [![VirtualDub Set Selection End](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg) button.
 5. This will highlight the area that will be cut out of the final video:
-\[caption id="attachment\_1162" align="alignnone" width="426"\][![Virtualdub Selection](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg) Virtualdub Selection\[/caption\]
+[![Virtualdub Selection](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg "Virtualdub Selection")](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg)
 6. Click on *Edit* menu and select *Delete* to remove the selection from the video. You can also press the *Delete* key on your keyboard.
 7. Repeat all steps for each ads.
 8. Once all ad sections are removed, save your modifications in case something happens.
@@ -134,7 +134,7 @@ Virtualdub is the best video editing application I know. It supports video resiz
 
 Since we are chaining application one into the other, there is no need to use video codec compression between application. Compressing frames between application will only slow down the speed at which each frames are pushed in the chain. You computer is more than capable dealing with uncompressed frames even in full HD resolution. You also reduce the risk of loosing quality between applications so leave the video compression to "*Uncompressed RGB/YCbCr*". The final video compression will occur within Handbrake.
 
-\[caption id="attachment\_1204" align="alignnone" width="541"\][![Virtualdub Uncompressed RGB Video Codec Selection](https://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png) Virtualdub Uncompressed RGB Video Codec Selection\[/caption\]
+[![Virtualdub Uncompressed RGB Video Codec Selection](https://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png "Virtualdub Uncompressed RGB Video Codec Selection")](https://www.end2endzone.com/wp-content/uploads/2015/11/Virtualdub-Uncompressed-RGB-Video-Codec-Selection.png)
 
 1. Click on *Video* menu and select *Compression*...
 2. Select *Uncompressed RGB/YCbCr*
@@ -155,14 +155,14 @@ Now that your are done editing and removing ads from your video, you need to ena
 
 The following dialog should be displayed:
 
-\[caption id="attachment\_1198" align="alignnone" width="388"\][![VirtualDub Frameserver Options Window](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png) VirtualDub Frameserver Options Window\[/caption\]
+[![VirtualDub Frameserver Options Window](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png "VirtualDub Frameserver Options Window")](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-options-window.png)
 
 1. Leave options as is. It does not matter what you put here.
 2. Click on *Start* button to start the frame server.
 
 The following dialog will be displayed:
 
-\[caption id="attachment\_1197" align="alignnone" width="394"\][![VirtualDub Frameserver Mode](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png) VirtualDub Frameserver Mode\[/caption\]
+[![VirtualDub Frameserver Mode](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png "VirtualDub Frameserver Mode")](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png)
 
 The frameserver is now ready to provide frames to other applications. Leave the dialog running until the encoding with handbrake is complete. Press *Stop serving* button to return to VirtualDub's editing mode. A safe way to know if VirtualDub is done serving frames is to look at the "*Number of frames served*" value. If it stopped increasing, it means that Handbrake and the frameclient is done processing all frames.
 
@@ -193,7 +193,7 @@ Your workspace should contains 4 files:
 - The VirtualDub AVIFile signpost file (\*.vdr)
 - The VirtualDub editing backup file (\*.vdscript)
 
-\[caption id="attachment\_1196" align="alignnone" width="608"\][![Remove ADS From TV Recording Workspace](https://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png) Remove ADS From TV Recording Workspace\[/caption\]
+[![Remove ADS From TV Recording Workspace](https://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png "Remove ADS From TV Recording Workspace")](https://www.end2endzone.com/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png)
 
 ## Mounting
 
@@ -205,7 +205,7 @@ Mount the \*.avs file as a virtual folder containing the virtual AVI file.
 2. Select the *Mount* option.
 3. The following dialog will be displayed.
 
-\[caption id="attachment\_1195" align="alignnone" width="391"\][![AVFS Mounting Options](https://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options.png) AVFS Mounting Options\[/caption\]
+[![AVFS Mounting Options](https://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options.png "AVFS Mounting Options")](https://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-Mounting-Options.png)
 
 1. Select your desired options. The following options is suggested: 
     1. Force read-only mount.
@@ -221,7 +221,7 @@ If the mounting is successful, the AviSynth Script file (\*.avs) should be remov
 
 If you selected the option *Open after mount*, the following window will be displayed:
 
-\[caption id="attachment\_1194" align="alignnone" width="608"\][![AVFS 375 GB Virtual AVI File](https://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File.png) AVFS 375 GB Virtual AVI File\[/caption\]
+[![AVFS 375 GB Virtual AVI File](https://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File.png "AVFS 375 GB Virtual AVI File")](https://www.end2endzone.com/wp-content/uploads/2015/11/AVFS-375-GB-Virtual-AVI-File.png)
 
 ### Using AVFS 1.0.0.6
 
@@ -234,7 +234,7 @@ Mounting with AVFS 1.0.0.6 requires a different process.
 5. Leave the application running until the file is completely encoded in Handbrake.
 6. Press *CTRL+C* to stop the application properly.
 
-\[caption id="attachment\_1238" align="alignnone" width="597"\][![AVFS 1.0.0.6 running](https://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running.jpg) AVFS 1.0.0.6 running\[/caption\]
+[![AVFS 1.0.0.6 running](https://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running.jpg "AVFS 1.0.0.6 running")](https://www.end2endzone.com/wp-content/uploads/2015/12/AVFS-1.0.0.6-running.jpg)
 
 **Warning:** Pressing *CTRL+C* key while the frame server is serving frames to Handbrake might corrupt your output (compressed) video.
 
@@ -242,13 +242,13 @@ Mounting with AVFS 1.0.0.6 requires a different process.
 
 Make sure that the virtual AVI file is valid. Open the AVI file with a standard video player. The file may take longer than usual to open. While the file is opening or playing, take a look at the VirtualDub Frameserver window. You should see the value of *Number of frames served* increasing:
 
-\[caption id="attachment\_1197" align="alignnone" width="394"\][![VirtualDub Frameserver Mode](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png)](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png) VirtualDub Frameserver Mode\[/caption\]
+[![VirtualDub Frameserver Mode](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png "VirtualDub Frameserver Mode")](https://www.end2endzone.com/wp-content/uploads/2015/11/VirtualDub-frameserver-mode.png)
 
 ## Encode final video with Handbrake
 
 The AVI file is now ready for encoding using Handbrake. Enjoy your TV show episode without any ads. Just open the file in Handbrake and encode using your favorite video parameters.
 
-\[caption id="attachment\_1168" align="alignnone" width="1015"\][![Handbrake video settings](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg) Handbrake video settings\[/caption\]
+[![Handbrake video settings](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg "Handbrake video settings")](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg)
 
 # What you get
 

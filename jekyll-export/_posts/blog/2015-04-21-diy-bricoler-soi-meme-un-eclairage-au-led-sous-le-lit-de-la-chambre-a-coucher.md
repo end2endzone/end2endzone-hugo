@@ -93,7 +93,9 @@ Le temps de préparation est simple, il nécessite de tester tous le circuit ava
 
 # Étapes de construction
 
-Les étapes de construction sont tout aussi simple. Voici une photo du circuit en entier: [![Bedroom led lighting circuit](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)
+Les étapes de construction sont tout aussi simple. Voici une photo du circuit en entier:
+
+[![Bedroom led lighting circuit](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)
 
 ## Tester le tout
 
@@ -147,7 +149,7 @@ Utilisez les connecteurs pour relier ensemble chacune des bandes. Les connecteur
 
 Voici une photo du résultat final:
 
-\[caption id="attachment\_369" align="aligncenter" width="474"\][![DIY Bedroom under the bed led lighting](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg) DIY Bedroom under the bed led lighting\[/caption\]
+[![DIY Bedroom under the bed led lighting](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-1024x683.jpg "DIY Bedroom under the bed led lighting")](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg)
 
 # Refaire les choses différemment?
 

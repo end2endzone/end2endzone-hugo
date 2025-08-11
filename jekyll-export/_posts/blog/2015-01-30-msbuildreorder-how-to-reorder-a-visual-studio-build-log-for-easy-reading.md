@@ -39,7 +39,7 @@ It's main features are:
 
 # Screenshot
 
-\[caption id="attachment\_641" align="alignnone" width="300"\][![msbuildreorder screenshot](https://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot-300x130.png)](https://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot.png) msbuildreorder screenshot\[/caption\]
+[![msbuildreorder screenshot](https://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot-300x130.png "msbuildreorder screenshot")](https://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot.png)
 
 # Download
 

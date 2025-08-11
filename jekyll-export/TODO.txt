@@ -1,10 +1,8 @@
-jekyll shortcodes
-	characters `\`
-	characters `\[`
-\[caption id="attachment\_387" align="aligncenter" width="474"\]
-	not at line endding:   \\\[/caption\\\](?!\r?\n)
-images not followed by a newline:
-	(?<!\[)!\[[^\]]*\]\([^\)\r\n]*\)(?!\r?\n|\]\(http)
+images in <center> tags:
+	search for `<center>`
+images in tables ?
+	search for literal `| [!`
+	wrap in {{< image-gallery >}}{{< /image-gallery >}} ?
 links to `www.end2endzone.com`
 	https://www.end2endzone.com/wp-content
 images from `www.end2endzone.com`
