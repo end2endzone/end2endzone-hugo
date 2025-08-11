@@ -601,8 +601,8 @@ input:focus, select:focus, textarea:focus {
   which streaches the anchor bigger than the actual images it contains.
   To prevent this for child tags of the div, set to `start`.
   */
-  justify-items: start;
-  align-items: start;
+  justify-items: center;
+  align-items: center;
 }
 
 .content>.image-gallery figure {
