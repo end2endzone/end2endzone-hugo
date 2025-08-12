@@ -44,9 +44,9 @@ bin2cpp is not implemented using [executable resources](http://en.wikipedia.org/
 
 # Screenshots
 
-[![bin2cpp v1.3 Sample](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png "bin2cpp v1.3 Sample")](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png)
+[![bin2cpp v1.3 Sample](/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png "bin2cpp v1.3 Sample")](/wp-content/uploads/2015/01/bin2cpp-v1.3-done.png)
 
-[![bin2cpp v1.3 Usage](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png "bin2cpp v1.3 Usage")](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png)
+[![bin2cpp v1.3 Usage](/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png "bin2cpp v1.3 Usage")](/wp-content/uploads/2015/01/bin2cpp-v1.3-usage.png)
 
 # Download
 
@@ -221,7 +221,7 @@ bin2cpp is only available for the Windows platform and has been tested with the 
 
 bin2cpp is being distributed as Freeware for personal, commercial use, non-profit organization, and educational purpose. It may be included with CD-ROM/DVD-ROM distributions. You are NOT allowed to make a charge for distributing this Software (either for profit or merely to recover your media and distribution costs) whether as a stand-alone product, or as part of a compilation or anthology, nor to use it for supporting your business or customers. It may be distributed freely on any website or through any other distribution mechanism, as long as no part of it is changed in any way.
 
-The full license is available [here](https://www.end2endzone.com/wp-content/uploads/2015/01/bin2cpp-EULA.htm).
+The full license is available [here](/wp-content/uploads/2015/01/bin2cpp-EULA.htm).
 
 # History of changes
 

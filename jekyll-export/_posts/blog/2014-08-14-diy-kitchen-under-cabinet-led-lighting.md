@@ -81,11 +81,11 @@ You only need 3 LED connectors for this project. You need 2 connectors for linki
 
 As I said before, this project can be completed at a pretty cheap price. The total cost of the project is less than 30$. I had to say that I bought all major items (strips, dimmer and power supply) from ebay for a ridiculous amount of money. Don't make the mistake and buy this stuff at an electrical or lighting store because you could easily double or triple the cost of the project! Here is the detailed price of each items:
 
-- $8.13 - LED strips from ebay. See [screenshot here](https://www.end2endzone.com/wp-content/uploads/2014/08/LED-strip.png).
-- $2.29 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips from ebay. See [screenshot here](https://www.end2endzone.com/wp-content/uploads/2014/08/Connectors.png).
-- $7.15 - 36 Watts power supply from ebay. See [screenshot here](https://www.end2endzone.com/wp-content/uploads/2014/08/Power-supply.png).
+- $8.13 - LED strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/LED-strip.png).
+- $2.29 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/Connectors.png).
+- $7.15 - 36 Watts power supply from ebay. See [screenshot here](/wp-content/uploads/2014/08/Power-supply.png).
 - $0.00 - Power cord. (I had one lying around. I usually salvage all of them when recycling old appliance.
-- $6.02 - LED dimmer from ebay. See [screenshot here](https://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer.png).
+- $6.02 - LED dimmer from ebay. See [screenshot here](/wp-content/uploads/2014/08/Dimmer.png).
 - $1.25 - Power switch from the hardware store.
 - $2.00 - Colored wire (I used gauge 18awg) from dollar store
 - $1.00 - Double sided tape
@@ -102,7 +102,7 @@ The preparation time is simple, it requires to test all the circuit before fixin
 
 Construction steps are very simple. Screw, wire everything up and enjoy. Here is a picture of the circuit that you need to assemble:
 
-[![Circuit](https://www.end2endzone.com/wp-content/uploads/2014/08/Circuit.png)](https://www.end2endzone.com/wp-content/uploads/2014/08/Circuit.png)
+[![Circuit](/wp-content/uploads/2014/08/Circuit.png)](/wp-content/uploads/2014/08/Circuit.png)
 
 The design is pretty strait forward. There is only the location of the power switch that could be changed in the circuit. I decided to set the switch on the output side of the power supply instead of on the input side. This is to prevent having 120v going trough the switch and risking electrocuting myself when I switch it on. This option creates a permanent load on the power supply but it is better than the alternative. However, the power supply can last many years before failing.
 
@@ -110,7 +110,7 @@ The design is pretty strait forward. There is only the location of the power swi
 
 Understanding the connectors on the power supply left me puzzled. I have to admit that I had to search the internet to identify some connections.
 
-[![IMG_0270](https://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270-300x176.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/IMG_0270.jpg)
+[![IMG_0270](/wp-content/uploads/2014/08/IMG_0270-300x176.jpg)](/wp-content/uploads/2014/08/IMG_0270.jpg)
 
 The first two connections identified in red stands for "Live" (or "Hot") and "Neutral" wires. These are for the input power (120v). The next one is a ground connection for the wall power (if available). As the picture above shows it, the power supply can be powered without a ground connection but it is preferable to protect the unit. The two next connections labels as "COM" and "+V" stand for the 12v output power. The output connection label as "COM" is the negative side of the 12v. This is where you should connect the negative lead of the LED strip. The output "+V" is the positive side of the 12v. The section labeled as "+V ADJ" is the output voltage adjustment. It is important to verify with the multimeter that the output voltage is set to 12v (or close to) to prevent damaging the LED strip when connected. An adjustment screw can be turned to set the output voltage appropriately.
 
@@ -120,7 +120,7 @@ Connecting the power cord on the power supply is easy. You need to identify the 
 
 ## Dimmer connections
 
-[![Dimmer2](https://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg)
+[![Dimmer2](/wp-content/uploads/2014/08/Dimmer2.jpg)](/wp-content/uploads/2014/08/Dimmer2.jpg)
 
 The dimmer has 2 input connections and 2 output connections. The input connections are labeled as "Input V- and Input V+" and output connections are labelled as "Output V+ and Output V-". I think this is pretty obvious and does not requires any explanations.
 
@@ -131,38 +131,38 @@ This section defines how to connect all the components together. Connect the pow
 ## Deciding where to put your stuff
 
 {{< image-gallery >}}
-  [![DSC04072](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg)
-  [![DSC04068](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg)
-  [![DSC04060](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg)
-  [![DSC04062](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)
+  [![DSC04072](/wp-content/uploads/2014/08/DSC04072-300x300.jpg)](/wp-content/uploads/2014/08/DSC04072.jpg)
+  [![DSC04068](/wp-content/uploads/2014/08/DSC04068-300x300.jpg)](/wp-content/uploads/2014/08/DSC04068.jpg)
+  [![DSC04060](/wp-content/uploads/2014/08/DSC04060-300x300.jpg)](/wp-content/uploads/2014/08/DSC04060.jpg)
+  [![DSC04062](/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](/wp-content/uploads/2014/08/DSC04062.jpg)
 {{< /image-gallery >}}
 
 I wanted to position the switch at a location where is can be reached easily with your fingers but I also wanted the switch to be invisible to the eye. I decided to install the switch below the cabinets but hidden behind the front panel under the cabinets. For the same reasons, the dimmer is located at the same location. I used double sided tape to stick the dimmer and the power switch in place. The tape is strong enough to keep the switch in place even when someone is turning the lights on or off. I also decided to position the power supply below the cabinet, at the back. This location is close to the switch and the dimmer and is also well ventilated. The power supply has two holes for screwing the case to a wood surface. I used small length screws to screw the power to the cabinet's wood panel.
 
 Here is a view from below the cabinet:
 
-[![DSC04070](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04070.jpg)
+[![DSC04070](/wp-content/uploads/2014/08/DSC04070-1024x768.jpg)](/wp-content/uploads/2014/08/DSC04070.jpg)
 
 ## LED strip installation
 
 ### Cutting
 
-[![DSC04092](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png)
+[![DSC04092](/wp-content/uploads/2014/08/DSC04092.png)](/wp-content/uploads/2014/08/DSC04092.png)
 
 Since I have 3 kitchen cabinets, I had to cut 3 slices of strip. The strip can be cut safely at every 3 LEDs. Each cut point is identified by the contact points in copper.Simply cut in the middle of the contact points to leave enough copper for the 2-pins connectors. Use a flexible measuring tape to calculate the length of each cabinet and cut a section of the strip for each cabinet sections. If the length of the cabinet does not match a cut point, do not hesitate to get a smaller length since 3 missing LEDs wont make a difference. You just have to center the strip into the cabinet for proper lighting.
 
 ### Drilling
 
 {{< image-gallery >}}
-  [![DSC04085](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085-225x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg)
-  [![DSC04086](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086-225x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg)
+  [![DSC04085](/wp-content/uploads/2014/08/DSC04085-225x300.jpg)](/wp-content/uploads/2014/08/DSC04085.jpg)
+  [![DSC04086](/wp-content/uploads/2014/08/DSC04086-225x300.jpg)](/wp-content/uploads/2014/08/DSC04086.jpg)
 {{< /image-gallery >}}
 
 In order to get electricity from one cabinet to another, I had to drill holes in the bottom of the cabinet. This is the only intrusive change that I had to do for this project. I had to drill holes to get the wires above the kitchen hood and above the sink.
 
 ### Sticking
 
-[![DSC04084](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084-1024x388.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04084.jpg)
+[![DSC04084](/wp-content/uploads/2014/08/DSC04084-1024x388.jpg)](/wp-content/uploads/2014/08/DSC04084.jpg)
 
 Now is the time to stick the LEDs to the front plate of each cabinet. The opposite side of the LEDs is sticky and can be used to stick the LED to a wall surface. Make sure that the mounting surface is dry and clean since you won't have multiple tries before the surface loose the ability to stick to the wall. If the strip does not exactly match the length of the cabinet, make sure that you center the strip for appropriate lighting.
 
@@ -174,7 +174,7 @@ Use the connectors to link each strip together. The connectors are specifically 
 
 Here is the final result:
 
-[![IMG_6846](https://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg)
+[![IMG_6846](/wp-content/uploads/2014/08/IMG_6846-1024x683.jpg)](/wp-content/uploads/2014/08/IMG_6846.jpg)
 
 # Made anything differently?
 

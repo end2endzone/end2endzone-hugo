@@ -48,11 +48,11 @@ As I said earlier in [The Hobby Zone Super Cub LP RTF. A good beginner’s RC pl
 
 Here is some pictures of the wreckage
 
-[![Super Cub LP Crash (wings)](https://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641-1024x768.jpg "Super Cub LP Crash (wings)")](https://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg)
+[![Super Cub LP Crash (wings)](/wp-content/uploads/2014/09/DSC034641-1024x768.jpg "Super Cub LP Crash (wings)")](/wp-content/uploads/2014/09/DSC034641.jpg)
  
-[![Super Cub LP Crash (nose smashed)](https://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466-1024x768.jpg "Super Cub LP Crash (nose smashed)")](https://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg)
+[![Super Cub LP Crash (nose smashed)](/wp-content/uploads/2014/09/DSC03466-1024x768.jpg "Super Cub LP Crash (nose smashed)")](/wp-content/uploads/2014/09/DSC03466.jpg)
  
-[![Super Cub LP Crash (engine smashed)](https://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468-1024x768.jpg "Super Cub LP Crash (engine smashed)")](https://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg)
+[![Super Cub LP Crash (engine smashed)](/wp-content/uploads/2014/09/DSC03468-1024x768.jpg "Super Cub LP Crash (engine smashed)")](/wp-content/uploads/2014/09/DSC03468.jpg)
 
 # Final note
 

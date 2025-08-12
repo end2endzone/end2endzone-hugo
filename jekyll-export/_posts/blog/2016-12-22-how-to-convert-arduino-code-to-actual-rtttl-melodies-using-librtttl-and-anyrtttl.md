@@ -53,7 +53,7 @@ Source code:
 
 - Youtube: [http://www.youtube.com/watch?v=vrzQU\_QbQ5U](http://www.youtube.com/watch?v=vrzQU_QbQ5U)
 - Code from pastebin: <http://pastebin.com/q76D0asp>
-- Cache version here: [FULL Game of Thrones Theme Song on Arduino](https://www.end2endzone.com/wp-content/uploads/2016/05/FULL-Game-of-Thrones-Theme-Song-on-Arduino.ino)
+- Cache version here: [FULL Game of Thrones Theme Song on Arduino](/wp-content/uploads/2016/05/FULL-Game-of-Thrones-Theme-Song-on-Arduino.ino)
 
 Modify the code by adding the *"Arduino tone and delay functions overrides"* to the code. Once done, the code should be looking like this:
 
@@ -83,7 +83,7 @@ Source code:
 
 - Instructables: <http://www.instructables.com/id/How-to-easily-play-music-with-buzzer-on-arduino-Th/>
 - Code from pasted: <http://pasted.co/e525c1b2>
-- Cache version here: [Star\_Wars\_-\_The\_imperial\_March](https://www.end2endzone.com/wp-content/uploads/2016/05/Star_Wars_-_The_imperial_March.ino)
+- Cache version here: [Star\_Wars\_-\_The\_imperial\_March](/wp-content/uploads/2016/05/Star_Wars_-_The_imperial_March.ino)
 
 Modify the code by adding the "*Arduino tone and delay functions overrides*" to the code. Once done, the code should be looking like this:
 
@@ -113,7 +113,7 @@ Source code:
 
 - GitHub: <https://github.com/tsukisan/Arduino/blob/master/WiiClassicSoundboard/WiiClassicSoundboard.ino>
 - Code from GitHub: <https://raw.githubusercontent.com/tsukisan/Arduino/master/WiiClassicSoundboard/WiiClassicSoundboard.ino>
-- Cache version here: [WiiClassicSoundboard - Super Mario Bros. themes](https://www.end2endzone.com/wp-content/uploads/2016/11/WiiClassicSoundboard.ino)
+- Cache version here: [WiiClassicSoundboard - Super Mario Bros. themes](/wp-content/uploads/2016/11/WiiClassicSoundboard.ino)
 
 Modify the code by adding the "*Arduino tone and delay functions overrides*" to the code. Once done, the code should be looking like this:
 

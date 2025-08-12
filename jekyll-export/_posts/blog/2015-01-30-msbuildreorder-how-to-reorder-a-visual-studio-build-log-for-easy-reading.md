@@ -39,7 +39,7 @@ It's main features are:
 
 # Screenshot
 
-[![msbuildreorder screenshot](https://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot-300x130.png "msbuildreorder screenshot")](https://www.end2endzone.com/wp-content/uploads/2015/01/msbuildreorder-screenshot.png)
+[![msbuildreorder screenshot](/wp-content/uploads/2015/01/msbuildreorder-screenshot-300x130.png "msbuildreorder screenshot")](/wp-content/uploads/2015/01/msbuildreorder-screenshot.png)
 
 # Download
 
@@ -74,7 +74,7 @@ MSBuildReorder is only available for the Windows platform and has been tested wi
 
 MSBuildReorder is being distributed as Freeware for personal, commercial use, non-profit organization, and educational purpose. It may be included with CD-ROM/DVD-ROM distributions. You are NOT allowed to make a charge for distributing this Software (either for profit or merely to recover your media and distribution costs) whether as a stand-alone product, or as part of a compilation or anthology, nor to use it for supporting your business or customers. It may be distributed freely on any website or through any other distribution mechanism, as long as no part of it is changed in any way.
 
-The full license is available [here](https://www.end2endzone.com/wp-content/uploads/2015/01/MSBuildReorder-EULA.htm).
+The full license is available [here](/wp-content/uploads/2015/01/MSBuildReorder-EULA.htm).
 
 # History of changes
 

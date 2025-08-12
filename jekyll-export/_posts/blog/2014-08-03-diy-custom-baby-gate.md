@@ -66,15 +66,15 @@ The easiest to begin with is to start with the posts. A total of 11 posts are ne
 
 The following picture explains it better:
 
-[![IMG_9277](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9277-300x200.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9277.jpg)
+[![IMG_9277](/wp-content/uploads/2014/07/IMG_9277-300x200.jpg)](/wp-content/uploads/2014/07/IMG_9277.jpg)
 
 Then cut two sleeve each one of a total length of 50 inches for the top and bottom of the gate. Cut a 2x4 board with a length of 33½ inches for attachment to the boom. This piece is used to avoid damaging the ramp to fix the latch on the gate. A cut of about 1 inch wide (the width of the stair railing) must be done in order to board the jam by a slight pressure. A 45 degrees notch is also made to property accommodate the gate when it is closed.
 
 The picture explains in detail the reasoning:
 
-[![IMG_9303](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9303-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9303.jpg)
+[![IMG_9303](/wp-content/uploads/2014/07/IMG_9303-200x300.jpg)](/wp-content/uploads/2014/07/IMG_9303.jpg)
 
-[![IMG_9290](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9290-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9290.jpg)
+[![IMG_9290](/wp-content/uploads/2014/07/IMG_9290-200x300.jpg)](/wp-content/uploads/2014/07/IMG_9290.jpg)
 
 Sand all parts before assembly.
 
@@ -86,17 +86,17 @@ There is nothing special to say to assemble the posts. Each one is screwed to th
 
 The innovation of this baby gate is related to the means used for fixing to the rail. This solution is not intrusive and does not leave a mark on the ramp when the barrier will no longer be necessary. No attachments or adhesive is required and the whole is as strong as the ramp. The ramp is composed of two vertical bars on each side of the horizontal rail.
 
-[![IMG_9308](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9308-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9308.jpg)
+[![IMG_9308](/wp-content/uploads/2014/07/IMG_9308-200x300.jpg)](/wp-content/uploads/2014/07/IMG_9308.jpg)
 
 The 2x4 board piece is fixed by pressure to avoid leaving a trace on the stair ramp once removed. Since the ramp is composed of two bars, I decided to screw a piece of wood in the bottom of the board that will fit between the bars to ensure that the board remains vertical and its place in the opening and closing of the barrier.
 
-[![IMG_9295](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9295-300x200.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9295.jpg)
+[![IMG_9295](/wp-content/uploads/2014/07/IMG_9295-300x200.jpg)](/wp-content/uploads/2014/07/IMG_9295.jpg)
 
 ## **Dying**
 
 Once assembly is complete, you only have to dye the wood to the right color.
 
-[![DSC02242](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02242-300x225.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02242.jpg)
+[![DSC02242](/wp-content/uploads/2014/07/DSC02242-300x225.jpg)](/wp-content/uploads/2014/07/DSC02242.jpg)
 
 When you apply a dye, you must be careful not to judge the appearance of the dye when it is dry. A dye like the photos has a brown-purple appearance when applied on wood and wet.
 
@@ -110,9 +110,9 @@ For mounting on the wall, I used one of the bars that will be screwed into the w
 
 Here is the final result:
 
-[![DSC02297](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02297-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02297.jpg)
+[![DSC02297](/wp-content/uploads/2014/07/DSC02297-1024x768.jpg)](/wp-content/uploads/2014/07/DSC02297.jpg)
 
-[![DSC02299](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299-768x1024.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299.jpg)
+[![DSC02299](/wp-content/uploads/2014/07/DSC02299-768x1024.jpg)](/wp-content/uploads/2014/07/DSC02299.jpg)
 
 # **Made anything differently?**
 
@@ -120,7 +120,7 @@ Here is the final result:
 
 I was not convinced of the feasibility of the barrier when I started this project and so I did not do things in the right order. I was also too hurry to see the final product so I didn't dye the wood before assembling it.
 
-[![DSC02216](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02216-300x225.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02216.jpg)
+[![DSC02216](/wp-content/uploads/2014/07/DSC02216-300x225.jpg)](/wp-content/uploads/2014/07/DSC02216.jpg)
 
 It would have been normal to dye the wood before assembly to avoid areas that are not accessible or impossible to dye. Dying the wood each piece at a time would have been more uniform and would have avoided drops everywhere. However, these details are not visible to more than 3 meters from the barrier.
 

@@ -72,11 +72,11 @@ The [RCA connector](https://www.google.ca/search?q=RCA+connectors&tbm=isch)s use
 
 Like the kitchen project, this project can be completed at a pretty cheap price. The total cost of the project is less than 35$. Here is the detailed price of each items:
 
-- $8.13 - LED strips from ebay. See [screenshot here](https://www.end2endzone.com/wp-content/uploads/2014/08/LED-strip.png).
-- $2.29 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips from ebay. See [screenshot here](https://www.end2endzone.com/wp-content/uploads/2014/08/Connectors.png).
-- $7.15 - 36 Watts power supply from ebay. See [screenshot here](https://www.end2endzone.com/wp-content/uploads/2014/08/Power-supply.png).
+- $8.13 - LED strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/LED-strip.png).
+- $2.29 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/Connectors.png).
+- $7.15 - 36 Watts power supply from ebay. See [screenshot here](/wp-content/uploads/2014/08/Power-supply.png).
 - $0.00 - Power cord. (I have many lying around)
-- $6.02 - LED dimmer from ebay. See [screenshot here](https://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer.png).
+- $6.02 - LED dimmer from ebay. See [screenshot here](/wp-content/uploads/2014/08/Dimmer.png).
 - $3.98 - 3-way power switch from the hardware store.
 - $4.00 - Colored wire (I used gauge 18awg) from dollar store
 - $0.00 - Male and Female [RCA connectors](https://www.google.ca/search?q=RCA+connectors&tbm=isch) (I have many lying around)
@@ -93,7 +93,7 @@ The preparation time is simple, it requires to test all the circuit before fixin
 
 Construction steps are very simple. Screw, wire everything up and enjoy. Here is a picture of the circuit that you need to assemble:
 
-[![Bedroom led lighting circuit](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)](https://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)
+[![Bedroom led lighting circuit](/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)](/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)
 
 # Testing everything together
 
@@ -105,7 +105,7 @@ This section defines the basic reasons that lead to the final design.
 
 ### Orientation of the LEDs
 
-[![IMG_7135](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg)
+[![IMG_7135](/wp-content/uploads/2014/09/IMG_7135-200x300.jpg)](/wp-content/uploads/2014/09/IMG_7135.jpg)
 
 The location of the LEDs is obvious. However, I didn't know if I had to stick the LEDs facing down or facing out of the base. If you stick the LEDs facing out, all the lower section of the room get illuminated but the light does not go as high as if the LEDs were facing down. Turns out that best method for me was to stick them facing down. Choose the option that is best for you. 
 
@@ -113,13 +113,13 @@ The location of the LEDs is obvious. However, I didn't know if I had to stick th
 
 ### Switches
 
-[![IMG_7125](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg)
+[![IMG_7125](/wp-content/uploads/2014/09/IMG_7125-1024x683.jpg)](/wp-content/uploads/2014/09/IMG_7125.jpg)
 
 I had a hard time figuring out where I would put the switches and the dimmer. They had to be freely available and I wanted to be able to find the switches with my hands only, without having to take a look first. You will turn them on in the middle of the night when not fully awake! My first idea was to install the switch through the headboard by drilling small holes the size of the switch and use switch plates to cover everything. That was not accepted as a viable solution because we though that it will be too intrusive. It would also be hard finding the switch in almost total darkness. I opted to position the circuit of the switches at the same level than the bed's headboard. The moving part of the switch is raised a little bit above the headboard. This option is perfect because it is really easy to turn on the lights even when lying on the bed. You simply have to slide your hand on the top of the headboard from left to right (or right to left).
 
 ### Dimmer
 
-[![IMG_7099](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg)
+[![IMG_7099](/wp-content/uploads/2014/09/IMG_7099-200x300.jpg)](/wp-content/uploads/2014/09/IMG_7099.jpg)
 
 The dimmer is not always used in this setup. Most of the time, you want the light to be set at the minimum brightness level. In some scenarios, you will want to get more light and you will have to turn the knob of the dimmer. For this reason, I decided to position the dimmer behind the headboard. It cannot be reached when lying on the bed but it can still be reached when sitting/standing face to the headboard.
 
@@ -127,19 +127,19 @@ The dimmer is not always used in this setup. Most of the time, you want the ligh
 
 ### Cutting
 
-[![DSC04092](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png)](https://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png)
+[![DSC04092](/wp-content/uploads/2014/08/DSC04092.png)](/wp-content/uploads/2014/08/DSC04092.png)
 
 I had to cut 3 slices of strip, one for each side of the base. The strip can be cut safely at every 3 LEDs. Each cut point is identified by the contact points in copper. Simply cut in the middle of the contact points to leave enough copper for the 2-pins connectors. Use a measuring tape to calculate the length of each side of the base. If the length of the base does not match a cut point, do not hesitate to get a smaller length since 3 missing LEDs wont make a difference.
 
 ### Sticking
 
-[![IMG_7136](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136-1024x683.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg)
+[![IMG_7136](/wp-content/uploads/2014/09/IMG_7136-1024x683.jpg)](/wp-content/uploads/2014/09/IMG_7136.jpg)
 
 Now is the time to stick the LEDs to the base of the bed. The opposite side of the LEDs is sticky and can be used to stick the LED to a surface. Make sure that the mounting surface is dry and clean since you won't have multiple tries before the surface loose the ability to stick to the wall. If the strip does not exactly match the length of the base, make sure that you center the strip for appropriate lighting.I used decided to use hot glue for securing the beginning of the strip to the base of the bed. This is a good idea in case I forget to disconnect the strip from the main circuit when moving the base away from the headboard. The glue will hold the strip in place and prevent any damage.
 
 ### Connecting
 
-![IMG_7133](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133-1024x683.jpg)
+![IMG_7133](/wp-content/uploads/2014/09/IMG_7133-1024x683.jpg)
 
 Use the connectors to link each strip together. The connectors are specifically designed for connecting LED strip together. You just have to open a door, slide the strip in place and close the door which will hold the strip in place. When linking the strip together, make sure that you align the positive (red) and negative (black) leads of the strip with the appropriate color code of the connector. I also used hot glue for holding the connector on the base and prevent any loose or hanging wires. We do have 2 cats living with us and that is a good idea to make sure this does not look like a cat toy :)
 
@@ -147,7 +147,7 @@ Use the connectors to link each strip together. The connectors are specifically 
 
 Here is the final result:
 
-[![DIY Bedroom under the bed led lighting](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846-1024x683.jpg "DIY Bedroom under the bed led lighting")](https://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg)
+[![DIY Bedroom under the bed led lighting](/wp-content/uploads/2014/09/IMG_0846-1024x683.jpg "DIY Bedroom under the bed led lighting")](/wp-content/uploads/2014/09/IMG_0846.jpg)
 
 # Made anything differently?
 

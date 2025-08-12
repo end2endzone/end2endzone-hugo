@@ -27,4 +27,4 @@ Suite à [ce vidéo](/visualiser-la-rotation-de-la-terre-en-video/), j'ai aussi 
 
 **Voici le résultat:**
 
-[![Star Trails over the woods of Mirabel](https://www.end2endzone.com/wp-content/uploads/2015/08/StarStaX_IMG_5753-IMG_6050_lighten_e2ez-672x448.jpg "Star Trails over the woods of Mirabel")](https://www.flickr.com/photos/154618444@N05/37690259711/in/dateposted-public/)
+[![Star Trails over the woods of Mirabel](/wp-content/uploads/2015/08/StarStaX_IMG_5753-IMG_6050_lighten_e2ez-672x448.jpg "Star Trails over the woods of Mirabel")](https://www.flickr.com/photos/154618444@N05/37690259711/in/dateposted-public/)

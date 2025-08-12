@@ -64,13 +64,13 @@ Les étapes de construction sont très simple. Il suffit de couper et assembler.
 
 Le plus facile est de commencer par les poteaux. Au total, 11 poteaux sont nécessaires. dont 1 pour la fixation au mur et un second pour l'attache à la barrière. Il s'agit de couper 11 barreaux de 2 par 2 d'une longueur de 35¾ pouces. Le premier barreau de la barrière est particulier. Il doit être coupé dans un angle de 45 degrés mais pas de façon à faire un triangle mais plutôt une figure à 5 cotés. Le côté à 45 degrés doit avoir la même longueur que la penture. Le but est de faciliter la fixation au mur dans l'étape d'assemblage. La photo suivante l'explique plus facilement:
 
-[![IMG_9277](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9277-300x200.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9277.jpg)
+[![IMG_9277](/wp-content/uploads/2014/07/IMG_9277-300x200.jpg)](/wp-content/uploads/2014/07/IMG_9277.jpg)
 
 Ensuite couper 2 planches d'une longueur de 50 pouces pour le haut et le bas de la barrière. Couper une planche de 2x4 d'une longueur de 33½ pouces pour la fixation à la rampe. Ce morceau sert à éviter d’abîmer la rampe d'escalier pour fixer le loquet de la barrière. Une entaille d'environ 1 pouce de large (la largeur de la rampe d'escalier) doit être fait dans la planche afin de la coincer par une légère pression à la rampe d'escalier. Une entaille à 45 degrés est aussi fait afin de bien accueillir la barrière lorsque celle-ci est fermée. La photo explique en détail le raisonnement:
 
-[![IMG_9303](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9303-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9303.jpg)
+[![IMG_9303](/wp-content/uploads/2014/07/IMG_9303-200x300.jpg)](/wp-content/uploads/2014/07/IMG_9303.jpg)
 
-![IMG_9290](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9290-200x300.jpg)
+![IMG_9290](/wp-content/uploads/2014/07/IMG_9290-200x300.jpg)
 
 Sabler toutes les pièces avant l'assemblage.
 
@@ -82,17 +82,17 @@ Il n'y a rien de spécial à dire pour l'assemblage des barreaux. Chacun est esp
 
 L'innovation de cette barrière pour bébé est attribuée au moyen utilisé pour la fixation à la rampe. En effet, celle-ci n'est pas intrusive et ne laissera pas de marque sur la rampe lorsque la barrière ne serait plus nécessaire. Aucune attache ou colle est nécessaire et l'ensemble est aussi solide qu'auparavant. La rampe est composée de 2 barreaux verticaux situés de chaque côté de la rampe horizontal.
 
-[![IMG_9308](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9308-200x300.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9308.jpg)
+[![IMG_9308](/wp-content/uploads/2014/07/IMG_9308-200x300.jpg)](/wp-content/uploads/2014/07/IMG_9308.jpg)
 
 La planche de 2x4 se fixe par pression à la rampe d'escalier afin d'éviter de laisser une trace sur la rampe d'escalier une fois enlevée. Puisque la rampe d'escalier est composé de deux barreaux, j'ai décidé de visser un morceau de bois dans le bas de la planche qui va s'encastrer entre les barreaux pour assurer que la planche reste verticale et à sa place à l'ouverture et la fermeture de la barrière.
 
-[![IMG_9295](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9295-300x200.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9295.jpg)
+[![IMG_9295](/wp-content/uploads/2014/07/IMG_9295-300x200.jpg)](/wp-content/uploads/2014/07/IMG_9295.jpg)
 
 ## Teinture
 
 Une fois l'assemblage terminé, il ne reste qu'à teindre le bois à la bonne couleur.
 
-[![DSC02242](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02242-300x225.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02242.jpg)
+[![DSC02242](/wp-content/uploads/2014/07/DSC02242-300x225.jpg)](/wp-content/uploads/2014/07/DSC02242.jpg)
 
 Lorsque vous appliquez une teinture, vous devez faire attention de ne pas la juger à son apparence lorsqu'elle n'est pas sèche. En effet, une teinture comme celle sur les photos est d'une apparence brun-mauve lorsqu'elle est appliquée sur le bois.
 
@@ -106,9 +106,9 @@ Pour la fixation au mur, j'ai utilisé 1 des barreaux qui sera vissé dans le mu
 
 Voici le résultat final:
 
-[![DSC02297](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02297-1024x768.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02297.jpg)
+[![DSC02297](/wp-content/uploads/2014/07/DSC02297-1024x768.jpg)](/wp-content/uploads/2014/07/DSC02297.jpg)
 
-[![DSC02299](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299-768x1024.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299.jpg)
+[![DSC02299](/wp-content/uploads/2014/07/DSC02299-768x1024.jpg)](/wp-content/uploads/2014/07/DSC02299.jpg)
 
 # Quoi recommencer autrement ?
 
@@ -116,7 +116,7 @@ Voici le résultat final:
 
 Je n'étais pas convaincu de la faisabilité de la barrière lorsque j'ai débuté ce projet et je n'ai donc pas fait les choses dans le bon ordre.J'avais aussi trop hâte de voir le produit final. J'ai donc omis de teindre le bois avant de l'assembler.
 
-[![DSC02216](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02216-300x225.jpg)](https://www.end2endzone.com/wp-content/uploads/2014/07/DSC02216.jpg)
+[![DSC02216](/wp-content/uploads/2014/07/DSC02216-300x225.jpg)](/wp-content/uploads/2014/07/DSC02216.jpg)
 
 Il aurait été normal de teindre le bois avant de l'assembler afin d'éviter d'avoir des zones inaccessibles et impossible à teindre. De plus cela aurait permis d'avoir une teinture uniforme et évité d'avoir des coulisses un peu partout. Ces détails ne sont plus visibles à plus de 3 mètres de la barrière.
 

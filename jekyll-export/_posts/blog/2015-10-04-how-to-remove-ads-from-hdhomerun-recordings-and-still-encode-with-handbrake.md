@@ -46,7 +46,7 @@ By default, VirtualDub is only able to read AVI files which is not helpful becau
 
 ## Open video file in Virtualdub
 
-[![VirtualDub default video](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg "VirtualDub default video")](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-default-video.jpg)
+[![VirtualDub default video](/wp-content/uploads/2015/10/VirtualDub-default-video.jpg "VirtualDub default video")](/wp-content/uploads/2015/10/VirtualDub-default-video.jpg)
 
 1. Click on *File* menu.
 2. Click on *Open video file...*
@@ -57,11 +57,11 @@ By default, VirtualDub is only able to read AVI files which is not helpful becau
 Virtualdub is the best video editing application I know. It support video resizing, splitting, joining, filters but mostly removing ADS!
 
 1. Move the cursor to the first frame of an ad. Note: you can use your keyboard arrows to move 1 frame forward or backward to set the cursor at the exact desired frame.
-2. Click on *Edit* menu and select *Set Selection Start* to mark the beginning of the ad. You can also press the [![VirtualDub Set Selection Start](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-Start.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-Start.jpg) button.
+2. Click on *Edit* menu and select *Set Selection Start* to mark the beginning of the ad. You can also press the [![VirtualDub Set Selection Start](/wp-content/uploads/2015/10/VirtualDub-Set-Selection-Start.jpg)](/wp-content/uploads/2015/10/VirtualDub-Set-Selection-Start.jpg) button.
 3. Move the cursor to the last frame of the same ad.
-4. Click on *Edit* menu and select *Set Selection End* to mark the end of the ad. You can also press the [![VirtualDub Set Selection End](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg)](https://www.end2endzone.com/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg) button.
+4. Click on *Edit* menu and select *Set Selection End* to mark the end of the ad. You can also press the [![VirtualDub Set Selection End](/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg)](/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg) button.
 5. This will highlight the area that will be cut out of the final video:
-[![Virtualdub Selection](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg "Virtualdub Selection")](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Selection.jpg)
+[![Virtualdub Selection](/wp-content/uploads/2015/10/Virtualdub-Selection.jpg "Virtualdub Selection")](/wp-content/uploads/2015/10/Virtualdub-Selection.jpg)
 6. Click on *Edit* menu and select *Delete* to remove the selection from the video. You can also press the *Delete* key on your keyboard.
 7. Repeat all steps for each ads.
 
@@ -69,7 +69,7 @@ Virtualdub is the best video editing application I know. It support video resizi
 
 You need to select an appropriate video codec for saving the temporary file. You may be aware that most video codec makes approximation and even tries to encode "movement" in the stream to maximize compression. However, they loose quality (some less than other) during each encoding. To prevent any quality loss, a lossless video codec must be selected. As it's name implies, the Lagarith video codec is lossless which means that it does not loose quality each time you re-encode a new video.
 
-[![Virtualdub Lagarith Lossless Video Codec Selection](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg "Virtualdub Lagarith Lossless Video Codec Selection")](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg)
+[![Virtualdub Lagarith Lossless Video Codec Selection](/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg "Virtualdub Lagarith Lossless Video Codec Selection")](/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg)
 
 1. Click on *Video* menu and select *Compression*...
 2. Select **Lagarith Lossless Video Codec:**
@@ -82,7 +82,7 @@ There is no need to use any compression codec for the audio. A typical TV show i
 
 ## Save a temporary file
 
-[![Virtualdub encoding](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-encoding.jpg "Virtualdub encoding")](https://www.end2endzone.com/wp-content/uploads/2015/10/Virtualdub-encoding.jpg)
+[![Virtualdub encoding](/wp-content/uploads/2015/10/Virtualdub-encoding.jpg "Virtualdub encoding")](/wp-content/uploads/2015/10/Virtualdub-encoding.jpg)
 
 1. Click on File menu and select Save as AVI...
 2. Wait for the process to complete.
@@ -91,7 +91,7 @@ There is no need to use any compression codec for the audio. A typical TV show i
 
 Now you got a nice TV show episode without any ads. Just open the file in Handbrake and encode using your favorite video parameters.
 
-[![Handbrake video settings](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg "Handbrake video settings")](https://www.end2endzone.com/wp-content/uploads/2015/10/Handbrake-video-settings.jpg)
+[![Handbrake video settings](/wp-content/uploads/2015/10/Handbrake-video-settings.jpg "Handbrake video settings")](/wp-content/uploads/2015/10/Handbrake-video-settings.jpg)
 
 # What you get
 

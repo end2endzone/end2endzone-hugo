@@ -44,27 +44,27 @@ The DIY solution consist of adding two devices on the quadcopter each device for
 
 ## 10 watts LED
 
-[![10 Watt LEDs](https://www.end2endzone.com/wp-content/uploads/2016/07/10-Watt-LEDs-300x169.jpg "10 Watt LEDs")](https://www.end2endzone.com/wp-content/uploads/2016/07/10-Watt-LEDs.jpg)
+[![10 Watt LEDs](/wp-content/uploads/2016/07/10-Watt-LEDs-300x169.jpg "10 Watt LEDs")](/wp-content/uploads/2016/07/10-Watt-LEDs.jpg)
 
 The first device is a 10 watts light-emitting diode (LED) mounted to the front of the quadcopter. This option adds to existing visual aids and help the pilot to develop his situation awareness. The front LED allows the pilot to know when the quadcopter is facing him and help the pilot recover in case of lost orientation. This type of LED is quite bright and provides 900 to 1000 lumens of light which makes it a good candidate to be seen from far away. As an example, here is a picture of the LED mounted to the quadcopter seen from 333 meters away.
 
-[![Quadcopter 10 watts LED seen from 333 meters away](https://www.end2endzone.com/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-on-from-333-meters.png "Quadcopter 10 watts LED seen from 333 meters away")](https://www.end2endzone.com/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-on-from-333-meters.png)
+[![Quadcopter 10 watts LED seen from 333 meters away](/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-on-from-333-meters.png "Quadcopter 10 watts LED seen from 333 meters away")](/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-on-from-333-meters.png)
 
 To help locate the LED location, here is the same point of view with the LED turned off:
 
-[![Quadcopter 10 watts LED OFF](https://www.end2endzone.com/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-off-from-333-meters.png "Quadcopter 10 watts LED OFF")](https://www.end2endzone.com/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-off-from-333-meters.png)
+[![Quadcopter 10 watts LED OFF](/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-off-from-333-meters.png "Quadcopter 10 watts LED OFF")](/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-off-from-333-meters.png)
 
-Note that both images are cropped version of [the original image](https://www.end2endzone.com/wp-content/uploads/2016/07/10w-Quadcopter-LED-full-image.jpg) which have a much bigger field-of-view.
+Note that both images are cropped version of [the original image](/wp-content/uploads/2016/07/10w-Quadcopter-LED-full-image.jpg) which have a much bigger field-of-view.
 
 ## Lost plane alarm finder
 
-[![Piezoelectric Buzzer - Audible Alarm Sound Buzzers](https://www.end2endzone.com/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers-300x169.jpg "Piezoelectric Buzzer - Audible Alarm Sound Buzzers")](https://www.end2endzone.com/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers.jpg)
+[![Piezoelectric Buzzer - Audible Alarm Sound Buzzers](/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers-300x169.jpg "Piezoelectric Buzzer - Audible Alarm Sound Buzzers")](/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers.jpg)
 
 The second device is a 95 decibel (dB) [piezoelectric speaker](http://en.wikipedia.org/wiki/Piezoelectric_speaker). This allows the quadcopter to be easily found in case of a crash or an emergency landing. For example, if one enter [Failsafe mode](http://wiki.dji.com/en/index.php/Naza-M_Enhanced_Failsafe), the quadcopter can land immediately (or [Return To Home](http://wiki.dji.com/en/index.php/Inspire_1_Pro-Return_to_Home_(RTH)) but that is out of scope) and there is a good chance that it will be far from your takeoff location. Tracking a beep-beep-beep sound is much more easier than estimating the landing location 1 km away. There are already tons of existing options for a search alarm buzzer on the market, each with their own pros and cons. [Some buzzer](http://www.hobbyking.com/hobbyking/store/__14521__HobbyKing_174_Discovery_Buzzer.html) must be connected to a dedicated channel and make sound when flipping a switch on your controller. [Others](http://www.hobbyking.com/hobbyking/store/__13064__Signal_loss_Alarm_Lost_Plane_Finder.html) must be connected in series with the throttle channel and rings if the throttle signal has not changed for more than 60 seconds. However, I prefer the [DIY way](/tag/diy/) since it gives more personal satisfaction and the selected option is always the preferred one for my personal needs. With the DIY route, the piezo buzzer is much louder reaching peaks of 96 dB instead of 60-70 dB since the piezo is powered by the LiPo battery (in my case a 3S 11.1 volts) instead of a poor 5 volts. The sound volume for piezo buzzer is proportional to the voltage used to power the device meaning that a 4S LiPo battery (14.8v) would make it louder than a 3S LiPo.
 
 ## Microcontroller
 
-[![Arduino Nano v3](https://www.end2endzone.com/wp-content/uploads/2016/07/Arduino-Nano-v3-300x169.jpg "Arduino Nano v3")](https://www.end2endzone.com/wp-content/uploads/2016/07/Arduino-Nano-v3.jpg)
+[![Arduino Nano v3](/wp-content/uploads/2016/07/Arduino-Nano-v3-300x169.jpg "Arduino Nano v3")](/wp-content/uploads/2016/07/Arduino-Nano-v3.jpg)
 
 What is different about this project is that it includes an [arduino nano v3](http://www.arduino.cc/en/Main/ArduinoBoardNano), which is a microcontroller. The arduino act as the brain between the pilot and the on-board devices. It allows control of both the LED and the piezo buzzer by reading the quadcopter's receiver signal and forwarding the pilot commands to each device. This configuration offers much more possibilities. The most obvious is that each device is controlled by the microcontroller instead of a direct channel. This allows advanced logic to be used to implement more features. As an example, I don't want the LED always turned ON and certainly don't need to have the alarm buzzing during the flight when everything is going well. So I had to come up with a way to control both devices with the transmitter. The big innovation about this project is that **both devices** are controlled by the quadcopter transmitter using only a **single** channel. As bonus points, with the help of the arduino, the piezo buzzer can be used as a "cellphone ringtone player" to ring the geekiest melodies...
 
@@ -78,29 +78,29 @@ The material for this project is as follows:
 
 | Image | Description | Qty |
 |---|---|---|
-| [![Arduino Nano v3](https://www.end2endzone.com/wp-content/uploads/2016/07/Arduino-Nano-v3-150x84.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/07/Arduino-Nano-v3.jpg) | Arduino Nano v3 | 1 |
-| [![Piezoelectric Buzzer - Audible Alarm Sound Buzzers](https://www.end2endzone.com/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers-150x84.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers.jpg) | Piezoelectric Buzzer | 1 |
-| [![10 Watt LEDs](https://www.end2endzone.com/wp-content/uploads/2016/07/10-Watt-LEDs-150x84.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/07/10-Watt-LEDs.jpg) | 10 Watt LEDs | 1 |
-| [![MR16 12v 10w LED Driver](https://www.end2endzone.com/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver-150x84.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver.jpg) | MR16 Constant Current LED Driver (12v 10w) | 1 |
-| [![IRF630N N-Channel 200V, 9.3A, 0.30-Ohm TO-220AB Power Mosfet](https://www.end2endzone.com/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet-150x84.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet.jpg) | N-Channel TO-220AB Power Mosfet (IRF630N, 200V, 9.3A, 0.30-Ohm) | 2 |
-| [![20CM Male to Male Servo Extension Lead Wire Cable](https://www.end2endzone.com/wp-content/uploads/2016/07/20CM-Male-Servo-Extension-Lead-Wire-Cable-150x126.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/07/20CM-Male-Servo-Extension-Lead-Wire-Cable.jpg) | 20cm Male Servo Extension Lead Wire Cable | 1 |
-| [![Female JST Battery Connector](https://www.end2endzone.com/wp-content/uploads/2016/07/Female-JST-Battery-Connector-150x84.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/07/Female-JST-Battery-Connector.jpg) | Female JST battery connector | 1 |
-| [![Single Side 5x7cm Prototyping Stripboard](https://www.end2endzone.com/wp-content/uploads/2016/07/Single-Side-5x7cm-Prototyping-Stripboard-150x84.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/07/Single-Side-5x7cm-Prototyping-Stripboard.jpg) | Single Side 5x7cm Prototyping Stripboard | 1 |
-| [![10k resistor](https://www.end2endzone.com/wp-content/uploads/2016/07/10k-resistor-150x85.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/07/10k-resistor.jpg) | 10k Ohm Resistor | 2 |
-| [![Wire](https://www.end2endzone.com/wp-content/uploads/2016/07/Wire-150x84.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/07/Wire.jpg) | Wires | 1 |
-| [![Wrapping Foam](https://www.end2endzone.com/wp-content/uploads/2016/08/Wrapping-Foam-150x84.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/08/Wrapping-Foam.jpg) | Wrapping foam | 1 |
-| [![Wood BBQ Skewers](https://www.end2endzone.com/wp-content/uploads/2016/08/Wood-BBQ-Skewers-150x112.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/08/Wood-BBQ-Skewers.jpg) | Wood BBQ Skewers | 2 |
-| [![CCPM Servo Tester](https://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester-150x150.jpg)](https://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg) | CCPM-Servo-Tester | 1 |
+| [![Arduino Nano v3](/wp-content/uploads/2016/07/Arduino-Nano-v3-150x84.jpg)](/wp-content/uploads/2016/07/Arduino-Nano-v3.jpg) | Arduino Nano v3 | 1 |
+| [![Piezoelectric Buzzer - Audible Alarm Sound Buzzers](/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers-150x84.jpg)](/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers.jpg) | Piezoelectric Buzzer | 1 |
+| [![10 Watt LEDs](/wp-content/uploads/2016/07/10-Watt-LEDs-150x84.jpg)](/wp-content/uploads/2016/07/10-Watt-LEDs.jpg) | 10 Watt LEDs | 1 |
+| [![MR16 12v 10w LED Driver](/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver-150x84.jpg)](/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver.jpg) | MR16 Constant Current LED Driver (12v 10w) | 1 |
+| [![IRF630N N-Channel 200V, 9.3A, 0.30-Ohm TO-220AB Power Mosfet](/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet-150x84.jpg)](/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet.jpg) | N-Channel TO-220AB Power Mosfet (IRF630N, 200V, 9.3A, 0.30-Ohm) | 2 |
+| [![20CM Male to Male Servo Extension Lead Wire Cable](/wp-content/uploads/2016/07/20CM-Male-Servo-Extension-Lead-Wire-Cable-150x126.jpg)](/wp-content/uploads/2016/07/20CM-Male-Servo-Extension-Lead-Wire-Cable.jpg) | 20cm Male Servo Extension Lead Wire Cable | 1 |
+| [![Female JST Battery Connector](/wp-content/uploads/2016/07/Female-JST-Battery-Connector-150x84.jpg)](/wp-content/uploads/2016/07/Female-JST-Battery-Connector.jpg) | Female JST battery connector | 1 |
+| [![Single Side 5x7cm Prototyping Stripboard](/wp-content/uploads/2016/07/Single-Side-5x7cm-Prototyping-Stripboard-150x84.jpg)](/wp-content/uploads/2016/07/Single-Side-5x7cm-Prototyping-Stripboard.jpg) | Single Side 5x7cm Prototyping Stripboard | 1 |
+| [![10k resistor](/wp-content/uploads/2016/07/10k-resistor-150x85.jpg)](/wp-content/uploads/2016/07/10k-resistor.jpg) | 10k Ohm Resistor | 2 |
+| [![Wire](/wp-content/uploads/2016/07/Wire-150x84.jpg)](/wp-content/uploads/2016/07/Wire.jpg) | Wires | 1 |
+| [![Wrapping Foam](/wp-content/uploads/2016/08/Wrapping-Foam-150x84.jpg)](/wp-content/uploads/2016/08/Wrapping-Foam.jpg) | Wrapping foam | 1 |
+| [![Wood BBQ Skewers](/wp-content/uploads/2016/08/Wood-BBQ-Skewers-150x112.jpg)](/wp-content/uploads/2016/08/Wood-BBQ-Skewers.jpg) | Wood BBQ Skewers | 2 |
+| [![CCPM Servo Tester](/wp-content/uploads/2016/03/CCPM-Servo-Tester-150x150.jpg)](/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg) | CCPM-Servo-Tester | 1 |
 
 ### MR16 Constant Current LED Driver
 
-[![MR16 12v 10w LED Driver](https://www.end2endzone.com/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver-300x169.jpg "MR16 12v 10w LED Driver")](https://www.end2endzone.com/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver.jpg)
+[![MR16 12v 10w LED Driver](/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver-300x169.jpg "MR16 12v 10w LED Driver")](/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver.jpg)
 
 The MR16 Constant Current LED Driver is used to drive the 10w LED. It can easily be found on eBay and light stores since the driver is used to power LED lamps which happens to use 10w LEDs. The controller is not cheap but looks like the best logical choice. On a quadcopter, every grams counts and this driver is very light and it is the smallest form factor circuit that I could find. I am not that much concerned about power efficiency of the driver since the project is to be mounted to a quadcopter. The small 10w LED is not significant when compared to the 4 brushless motors.
 
 ### N-Channel Power Mosfet
 
-[![IRF630N N-Channel 200V, 9.3A, 0.30-Ohm TO-220AB Power Mosfet](https://www.end2endzone.com/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet-300x169.jpg "IRF630N N-Channel 200V, 9.3A, 0.30-Ohm TO-220AB Power Mosfet")](https://www.end2endzone.com/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet.jpg)
+[![IRF630N N-Channel 200V, 9.3A, 0.30-Ohm TO-220AB Power Mosfet](/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet-300x169.jpg "IRF630N N-Channel 200V, 9.3A, 0.30-Ohm TO-220AB Power Mosfet")](/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet.jpg)
 
 My original design only required a single mosfet and was used as a switch to trigger the MR16 LED driver and a simple NPN Transistor (like the 2N2222A) which was also used as a switch to trigger the piezo buzzer. This setup was working fine on the arduino development board which provides 5 volts. However, once I connected the board to my 3S LiPo battery, which is 11.1 volts, the gate of the 2N2222A started leaking from collector to emitter without a signal sent to the base (in other words, the switch was always closed). The piezo buzzer started ringing without me understanding why. Please note that your wife may get mad at you if you let the piezo buzzer ring for too long. Better use higher rated transistor!
 
@@ -151,7 +151,7 @@ The following section shows the drawings and the schematics used by the controll
 
 ## Fritzing files
 
-[![Fritzing - Open-Source Hardware Initiative Tool](https://www.end2endzone.com/wp-content/uploads/2016/10/fritzing_logo_new-1024x410.png "Fritzing - Open-Source Hardware Initiative Tool")](https://www.end2endzone.com/wp-content/uploads/2016/10/fritzing_logo_new.png)
+[![Fritzing - Open-Source Hardware Initiative Tool](/wp-content/uploads/2016/10/fritzing_logo_new-1024x410.png "Fritzing - Open-Source Hardware Initiative Tool")](/wp-content/uploads/2016/10/fritzing_logo_new.png)
 
 All drawings and diagrams are build using [Fritzing](http://fritzing.org/home/) version 0.9.2b which is an open-source hardware initiative tool that allows developers to document their prototypes and share them with others. The application already features a huge parts library but there is no support for a [Generic Remote Controlled (RC) 6-Channels Receiver](#Components_and_Supplies) and for the [MR16 Constant Current LED Driver](#Components_and_Supplies). The additional parts which are required for rendering the project are available for download:
 
@@ -167,13 +167,13 @@ The project files are also available for download. Click the following link to g
 
 The following section shows the circuit diagram layout
 
-[![Quadcopter Controller Project - Schematics view](https://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_schematics-1024x681.png "Quadcopter Controller Project - Schematics view")](https://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_schematics.png)
+[![Quadcopter Controller Project - Schematics view](/wp-content/uploads/2016/07/Quad_Controller_schematics-1024x681.png "Quadcopter Controller Project - Schematics view")](/wp-content/uploads/2016/07/Quad_Controller_schematics.png)
 
 ## Breadboard Layout
 
 The following section shows a breadboard layout view of the circuit.
 
-[![Quadcopter Controller Project - Breadboard view](https://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_breadboard-1024x583.png "Quadcopter Controller Project - Breadboard view")](https://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)
+[![Quadcopter Controller Project - Breadboard view](/wp-content/uploads/2016/07/Quad_Controller_breadboard-1024x583.png "Quadcopter Controller Project - Breadboard view")](/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)
 
 # Code
 
@@ -202,7 +202,7 @@ Click the following to download the example below:
 
 # Building steps
 
-[![building-steps](https://www.end2endzone.com/wp-content/uploads/2016/10/Building-steps.png)](https://www.end2endzone.com/wp-content/uploads/2016/10/Building-steps.png)The following section explains all the different steps on how to build my DIY quadcopter visual aids controller.
+[![building-steps](/wp-content/uploads/2016/10/Building-steps.png)](/wp-content/uploads/2016/10/Building-steps.png)The following section explains all the different steps on how to build my DIY quadcopter visual aids controller.
 
 ## Install code on arduino
 
@@ -225,13 +225,13 @@ Note that the following mixes must match the [demultiplexing code](#Arduino_sket
 
 ## Build a prototype
 
-[![DIY Quadcopter lost plane alarm finder and 10w LED visual aids Prototype](https://www.end2endzone.com/wp-content/uploads/2016/07/DIY-Quadcopter-lost-plane-alarm-finder-and-10w-LED-visual-aids-Prototype.jpg "DIY Quadcopter lost plane alarm finder and 10w LED visual aids Prototype")](https://www.end2endzone.com/wp-content/uploads/2016/07/DIY-Quadcopter-lost-plane-alarm-finder-and-10w-LED-visual-aids-Prototype.jpg)
+[![DIY Quadcopter lost plane alarm finder and 10w LED visual aids Prototype](/wp-content/uploads/2016/07/DIY-Quadcopter-lost-plane-alarm-finder-and-10w-LED-visual-aids-Prototype.jpg "DIY Quadcopter lost plane alarm finder and 10w LED visual aids Prototype")](/wp-content/uploads/2016/07/DIY-Quadcopter-lost-plane-alarm-finder-and-10w-LED-visual-aids-Prototype.jpg)
 
 The purpose of these steps is to evaluate the feasibility of the project by implementing a smaller scale of the project as a proof of concept even though that at this point you should already know that the project is viable since I already completed all steps and the controller is actually running on my personal quadcopter.
 
 ### Test the code
 
-[![QuadCtrl - Testing the code in Arduino IDE](https://www.end2endzone.com/wp-content/uploads/2016/10/QuadCtrl-Arduino-IDE-transparency.png "QuadCtrl - Testing the code in Arduino IDE")](https://www.end2endzone.com/wp-content/uploads/2016/10/QuadCtrl-Arduino-IDE-transparency.png)
+[![QuadCtrl - Testing the code in Arduino IDE](/wp-content/uploads/2016/10/QuadCtrl-Arduino-IDE-transparency.png "QuadCtrl - Testing the code in Arduino IDE")](/wp-content/uploads/2016/10/QuadCtrl-Arduino-IDE-transparency.png)
 
 The purpose of this step is to quickly identify issue with the code as no other parts (besides the arduino itself) of the final circuit is used. Code issues are the one that should be addressed first. This step confirms that the arduino is able to read an arbitrary PWM signal and process it. Build the circuit as showed by the picture above. For reference, the yellow and blue wires matches the blue and orange wire of the breadboard layout. These wires are connected to pins which drives low LEDs instead of high current mosfets. The prototype uses a simple CCPM Servo Tester for emulating the 6-ch receiver. In this configuration, the red LED matches the 10W front LED and the green LED matches the buzzing state. Power the arduino using USB power. By changing the position of the CCPM Servo tester potentiometer, you should observe different behavior of each LEDs for each position of CCPM tester. Note that since the code is already debugged, I do not expect anything to go wrong and things should be addressed easily. If you do observe issues, please verify your connections or the version used by each library dependencies.
 
@@ -243,19 +243,19 @@ For a greater testing, connect your receiver and use your transmitter to change 
 
 Now that you know that the code is working as expected, you may want to test each components before [soldering them](#Solderingcomponents_on_thestripboard) on the breadboard. The final step is to integrate all real components to the breadboard prototype and use external 12v power supply (to mimic a 3S LiPo battery).
 
-[![Quadcopter Controller Project - Breadboard view](https://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_breadboard-300x171.png)](https://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)
+[![Quadcopter Controller Project - Breadboard view](/wp-content/uploads/2016/07/Quad_Controller_breadboard-300x171.png)](/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)
 
 Complete the actual circuit as defined in [Breadboard Layout](#Breadboard_Layout) section.
 
 ## Solder components
 
-[![QuadCtrl - Soldering components to the stripboard](https://www.end2endzone.com/wp-content/uploads/2016/10/IMG_4566.jpg "QuadCtrl - Soldering components to the stripboard")](https://www.end2endzone.com/wp-content/uploads/2016/10/IMG_4566.jpg)
+[![QuadCtrl - Soldering components to the stripboard](/wp-content/uploads/2016/10/IMG_4566.jpg "QuadCtrl - Soldering components to the stripboard")](/wp-content/uploads/2016/10/IMG_4566.jpg)
 
 Define the position of every components on the prototyping stripboard. You should have enough room for all components and if you plan correctly, you may still have space left and be able to cut 1 or 2 cm from the sides to save additional size and weight. Note that both mosfet do not require a heat sink. However, you may want to fold both mosfet so that the height of the total package is as low as possible so that it may fit properly inside a small cavity of the quadcopter. Position the arduino's USB port facing outside so that when you need to update the software, you can simply connect the package to a computer without having to disassemble or disconnect the unit from the quadcopter. For the same reason, solder the male servo extension lead and the JST battery connector to the other side since those will require to be as close as possible to the quadcopter's controller and battery. Solder each component carefully following the schematics and head to the final step.
 
 ## Secure the unit on the quadcopter
 
-[![QuadCtrl - Securing components with wrapping foam](https://www.end2endzone.com/wp-content/uploads/2016/10/IMG_4557.jpg "QuadCtrl - Securing components with wrapping foam")](https://www.end2endzone.com/wp-content/uploads/2016/10/IMG_4557.jpg)
+[![QuadCtrl - Securing components with wrapping foam](/wp-content/uploads/2016/10/IMG_4557.jpg "QuadCtrl - Securing components with wrapping foam")](/wp-content/uploads/2016/10/IMG_4557.jpg)
 
 Once everything is ready for flight, attach the package on the quadcopter. Connect JST battery connector and each signal wire cable. Since I was planning on removing the device for maintenance, I didn't used glue (or anything permanent) for securing the package to the frame. Instead I used zip ties which are used for both wrapping the foam around the stripboard and attaching to the frame's front grooves. I also used zip ties to attach the wood BBQ skewers to the pre-drilled holes in the fuselage. For best result, position the 10w LED below the propeller's wind blast. This will greatly increase the lifespan of the LED since it will always be properly cooled while turned on.
 
@@ -263,9 +263,9 @@ Once everything is ready for flight, attach the package on the quadcopter. Conne
 
 Here is the final result:
 
-[![Arduino Quadcopter LED & Buzzer Controler (final)](https://www.end2endzone.com/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final.jpg "Arduino Quadcopter LED &amp; Buzzer Controler (final)")](https://www.end2endzone.com/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final.jpg)
+[![Arduino Quadcopter LED & Buzzer Controler (final)](/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final.jpg "Arduino Quadcopter LED &amp; Buzzer Controler (final)")](/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final.jpg)
 
-[![Arduino Quadcopter LED & Buzzer Controler (final) - Close Up](https://www.end2endzone.com/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final-close-up.jpg "Arduino Quadcopter LED &amp; Buzzer Controler (final) - Close Up")](https://www.end2endzone.com/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final-close-up.jpg)
+[![Arduino Quadcopter LED & Buzzer Controler (final) - Close Up](/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final-close-up.jpg "Arduino Quadcopter LED &amp; Buzzer Controler (final) - Close Up")](/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final-close-up.jpg)
 
 # Made anything differently?
 
