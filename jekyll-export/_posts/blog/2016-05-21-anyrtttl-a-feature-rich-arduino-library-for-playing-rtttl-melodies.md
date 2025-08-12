@@ -1,26 +1,35 @@
 ---
-id: 1945
-title: 'AnyRtttl &#8211; A feature rich arduino library for playing RTTTL melodies'
-date: '2016-05-21T19:20:34+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1945'
-permalink: '/?p=1945'
-'Snippet Title':
-    - 'Downloadable content'
+title: AnyRtttl – A feature rich arduino library for playing RTTTL melodies
+author: end2end
+date: 2016-05-21T23:20:34+00:00
+url: /anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/
+images:
+  - src: /wp-content/uploads/2016/05/AnyRtttl-arduino-library.jpg
+Snippet Title:
+  - Downloadable content
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Library:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1988/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>AnyRtttl arduino library</a></li>\n</ul>\n</div>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Examples:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1977/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>AnyRtttl Non-Blocking.ino</a></li>\n<li><a href=\"/download/1981/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>AnyRtttl Play (16 bits).ino</a></li>\n<li><a href=\"/download/1979/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>AnyRtttl Play (10 bits).ino</a></li>\n<li><a href=\"/download/1983/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>AnyRtttl RTTTL 2 code.ino</a></li>\n</ul>\n</div>\n"
+  - |
+    |
+        Downloads available in this article:
+        Library:
+        * [AnyRtttl arduino library](/download/1988/)
+        Examples:
+        * [AnyRtttl Non-Blocking.ino](/download/1977/)
+        * [AnyRtttl Play (16 bits).ino](/download/1981/)
+        * [AnyRtttl Play (10 bits).ino](/download/1979/)
+        * [AnyRtttl RTTTL 2 code.ino](/download/1983/)
+        
 hits:
-    - '1773'
-image: /wp-content/uploads/2016/05/AnyRtttl-arduino-library.jpg
+  - 1282
 categories:
-    - Development
+  - Development
 tags:
-    - arduino
-    - 'arduino library'
-    - english
-    - 'open source'
-    - rtttl
+  - arduino
+  - arduino library
+  - english
+  - open source
+  - rtttl
+
 ---
 
 # Introduction

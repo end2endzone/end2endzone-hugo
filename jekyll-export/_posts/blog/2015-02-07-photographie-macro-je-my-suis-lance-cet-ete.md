@@ -1,22 +1,21 @@
 ---
-id: 682
-title: 'Photographie Macro, je m&#8217;y suis lancé cet été'
-date: '2015-02-07T22:53:22+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=682'
-permalink: '/?p=682'
+title: Photographie Macro, je m’y suis lancé cet été
+author: end2end
+date: 2015-02-08T03:53:22+00:00
+url: /photographie-macro-je-my-suis-lance-cet-ete/
+images:
+  - src: /wp-content/uploads/2015/02/Photographie-Macro-je-my-suis-lancé-cet-été-672x378.jpg
 hits:
-    - '99'
-image: /wp-content/uploads/2015/02/Photographie-Macro-je-my-suis-lance-cet-ete.jpg
+  - 84
 categories:
-    - Photography
+  - Photography
 tags:
-    - flowers
-    - français
-    - macro
-    - 'macro photograpy'
-    - nature
+  - flowers
+  - français
+  - macro
+  - macro photograpy
+  - nature
+
 ---
 
 Pendant le début du mois de juillet, j'ai décidé de me lancer dans la photographie macro. Ce que j'ai découvert durant cette expérience est étonnant. Comme tout le monde, j'ai naturellement décidé d'utiliser les fleurs comme sujet. Quoi de mieux que le mois de juillet, où les fleurs sont belles et épanouies, pour essayer de faire de la photographie. Je suis donc parti à la recherche de fleurs avec mon appareil, [mon trépied](/wp-content/uploads/2015/02/Manfrotto-190XPROB-Tripod-with-3D-Head-804RC2.jpg "Manfrotto  190XPROB Tripod with 3D Head 804RC2") ainsi que des [tubes d'extension (21mm)](/wp-content/uploads/2015/02/Aputure-AF-Macro-Extension-Tube-for-Canon-EOS-EF-EF-S-Lens-Mount.jpg "Aputure AF Macro Extension Tube for Canon EOS EF EF-S Lens Mount").

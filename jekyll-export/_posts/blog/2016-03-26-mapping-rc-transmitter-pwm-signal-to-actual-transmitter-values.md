@@ -1,25 +1,31 @@
 ---
-id: 1357
-title: 'Mapping RC Transmitter PWM signal to actual transmitter values'
-date: '2016-03-26T16:47:29+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1357'
-permalink: '/?p=1357'
+title: Mapping RC Transmitter PWM signal to actual transmitter values
+author: end2end
+date: 2016-03-26T20:47:29+00:00
+url: /mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/
+images:
+  - src: /wp-content/uploads/2016/03/Mapping-RC-Transmitter-PWM-signal-to-actual-transmitter-values.jpg
 hits:
-    - '3765'
-'Snippet Title':
-    - 'Downloadable content'
+  - 2780
+Snippet Title:
+  - Downloadable content
 Snippet:
-    - "<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Data capture sessions:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1618/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>Spektrum DX9 Tx &amp; Orange R620X Rx</a></li>\n<li><a href=\"/download/1620/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>Spektrum DX9 Tx &amp; Spektrum AR8000 Rx</a></li>\n<li><a href=\"/download/1614/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>Tactic TTX600 Tx &amp; Tactic TR624 Rx</a></li>\n<li><a href=\"/download/1616/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>CCPM Servo Tester</a></li>\n</ul>\n</div>\n"
-image: /wp-content/uploads/2016/03/Mapping-RC-Transmitter-PWM-signal-to-actual-transmitter-values.jpg
+  - |
+    |
+        Data capture sessions:
+        * [Spektrum DX9 Tx &amp; Orange R620X Rx](/download/1618/)
+        * [Spektrum DX9 Tx &amp; Spektrum AR8000 Rx](/download/1620/)
+        * [Tactic TTX600 Tx &amp; Tactic TR624 Rx](/download/1614/)
+        * [CCPM Servo Tester](/download/1616/)
+        
 categories:
-    - 'Model Aeronautics'
+  - Model Aeronautics
 tags:
-    - arduino
-    - english
-    - RC
-    - 'RC transmitter'
+  - arduino
+  - english
+  - RC
+  - RC transmitter
+
 ---
 
 # Introduction

@@ -1,25 +1,31 @@
 ---
-id: 1682
-title: 'BitReader &#8211; An arduino library for reading &#038; writing data as chunks of bits'
-date: '2016-03-25T20:23:05+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1682'
-permalink: '/?p=1682'
-'Snippet Title':
-    - 'Downloadable content'
+title: 'BitReader – An arduino library for reading & writing data as chunks of bits'
+author: end2end
+date: 2016-03-26T00:23:05+00:00
+url: /bitreader-an-arduino-library-for-reading-writing-data-as-chunks-of-bits/
+images:
+  - src: /wp-content/uploads/2016/03/Arduino-BitReader-library.jpg
+Snippet Title:
+  - Downloadable content
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Library:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1688/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>BitReader arduino library</a></li>\n</ul>\n</div>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Example:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1691/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>Benchmark demo sample</a></li>\n</ul>\n</div>\n"
+  - |
+    |
+        Downloads available in this article:
+        Library:
+        * [BitReader arduino library](/download/1688/)
+        Example:
+        * [Benchmark demo sample](/download/1691/)
+        
 hits:
-    - '228'
-image: /wp-content/uploads/2016/03/Arduino-BitReader-library.jpg
+  - 146
 categories:
-    - Development
+  - Development
 tags:
-    - arduino
-    - 'arduino library'
-    - english
-    - 'open source'
+  - arduino
+  - arduino library
+  - english
+  - open source
+
 ---
 
 # Introduction

@@ -1,21 +1,20 @@
 ---
-id: 377
-title: 'Final flight of a Super Cub LP'
-date: '2014-09-14T20:27:05+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=377'
-permalink: '/?p=377'
+title: Final flight of a Super Cub LP
+author: end2end
+date: 2014-09-15T00:27:05+00:00
+url: /final-flight-of-a-super-cub-lp/
+images:
+  - src: /wp-content/uploads/2014/09/DSC034641.jpg
 hits:
-    - '475'
-image: /wp-content/uploads/2014/09/DSC034641.jpg
+  - 299
 categories:
-    - 'Model Aeronautics'
+  - Model Aeronautics
 tags:
-    - crash
-    - english
-    - RC
-    - 'super cub'
+  - crash
+  - english
+  - RC
+  - super cub
+
 ---
 
 # The Good

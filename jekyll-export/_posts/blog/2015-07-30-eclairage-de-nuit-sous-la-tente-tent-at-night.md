@@ -1,19 +1,19 @@
 ---
-id: 1029
-title: 'Éclairage de nuit sous la tente &#8211; Tent at night'
-date: '2015-07-30T20:29:37+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1029'
-permalink: '/?p=1029'
+title: Éclairage de nuit sous la tente – Tent at night
+author: end2end
+date: 2015-07-31T00:29:37+00:00
+url: /eclairage-de-nuit-sous-la-tente-tent-at-night/
+images:
+  - src: /wp-content/uploads/2015/07/IMG_5287-Featured-Image.jpg
 hits:
-    - '84'
-image: /wp-content/uploads/2015/07/IMG_5287-Featured-Image.jpg
+  - 76
 categories:
-    - Photography
+  - Photography
 tags:
-    - 'long exposure'
-    - photography
+  - français
+  - long exposure
+  - photography
+
 ---
 
 Lorsque nous partons en camping, nous apportons toujours une [lanterne à bougie de camping](https://www.google.com/search?q=Lanterne+%C3%A0+bougie+de+camping) avec nous. Il s'agit en fait d'une lanterne servant à réduire l'humidité pendant la nuit. La beauté de la chose c’est que vue de l'extérieur, la tente émet une belle lumière. Se lever au beau milieu de la nuit pour voir ce décors, PRICELESS! Une image vaut mille mots!

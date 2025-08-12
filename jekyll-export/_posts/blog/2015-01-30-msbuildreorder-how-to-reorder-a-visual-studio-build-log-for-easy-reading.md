@@ -1,22 +1,21 @@
 ---
-id: 602
 title: 'MSBuildReorder: How to reorder a Visual Studio build log for easy reading'
-date: '2015-01-30T20:27:33+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=602'
-permalink: '/?p=602'
+author: end2end
+date: 2015-01-31T01:27:33+00:00
+url: /msbuildreorder-how-to-reorder-a-visual-studio-build-log-for-easy-reading/
+images:
+  - src: /wp-content/uploads/2015/01/MSBuildReorder-How-to-reorder-a-Visual-Studio-build-log-for-easy-reading.png
 hits:
-    - '97'
-image: /wp-content/uploads/2015/01/MSBuildReorder-How-to-reorder-a-Visual-Studio-build-log-for-easy-reading.png
+  - 62
 categories:
-    - Development
+  - Development
 tags:
-    - c++
-    - english
-    - Freeware
-    - msbuild
-    - 'visual studio'
+  - c++
+  - english
+  - Freeware
+  - msbuild
+  - visual studio
+
 ---
 
 # MSBuildReorder

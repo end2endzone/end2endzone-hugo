@@ -1,21 +1,20 @@
 ---
-id: 707
 title: 'HDHomeRun TV Dump: Unleash the DVR capabilities of your free to air live TV stream'
-date: '2015-02-15T21:24:14+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=707'
-permalink: '/?p=707'
+author: end2end
+date: 2015-02-16T02:24:14+00:00
+url: /hdhomerun-tv-dump-unleash-the-dvr-capabilities-of-your-free-to-air-live-tv-stream/
+images:
+  - src: /wp-content/uploads/2015/02/HDHomeRun-TV-Dump.jpg
 hits:
-    - '856'
-image: /wp-content/uploads/2015/02/HDHomeRun-TV-Dump.jpg
+  - 681
 categories:
-    - Development
+  - Development
 tags:
-    - english
-    - 'free to air tv'
-    - Freeware
-    - hdhomerun
+  - english
+  - free to air tv
+  - Freeware
+  - hdhomerun
+
 ---
 
 # HDHomeRun TV Dump

@@ -1,21 +1,20 @@
 ---
-id: 1924
 title: 'win32Arduino: a win32 library that implements most arduino functions'
-date: '2016-05-16T13:15:58+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1924'
-permalink: '/?p=1924'
+author: end2end
+date: 2016-05-16T17:15:58+00:00
+url: /win32arduino-a-win32-library-that-implements-most-arduino-functions/
+images:
+  - src: /wp-content/uploads/2016/05/Arduino-win32Arduino-library.jpg
 hits:
-    - '251'
-image: /wp-content/uploads/2016/05/Arduino-win32Arduino-library.jpg
+  - 163
 categories:
-    - Development
+  - Development
 tags:
-    - arduino
-    - 'arduino library'
-    - english
-    - 'open source'
+  - arduino
+  - arduino library
+  - english
+  - open source
+
 ---
 
 # Introduction

@@ -1,20 +1,19 @@
 ---
-id: 1185
-title: 'Best way to remove ads from HDHomeRun recordings (no intermediate file required)'
-date: '2016-01-16T17:19:34+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1185'
-permalink: '/?p=1185'
+title: Best way to remove ads from HDHomeRun recordings (no intermediate file required)
+author: end2end
+date: 2016-01-16T22:19:34+00:00
+url: /best-way-to-remove-ads-from-hdhomerun-recordings-no-intermediate-file-required/
+images:
+  - src: /wp-content/uploads/2015/10/Remove-ads-from-HDHomerun-recording-featured-image.jpg
 hits:
-    - '2130'
-image: /wp-content/uploads/2015/10/Remove-ads-from-HDHomerun-recording-featured-image.jpg
+  - 1731
 categories:
-    - Other
+  - Other
 tags:
-    - english
-    - hdhomerun
-    - tv
+  - english
+  - hdhomerun
+  - tv
+
 ---
 
 # Introduction

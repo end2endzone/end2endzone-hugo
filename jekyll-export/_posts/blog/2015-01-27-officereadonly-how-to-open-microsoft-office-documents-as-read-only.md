@@ -1,20 +1,19 @@
 ---
-id: 479
 title: 'OfficeReadOnly: How to open Microsoft Office documents as read-only'
-date: '2015-01-27T21:12:41+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=479'
-permalink: '/?p=479'
+author: end2end
+date: 2015-01-28T02:12:41+00:00
+url: /officereadonly-how-to-open-microsoft-office-documents-as-read-only/
+images:
+  - src: /wp-content/uploads/2015/01/OfficeReadOnly-How-to-open-Microsoft-Office-documents-as-Read-Only.png
 hits:
-    - '145'
-image: /wp-content/uploads/2015/01/OfficeReadOnly-How-to-open-Microsoft-Office-documents-as-Read-Only.png
+  - 40
 categories:
-    - Development
+  - Development
 tags:
-    - english
-    - Freeware
-    - 'Microsoft Office'
+  - english
+  - Freeware
+  - Microsoft Office
+
 ---
 
 # OfficeReadOnly

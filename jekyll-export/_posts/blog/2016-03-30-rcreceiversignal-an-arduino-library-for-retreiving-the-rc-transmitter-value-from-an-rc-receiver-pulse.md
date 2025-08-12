@@ -1,28 +1,34 @@
 ---
-id: 1251
 title: 'RcReceiverSignal: an arduino library for retrieving the RC Transmitter value from an RC Receiver pulse'
-date: '2016-03-30T13:05:59+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1251'
-permalink: '/?p=1251'
-'Snippet Title':
-    - 'Downloadable content'
+author: end2end
+date: 2016-03-30T17:05:59+00:00
+url: /rcreceiversignal-an-arduino-library-for-retreiving-the-rc-transmitter-value-from-an-rc-receiver-pulse/
+images:
+  - src: /wp-content/uploads/2016/03/Arduino-RcReceiverSignal-library.jpg
+Snippet Title:
+  - Downloadable content
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Library:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1792/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"1792\" template=\"title\"]</a></li>\n</ul>\n</div>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Example:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1794/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"1794\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
+  - |
+    |
+        Downloads available in this article:
+        Library:
+        * [[download id="1792" template="title"]](/download/1792/)
+        Example:
+        * [[download id="1794" template="title"]](/download/1794/)
+        
 hits:
-    - '1906'
-image: /wp-content/uploads/2016/03/Arduino-RcReceiverSignal-library.jpg
+  - 1609
 categories:
-    - Development
-    - 'Model Aeronautics'
+  - Development
+  - Model Aeronautics
 tags:
-    - arduino
-    - 'arduino library'
-    - english
-    - 'open source'
-    - RC
-    - 'RC transmitter'
+  - arduino
+  - arduino library
+  - english
+  - open source
+  - RC
+  - RC transmitter
+
 ---
 
 # Introduction

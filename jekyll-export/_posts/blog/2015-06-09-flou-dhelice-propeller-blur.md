@@ -1,20 +1,19 @@
 ---
-id: 958
-title: 'Flou d&#8217;hélice / Propeller blur'
-date: '2015-06-09T21:29:41+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=958'
-permalink: '/?p=958'
+title: Flou d’hélice / Propeller blur
+author: end2end
+date: 2015-06-10T01:29:41+00:00
+url: /flou-dhelice-propeller-blur/
+images:
+  - src: /wp-content/uploads/2015/06/IMG_1901_featured.jpg
 hits:
-    - '95'
-image: /wp-content/uploads/2015/06/IMG_1901_featured.jpg
+  - 63
 categories:
-    - 'Model Aeronautics'
-    - Photography
+  - Model Aeronautics
+  - Photography
 tags:
-    - français
-    - 'motion blur'
+  - français
+  - motion blur
+
 ---
 
 J'ai apporté mon appareil photo lors d'une séance de vol à mon club d'aviation. Lorsqu'un collègue était au "pit", j'ai tenté de faire une photo de son avion avec un beau flou d'hélice.

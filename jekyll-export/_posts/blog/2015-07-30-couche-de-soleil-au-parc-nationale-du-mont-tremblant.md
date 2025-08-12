@@ -1,20 +1,20 @@
 ---
-id: 1025
-title: 'Couché de soleil au Parc nationale du Mont-Tremblant'
-date: '2015-07-30T20:06:21+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1025'
-permalink: '/?p=1025'
+title: Couché de soleil au Parc nationale du Mont-Tremblant
+author: end2end
+date: 2015-07-31T00:06:21+00:00
+url: /couche-de-soleil-au-parc-nationale-du-mont-tremblant/
+images:
+  - src: /wp-content/uploads/2015/07/IMG_5234-Featured-image.jpg
 hits:
-    - '108'
-image: /wp-content/uploads/2015/07/IMG_5234-Featured-image.jpg
+  - 92
 categories:
-    - Photography
+  - Photography
 tags:
-    - nature
-    - photography
-    - sunset
+  - français
+  - nature
+  - photography
+  - sunset
+
 ---
 
 Nous sommes partis en camping cet été au Parc Nationale du Mont-Tremblant. J'ai naturellement apporté ma caméra avec moi puisque je ne vais plus nulle part sans elle. Une fois installé, j'ai décidé d'aller faire un tour à la plage et j'ai capturé un merveilleux couché de soleil...Le point d'observation est depuis l'une des nombreuses plages du Lac Monroe. Plus précisément, la plage est situé aux coordonnées [46°20'2" N 74°30'25" W](https://www.google.ca/maps/place/46°20'01.5"N+74°30'24.7"W/@46.333754,-74.506858,812m/).

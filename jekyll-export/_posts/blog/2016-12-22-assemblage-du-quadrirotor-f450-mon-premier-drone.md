@@ -1,19 +1,18 @@
 ---
-id: 2274
-title: 'Assemblage du quadrirotor F450 &#8211; Mon premier drone'
-date: '2016-12-22T17:45:25+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=2274'
-permalink: '/?p=2274'
+title: Assemblage du quadrirotor F450 – Mon premier drone
+author: end2end
+date: 2016-12-22T22:45:25+00:00
+url: /assemblage-du-quadrirotor-f450-mon-premier-drone/
+images:
+  - src: /wp-content/uploads/2016/10/Assemblage-du-quadrirotor-F450-Mon-premier-drone.jpg
 hits:
-    - '229'
-image: /wp-content/uploads/2016/10/Assemblage-du-quadrirotor-F450-–-Mon-premier-drone.jpg
+  - 198
 categories:
-    - 'Model Aeronautics'
+  - Model Aeronautics
 tags:
-    - français
-    - 'time lapse'
+  - français
+  - time lapse
+
 ---
 
 J'ai fait l’acquisition de mon premier quadrirotor. Puisque je préfère de loin [les options DIY](/tag/diy/), j'ai décidé de ne pas acheter un modèle RTF (ready-to-fly) et de plutôt opter pour un modèle livré à la maison en pièce détachée. Tous comme avec mon [Avistar Elite](/deballage-du-avistar-elite-46-un-video-timelapse/), j'ai capturé le déballage et l'assemblage de l'engin sur photos afin de réaliser un vidéo time lapse. Pour le plaisir de vos yeux, voici le vidéo démontrant le déballage et l'assemblage de mon premier quadrirotor.

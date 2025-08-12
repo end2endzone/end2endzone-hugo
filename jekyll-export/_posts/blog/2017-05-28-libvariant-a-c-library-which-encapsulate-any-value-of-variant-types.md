@@ -1,24 +1,28 @@
 ---
-id: 2300
-title: 'libVariant &#8211; A c++ library which encapsulate any value of variant types'
-date: '2017-05-28T17:06:45+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=2300'
-permalink: '/?p=2300'
-'Snippet Title':
-    - 'Downloadable content'
+title: libVariant – A c++ library which encapsulate any value of variant types
+author: end2end
+date: 2017-05-28T21:06:45+00:00
+url: /libvariant-a-c-library-which-encapsulate-any-value-of-variant-types/
+images:
+  - src: /wp-content/uploads/2016/10/libVariant-cplusplus-library.jpg
+Snippet Title:
+  - Downloadable content
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Source code:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2328/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2328\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
+  - |
+    |
+        Downloads available in this article:
+        Source code:
+        * [[download id="2328" template="title"]](/download/2328/)
+        
 hits:
-    - '495'
-image: /wp-content/uploads/2016/10/libVariant-cplusplus-library.jpg
+  - 276
 categories:
-    - Development
+  - Development
 tags:
-    - c++
-    - english
-    - 'open source'
+  - c++
+  - english
+  - open source
+
 ---
 
 # Introduction

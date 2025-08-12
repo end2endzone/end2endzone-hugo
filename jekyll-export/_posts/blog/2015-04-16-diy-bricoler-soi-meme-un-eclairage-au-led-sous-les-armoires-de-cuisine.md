@@ -1,27 +1,26 @@
 ---
-id: 820
-title: 'DIY Bricoler soi-même un éclairage au LED sous les armoires de cuisine'
-date: '2015-04-16T13:11:33+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=820'
-permalink: '/?p=820'
+title: DIY Bricoler soi-même un éclairage au LED sous les armoires de cuisine
+author: end2end
+date: 2015-04-16T17:11:33+00:00
+url: /diy-bricoler-soi-meme-un-eclairage-au-led-sous-les-armoires-de-cuisine/
+images:
+  - src: /wp-content/uploads/2014/08/IMG_6846.jpg
 hits:
-    - '10351'
+  - 9613
 english_post_id:
-    - '244'
-'Snippet Title':
-    - 'Other languages'
+  - 244
+Snippet Title:
+  - Other languages
 Snippet:
-    - '[otherlanguage]'
-image: /wp-content/uploads/2014/08/IMG_6846-scaled.jpg
+  - '[otherlanguage]'
 categories:
-    - Other
+  - Other
 tags:
-    - diy
-    - français
-    - 'led lighting'
-    - multilingual
+  - diy
+  - français
+  - led lighting
+  - multilingual
+
 ---
 
 # Introduction

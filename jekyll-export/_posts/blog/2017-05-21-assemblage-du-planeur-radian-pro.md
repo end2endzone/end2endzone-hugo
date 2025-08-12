@@ -1,19 +1,18 @@
 ---
-id: 2411
-title: 'Déballage et assemblage du Radian Pro – Un planeur hors pair'
-date: '2017-05-21T11:26:00+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=2411'
-permalink: '/?p=2411'
+title: Déballage et assemblage du Radian Pro – Un planeur hors pair
+author: end2end
+date: 2017-05-21T15:26:00+00:00
+url: /assemblage-du-planeur-radian-pro/
+images:
+  - src: /wp-content/uploads/2017/05/Assemblage-du-planeur-Radian-Pro-Featured-image.jpg
 hits:
-    - '342'
-image: /wp-content/uploads/2017/05/Assemblage-du-planeur-Radian-Pro-Featured-image.jpg
+  - 221
 categories:
-    - 'Model Aeronautics'
+  - Model Aeronautics
 tags:
-    - français
-    - 'time lapse'
+  - français
+  - time lapse
+
 ---
 
 Voici un autre modèle d'avion que j'ai assemblé: le planeur Radian Pro de ParkZone. C'est un excellent appareil. Je le recommande fortement. Lorsque je le pilote, je dois m'apporter une chaise afin de m’asseoir parce qu'une fois que cet oiseau est dans les airs, il ne veut juste plus redescendre au sol. Il faut s'armer de patience. Le tout présenté en time lapse.

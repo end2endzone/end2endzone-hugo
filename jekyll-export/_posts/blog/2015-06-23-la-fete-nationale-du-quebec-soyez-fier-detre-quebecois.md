@@ -1,20 +1,19 @@
 ---
-id: 988
-title: 'La Fête nationale du Québec &#8211; Soyez fier d&#8217;être Québécois!'
-date: '2015-06-23T23:06:54+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=988'
-permalink: '/?p=988'
+title: La Fête nationale du Québec – Soyez fier d’être Québécois!
+author: end2end
+date: 2015-06-24T03:06:54+00:00
+url: /la-fete-nationale-du-quebec-soyez-fier-detre-quebecois/
+images:
+  - src: /wp-content/uploads/2015/06/LR5_IMG_2880-Featured.jpg
 hits:
-    - '49'
-image: /wp-content/uploads/2015/06/LR5_IMG_2880-Featured.jpg
+  - 43
 categories:
-    - Photography
+  - Photography
 tags:
-    - flowers
-    - français
-    - nature
+  - flowers
+  - français
+  - nature
+
 ---
 
 Le jour de Fête nationale, les Québécois n'hésite pas à faire la fête (ou des folies) afin de démontrer tous ensemble qu'ils sont fier de leur racines.

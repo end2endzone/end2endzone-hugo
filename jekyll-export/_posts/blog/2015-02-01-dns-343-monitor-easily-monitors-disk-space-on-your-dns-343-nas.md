@@ -1,20 +1,19 @@
 ---
-id: 609
 title: 'DNS-343 Monitor: Easily monitors disk space on your DNS-343 NAS.'
-date: '2015-02-01T08:58:08+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=609'
-permalink: '/?p=609'
+author: end2end
+date: 2015-02-01T13:58:08+00:00
+url: /dns-343-monitor-easily-monitors-disk-space-on-your-dns-343-nas/
+images:
+  - src: /wp-content/uploads/2015/02/DNS-343-Monitor-logo.png
 hits:
-    - '149'
-image: /wp-content/uploads/2015/02/DNS-343-Monitor-logo.png
+  - 74
 categories:
-    - Development
+  - Development
 tags:
-    - DNS-343
-    - english
-    - Freeware
+  - DNS-343
+  - english
+  - Freeware
+
 ---
 
 # DNS343Monitor

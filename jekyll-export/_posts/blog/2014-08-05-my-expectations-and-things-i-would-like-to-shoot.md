@@ -1,46 +1,45 @@
 ---
-id: 210
-title: 'My expectations and things I would like to shoot'
-date: '2014-08-05T06:20:35+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=210'
-permalink: '/?p=210'
+title: My expectations and things I would like to shoot
+author: end2end
+date: 2014-08-05T10:20:35+00:00
+url: /my-expectations-and-things-i-would-like-to-shoot/
+images:
+  - src: /wp-content/uploads/2014/08/My-expectations-and-things-I-would-like-to-shoot.jpg
 hits:
-    - '69'
+  - 46
 french_post_id:
-    - '232'
-'Snippet Title':
-    - 'Other languages'
+  - 232
+Snippet Title:
+  - Other languages
 Snippet:
-    - '[otherlanguage]'
-image: /wp-content/uploads/2014/08/My-expectations-and-things-I-would-like-to-shoot.jpg
+  - '[otherlanguage]'
 categories:
-    - Photography
+  - Photography
 tags:
-    - chronophotography
-    - english
-    - 'fast moving objects'
-    - fireworks
-    - HDR
-    - 'light trails'
-    - lightning
-    - macro
-    - meteor
-    - moon
-    - multilingual
-    - panning
-    - panorama
-    - photography
-    - portrait
-    - 'smoke art'
-    - stars
-    - sunrise
-    - sunset
-    - 'tilt shift'
-    - 'time lapse'
-    - 'water drops'
-    - waterfall
+  - chronophotography
+  - english
+  - fast moving objects
+  - fireworks
+  - HDR
+  - light trails
+  - lightning
+  - macro
+  - meteor
+  - moon
+  - multilingual
+  - panning
+  - panorama
+  - photography
+  - portrait
+  - smoke art
+  - stars
+  - sunrise
+  - sunset
+  - tilt shift
+  - time lapse
+  - water drops
+  - waterfall
+
 ---
 
 What I expect from photography? I don't really know. It's a hobby after all but over time I managed to think about cool things I would like to shoot. Most of them are technical challenges but some of them have a geographical difficulty level. Others are only possible during a specific period of the year. Here is my list of what I would hunt for a good shoot: Note: I will try to update this post as I managed to find the opportunity to shoot one of those. Come back later to see what new ideas I added or what I've done (strike trough).

@@ -1,20 +1,19 @@
 ---
-id: 1156
-title: 'How to remove ads from HDHomeRun recordings and still encode with Handbrake'
-date: '2015-10-04T16:41:01+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1156'
-permalink: '/?p=1156'
+title: How to remove ads from HDHomeRun recordings and still encode with Handbrake
+author: end2end
+date: 2015-10-04T20:41:01+00:00
+url: /how-to-remove-ads-from-hdhomerun-recordings-and-still-encode-with-handbrake/
+images:
+  - src: /wp-content/uploads/2015/10/Remove-ads-from-HDHomerun-recording-featured-image.jpg
 hits:
-    - '4789'
-image: /wp-content/uploads/2015/10/Remove-ads-from-HDHomerun-recording-featured-image.jpg
+  - 3885
 categories:
-    - Other
+  - Other
 tags:
-    - english
-    - hdhomerun
-    - tv
+  - english
+  - hdhomerun
+  - tv
+
 ---
 
 # Introduction

@@ -1,20 +1,20 @@
 ---
-id: 1063
-title: 'Ciel étoilé au Parc Nationale du Mont-Tremblant'
-date: '2015-08-02T11:29:09+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1063'
-permalink: '/?p=1063'
+title: Ciel étoilé au Parc Nationale du Mont-Tremblant
+author: end2end
+date: 2015-08-02T15:29:09+00:00
+url: /ciel-etoile-au-parc-nationale-du-mont-tremblant/
+images:
+  - src: /wp-content/uploads/2015/08/IMG_5303-853x480.jpg
 hits:
-    - '123'
-image: /wp-content/uploads/2015/08/IMG_5303-Featured-Image.jpg
+  - 103
 categories:
-    - Photography
+  - Photography
 tags:
-    - 'long exposure'
-    - photography
-    - stars
+  - français
+  - long exposure
+  - photography
+  - stars
+
 ---
 
 Le même jour où j'ai capturé [ce merveilleux couché de soleil](/couche-de-soleil-au-parc-nationale-du-mont-tremblant), je me suis levé au beau milieu de la nuit pour aller prendre des photos du ciel et des étoiles. Il s'agit du même point d'observation du Lac Monroe d'où j'ai capturé le couché de soleil. Plus précisément, la plage est situé aux coordonnées [46°20'2" N 74°30'25" W](https://www.google.ca/maps/place/46°20'01.5"N+74°30'24.7"W/@46.333754,-74.506858,812m/). J'ai rapidement compris la différence entre un appareil de loisir et un appareil professionnel. Aux même réglages la quantité de bruit (noise) est beaucoup moins élevé avec un appareil professionnel. Dans mon cas, le [Canon EOS Rebel SL1](https://www.google.ca/search?q=canon+eos+rebel+sl1) est un excellent appareil... de loisir. Afin de réduire le bruit, je dois compenser avec un temps d'exposition plus élevé. En contre partie, on peut observer une "trainée" des étoiles beaucoup plus longue. Les étoiles se déplacent dans le ciel beaucoup plus vite qu'on le croit. La lentille utilisée pour faire ces photos est une [Sigma 18-35mm f1.8 DC HSM](https://www.google.ca/search?q=sigma+18-35mm+f1.8+DC+HSM+Art) de la série Art. Le résultats est quand même très jolie pour une première tentative mais mes prochaines photos du ciel seront faites avec un stabilisateur.

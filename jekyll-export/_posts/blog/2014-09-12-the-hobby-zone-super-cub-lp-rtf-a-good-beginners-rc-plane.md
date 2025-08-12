@@ -1,19 +1,18 @@
 ---
-id: 371
-title: 'The Hobby Zone Super Cub LP RTF. A good beginner’s RC plane'
-date: '2014-09-12T17:44:59+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=371'
-permalink: '/?p=371'
+title: The Hobby Zone Super Cub LP RTF. A good beginner’s RC plane
+author: end2end
+date: 2014-09-12T21:44:59+00:00
+url: /the-hobby-zone-super-cub-lp-rtf-a-good-beginners-rc-plane/
+images:
+  - src: /wp-content/uploads/2014/09/DSC03430.jpg
 hits:
-    - '381'
-image: /wp-content/uploads/2014/09/DSC03430.jpg
+  - 294
 categories:
-    - 'Model Aeronautics'
+  - Model Aeronautics
 tags:
-    - english
-    - 'super cub'
+  - english
+  - super cub
+
 ---
 
 During summer 2013, I have found myself with a high interest in flying an RC plane. I didn’t know what to expect from this but I wanted to get a new toy to play with. Like everyone, I thought that flying a plane was not that hard and that I could easily manage to fly any kind of plane. I was wrong. During my search for the best plane, I learned about the [Hobby Zone Super Cub LP RTF](http://secure.hobbyzone.com/catalog/hz/HBZ7300.html) which I think is a really good plane for a beginner. I already knew that flying RC planes can be a hobby. Because of that, it can be easy to sink huge amount of cash in this before you realize that you went too far. As a hobby, you can also find good experienced people for advices and easily find a flight instructor that will assist you with the technical aspect to reduce your learning time. However, this process is time consuming and I didn’t wanted to spend too much in this new thing before I knew that I would like and enjoy flying an RC plane. So I bought a [Hobby Zone Super Cub LP RTF](http://secure.hobbyzone.com/catalog/hz/HBZ7300.html). Here are the reasons why I think this plane is a great beginner’s RC plane:

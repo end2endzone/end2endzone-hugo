@@ -1,27 +1,26 @@
 ---
-id: 900
-title: 'DIY Bricoler soi-même un éclairage au LED sous le lit de la chambre à coucher'
-date: '2015-04-21T12:57:52+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=900'
-permalink: '/?p=900'
+title: DIY Bricoler soi-même un éclairage au LED sous le lit de la chambre à coucher
+author: end2end
+date: 2015-04-21T16:57:52+00:00
+url: /diy-bricoler-soi-meme-un-eclairage-au-led-sous-le-lit-de-la-chambre-a-coucher/
+images:
+  - src: /wp-content/uploads/2014/09/IMG_0846.jpg
 hits:
-    - '6303'
+  - 5351
 english_post_id:
-    - '316'
-'Snippet Title':
-    - 'Other languages'
+  - 316
+Snippet Title:
+  - Other languages
 Snippet:
-    - '[otherlanguage]'
-image: /wp-content/uploads/2014/09/IMG_0846.jpg
+  - '[otherlanguage]'
 categories:
-    - Other
+  - Other
 tags:
-    - diy
-    - français
-    - 'led lighting'
-    - multilingual
+  - diy
+  - français
+  - led lighting
+  - multilingual
+
 ---
 
 # Introduction

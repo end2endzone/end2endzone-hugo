@@ -1,20 +1,19 @@
 ---
-id: 436
 title: 'extTools: a windows shell extension to help you with common Windows File Explorer tasks.'
-date: '2015-03-29T16:00:07+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=436'
-permalink: '/?p=436'
+author: end2end
+date: 2015-03-29T20:00:07+00:00
+url: /exttools-a-windows-shell-extension-to-help-you-with-common-windows-file-explorer-tasks/
+images:
+  - src: /wp-content/uploads/2015/02/extTools.jpg
 hits:
-    - '358'
-image: /wp-content/uploads/2015/02/extTools.jpg
+  - 117
 categories:
-    - Development
+  - Development
 tags:
-    - english
-    - exttools
-    - Freeware
+  - english
+  - exttools
+  - Freeware
+
 ---
 
 # What is extTools

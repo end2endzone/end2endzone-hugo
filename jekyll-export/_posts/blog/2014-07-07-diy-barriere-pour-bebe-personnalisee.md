@@ -6,7 +6,7 @@ url: /diy-barriere-pour-bebe-personnalisee/
 images:
   - src: /wp-content/uploads/2014/07/DSC02297.jpg
 hits:
-  - 1272
+  - 1190
 Snippet Title:
   - Other languages
 Snippet:

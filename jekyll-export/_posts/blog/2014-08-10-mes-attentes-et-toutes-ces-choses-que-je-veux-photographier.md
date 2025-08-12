@@ -1,46 +1,45 @@
 ---
-id: 232
-title: 'Mes attentes et toutes ces choses que je veux photographier'
-date: '2014-08-10T20:36:44+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=232'
-permalink: '/?p=232'
+title: Mes attentes et toutes ces choses que je veux photographier
+author: end2end
+date: 2014-08-11T00:36:44+00:00
+url: /mes-attentes-et-toutes-ces-choses-que-je-veux-photographier/
+images:
+  - src: /wp-content/uploads/2014/08/My-expectations-and-things-I-would-like-to-shoot.jpg
 hits:
-    - '104'
+  - 79
 english_post_id:
-    - '210'
-'Snippet Title':
-    - 'Other languages'
+  - 210
+Snippet Title:
+  - Other languages
 Snippet:
-    - '[otherlanguage]'
-image: /wp-content/uploads/2014/08/My-expectations-and-things-I-would-like-to-shoot.jpg
+  - '[otherlanguage]'
 categories:
-    - Photography
+  - Photography
 tags:
-    - chronophotography
-    - 'fast moving objects'
-    - fireworks
-    - français
-    - HDR
-    - 'light trails'
-    - lightning
-    - macro
-    - meteor
-    - moon
-    - multilingual
-    - panning
-    - panorama
-    - photography
-    - portrait
-    - 'smoke art'
-    - stars
-    - sunrise
-    - sunset
-    - 'tilt shift'
-    - 'time lapse'
-    - 'water drops'
-    - waterfall
+  - chronophotography
+  - fast moving objects
+  - fireworks
+  - français
+  - HDR
+  - light trails
+  - lightning
+  - macro
+  - meteor
+  - moon
+  - multilingual
+  - panning
+  - panorama
+  - photography
+  - portrait
+  - smoke art
+  - stars
+  - sunrise
+  - sunset
+  - tilt shift
+  - time lapse
+  - water drops
+  - waterfall
+
 ---
 
 Ce que j'attends de la photographie? Je ne sais pas vraiment. C'est un passe-temps après tout, mais au fil du temps, j'ai réussi à réfléchir à des choses agréable à photographier. La plupart d'entre elles sont des défis techniques, mais certains d'entre elles ont un niveau de difficulté géographique. D'autres ne sont possibles que pendant une période spécifique de l'année. Voici ma liste de ce que je voudrais réussir à capturer avec ma caméra: Note: Je vais essayer de mettre à jour ce post le plus souvent possible et surtout lorsque j'aurai réussi à trouver la possibilité de photographier un de ceux mentionné plus bas. Revenez plus tard pour voir quelles nouvelles idées j'ai ajouté ou ce que j'ai fait.

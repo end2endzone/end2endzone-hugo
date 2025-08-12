@@ -1,25 +1,25 @@
 ---
-id: 314
-title: 'How to shoot a waterfall with a DSLR camera'
-date: '2014-09-01T15:30:39+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=314'
-permalink: '/?p=314'
+title: How to shoot a waterfall with a DSLR camera
+author: end2end
+date: 2014-09-01T19:30:39+00:00
+url: /how-to-shoot-a-waterfall-with-a-dslr-camera/
+images:
+  - src: /wp-content/uploads/2014/09/IMG_8597_e2ez-672x448.jpg
 hits:
-    - '367'
-'Snippet Title':
-    - 'EXIF Info'
+  - 319
+Snippet Title:
+  - EXIF Info
 Snippet:
-    - '[exif id="515"]'
+  - '[exif id="515"]'
 categories:
-    - Photography
+  - Photography
 tags:
-    - 'cpl filter'
-    - english
-    - nature
-    - 'nd filter'
-    - waterfall
+  - cpl filter
+  - english
+  - nature
+  - nd filter
+  - waterfall
+
 ---
 
 # Introduction

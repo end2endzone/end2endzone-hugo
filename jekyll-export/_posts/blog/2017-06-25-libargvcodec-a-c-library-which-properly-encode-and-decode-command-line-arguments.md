@@ -1,24 +1,29 @@
 ---
-id: 2282
-title: 'libArgvCodec – A c++ library which properly encode and decode command line arguments'
-date: '2017-06-25T12:02:08+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=2282'
-permalink: '/?p=2282'
+title: libArgvCodec – A c++ library which properly encode and decode command line arguments
+author: end2end
+date: 2017-06-25T16:02:08+00:00
+url: /libargvcodec-a-c-library-which-properly-encode-and-decode-command-line-arguments/
+images:
+  - src: /wp-content/uploads/2017/06/libArgvCodec-cplusplus-library.jpg
 hits:
-    - '485'
-'Snippet Title':
-    - 'Downloadable content'
+  - 249
+Snippet Title:
+  - Downloadable content
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Source code:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2480/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2480\" template=\"title\"]</a></li>\n<li><a href=\"/download/2482/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2482\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
-image: /wp-content/uploads/2017/06/libArgvCodec-cplusplus-library.jpg
+  - |
+    |
+        Downloads available in this article:
+        Source code:
+        * [[download id="2480" template="title"]](/download/2480/)
+        * [[download id="2482" template="title"]](/download/2482/)
+        
 categories:
-    - Development
+  - Development
 tags:
-    - c++
-    - english
-    - 'open source'
+  - c++
+  - english
+  - open source
+
 ---
 
 # Introduction

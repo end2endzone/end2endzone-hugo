@@ -1,27 +1,35 @@
 ---
-id: 1249
-title: 'How to multiplex RC Transmitter switches into a single channel'
-date: '2016-03-30T13:15:24+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1249'
-permalink: '/?p=1249'
+title: How to multiplex RC Transmitter switches into a single channel
+author: end2end
+date: 2016-03-30T17:15:24+00:00
+url: /how-to-multiplex-rc-transmitter-switches-into-a-single-channel/
+images:
+  - src: /wp-content/uploads/2016/03/How-to-multiplex-RC-Transmitter-switches-into-a-single-channel.jpg
 hits:
-    - '547'
-'Snippet Title':
-    - 'Downloadable content'
+  - 386
+Snippet Title:
+  - Downloadable content
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Cheat sheets:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1486/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>Multiplexing 2-position switches</a></li>\n<li><a href=\"/download/1482/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>Multiplexing 2-position + 3-position switches</a></li>\n<li><a href=\"/download/1484/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>Multiplexing 3-position switches</a></li>\n<li><a href=\"/download/1510/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>Multiplexing analog &amp; switches</a></li>\n</ul>\n</div>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Code samples:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2071/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2071\" template=\"title\"]</a></li>\n<li><a href=\"/download/2069/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2069\" template=\"title\"]</a></li>\n</ul>\n</div>"
-image: /wp-content/uploads/2016/03/How-to-multiplex-RC-Transmitter-switches-into-a-single-channel.jpg
+  - |
+    Downloads available in this article:
+    Cheat sheets:
+    * [Multiplexing 2-position switches](/download/1486/)
+    * [Multiplexing 2-position + 3-position switches](/download/1482/)
+    * [Multiplexing 3-position switches](/download/1484/)
+    * [Multiplexing analog &amp; switches](/download/1510/)
+    Code samples:
+    * [[download id="2071" template="title"]](/download/2071/)
+    * [[download id="2069" template="title"]](/download/2069/)
 categories:
-    - 'Model Aeronautics'
+  - Model Aeronautics
 tags:
-    - arduino
-    - diy
-    - english
-    - 'open source'
-    - RC
-    - 'RC transmitter'
+  - arduino
+  - diy
+  - english
+  - open source
+  - RC
+  - RC transmitter
+
 ---
 
 # Introduction

@@ -1,20 +1,19 @@
 ---
-id: 2175
-title: 'csvplot &#8211; A command line script which uses Microsoft Excel to plot a graph from a Comma-separated values (CSV) file'
-date: '2016-08-04T13:30:03+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=2175'
-permalink: '/?p=2175'
+title: csvplot – A command line script which uses Microsoft Excel to plot a graph from a Comma-separated values (CSV) file
+author: end2end
+date: 2016-08-04T17:30:03+00:00
+url: /csvplot-a-command-line-script-which-uses-microsoft-excel-to-plot-a-graph-from-a-comma-separated-values-csv-file/
+images:
+  - src: /wp-content/uploads/2016/07/csvplot.CarEngineModel.png
 hits:
-    - '4693'
-image: /wp-content/uploads/2016/07/csvplot.CarEngineModel.png
+  - 3476
 categories:
-    - Development
+  - Development
 tags:
-    - english
-    - 'open source'
-    - scripts
+  - english
+  - open source
+  - scripts
+
 ---
 
 Please note that **csvplot** source code is now moved to GitHub. Source code can be downloaded from the project’s [GitHub page](http://github.com/end2endzone/csvplot).

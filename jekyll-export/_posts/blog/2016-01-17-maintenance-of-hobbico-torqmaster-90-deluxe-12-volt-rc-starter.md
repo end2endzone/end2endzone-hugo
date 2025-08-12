@@ -1,19 +1,18 @@
 ---
-id: 1006
-title: 'Maintenance of Hobbico TorqMaster 90 deluxe 12 Volt RC starter'
-date: '2016-01-17T17:13:51+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1006'
-permalink: '/?p=1006'
+title: Maintenance of Hobbico TorqMaster 90 deluxe 12 Volt RC starter
+author: end2end
+date: 2016-01-17T22:13:51+00:00
+url: /maintenance-of-hobbico-torqmaster-90-deluxe-12-volt-rc-starter/
+images:
+  - src: /wp-content/uploads/2015/07/Hobbico-Torqmaster-90-deluxe-12-Volt-RC-starter1.jpg
 hits:
-    - '1855'
-image: /wp-content/uploads/2015/07/Hobbico-Torqmaster-90-deluxe-12-Volt-RC-starter1.jpg
+  - 1399
 categories:
-    - 'Model Aeronautics'
+  - Model Aeronautics
 tags:
-    - english
-    - RC
+  - english
+  - RC
+
 ---
 
 This article is about how I did the maintenance on my Hobbico Torqmaster 90 deluxe which is a 12 Volt starter for remote controlled (RC) aircraft. I wanted to change the rubber nose to get a better grip on my [Avistar Elite](/tag/avistar-elite/) spinner. I ended up disassembling the whole unit before understanding what I should have done. This guide documents the steps and tricks I used to reassemble the unit. I hope it may help someone that have the same issue. If not, then I shall use this article as a way for me to remember how I did the maintenance on the starter and which tool I used...

@@ -1,26 +1,33 @@
 ---
-id: 2056
-title: 'SoftTimers &#8211; A collection of software timers to easily compute elapsed time since an event occurred'
-date: '2016-06-10T16:14:19+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=2056'
-permalink: '/?p=2056'
-'Snippet Title':
-    - 'Downloadable content'
+title: SoftTimers – A collection of software timers to easily compute elapsed time since an event occurred
+author: end2end
+date: 2016-06-10T20:14:19+00:00
+url: /softtimers-a-collection-of-software-timers-to-easily-compute-elapsed-time-since-an-event-occured/
+images:
+  - src: /wp-content/uploads/2016/06/Arduino-SoftTimers-library.jpg
+Snippet Title:
+  - Downloadable content
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Library:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2089/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2089\" template=\"title\"]</a></li>\n</ul>\n</div>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Examples:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2109/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2109\" template=\"title\"]</a></li>\n<li><a href=\"/download/2105/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2105\" template=\"title\"]</a></li>\n<li><a href=\"/download/2107/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2107\" template=\"title\"]</a></li>\n<li><a href=\"/download/2111/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2111\" template=\"title\"]</a></li>\n</ul>\n</div>"
+  - |
+    Downloads available in this article:
+    Library:
+    * [[download id="2089" template="title"]](/download/2089/)
+    Examples:
+    * [[download id="2109" template="title"]](/download/2109/)
+    * [[download id="2105" template="title"]](/download/2105/)
+    * [[download id="2107" template="title"]](/download/2107/)
+    * [[download id="2111" template="title"]](/download/2111/)
 hits:
-    - '973'
-image: /wp-content/uploads/2016/06/Arduino-SoftTimers-library.jpg
+  - 827
 categories:
-    - Development
+  - Development
 tags:
-    - arduino
-    - 'arduino library'
-    - c++
-    - english
-    - 'open source'
+  - arduino
+  - arduino library
+  - c++
+  - english
+  - open source
+
 ---
 
 # Introduction

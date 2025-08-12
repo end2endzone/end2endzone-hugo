@@ -1,27 +1,26 @@
 ---
-id: 316
-title: 'DIY Bedroom under the bed led lighting'
-date: '2014-09-01T15:32:17+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=316'
-permalink: '/?p=316'
+title: DIY Bedroom under the bed led lighting
+author: end2end
+date: 2014-09-01T19:32:17+00:00
+url: /diy-bedroom-under-the-bed-led-lighting/
+images:
+  - src: /wp-content/uploads/2014/09/IMG_0846.jpg
 hits:
-    - '5106'
+  - 4307
 french_post_id:
-    - '900'
-'Snippet Title':
-    - 'Other languages'
+  - 900
+Snippet Title:
+  - Other languages
 Snippet:
-    - '[otherlanguage]'
-image: /wp-content/uploads/2014/09/IMG_0846.jpg
+  - '[otherlanguage]'
 categories:
-    - Other
+  - Other
 tags:
-    - diy
-    - english
-    - 'led lighting'
-    - multilingual
+  - diy
+  - english
+  - led lighting
+  - multilingual
+
 ---
 
 # Introduction

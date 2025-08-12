@@ -1,19 +1,18 @@
 ---
-id: 483
-title: 'How to photograph fireworks with a DSLR camera'
-date: '2014-12-07T01:49:09+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=483'
-permalink: '/?p=483'
+title: How to photograph fireworks with a DSLR camera
+author: end2end
+date: 2014-12-07T06:49:09+00:00
+url: /how-to-photograph-fireworks-with-a-dslr-camera/
+images:
+  - src: /wp-content/uploads/2014/11/How-to-photograph-fireworks-with-a-DSLR-camera-featured.jpg
 hits:
-    - '594'
-image: /wp-content/uploads/2014/11/How-to-photograph-fireworks-with-a-DSLR-camera-featured.jpg
+  - 368
 categories:
-    - Photography
+  - Photography
 tags:
-    - english
-    - fireworks
+  - english
+  - fireworks
+
 ---
 
 # Introduction

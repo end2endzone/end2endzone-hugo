@@ -1,27 +1,26 @@
 ---
-id: 244
-title: 'DIY Kitchen under cabinet led lighting'
-date: '2014-08-14T13:30:40+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=244'
-permalink: '/?p=244'
+title: DIY Kitchen under cabinet led lighting
+author: end2end
+date: 2014-08-14T17:30:40+00:00
+url: /diy-kitchen-under-cabinet-led-lighting/
+images:
+  - src: /wp-content/uploads/2014/08/IMG_6846.jpg
 hits:
-    - '1293'
+  - 1095
 french_post_id:
-    - '820'
-'Snippet Title':
-    - 'Other languages'
+  - 820
+Snippet Title:
+  - Other languages
 Snippet:
-    - '[otherlanguage]'
-image: /wp-content/uploads/2014/08/IMG_6846-scaled.jpg
+  - '[otherlanguage]'
 categories:
-    - Other
+  - Other
 tags:
-    - diy
-    - english
-    - 'led lighting'
-    - multilingual
+  - diy
+  - english
+  - led lighting
+  - multilingual
+
 ---
 
 # Introduction

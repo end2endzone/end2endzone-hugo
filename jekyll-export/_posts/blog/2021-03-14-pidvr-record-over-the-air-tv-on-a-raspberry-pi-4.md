@@ -1,19 +1,18 @@
 ---
-id: 2551
-title: 'PiDVR Record over the air TV on a Raspberry Pi 4'
-date: '2021-03-14T15:40:03+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=2551'
-permalink: '/?p=2551'
+title: PiDVR Record over the air TV on a Raspberry Pi 4
+author: end2end
+date: 2021-03-14T19:40:03+00:00
+url: /pidvr-record-over-the-air-tv-on-a-raspberry-pi-4/
+images:
+  - src: /wp-content/uploads/2021/03/PiDVR-Record-over-the-air-TV-on-a-Raspberry-Pi-4.jpg
 hits:
-    - '1283'
-image: /wp-content/uploads/2021/03/PiDVR-Record-over-the-air-TV-on-a-Raspberry-Pi-4.jpg
+  - 173
 categories:
-    - Other
+  - Other
 tags:
-    - english
-    - 'Raspberry Pi'
+  - english
+  - Raspberry Pi
+
 ---
 
 # About the project

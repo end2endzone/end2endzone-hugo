@@ -1,19 +1,18 @@
 ---
-id: 400
-title: 'Review of the Avistar Elite .46 ARF by Great Planes &#8211; The perfect motorized trainer for beginners'
-date: '2014-09-20T20:31:55+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=400'
-permalink: '/?p=400'
+title: Review of the Avistar Elite .46 ARF by Great Planes – The perfect motorized trainer for beginners
+author: end2end
+date: 2014-09-21T00:31:55+00:00
+url: /review-of-the-avistar-elite-46-arf-by-great-planes-the-perfect-motorized-trainer-for-beginners/
+images:
+  - src: /wp-content/uploads/2014/09/IMG_7968.jpg
 hits:
-    - '2673'
-image: /wp-content/uploads/2014/09/IMG_7968.jpg
+  - 2326
 categories:
-    - 'Model Aeronautics'
+  - Model Aeronautics
 tags:
-    - 'avistar elite'
-    - english
+  - avistar elite
+  - english
+
 ---
 
 # Introduction

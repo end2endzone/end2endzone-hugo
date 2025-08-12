@@ -1,24 +1,28 @@
 ---
-id: 1902
-title: 'svnpropertylog &#8211; A script which finds all revisions where a specific subversion property has changed'
-date: '2016-05-03T12:52:00+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1902'
-permalink: '/?p=1902'
-'Snippet Title':
-    - 'Downloadable content'
+title: svnpropertylog – A script which finds all revisions where a specific subversion property has changed
+author: end2end
+date: 2016-05-03T16:52:00+00:00
+url: /svnpropertylog-a-script-which-finds-all-revisions-where-a-specific-subversion-property-has-changed/
+images:
+  - src: /wp-content/uploads/2016/05/svnpropertylog-v1.1.29-screenshot.png
+Snippet Title:
+  - Downloadable content
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Script:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1908/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>svnpropertylog (latest version)</a></li>\n</ul>\n</div>\n"
+  - |
+    |
+        Downloads available in this article:
+        Script:
+        * [svnpropertylog (latest version)](/download/1908/)
+        
 hits:
-    - '122'
-image: /wp-content/uploads/2016/05/svnpropertylog-v1.1.29-screenshot.png
+  - 35
 categories:
-    - Development
+  - Development
 tags:
-    - english
-    - 'open source'
-    - scripts
+  - english
+  - open source
+  - scripts
+
 ---
 
 # Purpose

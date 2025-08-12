@@ -1,26 +1,25 @@
 ---
-id: 199
-title: 'DIY Custom baby gate'
-date: '2014-08-03T16:40:20+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=199'
-permalink: '/?p=199'
+title: DIY Custom baby gate
+author: end2end
+date: 2014-08-03T20:40:20+00:00
+url: /diy-custom-baby-gate/
+images:
+  - src: /wp-content/uploads/2014/07/DSC02297.jpg
 hits:
-    - '322'
-'Snippet Title':
-    - 'Other languages'
+  - 236
+Snippet Title:
+  - Other languages
 Snippet:
-    - '[otherlanguage]'
+  - '[otherlanguage]'
 english_post_id:
-    - '168'
-image: /wp-content/uploads/2014/07/DSC02297.jpg
+  - 168
 categories:
-    - Other
+  - Other
 tags:
-    - diy
-    - english
-    - multilingual
+  - diy
+  - english
+  - multilingual
+
 ---
 
 # **Introduction** 

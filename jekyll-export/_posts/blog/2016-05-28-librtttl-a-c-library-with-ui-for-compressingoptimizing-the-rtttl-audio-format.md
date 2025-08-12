@@ -1,25 +1,34 @@
 ---
-id: 1807
-title: 'libRtttl &#8211; A c++ library (with UI) for compressing/optimizing the RTTTL audio format'
-date: '2016-05-28T11:18:35+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1807'
-permalink: '/?p=1807'
+title: libRtttl – A c++ library (with UI) for compressing/optimizing the RTTTL audio format
+author: end2end
+date: 2016-05-28T15:18:35+00:00
+url: /librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/
+images:
+  - src: /wp-content/uploads/2016/05/libRtttl-cplusplus-library.jpg
 hits:
-    - '615'
-'Snippet Title':
-    - 'Downloadable content'
+  - 307
+Snippet Title:
+  - Downloadable content
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Library binaries:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1863/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"1863\" template=\"title\"]</a></li>\n<li><a href=\"/download/1861/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"1861\" template=\"title\"]</a></li>\n<li><a href=\"/download/1859/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"1859\" template=\"title\"]</a></li>\n<li><a href=\"/download/1857/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"1857\" template=\"title\"]</a></li>\n</ul>\n</div>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Source code:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2035/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2035\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
-image: /wp-content/uploads/2016/05/libRtttl-cplusplus-library.jpg
+  - |
+    |
+        Downloads available in this article:
+        Library binaries:
+        * [[download id="1863" template="title"]](/download/1863/)
+        * [[download id="1861" template="title"]](/download/1861/)
+        * [[download id="1859" template="title"]](/download/1859/)
+        * [[download id="1857" template="title"]](/download/1857/)
+        Source code:
+        * [[download id="2035" template="title"]](/download/2035/)
+        
 categories:
-    - Development
+  - Development
 tags:
-    - arduino
-    - english
-    - 'open source'
-    - rtttl
+  - arduino
+  - english
+  - open source
+  - rtttl
+
 ---
 
 # Introduction

@@ -1,27 +1,26 @@
 ---
-id: 208
-title: 'How photography all started'
-date: '2014-08-04T21:34:05+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=208'
-permalink: '/?p=208'
+title: How photography all started
+author: end2end
+date: 2014-08-05T01:34:05+00:00
+url: /how-photography-all-started/
+images:
+  - src: /wp-content/uploads/2014/08/Rocher-Percé.jpg
 hits:
-    - '90'
+  - 69
 french_post_id:
-    - '227'
-'Snippet Title':
-    - 'Other languages'
+  - 227
+Snippet Title:
+  - Other languages
 Snippet:
-    - '[otherlanguage]'
-image: /wp-content/uploads/2014/08/Rocher-Perce.jpg
+  - '[otherlanguage]'
 categories:
-    - Photography
+  - Photography
 tags:
-    - english
-    - multilingual
-    - photography
-    - 'photography gears'
+  - english
+  - multilingual
+  - photography
+  - photography gears
+
 ---
 
 Hi everyone. This is my first post regarding photography. I recently started this hobby but I had an interest in photography since a long time but never pursued this hobby because I always tough that good photography skills were not achievable or simply because you need a lot of gears that are expensive. Unfortunately, I changed my mind and rediscovered photography.

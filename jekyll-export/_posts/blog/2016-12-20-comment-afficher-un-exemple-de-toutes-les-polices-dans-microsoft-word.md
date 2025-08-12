@@ -1,24 +1,30 @@
 ---
-id: 2335
-title: 'Comment afficher un exemple de toutes les polices dans Microsoft Word'
-date: '2016-12-20T21:28:38+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=2335'
-permalink: '/?p=2335'
-'Snippet Title':
-    - 'Downloadable content'
+title: Comment afficher un exemple de toutes les polices dans Microsoft Word
+author: end2end
+date: 2016-12-21T02:28:38+00:00
+url: /comment-afficher-un-exemple-de-toutes-les-polices-dans-microsoft-word/
+images:
+  - src: /wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg
+Snippet Title:
+  - Downloadable content
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Code:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2339/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2339\" template=\"title\"]</a></li>\n</ul>\n<p class=\"nomarginbottom\">Exemple de polices:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2341/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2341\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
+  - |
+    |
+        Downloads available in this article:
+        Code:
+        * [[download id="2339" template="title"]](/download/2339/)
+        Exemple de polices:
+        * [[download id="2341" template="title"]](/download/2341/)
+        
 hits:
-    - '3224'
-image: /wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg
+  - 2008
 categories:
-    - Development
+  - Development
 tags:
-    - français
-    - 'Microsoft Office'
-    - 'open source'
+  - français
+  - Microsoft Office
+  - open source
+
 ---
 
 # Introduction

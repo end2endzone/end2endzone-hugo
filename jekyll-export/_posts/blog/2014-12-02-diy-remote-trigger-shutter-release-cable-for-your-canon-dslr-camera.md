@@ -1,19 +1,18 @@
 ---
-id: 489
-title: 'DIY Remote trigger shutter release cable for your Canon DSLR camera'
-date: '2014-12-02T21:00:59+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=489'
-permalink: '/?p=489'
+title: DIY Remote trigger shutter release cable for your Canon DSLR camera
+author: end2end
+date: 2014-12-03T02:00:59+00:00
+url: /diy-remote-trigger-shutter-release-cable-for-your-canon-dslr-camera/
+images:
+  - src: /wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg
 hits:
-    - '7297'
-image: /wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg
+  - 5336
 categories:
-    - Photography
+  - Photography
 tags:
-    - diy
-    - english
+  - diy
+  - english
+
 ---
 
 # Introduction

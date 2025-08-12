@@ -1,19 +1,18 @@
 ---
-id: 2535
-title: 'How to setup macOS Catalina 10.15 in VirtualBox for C++ development on Github.'
-date: '2021-03-14T12:42:39+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=2535'
-permalink: '/?p=2535'
+title: How to setup macOS Catalina 10.15 in VirtualBox for C++ development on Github.
+author: end2end
+date: 2021-03-14T16:42:39+00:00
+url: /how-to-setup-macos-catalina-10-15-in-virtualbox-for-c-development-on-github/
+images:
+  - src: /wp-content/uploads/2021/03/HOW-TO-SETUP-MACOS-CATALINA-10.15-IN-VIRTUALBOX-FOR-C-DEVELOPMENT-ON-GITHUB.jpg
 hits:
-    - '440'
-image: /wp-content/uploads/2021/03/HOW-TO-SETUP-MACOS-CATALINA-10.15-IN-VIRTUALBOX-FOR-C-DEVELOPMENT-ON-GITHUB.jpg
+  - 51
 categories:
-    - Development
+  - Development
 tags:
-    - c++
-    - english
+  - c++
+  - english
+
 ---
 
 # Introduction

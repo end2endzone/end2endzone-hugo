@@ -1,22 +1,21 @@
 ---
-id: 766
-title: 'How to make a time-lapse video with free tools and a DSLR camera'
-date: '2015-03-15T15:50:02+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=766'
-permalink: '/?p=766'
+title: How to make a time-lapse video with free tools and a DSLR camera
+author: end2end
+date: 2015-03-15T19:50:02+00:00
+url: /how-to-make-a-time-lapse-video-with-free-tools-and-a-dslr-camera/
+images:
+  - src: /wp-content/uploads/2015/02/How-to-make-a-time-lapse-video-with-free-tools-and-a-DSLR-camera.jpg
 hits:
-    - '3082'
-image: /wp-content/uploads/2015/02/How-to-make-a-time-lapse-video-with-free-tools-and-a-DSLR-camera.jpg
+  - 2694
 categories:
-    - Photography
+  - Photography
 tags:
-    - english
-    - gimp
-    - 'time lapse'
-    - VirtualDub
-    - 'Windows movie maker'
+  - english
+  - gimp
+  - time lapse
+  - VirtualDub
+  - Windows movie maker
+
 ---
 
 # Introduction

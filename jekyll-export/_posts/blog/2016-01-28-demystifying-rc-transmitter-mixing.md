@@ -1,24 +1,28 @@
 ---
-id: 1247
-title: 'Demystifying RC Transmitter Mixing'
-date: '2016-01-28T12:44:31+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1247'
-permalink: '/?p=1247'
+title: Demystifying RC Transmitter Mixing
+author: end2end
+date: 2016-01-28T17:44:31+00:00
+url: /demystifying-rc-transmitter-mixing/
+images:
+  - src: /wp-content/uploads/2016/01/Demystifying-RC-Transmitter-Mixing.jpg
 hits:
-    - '12357'
-'Snippet Title':
-    - 'Downloadable content'
+  - 10147
+Snippet Title:
+  - Downloadable content
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">RC Transmitter Mix Calculator:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1255/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"1255\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
-image: /wp-content/uploads/2016/01/Demystifying-RC-Transmitter-Mixing.jpg
+  - |
+    |
+        Downloads available in this article:
+        RC Transmitter Mix Calculator:
+        * [[download id="1255" template="title"]](/download/1255/)
+        
 categories:
-    - 'Model Aeronautics'
+  - Model Aeronautics
 tags:
-    - english
-    - RC
-    - 'RC transmitter'
+  - english
+  - RC
+  - RC transmitter
+
 ---
 
 # Introduction

@@ -1,26 +1,32 @@
 ---
-id: 1392
-title: 'NonBlockingRTTTL &#8211; A non-blocking arduino library for playing RTTTL melodies'
-date: '2016-03-20T11:16:54+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1392'
-permalink: '/?p=1392'
+title: NonBlockingRTTTL – A non-blocking arduino library for playing RTTTL melodies
+author: end2end
+date: 2016-03-20T15:16:54+00:00
+url: /nonblockingrtttl-a-non-blocking-arduino-library-for-playing-rtttl-melodies/
+images:
+  - src: /wp-content/uploads/2016/03/Arduino-non-blocking-rtttl-library.jpg
 hits:
-    - '1553'
-'Snippet Title':
-    - 'Downloadable content'
+  - 1262
+Snippet Title:
+  - Downloadable content
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Library:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"http://github.com/end2endzone/NonBlockingRTTTL/releases\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>NonBlockingRtttl arduino library</a></li>\n</ul>\n</div>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Example:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1676/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>NonBlockingRtttl demo sample</a></li>\n</ul>\n</div>\n"
-image: /wp-content/uploads/2016/03/Arduino-non-blocking-rtttl-library.jpg
+  - |
+    |
+        Downloads available in this article:
+        Library:
+        * [NonBlockingRtttl arduino library](http://github.com/end2endzone/NonBlockingRTTTL/releases)
+        Example:
+        * [NonBlockingRtttl demo sample](/download/1676/)
+        
 categories:
-    - Development
+  - Development
 tags:
-    - arduino
-    - 'arduino library'
-    - english
-    - 'open source'
-    - rtttl
+  - arduino
+  - arduino library
+  - english
+  - open source
+  - rtttl
+
 ---
 
 # Introduction

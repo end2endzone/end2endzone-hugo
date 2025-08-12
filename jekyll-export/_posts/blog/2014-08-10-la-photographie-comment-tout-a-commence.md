@@ -1,27 +1,26 @@
 ---
-id: 227
-title: 'La photographie &#8211; Comment tout a commencé'
-date: '2014-08-10T17:19:14+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=227'
-permalink: '/?p=227'
+title: La photographie – Comment tout a commencé
+author: end2end
+date: 2014-08-10T21:19:14+00:00
+url: /la-photographie-comment-tout-a-commence/
+images:
+  - src: /wp-content/uploads/2014/08/Rocher-Percé.jpg
 hits:
-    - '63'
+  - 55
 english_post_id:
-    - '208'
-'Snippet Title':
-    - 'Other languages'
+  - 208
+Snippet Title:
+  - Other languages
 Snippet:
-    - '[otherlanguage]'
-image: /wp-content/uploads/2014/08/Rocher-Perce.jpg
+  - '[otherlanguage]'
 categories:
-    - Photography
+  - Photography
 tags:
-    - français
-    - multilingual
-    - photography
-    - 'photography gears'
+  - français
+  - multilingual
+  - photography
+  - photography gears
+
 ---
 
 Salut tout le monde. Ceci est mon premier post concernant la photographie. J'ai récemment débuté ce passe-temps, mais j'ai toujours eu un intérêt pour la photographie depuis longtemps, mais jamais poussé plus loin ce passe-temps parce que j'ai toujours cru que de devenir bon en photographie n'était pas de mon ressort ou simplement parce que vous avez besoin de beaucoup trop d'équipement coûteux pour arriver à faire quelque chose de bon. Heureusement, j'ai changé d'avis et redécouvert la photographie.

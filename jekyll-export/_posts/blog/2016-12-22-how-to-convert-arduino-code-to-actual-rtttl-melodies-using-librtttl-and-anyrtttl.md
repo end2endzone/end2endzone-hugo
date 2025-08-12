@@ -1,21 +1,20 @@
 ---
-id: 1996
-title: 'How to convert arduino code to actual RTTTL melodies using libRtttl and AnyRtttl'
-date: '2016-12-22T13:03:50+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1996'
-permalink: '/?p=1996'
+title: How to convert arduino code to actual RTTTL melodies using libRtttl and AnyRtttl
+author: end2end
+date: 2016-12-22T18:03:50+00:00
+url: /how-to-convert-arduino-code-to-actual-rtttl-melodies-using-librtttl-and-anyrtttl/
+images:
+  - src: /wp-content/uploads/2016/11/How-to-convert-arduino-code-to-actual-RTTTL-melodies-using-libRtttl-and-AnyRtttl.jpg
 hits:
-    - '1287'
-image: /wp-content/uploads/2016/11/How-to-convert-arduino-code-to-actual-RTTTL-melodies-using-libRtttl-and-AnyRtttl.jpg
+  - 877
 categories:
-    - Development
+  - Development
 tags:
-    - arduino
-    - english
-    - 'open source'
-    - rtttl
+  - arduino
+  - english
+  - open source
+  - rtttl
+
 ---
 
 # Introduction

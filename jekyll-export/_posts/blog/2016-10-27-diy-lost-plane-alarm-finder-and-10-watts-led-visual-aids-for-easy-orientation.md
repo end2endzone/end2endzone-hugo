@@ -1,26 +1,35 @@
 ---
-id: 2120
-title: 'DIY lost plane alarm finder and 10 watts LED visual aids for easy orientation'
-date: '2016-10-27T12:48:23+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=2120'
-permalink: '/?p=2120'
+title: DIY lost plane alarm finder and 10 watts LED visual aids for easy orientation
+author: end2end
+date: 2016-10-27T16:48:23+00:00
+url: /diy-lost-plane-alarm-finder-and-10-watts-led-visual-aids-for-easy-orientation/
+images:
+  - src: /wp-content/uploads/2016/10/Arduino-Quadcopter-Controler-featured.jpg
 hits:
-    - '1018'
-'Snippet Title':
-    - 'Downloadable content'
+  - 845
+Snippet Title:
+  - Downloadable content
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Fritzing project:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2240/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2240\" template=\"title\"]</a></li>\n</ul><p class=\"nomarginbottom\">Fritzing parts:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2237/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2237\" template=\"title\"]</a></li>\n<li><a href=\"/download/2235/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2235\" template=\"title\"]</a></li>\n<li><a href=\"/download/2233/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2233\" template=\"title\"]</a></li>\n</ul>\n<p class=\"nomarginbottom\">Source code files:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/2263/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"2263\" template=\"title\"]</a></li>\n</ul>\n</div>\n"
-image: /wp-content/uploads/2016/10/Arduino-Quadcopter-Controler-featured.jpg
+  - |
+    |
+        Downloads available in this article:
+        Fritzing project:
+        * [[download id="2240" template="title"]](/download/2240/)Fritzing parts:
+        * [[download id="2237" template="title"]](/download/2237/)
+        * [[download id="2235" template="title"]](/download/2235/)
+        * [[download id="2233" template="title"]](/download/2233/)
+        Source code files:
+        * [[download id="2263" template="title"]](/download/2263/)
+        
 categories:
-    - 'Model Aeronautics'
+  - Model Aeronautics
 tags:
-    - arduino
-    - diy
-    - english
-    - 'open source'
-    - RC
+  - arduino
+  - diy
+  - english
+  - open source
+  - RC
+
 ---
 
 # Introduction

@@ -1,18 +1,17 @@
 ---
-id: 2459
-title: 'How to encode command line parameters on Windows – done right'
-date: '2021-03-14T10:49:47+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=2459'
-permalink: '/?p=2459'
+title: How to encode command line parameters on Windows – done right
+author: end2end
+date: 2021-03-14T14:49:47+00:00
+url: /how-to-encode-command-line-parameters-on-windows-done-right/
+images:
+  - src: /wp-content/uploads/2017/06/How-to-encode-command-line-parameters-on-Windows-done-right.jpg
 hits:
-    - '425'
-image: /wp-content/uploads/2017/06/How-to-encode-command-line-parameters-on-Windows-–-done-right.jpg
+  - 31
 categories:
-    - Development
+  - Development
 tags:
-    - english
+  - english
+
 ---
 
 # Introduction

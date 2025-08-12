@@ -1,24 +1,26 @@
 ---
-id: 1880
-title: 'libMIDI &#8211; A C++ open-source library for generating single tone melodies in MIDI format'
-date: '2016-04-24T12:42:27+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=1880'
-permalink: '/?p=1880'
-'Snippet Title':
-    - 'Downloadable content'
+title: libMIDI – A C++ open-source library for generating single tone melodies in MIDI format
+author: end2end
+date: 2016-04-24T16:42:27+00:00
+url: /libmidi-a-c-open-source-library-for-generating-single-tone-melodies-in-midi-format/
+images:
+  - src: /wp-content/uploads/2016/04/libMidi-cplusplus-library.jpg
+Snippet Title:
+  - Downloadable content
 Snippet:
-    - "<p>Downloads available in this article:</p>\n<div style=\"margin-bottom: 18px\">\n<p class=\"nomarginbottom\">Library:</p>\n<ul class=\"fa-ul\">\n<li><a href=\"/download/1893/\"><i class=\"fa-li fa fa-download\" style=\"position: inherit;\"></i>[download old-id=\"1893\" template=\"title\"]</a></li>\n</ul>\n</div>"
+  - |
+    Downloads available in this article:
+    Library:
+    * [[download id="1893" template="title"]](/download/1893/)
 hits:
-    - '1063'
-image: /wp-content/uploads/2016/04/libMidi-cplusplus-library.jpg
+  - 808
 categories:
-    - Development
+  - Development
 tags:
-    - c++
-    - english
-    - 'open source'
+  - c++
+  - english
+  - open source
+
 ---
 
 # Introduction

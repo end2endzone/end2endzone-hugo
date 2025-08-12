@@ -1,19 +1,18 @@
 ---
-id: 405
-title: 'Recommended modifications to the Avistar Elite .46 ARF by Great Planes'
-date: '2014-10-13T11:03:21+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=405'
-permalink: '/?p=405'
+title: Recommended modifications to the Avistar Elite .46 ARF by Great Planes
+author: end2end
+date: 2014-10-13T15:03:21+00:00
+url: /recommended-modifications-to-the-avistar-elite-46-arf-by-great-planes/
+images:
+  - src: /wp-content/uploads/2014/10/DSC00129.jpg
 hits:
-    - '3069'
-image: /wp-content/uploads/2014/10/DSC00129.jpg
+  - 2525
 categories:
-    - 'Model Aeronautics'
+  - Model Aeronautics
 tags:
-    - 'avistar elite'
-    - english
+  - avistar elite
+  - english
+
 ---
 
 # Introduction

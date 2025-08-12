@@ -1,20 +1,19 @@
 ---
-id: 476
 title: 'bin2cpp: The easiest way to embed small files into a C++ executable'
-date: '2015-01-11T22:56:17+00:00'
-author: wpadmin
-layout: post
-guid: 'http://www.end2endzone.com/?p=476'
-permalink: '/?p=476'
+author: end2end
+date: 2015-01-12T03:56:17+00:00
+url: /bin2cpp-the-easiest-way-to-embed-small-files-into-a-c-executable/
+images:
+  - src: /wp-content/uploads/2015/01/bin2cpp-featured-image.png
 hits:
-    - '738'
-image: /wp-content/uploads/2015/01/bin2cpp-featured-image.png
+  - 213
 categories:
-    - Development
+  - Development
 tags:
-    - c++
-    - english
-    - Freeware
+  - c++
+  - english
+  - Freeware
+
 ---
 
 # bin2cpp
