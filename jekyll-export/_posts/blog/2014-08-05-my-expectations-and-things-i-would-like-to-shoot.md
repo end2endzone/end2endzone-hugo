@@ -41,8 +41,11 @@ tags:
   - waterfall
 
 ---
+What I expect from photography? I don't really know. It's a hobby after all but over time I managed to think about cool things I would like to shoot. Most of them are technical challenges but some of them have a geographical difficulty level. Others are only possible during a specific period of the year.
 
-What I expect from photography? I don't really know. It's a hobby after all but over time I managed to think about cool things I would like to shoot. Most of them are technical challenges but some of them have a geographical difficulty level. Others are only possible during a specific period of the year. Here is my list of what I would hunt for a good shoot: Note: I will try to update this post as I managed to find the opportunity to shoot one of those. Come back later to see what new ideas I added or what I've done (strike trough).
+Here is my list of what I would hunt for a good shoot:
+
+Note: I will try to update this post as I managed to find the opportunity to shoot one of those. Come back later to see what new ideas I added or what I've done (strike trough).
 
 # Portrait
 
@@ -54,11 +57,17 @@ I still don't know if I will ever get the courage to go out before the sun rise 
 
 # The moon
 
-I don't know yet what I would need to get a nice shot of the moon (besides a perfect weather). I might need an adapter to attach the camera to a telescope. I don't know. I only know that I would like to experiment with the technical aspect of shooting the moon. The sun? I don't even know if that is possible but it might be possible with the proper filters (read priceless equipment). I am pretty sure I won't end up with NASA-grade pictures :)
+I don't know yet what I would need to get a nice shot of the moon (besides a perfect weather). I might need an adapter to attach the camera to a telescope. I don't know. I only know that I would like to experiment with the technical aspect of shooting the moon.
+
+The sun? I don't even know if that is possible but it might be possible with the proper filters (read priceless equipment). I am pretty sure I won't end up with NASA-grade pictures :)
 
 # The stars
 
-There is two things I would like to try when shooting the stars. The first one is obvious: it's experimenting with a super long shutter speed. I am also expecting difficulties from the earth rotation that might create trails or blurry spots instead or bright stars. I also remember seeing gears that can counter the rotation of the earth to get a fixed point of view on a region of the sky. That might come handy sometime. The second thing I would like to shoot is what's called "star trails" ([http://en.wikipedia.org/wiki/Star\_trail](http://en.wikipedia.org/wiki/Star_trail)). There is a star in the sky that has a fixed point over time in the sky. That star is Polaris (also called the North Star). The objective is to take time lapse pictures of this area and then use a computer software (don't know which one!) to "merge" all the picture together. The results is a fixed star and a multitude of circles around it (the results of the orbit of each star in the field of view).
+There is two things I would like to try when shooting the stars.
+
+The first one is obvious: it's experimenting with a super long shutter speed. I am also expecting difficulties from the earth rotation that might create trails or blurry spots instead or bright stars. I also remember seeing gears that can counter the rotation of the earth to get a fixed point of view on a region of the sky. That might come handy sometime.
+
+The second thing I would like to shoot is what's called "star trails" ([http://en.wikipedia.org/wiki/Star\_trail](http://en.wikipedia.org/wiki/Star_trail)). There is a star in the sky that has a fixed point over time in the sky. That star is Polaris (also called the North Star). The objective is to take time lapse pictures of this area and then use a computer software (don't know which one!) to "merge" all the picture together. The results is a fixed star and a multitude of circles around it (the results of the orbit of each star in the field of view).
 
 # A waterfall
 
@@ -66,11 +75,17 @@ Shooting a waterfall with a normal camera always tries to freeze the motion of t
 
 # Fireworks
 
-I have seen so many people trying to shoot fireworks with their phone. This always give terrible results. First because holding a phone with your hands gives blurry images but I am not sure about the capacity of a phone to shoot good quality picture of a firework. However, I wish I could get out and manage to get a nice shoot of a color-changing firework popping that would be as good as a professional one (the kind of picture you see on promotional content) I have read on the subject and know a little bit how to prepare myself and what to expect. I hope everything will be nice. However, the difficulty with this kind of shooting is to wait for an event that includes fireworks at the end! Where I live, this only happens once a year on June 24th during the Fête Nationale.
+I have seen so many people trying to shoot fireworks with their phone. This always give terrible results. First because holding a phone with your hands gives blurry images but I am not sure about the capacity of a phone to shoot good quality picture of a firework. However, I wish I could get out and manage to get a nice shoot of a color-changing firework popping that would be as good as a professional one (the kind of picture you see on promotional content)
+
+I have read on the subject and know a little bit how to prepare myself and what to expect. I hope everything will be nice.
+
+However, the difficulty with this kind of shooting is to wait for an event that includes fireworks at the end! Where I live, this only happens once a year on June 24th during the Fête Nationale.
 
 # Macro
 
-I didn't had the time to start with macro photography but I think that will be the kind of thing I will like to shoot. I am also expecting that I will get hooked to this. Shooting close-up picture of objects that people are not expecting to see that close. I am pretty sure that macro photography is one of the first things that beginners learn because it does not require too much technical challenge. I may need to buy another lens for good macro shots. This might be something I would try first to get my hands dirty. I could also shoot some cliché subject like flowers and insects! haha
+I didn't had the time to start with macro photography but I think that will be the kind of thing I will like to shoot. I am also expecting that I will get hooked to this. Shooting close-up picture of objects that people are not expecting to see that close. I am pretty sure that macro photography is one of the first things that beginners learn because it does not require too much technical challenge. I may need to buy another lens for good macro shots.
+
+This might be something I would try first to get my hands dirty. I could also shoot some cliché subject like flowers and insects! haha
 
 # Water drops
 
@@ -78,11 +93,17 @@ This is something that is calling me like a lot! I think I might be interested b
 
 # Time lapse
 
-Time lapse photography is something that I tried before (a long time ago) but never got to the point of a final product simply because I got tired of it. It seems to easy when you look at the final video but I tend to forget the amount of time required to get the final product. To be able to get something viable you need to prepare yourself before taking the shots because if you don't, you will have a hard time merging it all together. However, I do like time lapse photography because you can make a plain (or almost boring) event and make it so much more dramatic. For instance, I would like to shoot my house (or any other subject) during a 24h time lapse (to get the sun rise and set in the same video) just to see what it feels like. Before I could manage to get a nice video I need to get more shooting experience with time lapse if I don't want to get too angry about a bad picture set! I might try indoor first like creating a time lapse video of me unboxing something I bought or washing my car just to get to know the complete life cycle and be ready when I will really need a time lapse video
+Time lapse photography is something that I tried before (a long time ago) but never got to the point of a final product simply because I got tired of it. It seems to easy when you look at the final video but I tend to forget the amount of time required to get the final product. To be able to get something viable you need to prepare yourself before taking the shots because if you don't, you will have a hard time merging it all together.
+
+However, I do like time lapse photography because you can make a plain (or almost boring) event and make it so much more dramatic. For instance, I would like to shoot my house (or any other subject) during a 24h time lapse (to get the sun rise and set in the same video) just to see what it feels like.
+
+Before I could manage to get a nice video I need to get more shooting experience with time lapse if I don't want to get too angry about a bad picture set! I might try indoor first like creating a time lapse video of me unboxing something I bought or washing my car just to get to know the complete life cycle and be ready when I will really need a time lapse video
 
 # Light trails
 
-There is actually 2 things I would like to shoot using light trails. The first obvious one is car light trails in a scene where the background seems alive like the night life of a city. This have been visited by other photographers many times and I don't think you need explanation on what I would like to achieve. I might need to start with a boring spot not too far from home to make tests and see what kind of results I can expect. The next thing I want to try is creating my own light trails with a laser pointing on the ground. You can actually "write" something nice with a long enough exposure. Do it with multiple color lasers (red, blue and green) to create more dramatic effects.
+There is actually 2 things I would like to shoot using light trails. The first obvious one is car light trails in a scene where the background seems alive like the night life of a city. This have been visited by other photographers many times and I don't think you need explanation on what I would like to achieve. I might need to start with a boring spot not too far from home to make tests and see what kind of results I can expect.
+
+The next thing I want to try is creating my own light trails with a laser pointing on the ground. You can actually "write" something nice with a long enough exposure. Do it with multiple color lasers (red, blue and green) to create more dramatic effects.
 
 # Tilt shift
 

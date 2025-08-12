@@ -43,7 +43,7 @@ tags:
 ---
 What I expect from photography? I don't really know. It's a hobby after all but over time I managed to think about cool things I would like to shoot. Most of them are technical challenges but some of them have a geographical difficulty level. Others are only possible during a specific period of the year.
 
-Here is my list of what I would hunt for a good shoot:  
+Here is my list of what I would hunt for a good shoot:
 
 Note: I will try to update this post as I managed to find the opportunity to shoot one of those. Come back later to see what new ideas I added or what I've done (strike trough).
 
@@ -59,7 +59,7 @@ I still don't know if I will ever get the courage to go out before the sun rise 
 
 I don't know yet what I would need to get a nice shot of the moon (besides a perfect weather). I might need an adapter to attach the camera to a telescope. I don't know. I only know that I would like to experiment with the technical aspect of shooting the moon.
 
-The sun? I don't even know if that is possible but it might be possible with the proper filters (read priceless equipment). I am pretty sure I won't end up with NASA-grade pictures 🙂
+The sun? I don't even know if that is possible but it might be possible with the proper filters (read priceless equipment). I am pretty sure I won't end up with NASA-grade pictures :)
 
 # The stars
 
@@ -67,7 +67,7 @@ There is two things I would like to try when shooting the stars.
 
 The first one is obvious: it's experimenting with a super long shutter speed. I am also expecting difficulties from the earth rotation that might create trails or blurry spots instead or bright stars. I also remember seeing gears that can counter the rotation of the earth to get a fixed point of view on a region of the sky. That might come handy sometime.
 
-The second thing I would like to shoot is what's called "star trails" (<http://en.wikipedia.org/wiki/Star_trail>). There is a star in the sky that has a fixed point over time in the sky. That star is Polaris (also called the North Star). The objective is to take time lapse pictures of this area and then use a computer software (don't know which one!) to "merge" all the picture together. The results is a fixed star and a multitude of circles around it (the results of the orbit of each star in the field of view).
+The second thing I would like to shoot is what's called "star trails" ([http://en.wikipedia.org/wiki/Star\_trail](http://en.wikipedia.org/wiki/Star_trail)). There is a star in the sky that has a fixed point over time in the sky. That star is Polaris (also called the North Star). The objective is to take time lapse pictures of this area and then use a computer software (don't know which one!) to "merge" all the picture together. The results is a fixed star and a multitude of circles around it (the results of the orbit of each star in the field of view).
 
 # A waterfall
 
@@ -111,7 +111,7 @@ Tilt shifting gives a really unique effect to your picture. I makes all you subj
 
 # Panning
 
-Panning is another cool way to capture movement in a picture. The picture you get is a sharp enough subject on a blurred background. The effect can be achieve shooting a moving subject while panning the camera to follow the subject using a relatively long shutter speed (1/40 to 1/20 of a second). If you are good enough, you get a clear (sharp) subject that may have some part blurred because of the movement. When you shoot a cyclist in panning, you will get a clear head, body & arms but a blurry background and blurry legs.
+Panning is another cool way to capture movement in a picture. The picture you get is a sharp enough subject on a blurred background. The effect can be achieve shooting a moving subject while panning the camera to follow the subject using a relatively long shutter speed (1/40 to 1/20 of a second). If you are good enough, you get a clear (sharp) subject that may have some part blurred because of the movement. When you shoot a cyclist in panning, you will get a clear head, body &amp; arms but a blurry background and blurry legs.
 
 # HDR
 
@@ -123,7 +123,7 @@ Chronophotography is another way to capture movement that I would like to explor
 
 # Lightning
 
-Shooting lightning is pretty simple but hard at the same time. You only need a camera that can leave its shutter open for a long time (bulb mode). I am pretty sure that lightning is an easy way to impress your friends without too much hassle. 🙂
+Shooting lightning is pretty simple but hard at the same time. You only need a camera that can leave its shutter open for a long time (bulb mode). I am pretty sure that lightning is an easy way to impress your friends without too much hassle. :)
 
 # Meteor
 

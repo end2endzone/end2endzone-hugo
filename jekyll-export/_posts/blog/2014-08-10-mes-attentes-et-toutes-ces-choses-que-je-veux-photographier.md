@@ -41,8 +41,11 @@ tags:
   - waterfall
 
 ---
+Ce que j'attends de la photographie? Je ne sais pas vraiment. C'est un passe-temps après tout, mais au fil du temps, j'ai réussi à réfléchir à des choses agréable à photographier. La plupart d'entre elles sont des défis techniques, mais certains d'entre elles ont un niveau de difficulté géographique. D'autres ne sont possibles que pendant une période spécifique de l'année.
 
-Ce que j'attends de la photographie? Je ne sais pas vraiment. C'est un passe-temps après tout, mais au fil du temps, j'ai réussi à réfléchir à des choses agréable à photographier. La plupart d'entre elles sont des défis techniques, mais certains d'entre elles ont un niveau de difficulté géographique. D'autres ne sont possibles que pendant une période spécifique de l'année. Voici ma liste de ce que je voudrais réussir à capturer avec ma caméra: Note: Je vais essayer de mettre à jour ce post le plus souvent possible et surtout lorsque j'aurai réussi à trouver la possibilité de photographier un de ceux mentionné plus bas. Revenez plus tard pour voir quelles nouvelles idées j'ai ajouté ou ce que j'ai fait.
+Voici ma liste de ce que je voudrais réussir à capturer avec ma caméra:
+
+Note: Je vais essayer de mettre à jour ce post le plus souvent possible et surtout lorsque j'aurai réussi à trouver la possibilité de photographier un de ceux mentionné plus bas. Revenez plus tard pour voir quelles nouvelles idées j'ai ajouté ou ce que j'ai fait.
 
 # Portrait
 
@@ -54,11 +57,17 @@ Je ne sais pas encore si je vais jamais avoir le courage de sortir de chez moi a
 
 # La lune
 
-Je ne sais pas encore ce que j'aurais besoin ou à faire pour obtenir une belle photo de la lune (en plus d'un temps parfait). Je pourrais avoir besoin d'un adaptateur pour fixer la caméra sur un télescope. Je ne sais pas. Je sais seulement que je voudrais expérimenter avec l'aspect technique de la prise de vue de la lune. Le soleil? Je ne sais même pas si c'est possible mais ça pourrait être possible avec les filtres appropriés (un genre d'équipement inestimable). Je suis sûr que je ne vais pas finir avec des images de la de qualité de la NASA mais bon :) 
+Je ne sais pas encore ce que j'aurais besoin ou à faire pour obtenir une belle photo de la lune (en plus d'un temps parfait). Je pourrais avoir besoin d'un adaptateur pour fixer la caméra sur un télescope. Je ne sais pas. Je sais seulement que je voudrais expérimenter avec l'aspect technique de la prise de vue de la lune.
+
+Le soleil? Je ne sais même pas si c'est possible mais ça pourrait être possible avec les filtres appropriés (un genre d'équipement inestimable). Je suis sûr que je ne vais pas finir avec des images de la de qualité de la NASA mais bon :)
 
 # Les étoiles
 
-Il y a deux choses que je voudrais essayer lorsque l'on photographie des étoiles: La première est évidente: c'est d'expérimenter avec une vitesse d'obturation très longue. Je m'attends aussi à des difficultés à cause de la rotation de la terre qui pourraient créer des traînées ou taches floues au lieu d'étoiles brillantes. J'ai déja aussi entendu parler qu'il existe des équipements qui peuvent contrer la rotation de la terre pour garder un point fixe dans le ciel. Ca pourrait devenir utile un jour. La deuxième chose que je voudrais photographier est ce qu'on appelle des «traînées d'étoiles» ( [http://en.wikipedia.org/wiki/Star\_trail](http://en.wikipedia.org/wiki/Star_trail) ). Il y a une étoile dans le ciel qui a un point fixe dans le ciel et ne change pas de position durant toute la nuit. C'est l'étoile Polaire (aussi appelée l'étoile du Nord). L'objectif est de prendre plusieurs photos à répétition, puis utiliser un logiciel informatique (je ne sais pas lequel!) pour «fusionner» toute les photos ensembles. Le résultat est une étoile fixe et une multitude de cercles autour d'elle (le résultat de l'orbite de chaque étoile dans le champ de vision).
+Il y a deux choses que je voudrais essayer lorsque l'on photographie des étoiles:
+
+La première est évidente: c'est d'expérimenter avec une vitesse d'obturation très longue. Je m'attends aussi à des difficultés à cause de la rotation de la terre qui pourraient créer des traînées ou taches floues au lieu d'étoiles brillantes. J'ai déja aussi entendu parler qu'il existe des équipements qui peuvent contrer la rotation de la terre pour garder un point fixe dans le ciel. Ca pourrait devenir utile un jour.
+
+La deuxième chose que je voudrais photographier est ce qu'on appelle des «traînées d'étoiles» ( [http://en.wikipedia.org/wiki/Star\_trail](http://en.wikipedia.org/wiki/Star_trail) ). Il y a une étoile dans le ciel qui a un point fixe dans le ciel et ne change pas de position durant toute la nuit. C'est l'étoile Polaire (aussi appelée l'étoile du Nord). L'objectif est de prendre plusieurs photos à répétition, puis utiliser un logiciel informatique (je ne sais pas lequel!) pour «fusionner» toute les photos ensembles. Le résultat est une étoile fixe et une multitude de cercles autour d'elle (le résultat de l'orbite de chaque étoile dans le champ de vision).
 
 # Chute d'eau
 
@@ -66,11 +75,17 @@ Photographier une chute avec une caméra normale donne toujours le même effet: 
 
 # Feu d'artifice
 
-J'ai vu tellement de gens qui essaient de prendre des feux d'artifice avec leur téléphone. Cela donne toujours des résultats terribles. D'abord parce que tenir un téléphone avec les mains donne des images floues, mais aussi parce que je ne suis pas convaincu de la capacité d'un téléphone à prendre une bonne d'image d'un feu d'artifice. Cependant, je souhaite que je pourrais réussir à obtenir un image de l'éclatement d'un feu d'artifice à deux couleurs qui serait aussi bon qu'un professionnel (le genre de photo que vous voyez sur le contenu promotionnel) J'ai lu sur le sujet et je sais un peu comment me préparer et à quoi m'attendre. Cependant, la difficulté avec ce genre de prise de vue est d'attendre un événement qui se termine par des feux d'artifice à la fin! Là où je vis, cela ne se produit une fois par an, le 24 Juin lors de la Fête Nationale.
+J'ai vu tellement de gens qui essaient de prendre des feux d'artifice avec leur téléphone. Cela donne toujours des résultats terribles. D'abord parce que tenir un téléphone avec les mains donne des images floues, mais aussi parce que je ne suis pas convaincu de la capacité d'un téléphone à prendre une bonne d'image d'un feu d'artifice. Cependant, je souhaite que je pourrais réussir à obtenir un image de l'éclatement d'un feu d'artifice à deux couleurs qui serait aussi bon qu'un professionnel (le genre de photo que vous voyez sur le contenu promotionnel)
+
+J'ai lu sur le sujet et je sais un peu comment me préparer et à quoi m'attendre.
+
+Cependant, la difficulté avec ce genre de prise de vue est d'attendre un événement qui se termine par des feux d'artifice à la fin! Là où je vis, cela ne se produit une fois par an, le 24 Juin lors de la Fête Nationale.
 
 # Macro
 
-Je n'ai pas eu le temps de débuté avec la photographie macro, mais je pense que ce sera le genre de chose que je vais apprécier grandement. Il se pourrait bien que je devienne accro à ce sujet. Je vais aimer prendre des photos en prise de vue rapprochée d'objets que les gens ne s'attendent pas à voir d'aussi près. Je suis assez sûr que la photographie macro est l'une des premières choses que les débutants apprennent car il ça ne nécessite pas trop de défi technique. Je crains avoir besoin d'acheter un autre objectif pour de bonnes prises de vue macro. C'est quelque chose que je voudrais d'abord essayer pour briser la glace avec mon appareil. Je pourrais aussi faire quelques sujet cliché comme les fleurs et les insectes! haha
+Je n'ai pas eu le temps de débuté avec la photographie macro, mais je pense que ce sera le genre de chose que je vais apprécier grandement. Il se pourrait bien que je devienne accro à ce sujet. Je vais aimer prendre des photos en prise de vue rapprochée d'objets que les gens ne s'attendent pas à voir d'aussi près. Je suis assez sûr que la photographie macro est l'une des premières choses que les débutants apprennent car il ça ne nécessite pas trop de défi technique. Je crains avoir besoin d'acheter un autre objectif pour de bonnes prises de vue macro.
+
+C'est quelque chose que je voudrais d'abord essayer pour briser la glace avec mon appareil. Je pourrais aussi faire quelques sujet cliché comme les fleurs et les insectes! haha
 
 # Gouttelette d’eau
 
@@ -78,11 +93,17 @@ C'est quelque chose qui m'interpelle beaucoup! Je pense que je pourrais être in
 
 # Time lapse
 
-La photographie "Time lapse" est quelque chose que j'ai essayé avant (il y a longtemps) mais je suis jamais arrivé jusqu'à un produit final tout simplement parce que je me suis fatigué de travaillé sur le même projet. Quand vous regardez le vidéo final, cela semble facile, mais j'ai tendance à oublier la quantité de temps nécessaire pour obtenir le produit final. Pour être en mesure d'obtenir quelque chose de viable, vous devez vous préparer adéquatement avant de prendre des photos parce que si vous ne le faites pas, vous aurez du mal à fusionner toutes les photos ensemble.Cependant, je j'aime bien la photographie "time lapse" parce que vous pouvez prendre d'un événement anodin (ou presque ennuyeux) et le rendre beaucoup plus dramatique. Par exemple, je voudrais photographier ma maison (ou tout autre sujet) pendant un laps de temps de 24 heures (pour obtenir le lever et le coucher du soleil dans la même vidéo) juste pour voir à quoi cela ressemblerait. Avant que je puisse réussir à obtenir une belle vidéo, j'ai besoin d'obtenir plus d'expérience avec le "time lapse" si je ne veux pas trop être en colère avec plein d'images mal réglées! Je pourrais essayer d'abord à l'intérieur, comme la création de vidéo où je déballe une boîte que j'ai acheté ou me prendre en train de laver ma voiture juste pour apprendre à connaître le processus au complet et être prêt quand j'en aurai vraiment besoin.
+La photographie "Time lapse" est quelque chose que j'ai essayé avant (il y a longtemps) mais je suis jamais arrivé jusqu'à un produit final tout simplement parce que je me suis fatigué de travaillé sur le même projet. Quand vous regardez le vidéo final, cela semble facile, mais j'ai tendance à oublier la quantité de temps nécessaire pour obtenir le produit final. Pour être en mesure d'obtenir quelque chose de viable, vous devez vous préparer adéquatement avant de prendre des photos parce que si vous ne le faites pas, vous aurez du mal à fusionner toutes les photos ensemble.
+
+Cependant, je j'aime bien la photographie "time lapse" parce que vous pouvez prendre d'un événement anodin (ou presque ennuyeux) et le rendre beaucoup plus dramatique. Par exemple, je voudrais photographier ma maison (ou tout autre sujet) pendant un laps de temps de 24 heures (pour obtenir le lever et le coucher du soleil dans la même vidéo) juste pour voir à quoi cela ressemblerait.
+
+Avant que je puisse réussir à obtenir une belle vidéo, j'ai besoin d'obtenir plus d'expérience avec le "time lapse" si je ne veux pas trop être en colère avec plein d'images mal réglées! Je pourrais essayer d'abord à l'intérieur, comme la création de vidéo où je déballe une boîte que j'ai acheté ou me prendre en train de laver ma voiture juste pour apprendre à connaître le processus au complet et être prêt quand j'en aurai vraiment besoin.
 
 # Tracé de lumière (Light trails)
 
-Il y a en fait deux choses que je voudrais prendre en photos avec des tracés de lumière. La première est évidement des lumières de voiture le soir avec un arrière plan de ville où l'on peut voir le "night life" de la ville. Cet idée a été visité par d'autres photographes de nombreuses fois et je ne pense pas que d'autre explications soit nécessaire. Je pourrais commencer par un endroit ennuyeux pas trop loin de la maison pour faire des tests et voir quel genre de résultats que je peux m'attendre. La prochaine chose que je veux essayer est de crée mes propres tracés de lumière avec un pointeur laser pointé sur le sol. En déplaçant le pointeur sur le sol, vous pouvez littéralement "écrire" quelque chose avec une exposition suffisante à long. On peut aussi le faire avec plusieurs lasers de couleur différente (rouge, bleu et vert) pour créer des effets plus dramatiques.
+Il y a en fait deux choses que je voudrais prendre en photos avec des tracés de lumière. La première est évidement des lumières de voiture le soir avec un arrière plan de ville où l'on peut voir le "night life" de la ville. Cet idée a été visité par d'autres photographes de nombreuses fois et je ne pense pas que d'autre explications soit nécessaire. Je pourrais commencer par un endroit ennuyeux pas trop loin de la maison pour faire des tests et voir quel genre de résultats que je peux m'attendre.
+
+La prochaine chose que je veux essayer est de crée mes propres tracés de lumière avec un pointeur laser pointé sur le sol. En déplaçant le pointeur sur le sol, vous pouvez littéralement "écrire" quelque chose avec une exposition suffisante à long. On peut aussi le faire avec plusieurs lasers de couleur différente (rouge, bleu et vert) pour créer des effets plus dramatiques.
 
 # Tilt shift
 
