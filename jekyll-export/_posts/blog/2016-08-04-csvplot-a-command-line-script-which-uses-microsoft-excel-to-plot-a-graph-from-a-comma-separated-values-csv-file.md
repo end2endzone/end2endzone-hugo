@@ -26,10 +26,10 @@ I do software prototyping using a wide range of programming language. I often ha
 
 The following section list the features of ***csvplot*** script:
 
-- Supports lossless PNG image format.
-- Supports CSV data file format which is a generic text file format supported by any application and programming language.
-- The script supports virtually an unlimited number of time series plots.
-- Automatically detect appropriate boundaries for the graph
+* Supports lossless PNG image format.
+* Supports CSV data file format which is a generic text file format supported by any application and programming language.
+* The script supports virtually an unlimited number of time series plots.
+* Automatically detect appropriate boundaries for the graph
 
 # Limitations
 

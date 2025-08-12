@@ -110,9 +110,9 @@ Je ne sait pas si ce serait possible ou non, mais j'aimerais bien être capable 
 
 # Autres trucs génériques
 
-- Un panorama: Prendre une photo simple mais impressionnante d'un beau panorama.
-- Des objets se déplaçant rapidement, comme les voitures de course ou des avions.
-- De la fumée
-- Prenez une photo de la maison pendant toutes les saisons du même point de vue
-- Attacher un appareil photo sur un ballon ou un cerf-volant et prendre une photo de moi depuis le haut des airs.
-- Faire un vidéo "step motion". Prenez plusieurs photos de moi sur un joli fond où je saute avec mes genoux pliés et me déplace en gardant toujours les deux genoux pliés.
+* Un panorama: Prendre une photo simple mais impressionnante d'un beau panorama.
+* Des objets se déplaçant rapidement, comme les voitures de course ou des avions.
+* De la fumée
+* Prenez une photo de la maison pendant toutes les saisons du même point de vue
+* Attacher un appareil photo sur un ballon ou un cerf-volant et prendre une photo de moi depuis le haut des airs.
+* Faire un vidéo "step motion". Prenez plusieurs photos de moi sur un joli fond où je saute avec mes genoux pliés et me déplace en gardant toujours les deux genoux pliés.

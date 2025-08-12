@@ -110,9 +110,9 @@ I don't even know if that would be possible or not but I would like to shoot the
 
 # Fun generic stuff
 
-- A panorama: Shoot a simple but great panorama picture.
-- Fast moving objects like racing cars or planes.
-- Smoke art
-- Take a picture of the house during all seasons from the same point of view
-- Mount a camera on a balloon or kite and take a picture of myself from high above
-- Step motion video. Take multiple pictures of myself over a nice background where I jump with my knees folded and move while always keeping my knees folded.
+* A panorama: Shoot a simple but great panorama picture.
+* Fast moving objects like racing cars or planes.
+* Smoke art
+* Take a picture of the house during all seasons from the same point of view
+* Mount a camera on a balloon or kite and take a picture of myself from high above
+* Step motion video. Take multiple pictures of myself over a nice background where I jump with my knees folded and move while always keeping my knees folded.

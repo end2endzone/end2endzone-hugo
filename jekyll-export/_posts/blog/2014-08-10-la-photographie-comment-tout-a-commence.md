@@ -37,12 +37,12 @@ J'ai compris que j'avais besoin d'un appareil photo professionnel et que je deva
 
 Voici un ensemble des équipements que je possède actuellement:
 
-- Canon EOS Rebel SL1
-- Canon EF-S 18-55 mm f / 3,5-5,6 IS STM
-- Trépied Manfrotto 190XPROB avec tête 3D 804RC2
-- Tubes d'extension macro: 13mm, 21mm et 31mm
-- De nombreux filtres: ND2, ND4, ND8, UV, CPL, et FDL
-- Adaptateur AC Canon EOS avec coupleur DR-E15
-- Un intervallomètre TC-80N3 sans nom pour Canon
+* Canon EOS Rebel SL1
+* Canon EF-S 18-55 mm f / 3,5-5,6 IS STM
+* Trépied Manfrotto 190XPROB avec tête 3D 804RC2
+* Tubes d'extension macro: 13mm, 21mm et 31mm
+* De nombreux filtres: ND2, ND4, ND8, UV, CPL, et FDL
+* Adaptateur AC Canon EOS avec coupleur DR-E15
+* Un intervallomètre TC-80N3 sans nom pour Canon
 
 N'hésitez pas à regarder ce que j'ai réussi à photographier et n'hésiter pas à donner des commentaires positifs.

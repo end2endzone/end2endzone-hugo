@@ -27,10 +27,10 @@ tags:
 
 How many times did you wake up your partner in bed because you had to turn on a lamp to see something? Did you ever wanted to have a bedside lamp/table lamp that do not take too much space on the bedside table? How about being able to turn off a lamp that's been turned on by your partner without leaving your bed? In this article, I will explain how I created a bedroom under the bed LED lighting solution that can replace your existing bedside lamp. After completing my [DIY Kitchen under cabinet LED lighting](/diy-kitchen-under-cabinet-led-lighting/) project, I managed to get a few spare parts lying around. I realized that I had all the equipment required to implement something similar for the bedroom. The reason I started this project was that I wanted a low brightness light to be turned on during the night so that I can see where I go. At the same time, I did not always went to bed at the same time that my partner. Having a light that can be left on while she is going to sleep would have been an amazing feature. The electrical circuit is almost identical to the [Kitchen under cabinet LED lighting](/diy-kitchen-under-cabinet-led-lighting/). However, this design uses 2 switches instead of a single one. This is required so that each partner has control on the lights from his/her bed side. Installing lights under your bed is really different than having a bedside/table lamp. This setup provide the following benefits in a bedroom:
 
-- It does not create light that is too bright. The dimmer make this easy on the eyes at night. The LEDs can be turned on without blinding you.
-- It allows to see were you are walking. Be able to see the walkway between the bedroom and the bathroom is pretty interesting.
-- Can be turned on without disturbing the sleep of the other partner.
-- Give a nice ambient light for bed activities...
+* It does not create light that is too bright. The dimmer make this easy on the eyes at night. The LEDs can be turned on without blinding you.
+* It allows to see were you are walking. Be able to see the walkway between the bedroom and the bathroom is pretty interesting.
+* Can be turned on without disturbing the sleep of the other partner.
+* Give a nice ambient light for bed activities...
 
 In this post, I will explain how I installed in my bedroom a custom under the bed LED lighting solution.
 
@@ -42,18 +42,18 @@ In this post, I will explain how I installed in my bedroom a custom under the be
 
 The material for this project is as follows:
 
-- A 5 meters LED strip.
-- 2 pin Connector Wire Cable For 3528 Single Color LED Strips (5 times)
-- A 36 Watts (12 volts, 3 amps) power supply.
-- A 3 pins wall outlet power cord.
-- A LED dimmer module.
-- Two 3-way switch.
-- 5 meters of colored (red &amp; black) wire.
-- Male and Female [RCA connectors](https://www.google.ca/search?q=RCA+connectors&tbm=isch).
-- A multimeter (for testing connections and power output)
-- Screws
-- A Phillips screwdriver
-- Flexible measuring tape
+* A 5 meters LED strip.
+* 2 pin Connector Wire Cable For 3528 Single Color LED Strips (5 times)
+* A 36 Watts (12 volts, 3 amps) power supply.
+* A 3 pins wall outlet power cord.
+* A LED dimmer module.
+* Two 3-way switch.
+* 5 meters of colored (red &amp; black) wire.
+* Male and Female [RCA connectors](https://www.google.ca/search?q=RCA+connectors&tbm=isch).
+* A multimeter (for testing connections and power output)
+* Screws
+* A Phillips screwdriver
+* Flexible measuring tape
 
 ### Usual equipment
 
@@ -71,14 +71,14 @@ The [RCA connector](https://www.google.ca/search?q=RCA+connectors&tbm=isch)s use
 
 Like the kitchen project, this project can be completed at a pretty cheap price. The total cost of the project is less than 35$. Here is the detailed price of each items:
 
-- $8.13 - LED strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/LED-strip.png).
-- $2.29 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/Connectors.png).
-- $7.15 - 36 Watts power supply from ebay. See [screenshot here](/wp-content/uploads/2014/08/Power-supply.png).
-- $0.00 - Power cord. (I have many lying around)
-- $6.02 - LED dimmer from ebay. See [screenshot here](/wp-content/uploads/2014/08/Dimmer.png).
-- $3.98 - 3-way power switch from the hardware store.
-- $4.00 - Colored wire (I used gauge 18awg) from dollar store
-- $0.00 - Male and Female [RCA connectors](https://www.google.ca/search?q=RCA+connectors&tbm=isch) (I have many lying around)
+* $8.13 - LED strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/LED-strip.png).
+* $2.29 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/Connectors.png).
+* $7.15 - 36 Watts power supply from ebay. See [screenshot here](/wp-content/uploads/2014/08/Power-supply.png).
+* $0.00 - Power cord. (I have many lying around)
+* $6.02 - LED dimmer from ebay. See [screenshot here](/wp-content/uploads/2014/08/Dimmer.png).
+* $3.98 - 3-way power switch from the hardware store.
+* $4.00 - Colored wire (I used gauge 18awg) from dollar store
+* $0.00 - Male and Female [RCA connectors](https://www.google.ca/search?q=RCA+connectors&tbm=isch) (I have many lying around)
 
 Total cost: $**31.57**
 

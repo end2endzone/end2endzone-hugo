@@ -61,13 +61,13 @@ If each classes of a system provides a list of Variant which encapsulates their 
 
 Possible use are:
 
-- Compatible with the C++ 1998/2003 standard.
-- Type-safe, value-safe unions between all c++ basic types, including strings.
-- Holds any numeric values up to 64 bits.
-- Converts between any type of data as required.
-- No data loss on mathematical operations. The class supports automatic internal type promotion to prevent overflows.
-- Implements all c++ operators with all known native c++ types to prevent any unwanted implicit conversions to Variant. This make sure that no manipulation errors occurs while handling Variant instances.
-- Matches the same behavior as [Visual Basic's Variant type](https://msdn.microsoft.com/en-us/library/office/gg251448.aspx).
+* Compatible with the C++ 1998/2003 standard.
+* Type-safe, value-safe unions between all c++ basic types, including strings.
+* Holds any numeric values up to 64 bits.
+* Converts between any type of data as required.
+* No data loss on mathematical operations. The class supports automatic internal type promotion to prevent overflows.
+* Implements all c++ operators with all known native c++ types to prevent any unwanted implicit conversions to Variant. This make sure that no manipulation errors occurs while handling Variant instances.
+* Matches the same behavior as [Visual Basic's Variant type](https://msdn.microsoft.com/en-us/library/office/gg251448.aspx).
 
 # Limitations
 
@@ -103,8 +103,8 @@ The class is protected against unintentional overflows. Here is the process of c
 
 The library has some compilation requirements and library dependencies which are:
 
-- Only Visual Studio 2008 projects files are available. Files can be manually moved to other platforms or IDE as required. Supporting other compilers is not currently planned.
-- The [Google Test](http://github.com/google/googletest) v1.6 library is required for running test cases.
+* Only Visual Studio 2008 projects files are available. Files can be manually moved to other platforms or IDE as required. Supporting other compilers is not currently planned.
+* The [Google Test](http://github.com/google/googletest) v1.6 library is required for running test cases.
 
 # License
 

@@ -46,13 +46,13 @@ After publishing my NonBlockingRtttl arduino library, I started using the librar
 
 Here is a list of all library features:
 
-- Really small increase in memory &amp; code footprint compared to the usual blocking algorithm.
-- Blocking &amp; Non-Blocking modes available.
-- Support custom `tone()`, `noTone()`, `delay()` and `millis()` functions.
-- Compatible with external Tone libraries.
-- Supports highly compressed RTTTL binary format.
-- Supports RTTTL melodies stored in *Program Memory* (`PROGMEM`).
-- Play two monolithic melodies on two different pins using 2 [piezo buzzer](https://www.google.com/?q=piezo+buzzer) with the help of an external Tone library.
+* Really small increase in memory &amp; code footprint compared to the usual blocking algorithm.
+* Blocking &amp; Non-Blocking modes available.
+* Support custom `tone()`, `noTone()`, `delay()` and `millis()` functions.
+* Compatible with external Tone libraries.
+* Supports highly compressed RTTTL binary format.
+* Supports RTTTL melodies stored in *Program Memory* (`PROGMEM`).
+* Play two monolithic melodies on two different pins using 2 [piezo buzzer](https://www.google.com/?q=piezo+buzzer) with the help of an external Tone library.
 
 ## Non-Blocking
 
@@ -191,8 +191,8 @@ Each RTTTL note is encoded into 16 bits which is much better than the average 3.
 
 The following AnyRtttl blocking APIs are available for playing both format:
 
-- 10 bits per note: `play10Bits()`.
-- 16 bits per note: `play16Bits()`.
+* 10 bits per note: `play10Bits()`.
+* 16 bits per note: `play16Bits()`.
 
 # License
 

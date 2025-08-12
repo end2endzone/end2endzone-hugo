@@ -64,9 +64,9 @@ As opposed to smooth transitions, hard transitions between each photos means a l
 
 Once you have defined what kind of transitions you want, and the "amount" of movement you want to show in your final video, here's how to perfectly define the right interval time to get very smooth or hard transitions. You first need to define the following:
 
-- How long does the real event last ?
-- How long the final video would be ?
-- What is the final video frame rate ? That is 15 or less for hard and 24 and over for smooth.
+* How long does the real event last ?
+* How long the final video would be ?
+* What is the final video frame rate ? That is 15 or less for hard and 24 and over for smooth.
 
 Now open [Photography time-lapse calculator](/wp-content/uploads/2015/02/Photography-time-lapse-calculator.xls) (that's an Excel sheet) and take a look at the "interval calculator". Use the same number in the appropriate fields and the sheet will do the math to give you the perfect interval time for the desired smooth/hard transition effect.
 
@@ -128,8 +128,8 @@ In order to import the images to a video application, all images must have the s
 
 In the low probability that you started shooting pictures when your camera's file name counter was close to wrapping around (say IMG\_9xxx.jpg), you might end up with a broken sequence. That means you will have your first block which is IMG\_9000.jpg to IMG\_9999.jpg and your second block which is IMG\_0000.jpg to IMG\_2345.jpg. Most (if not all) video software will try to import each block as independent blocks. To prevent this, you need to reorder your images to a single continuous image sequence. In other words, you basically need to reorder each block to the following:
 
-- IMG\_0000.jpg \[...\] IMG\_2345.jpg renamed to IMG\_1000.jpg \[...\] IMG\_3345.jpg
-- IMG\_9000.jpg \[...\] IMG\_9999.jpg renamed to IMG\_0000.jpg \[...\] IMG\_0999.jpg
+* IMG\_0000.jpg \[...\] IMG\_2345.jpg renamed to IMG\_1000.jpg \[...\] IMG\_3345.jpg
+* IMG\_9000.jpg \[...\] IMG\_9999.jpg renamed to IMG\_0000.jpg \[...\] IMG\_0999.jpg
 
 to get the target range IMG\_0000.jpg \[...\] IMG\_3345.jpg.
 
@@ -201,8 +201,8 @@ This sections explains how to process your captured images into a video using Wi
 
 ### Download required files
 
-- Windows Movie Maker [online installer](http://windows.microsoft.com/en-ca/windows-live/download-windows-essentials) / [offline installer](http://windows.microsoft.com/en-ca/windows-live/essentials-install-offline-faq) download.
-- or the older version [Windows Movie Maker 2.6](http://www.microsoft.com/en-us/download/details.aspx?id=34).
+* Windows Movie Maker [online installer](http://windows.microsoft.com/en-ca/windows-live/download-windows-essentials) / [offline installer](http://windows.microsoft.com/en-ca/windows-live/essentials-install-offline-faq) download.
+* or the older version [Windows Movie Maker 2.6](http://www.microsoft.com/en-us/download/details.aspx?id=34).
 
 Download and install each software before processing to the next steps.
 
@@ -248,11 +248,11 @@ This sections explains how to process your captured images into a video using Vi
 
 ### Download required files
 
-- [VirtualDub](http://virtualdub.sourceforge.net/) (latest version).
-- [Lagarith Lossless Video Codec](http://lags.leetcode.net/codec.html)
-- [VirtualDub MSU Deflicker filter ](http://www.compression.ru/video/deflicker/index_en.html)or [Deflicker Filter for VirtualDub](http://neuron2.net/deflick/flick.html)
-- [HandBrake](https://handbrake.fr/downloads.php)
-- [FadeFX 1.2](http://home.earthlink.net/~tacosalad/video/fadefx.htm) - Fade Effects for VirtualDub
+* [VirtualDub](http://virtualdub.sourceforge.net/) (latest version).
+* [Lagarith Lossless Video Codec](http://lags.leetcode.net/codec.html)
+* [VirtualDub MSU Deflicker filter ](http://www.compression.ru/video/deflicker/index_en.html)or [Deflicker Filter for VirtualDub](http://neuron2.net/deflick/flick.html)
+* [HandBrake](https://handbrake.fr/downloads.php)
+* [FadeFX 1.2](http://home.earthlink.net/~tacosalad/video/fadefx.htm) - Fade Effects for VirtualDub
 
 Download and install each software before processing to the next steps.
 

@@ -67,7 +67,7 @@ The plane is build with a good quality material. However, it is still a low cost
 
 Overall, I think the Avistar Elite is a really nice beginner plane. It fits my needs perfectly and is expandable for a longer life time. I have no doubts that I will be flying this plane for at least 2 years (or even 3 years) without having to buy another one. I you want deeper analysis, here are two good reviews that cover much more than I did:
 
-- [Great Planes Avistar Elite GP .46 ARF - RC Groups](http://www.rcgroups.com/forums/showthread.php?t=1739507)
-- [Great Planes Avistar Elite .46 RTF - RC Universe](http://www.rcuniverse.com/magazine/article_display.cfm?article_id=1469)
+* [Great Planes Avistar Elite GP .46 ARF - RC Groups](http://www.rcgroups.com/forums/showthread.php?t=1739507)
+* [Great Planes Avistar Elite .46 RTF - RC Universe](http://www.rcuniverse.com/magazine/article_display.cfm?article_id=1469)
 
 Great Planes have made quite a good trainer for beginners. Get yours and see you flying in a private club north of Montreal!

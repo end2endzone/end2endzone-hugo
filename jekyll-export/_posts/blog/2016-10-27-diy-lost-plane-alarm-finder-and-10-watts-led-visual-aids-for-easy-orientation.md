@@ -148,9 +148,9 @@ Total cost: $20.40 Note that cost of usual items such as solder paste, soldering
 
 The whole project can be completed in 5 to 8 hours. This is actually a rough estimated time since I did not build a second controller for another quad that I had. The estimation assumes the following:
 
-- You already have all required components. Most of the waiting about this project comes from the fact that all components are purchased from China and takes 4-5 weeks to arrive. However, once you have all materials, the project starts to build itself at a decent pace.
-- You have basic soldering skills. The duration of this project may change depending on how much you are comfortable with a soldering iron.
-- You are familiar with the arduino prototyping platform. This guide will not cover how to compile the code/libraries and upload it to the arduino. There are plenty of guides and tutorials on the internet that can help you on this matter.
+* You already have all required components. Most of the waiting about this project comes from the fact that all components are purchased from China and takes 4-5 weeks to arrive. However, once you have all materials, the project starts to build itself at a decent pace.
+* You have basic soldering skills. The duration of this project may change depending on how much you are comfortable with a soldering iron.
+* You are familiar with the arduino prototyping platform. This guide will not cover how to compile the code/libraries and upload it to the arduino. There are plenty of guides and tutorials on the internet that can help you on this matter.
 
 To make this project a reality, I had to invest much more time. Actually, from beginning to the end, it took somewhere between 50 to 80 hours. I had to learn new skills like basic electronics, designing circuits, using Fritzing software and the arduino platform but most of the time was spent on documenting and debugging the code!(there are still improvements, [see below](#Made_anything_differently)). I decided to post this project so that others may benefit from my experience. The project can be used as a proof of concept, all issues that I encountered are already documented and the code for the project is released to the public.
 
@@ -164,13 +164,13 @@ The following section shows the drawings and the schematics used by the controll
 
 All drawings and diagrams are build using [Fritzing](http://fritzing.org/home/) version 0.9.2b which is an open-source hardware initiative tool that allows developers to document their prototypes and share them with others. The application already features a huge parts library but there is no support for a [Generic Remote Controlled (RC) 6-Channels Receiver](#Components_and_Supplies) and for the [MR16 Constant Current LED Driver](#Components_and_Supplies). The additional parts which are required for rendering the project are available for download:
 
-- {{% download old-id="2237" href="/wp-content/uploads/2016/08/MR16-Constant-Current-LED-Driver.fzpz" %}}/MR16-Constant-Current-LED-Driver.fzpz{{% /download %}}
-- {{% download old-id="2235" href="/wp-content/uploads/2016/08/Generic-2.4Ghz-RC-6ch-Receiver-OCRA.fzpz" %}}Generic-2.4Ghz-RC-6ch-Receiver-OCRA.fzpz{{% /download %}}
-- {{% download old-id="2233" href="/wp-content/uploads/2016/08/3S-3600mAh-Lipo-Battery.fzpz" %}}3S-3600mAh-Lipo-Battery.fzpz{{% /download %}}
+* {{% download old-id="2237" href="/wp-content/uploads/2016/08/MR16-Constant-Current-LED-Driver.fzpz" %}}/MR16-Constant-Current-LED-Driver.fzpz{{% /download %}}
+* {{% download old-id="2235" href="/wp-content/uploads/2016/08/Generic-2.4Ghz-RC-6ch-Receiver-OCRA.fzpz" %}}Generic-2.4Ghz-RC-6ch-Receiver-OCRA.fzpz{{% /download %}}
+* {{% download old-id="2233" href="/wp-content/uploads/2016/08/3S-3600mAh-Lipo-Battery.fzpz" %}}3S-3600mAh-Lipo-Battery.fzpz{{% /download %}}
 
 The project files are also available for download. Click the following link to get the *Fritzing project files* for this project:
 
-- {{% download old-id="2240" href="/wp-content/uploads/2016/08/DIY-lost-plane-alarm-finder-and-10-watts-LED-visual-aids-for-easy-orientation.fzz" %}}DIY-lost-plane-alarm-finder-and-10-watts-LED-visual-aids-for-easy-orientation.fzz{{% /download %}}
+* {{% download old-id="2240" href="/wp-content/uploads/2016/08/DIY-lost-plane-alarm-finder-and-10-watts-LED-visual-aids-for-easy-orientation.fzz" %}}DIY-lost-plane-alarm-finder-and-10-watts-LED-visual-aids-for-easy-orientation.fzz{{% /download %}}
 
 ## Circuit Diagram
 

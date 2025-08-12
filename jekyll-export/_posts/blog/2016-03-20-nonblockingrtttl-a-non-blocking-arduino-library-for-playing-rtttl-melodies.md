@@ -53,8 +53,8 @@ More information on the RTTTL format is available on its [Wikipedia acticle](htt
 
 Possible use are:
 
-- Really small increase in memory &amp; code footprint compared to the usual blocking algorithm.
-- Allows your program to read/write IOs pins while playing. Implementing a "stop" or "next song" push buttons is a breeze!
+* Really small increase in memory &amp; code footprint compared to the usual blocking algorithm.
+* Allows your program to read/write IOs pins while playing. Implementing a "stop" or "next song" push buttons is a breeze!
 
 # Usage
 

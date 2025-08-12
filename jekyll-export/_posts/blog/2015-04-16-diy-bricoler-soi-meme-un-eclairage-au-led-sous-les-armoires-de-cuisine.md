@@ -29,14 +29,14 @@ Il manque quelque chose dans la plupart des cuisines que j'ai vus dans ma vie et
 
 Ils procurent les avantages suivant dans une cuisine:
 
-- Abordable!
-- Donne un bon éclairage.
-- Peut être atténués à de faible intensité.
-- Disponible en plusieurs couleurs comme le blanc chaud blanc ou froid.
-- Ne produit pas de chaleur (ou presque).
-- Ne brûle pas, ils ont une durée de vie beaucoup plus longue que les lampes normales.
-- Fonctionne à 12 volts. Pas besoin de courant murale qui pourrait conduire à des accidents.
-- Utilise moins d'électricité (beaucoup moins de courant que d'autres options d'éclairage).
+* Abordable!
+* Donne un bon éclairage.
+* Peut être atténués à de faible intensité.
+* Disponible en plusieurs couleurs comme le blanc chaud blanc ou froid.
+* Ne produit pas de chaleur (ou presque).
+* Ne brûle pas, ils ont une durée de vie beaucoup plus longue que les lampes normales.
+* Fonctionne à 12 volts. Pas besoin de courant murale qui pourrait conduire à des accidents.
+* Utilise moins d'électricité (beaucoup moins de courant que d'autres options d'éclairage).
 
 Dans cet article, j'explique comment se bricoler soi-même un éclairage au DEL sous les armoires de cuisine.
 
@@ -48,19 +48,19 @@ Dans cet article, j'explique comment se bricoler soi-même un éclairage au DEL 
 
 Les matériaux nécessaires pour ce projet sont les suivants:
 
-- Une bande d'éclairage DEL de 5 mètres.
-- Connecteur à 2 broches (1 seule couleur) pour bande DEL SMD 3528 (5 fois)
-- Une alimentation 36 Watts (12 volts, 3 ampères).
-- Un cordon d’alimentation avec une prise murale à 3 broches
-- Un module gradateur pour DEL.
-- Un interrupteur mural.
-- 2 à 3 mètres de fil de couleur (rouge et noir).
-- Ruban adhésif double face
-- Gomme autocollante
-- Un multimètre (pour tester les connexions)
-- Vis
-- Un tournevis cruciforme
-- Ruban à mesurer flexible
+* Une bande d'éclairage DEL de 5 mètres.
+* Connecteur à 2 broches (1 seule couleur) pour bande DEL SMD 3528 (5 fois)
+* Une alimentation 36 Watts (12 volts, 3 ampères).
+* Un cordon d’alimentation avec une prise murale à 3 broches
+* Un module gradateur pour DEL.
+* Un interrupteur mural.
+* 2 à 3 mètres de fil de couleur (rouge et noir).
+* Ruban adhésif double face
+* Gomme autocollante
+* Un multimètre (pour tester les connexions)
+* Vis
+* Un tournevis cruciforme
+* Ruban à mesurer flexible
 
 ### Bloc d'alimentation
 
@@ -86,14 +86,14 @@ Ne faites pas l'erreur et acheter ce genre de choses dans un magasin d'éclairag
 
 Voici le prix détaillée de chacun des éléments:
 
-- $8.13 - Bande d'éclairage DEL achetée sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/LED-strip.png).
-- $2.29 - Connecteur à 2 broches (1 seule couleur) pour bande DEL SMD 3528 acheté sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Connectors.png).
-- $7.15 - Alimentation 36 Watts achetée sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Power-supply.png).
-- $0.00 - Cordon d’alimentation avec une prise murale à 3 broches. (J'en ai souvent plusieurs à la maison. Je récupère souvent plusieurs pièce et morceau avant de jeter un appareil aux ordures.
-- $6.02 - Module gradateur pour DEL acheté sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Dimmer.png).
-- $1.25 - Interrupteur mural acheté à la quincaillerie.
-- $2.00 - Fil électrique de couleur (j'ai utilisé du calibre 18) du magasin à un dollar.
-- $1.00 - Ruban adhésif double face.
+* $8.13 - Bande d'éclairage DEL achetée sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/LED-strip.png).
+* $2.29 - Connecteur à 2 broches (1 seule couleur) pour bande DEL SMD 3528 acheté sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Connectors.png).
+* $7.15 - Alimentation 36 Watts achetée sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Power-supply.png).
+* $0.00 - Cordon d’alimentation avec une prise murale à 3 broches. (J'en ai souvent plusieurs à la maison. Je récupère souvent plusieurs pièce et morceau avant de jeter un appareil aux ordures.
+* $6.02 - Module gradateur pour DEL acheté sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Dimmer.png).
+* $1.25 - Interrupteur mural acheté à la quincaillerie.
+* $2.00 - Fil électrique de couleur (j'ai utilisé du calibre 18) du magasin à un dollar.
+* $1.00 - Ruban adhésif double face.
 
 Coût total: $**27.84**
 

@@ -25,10 +25,10 @@ I have been working on multiple projects since I bought my camera. Most of them 
 
 The material for this project is as follows:
 
-- 2 momentary switches.
-- At least 5 ft of 3-wire cable.
-- A small project box
-- A 2.5 mm male stereo audio plug
+* 2 momentary switches.
+* At least 5 ft of 3-wire cable.
+* A small project box
+* A 2.5 mm male stereo audio plug
 
 ### Switches
 
@@ -64,10 +64,10 @@ The project box is used for the switches. It can be anything as long as you can 
 
 This project is really cheap and can be completed with less than 10$. Here is the detailed price of each items:
 
-- 4.00$ - Switches
-- 1.25$ - Cable
-- 1.00$ - Project box
-- 2.00$ - Audio plug
+* 4.00$ - Switches
+* 1.25$ - Cable
+* 1.00$ - Project box
+* 2.00$ - Audio plug
 
 Total cost: $**8.25**
 

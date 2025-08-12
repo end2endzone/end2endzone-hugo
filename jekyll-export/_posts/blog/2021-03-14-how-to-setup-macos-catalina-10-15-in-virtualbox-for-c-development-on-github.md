@@ -285,17 +285,17 @@ Following the installation of *Xcode*, the application may not be registered on 
 
 The cause of the issue is one of the following errors when compiling :
 
-- fatal error: limits.h: No such file or directory
-- fatal error: 'wchar.h' file not found
-- The output of command `xcode-select -p` outputs `/Library/Developer/CommandLineTools`.
+* fatal error: limits.h: No such file or directory
+* fatal error: 'wchar.h' file not found
+* The output of command `xcode-select -p` outputs `/Library/Developer/CommandLineTools`.
 
 This is documented as a bug at the following locations:
 
-- <https://stackoverflow.com/questions/30877659/fatal-error-limits-h-no-such-file-or-directory>
-- <https://github.com/qutip/qutip/issues/1030>
-- <https://stackoverflow.com/questions/62523093/compile-llvm-from-sources-on-macos-catalina-how-to-solve-stdio-h-not-found>
-- <https://github.com/AcademySoftwareFoundation/OpenShadingLanguage/issues/1055>
-- <https://stackoverflow.com/questions/52509602/cant-compile-c-program-on-a-mac-after-upgrade-to-mojave>
+* <https://stackoverflow.com/questions/30877659/fatal-error-limits-h-no-such-file-or-directory>
+* <https://github.com/qutip/qutip/issues/1030>
+* <https://stackoverflow.com/questions/62523093/compile-llvm-from-sources-on-macos-catalina-how-to-solve-stdio-h-not-found>
+* <https://github.com/AcademySoftwareFoundation/OpenShadingLanguage/issues/1055>
+* <https://stackoverflow.com/questions/52509602/cant-compile-c-program-on-a-mac-after-upgrade-to-mojave>
 
 The solution is to register (again) Xcode as the current current Command Line Tools:
 

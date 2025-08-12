@@ -431,8 +431,8 @@ A dead zone of 3 steps is also suggested. For instance, to support a resolution 
 {{< pleasenote >}}
 Note that only 6 blocks can be defined using a block size of 46 steps. These blocks only allows 2 sub configurations for multiplexing switches:
 
-- 2-position switch + 3-position switch
-- Two 2-position switches
+* 2-position switch + 3-position switch
+* Two 2-position switches
 {{< /pleasenote >}}
 
 ## Mixes

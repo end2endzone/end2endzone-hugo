@@ -43,16 +43,16 @@ The RcReceiverSignal library allows one to easily configure an input pin to read
 
 Possible use are:
 
-- Allows one to get the latest PWM value sent from the RC receiver.
-- Automatically handles interrupt protection.
-- Automatic ISR handling. All required code automatically generated.
-- Allows one to convert a pulse length (PWM) back to the original transmitter value.
-- Supports multiple Transmitter/Receiver combination: 
-    - Spektrum DX9 tx + Spektrum AR8000 rx
-    - Spektrum DX9 tx + Orange R620X rx
-    - Tactic TTX600 tx + Tactic TR624 rx
-    - CCPM Servo Tester
-- Supports [eRCaGuy\_Timer2\_Counter](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html) 0.5µs (or the native *micros()* function) for timing calculations.
+* Allows one to get the latest PWM value sent from the RC receiver.
+* Automatically handles interrupt protection.
+* Automatic ISR handling. All required code automatically generated.
+* Allows one to convert a pulse length (PWM) back to the original transmitter value.
+* Supports multiple Transmitter/Receiver combination: 
+    * Spektrum DX9 tx + Spektrum AR8000 rx
+    * Spektrum DX9 tx + Orange R620X rx
+    * Tactic TTX600 tx + Tactic TR624 rx
+    * CCPM Servo Tester
+* Supports [eRCaGuy\_Timer2\_Counter](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html) 0.5µs (or the native *micros()* function) for timing calculations.
 
 # Library dependencies
 
@@ -75,9 +75,9 @@ DECLARE_RECEIVER_SIGNAL(receiver_throttle_handler);
 
 Each macro will automatically declare the following:
 
-- RcReceiverSignal receiver\_aux1\_handler;
-- receiver\_aux1\_handler\_setup() function.
-- receiver\_aux1\_handler\_pin\_change() ISR function.
+* RcReceiverSignal receiver\_aux1\_handler;
+* receiver\_aux1\_handler\_setup() function.
+* receiver\_aux1\_handler\_pin\_change() ISR function.
 
 In the *setup()* function, you need to configure each instance by calling the *receiver\_aux1\_handler\_setup()* function with the interrupt pin as argument. ie:
 

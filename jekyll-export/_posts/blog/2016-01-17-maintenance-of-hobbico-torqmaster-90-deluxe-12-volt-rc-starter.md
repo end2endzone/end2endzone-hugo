@@ -23,9 +23,9 @@ This is a Hobbico Torqmaster 90 Deluxe 12 Volt Starter. It is designed for start
 
 # Required tools
 
-- 8 mm and 10 mm hex sockets
-- 2 metal paper clips
-- 1 pair of long nose pliers
+* 8 mm and 10 mm hex sockets
+* 2 metal paper clips
+* 1 pair of long nose pliers
 
 # Maintenance
 
@@ -53,9 +53,9 @@ For an unknown reason the front cover of the unit seems to be fixed to the rotor
 
 In the RC world, people usually prefer using brushless motors since they do not have brushes. The main disadvantages of using a brushed motor is that the brushes will wear down and you will eventually need to replace them. In most cases you should not have to change the brushes on a 12 volt RC starter since the motor is not used more than a few seconds each time you go to the field. The brushes should last for a very long time if you take care of the starter by:
 
-- Not using the starter for a too long period of time.
-- Not applying too much power (voltage or amperage outside the specifications boundaries).
-- Not using the motor in harsh conditions like sand, dust or water.
+* Not using the starter for a too long period of time.
+* Not applying too much power (voltage or amperage outside the specifications boundaries).
+* Not using the motor in harsh conditions like sand, dust or water.
 
 If the starter gets damage however, you may need to replace the brushes. Here is zoomed picture of the brushes on the Hobbico TorqMaster 90 deluxe:
 

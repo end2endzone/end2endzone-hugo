@@ -22,12 +22,12 @@ extTools is a fast and innovative FREEWARE (for non-commercial use) software sui
 
 It's main features are:
 
-- Advanced clipboard support (copy, append or modify).
-- File operation queuing (batch copy or paste).
-- Better &amp; quicker file deletions.
-- Powerful file renaming algorithms.
-- XP like search tool (simple search tool).
-- Extends Windows File Explorer by registering as a Shell Extension.
+* Advanced clipboard support (copy, append or modify).
+* File operation queuing (batch copy or paste).
+* Better &amp; quicker file deletions.
+* Powerful file renaming algorithms.
+* XP like search tool (simple search tool).
+* Extends Windows File Explorer by registering as a Shell Extension.
 
 extTools allows its users to execute tasks that are not available in a default Windows environment. extTools is also designed to replace existing task that are badly designed, annoying to execute or simply missing.
 
@@ -39,10 +39,10 @@ You can download extTools by clicking on the following links:
   **Note:** The download files for extTools are not available anymore.
 {{< /pleasenote >}}
 <!--
-- {{% download old-id="825" href="N/A" %}}{{% /download %}}
-- {{% download old-id="822" href="N/A" %}}{{% /download %}} (for Windows XP)
-- {{% download old-id="831" href="N/A" %}}{{% /download %}}
-- {{% download old-id="828" href="N/A" %}}{{% /download %}} (for Windows 7 and over)
+* {{% download old-id="825" href="N/A" %}}{{% /download %}}
+* {{% download old-id="822" href="N/A" %}}{{% /download %}} (for Windows XP)
+* {{% download old-id="831" href="N/A" %}}{{% /download %}}
+* {{% download old-id="828" href="N/A" %}}{{% /download %}} (for Windows 7 and over)
 -->
 
 Note: Please note that portable versions does not contain the shell extension module to register menu option with the File Explorer context menu.
@@ -81,10 +81,10 @@ extFileRenamer is a powerful file renaming manager. This application can rename 
 
 extFileRenamer has the following features:
 
-- Allows you to rename files using a pattern or with a "search &amp; replace" through the file names.
-- Manually select target files to rename.
-- Live preview of renamed files.
-- Automatic detection of renaming conflict (before renaming files!)
+* Allows you to rename files using a pattern or with a "search &amp; replace" through the file names.
+* Manually select target files to rename.
+* Live preview of renamed files.
+* Automatic detection of renaming conflict (before renaming files!)
 
 Here is some typical pattern scenarios where extFileRenaming shines!
 
@@ -158,11 +158,11 @@ Linkin\_Park\_album\_Living\_Things\_12\_Powerless.mp3 ⇨ 12\_Powerless.mp3
 
 extSearch is a file search application. It's design is identical to Windows XP's search application. If you are using Windows Vista or later and you miss the simplicity that the search application was giving, then extSearch is for you. extSearch allows searching for a file using multiple criteria:
 
-- File name or file extension using wildcard characters such as ***\**** or ***?***
-- Search for a specific word or phrase in a file (matching case or not).
-- Searches sub-folders or not.
-- Searches files based on its last modification date.
-- Searches files based on its size.
+* File name or file extension using wildcard characters such as ***\**** or ***?***
+* Search for a specific word or phrase in a file (matching case or not).
+* Searches sub-folders or not.
+* Searches files based on its last modification date.
+* Searches files based on its size.
 
 ## Clipboard management
 
@@ -170,11 +170,11 @@ All features of extTools are available through a shell explorer add-on. A nice f
 
 [![extTools screenshot (clipboard)](/wp-content/uploads/2014/10/extTools-screenshot-clipboard-300x212.png "extTools screenshot (clipboard)")](/wp-content/uploads/2014/10/extTools-screenshot-clipboard.png)
 
-- Copy Full Path
-- Copy File name only
-- Copy Folder only
-- Append to Copy
-- Append to Cut
+* Copy Full Path
+* Copy File name only
+* Copy Folder only
+* Append to Copy
+* Append to Cut
 
 ## extBatchFileProcessor
 
@@ -238,8 +238,8 @@ extImageEncoder is an application that can hide a file/data into a picture. This
 
 The following features are supported:
 
-- Automatically detect the appropriate encoding format to preserve the original image as much as possible (reduce the amount of modified pixels).
-- Allows the encoding algorithm to keep modifying the pixels until the end of the image to evenly modify the image which hides the modified part.
+* Automatically detect the appropriate encoding format to preserve the original image as much as possible (reduce the amount of modified pixels).
+* Allows the encoding algorithm to keep modifying the pixels until the end of the image to evenly modify the image which hides the modified part.
 
 extImageEncoder only supports [lossless](http://en.wikipedia.org/wiki/Lossless_compression) image file format (\*.png or \*.bmp) for saving the resulting image. Other image file format are [lossy](http://en.wikipedia.org/wiki/Image_file_formats#Image_file_compression) which means that some details are lost every time an image is saved. Since the data is encoded into pixels, a lossy image format would alterate or even destroy the data.
 
@@ -257,9 +257,9 @@ extHashCalculator calculate hashes ([message digests](http://en.wikipedia.org/wi
 
 extHashCalculator supports the following hash algorithms:
 
-- CRC32
-- MD5
-- SHA1
+* CRC32
+* MD5
+* SHA1
 
 ## extGuid
 
@@ -293,19 +293,19 @@ extAnsiPrinter a command prompt only application (no GUI). It is an implementati
 
 extTools is only available for the following Windows platform:
 
-- Windows XP
-- Windows Vista
-- Windows 7
+* Windows XP
+* Windows Vista
+* Windows 7
 
 extTools is still untested with Windows 8. If you do install it on Windows 8, [please tell me!](/contact/)
 
 # Minimum system requirements
 
-- 100% PC compatible
-- Pentium II, 300 mhz
-- 256 Mb RAM
-- 30 Mb free disk space
-- Administrator rights (for installation)
+* 100% PC compatible
+* Pentium II, 300 mhz
+* 256 Mb RAM
+* 30 Mb free disk space
+* Administrator rights (for installation)
 
 # History of changes
 

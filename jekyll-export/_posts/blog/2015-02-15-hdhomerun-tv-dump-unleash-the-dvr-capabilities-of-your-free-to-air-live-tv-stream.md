@@ -23,13 +23,13 @@ tags:
 
 It's main features are:
 
-- Quicker &amp; easier to understand and install than other DVR solutions like [MythTV](https://www.mythtv.org/) and [Windows Media Center](http://windows.microsoft.com/en-CA/windows/products/windows-media-center).
-- Auto-detection of existing HDHomeRun devices on the network.
-- Auto-detection of busy tuners.
-- Automatic selection of an available tuner for watching or recording a live TV stream.
-- Manual recording support.
-- Scheduled recording support (enables DVR capabilities with the HDHomeRun)
-- Watch live TV streams.
+* Quicker &amp; easier to understand and install than other DVR solutions like [MythTV](https://www.mythtv.org/) and [Windows Media Center](http://windows.microsoft.com/en-CA/windows/products/windows-media-center).
+* Auto-detection of existing HDHomeRun devices on the network.
+* Auto-detection of busy tuners.
+* Automatic selection of an available tuner for watching or recording a live TV stream.
+* Manual recording support.
+* Scheduled recording support (enables DVR capabilities with the HDHomeRun)
+* Watch live TV streams.
 
 *HDHomeRun TV Dump* should also work with devices that supports the MPEG4/H.264 video codec but this functionality is still untested.
 
@@ -52,18 +52,18 @@ It's main features are:
 
 You can download *HDHomeRun TV Dump* by clicking on the following link:
 
-- {{% download old-id="744" href="/wp-content/uploads/2015/02/HDHomeRun-TV-Dump-v1.2.79-x64-portable.zip" %}}HDHomeRun TV Dump v1.2.79 (x64 portable){{% /download %}}
+* {{% download old-id="744" href="/wp-content/uploads/2015/02/HDHomeRun-TV-Dump-v1.2.79-x64-portable.zip" %}}HDHomeRun TV Dump v1.2.79 (x64 portable){{% /download %}}
 <!-- - {{% download old-id="746" href="" %}}HDHomeRun TV Dump v1.2.79 (x64 setup){{% /download %}}-->
-- {{% download old-id="748" href="/wp-content/uploads/2015/02/HDHomeRun-TV-Dump-v1.2.79-win32-portable.zip" %}}HDHomeRun TV Dump v1.2.79 (win32 portable){{% /download %}}
+* {{% download old-id="748" href="/wp-content/uploads/2015/02/HDHomeRun-TV-Dump-v1.2.79-win32-portable.zip" %}}HDHomeRun TV Dump v1.2.79 (win32 portable){{% /download %}}
 <!-- - {{% download old-id="750" href="" %}}HDHomeRun TV Dump v1.2.79 (win32 setup){{% /download %}}-->
 
 # Hardware &amp; Software Requirements
 
 The following is required to take full control of *HDHomeRun TV Dump*:
 
-- Users must have an existing network-attached HDHomeRun device.
-- [VLC](http://www.videolan.org/vlc/download-windows.html) must be installed on system to watch live TV.
-- [HDHomerun application](http://www.silicondust.com/support/downloads/) must be installed on system to allow communication with the HDHomeRun device.
+* Users must have an existing network-attached HDHomeRun device.
+* [VLC](http://www.videolan.org/vlc/download-windows.html) must be installed on system to watch live TV.
+* [HDHomerun application](http://www.silicondust.com/support/downloads/) must be installed on system to allow communication with the HDHomeRun device.
 
 # Usage
 
@@ -115,11 +115,11 @@ To add a new scheduled recording to the list, press the {{% windows-button3d %}}
 
 This dialog allows a user assign a name to the recording for better future referencing. The user also have to press the {{% windows-button3d %}}**...**{{% /windows-button3d %}} button to setup virtually any kind of schedule:
 
-- ***Unique***: Simply specify a date and time.
-- ***Repetitive***: A value is used for repeating on minutes, hours, days, weeks and months starting on specified date and time.
-- ***Daily***: Specify the type from Everyday, Week days and Week ends starting on the specified date and time.
-- ***Weekly***: Specify individual recording days, starting on the specified date and time.
-- ***Monthly***: Select individual recording months, starting on the specified date and time.
+* ***Unique***: Simply specify a date and time.
+* ***Repetitive***: A value is used for repeating on minutes, hours, days, weeks and months starting on specified date and time.
+* ***Daily***: Specify the type from Everyday, Week days and Week ends starting on the specified date and time.
+* ***Weekly***: Specify individual recording days, starting on the specified date and time.
+* ***Monthly***: Select individual recording months, starting on the specified date and time.
 
 Press {{% windows-button3d %}}OK{{% /windows-button3d %}} button to create the scheduled recording. A new entry will be listed on the scheduled recordings dialog.
 
@@ -127,17 +127,17 @@ Press {{% windows-button3d %}}OK{{% /windows-button3d %}} button to create the s
 
 *HdHomeRun TV Dump* is only available for the Windows platform and has been tested with the following software versions:
 
-- Windows Vista
-- Windows 7
-- HDHomeRun Setup application 20130117
-- VLC v2.1.2 (any future release should also be compatible)
+* Windows Vista
+* Windows 7
+* HDHomeRun Setup application 20130117
+* VLC v2.1.2 (any future release should also be compatible)
 
 # Minimum system requirements
 
-- 100% PC compatible
-- Pentium II, 300 mhz
-- 256 Mb RAM
-- 20 Mb free disk space
+* 100% PC compatible
+* Pentium II, 300 mhz
+* 256 Mb RAM
+* 20 Mb free disk space
 
 # License
 

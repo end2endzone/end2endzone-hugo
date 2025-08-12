@@ -206,8 +206,8 @@ The following table shows details for calculating the performance of each polyno
 
 The table above shows two polynomial functions (see highlighted columns) that offers the best performance :
 
-- Function #3 (which has an order of 1) and a sum of 2.37.
-- Function #6 (which has an order of 2) and a sum of 2.85.
+* Function #3 (which has an order of 1) and a sum of 2.37.
+* Function #6 (which has an order of 2) and a sum of 2.85.
 
 Even if function #6 has a sum higher than function #3, the accuracy of function #3 is better since only a single control point does not match the expected values. For example, function #3 evaluates a pwm of 2180.73 µs to 148 while function #6 evaluates to 149 which is correct.
 
@@ -291,8 +291,8 @@ Again, calculating the performance of each polynomial functions:
 
 The table above shows two polynomial functions (see highlighted columns) that offers the best performance :
 
-- Function #2 (which has an order of 1) and a sum of 0.62.
-- Function #6 (which has an order of 2) and a sum of 1.59.
+* Function #2 (which has an order of 1) and a sum of 0.62.
+* Function #6 (which has an order of 2) and a sum of 1.59.
 
 Function #2 offers the best performance. It is even better than the polynomial function with an order of 3. All control points matches the expected values. This means that Spektrum AR8000 Rx delivers near-perfect and linear PWM values for all given transmitter values.
 
@@ -383,9 +383,9 @@ The following table shows details for calculating the performance of each polyno
 
 The two tables above shows two polynomial functions (see highlighted columns) that offers the best performance:
 
-- Function #7 (which has an order of 2) and a sum of 6.3.
-- Function #8 (which has an order of 2) and a sum of 7.21.
-- All polynomial function which has an order of 1 shows terrible prediction performance.
+* Function #7 (which has an order of 2) and a sum of 6.3.
+* Function #8 (which has an order of 2) and a sum of 7.21.
+* All polynomial function which has an order of 1 shows terrible prediction performance.
 
 Note that best function for channel 1 (function #7) shows terrible results when used in calculations of channel 2. That is also for function 8. This means that there is no generic function that can be used for all channel situations. As a proof, function #6 which is based on all observed values for all channels shows terrible results.
 

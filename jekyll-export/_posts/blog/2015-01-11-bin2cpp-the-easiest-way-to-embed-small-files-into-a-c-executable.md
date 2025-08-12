@@ -24,22 +24,22 @@ Please note that bin2cpp source code is now moved to GitHub. Source code can be 
 
 It's main features are:
 
-- Easily converts small files as C++ source code for embedding into a C++ executable.
-- Content extraction supported by a unique function call for each embedded file.
-- Supports a multiple embedded files at once.
-- Makes it harder for resource hacker to modify or steal the embedded files.
-- No third party libraries required for retrieving the data of the embedded files.
+* Easily converts small files as C++ source code for embedding into a C++ executable.
+* Content extraction supported by a unique function call for each embedded file.
+* Supports a multiple embedded files at once.
+* Makes it harder for resource hacker to modify or steal the embedded files.
+* No third party libraries required for retrieving the data of the embedded files.
 
 bin2cpp is not implemented using [executable resources](http://en.wikipedia.org/wiki/Resource_(Windows)). Instead, bin2cpp creates multiple function calls for retrieving the data which makes it harder to steal the executable's content. It also makes it even harder to replace an existing resource of the executable.It is designed to be easy to use by developers and to provide easy call functions to get access to the data of the embedded files. The generated functions that reads and extracts the embedded content does not rely on external libraries so you don't need to setup your projects to use any third party library to start using bin2cpp. All your embedded data can be accessed right away.
 
 **Usage:**bin2cpp \[inputfile\] \[output folder\] \[header filename\] \[function identifier\] \[chunk size\] \[-override\].
 
-- **inputfile**: Path to the target file to embed in a C++ source code.
-- **output folder**: Output path to create generated source code. ie: .\\generated\_files\\
-- **header filename**: File name of the C++ Header file. ie: SplashScreen.h
-- **function identifier**: Identifier of the function name that is used to get an instance of the file. ie: SplashScreen
-- **chunk size** (optional): Size of each string segments. Defaults to 200\]
-- **override** (optional): Tells bin2cpp to over write the destination files.
+* **inputfile**: Path to the target file to embed in a C++ source code.
+* **output folder**: Output path to create generated source code. ie: .\\generated\_files\\
+* **header filename**: File name of the C++ Header file. ie: SplashScreen.h
+* **function identifier**: Identifier of the function name that is used to get an instance of the file. ie: SplashScreen
+* **chunk size** (optional): Size of each string segments. Defaults to 200\]
+* **override** (optional): Tells bin2cpp to over write the destination files.
 
 # Screenshots
 
@@ -204,17 +204,17 @@ namespace bin2cpp
 
 bin2cpp is only available for the Windows platform and has been tested with the following version of Windows:
 
-- Windows XP
-- Windows Vista
-- Windows 7
+* Windows XP
+* Windows Vista
+* Windows 7
 
 # Minimum system requirements
 
-- 100% PC compatible
-- Pentium II, 300 mhz
-- 256 Mb RAM
-- 1 Mb free disk space
-- Administrator rights (for installation)
+* 100% PC compatible
+* Pentium II, 300 mhz
+* 256 Mb RAM
+* 1 Mb free disk space
+* Administrator rights (for installation)
 
 # License
 

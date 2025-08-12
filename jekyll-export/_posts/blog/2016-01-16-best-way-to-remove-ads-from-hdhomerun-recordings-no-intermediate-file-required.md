@@ -28,12 +28,12 @@ The trick is to use VirtualDub's frame server ability and other software to crea
 
 The following software must be downloaded and installed:
 
-- [VirtualDub 1.10.4](http://www.virtualdub.org/download.html)
-- [Virtualdub FFMpeg Input Plugin](http://sourceforge.net/projects/virtualdubffmpeginputplugin/files/)
-- [Avisynth 2.6](http://sourceforge.net/projects/avisynth2/)
-- [AVFS 1.0.0.5 - Avisynth Virtual File System](http://www.turtlewar.org/avfs/)
-- [Pismo File Mount Audit Package (build 173)](http://www.pismotechnic.com/pfm/)
-- [Handbrake 0.10.2](https://handbrake.fr/downloads.php)
+* [VirtualDub 1.10.4](http://www.virtualdub.org/download.html)
+* [Virtualdub FFMpeg Input Plugin](http://sourceforge.net/projects/virtualdubffmpeginputplugin/files/)
+* [Avisynth 2.6](http://sourceforge.net/projects/avisynth2/)
+* [AVFS 1.0.0.5 - Avisynth Virtual File System](http://www.turtlewar.org/avfs/)
+* [Pismo File Mount Audit Package (build 173)](http://www.pismotechnic.com/pfm/)
+* [Handbrake 0.10.2](https://handbrake.fr/downloads.php)
 
 ## Register VirtualDub AVIFile handler
 
@@ -187,10 +187,10 @@ Here is an example of a valid AviSynth Script file (\*.avs):
 
 Your workspace should contains 4 files:
 
-- The original MPEG2 recording file (\*.mpg)
-- The AviSynth Script file (\*.avs)
-- The VirtualDub AVIFile signpost file (\*.vdr)
-- The VirtualDub editing backup file (\*.vdscript)
+* The original MPEG2 recording file (\*.mpg)
+* The AviSynth Script file (\*.avs)
+* The VirtualDub AVIFile signpost file (\*.vdr)
+* The VirtualDub editing backup file (\*.vdscript)
 
 [![Remove ADS From TV Recording Workspace](/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png "Remove ADS From TV Recording Workspace")](/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png)
 
@@ -213,10 +213,10 @@ Mount the \*.avs file as a virtual folder containing the virtual AVI file.
 
 If the mounting is successful, the AviSynth Script file (\*.avs) should be removed from the file system and be replaced by a folder with the same name as the file. The new folder contains multiple virtual files:
 
-- a copy of the AviSynth Script file (\*.avs).
-- an error log (error.log) containing errors found during the mount operation. If there is no error, this file contains video and audio codec properties.
-- multiple audio file (\*.wav, \*.w64) with the same encoding. As far as I know, they are all identical.
-- an uncompressed video file in the Audio Video Interleave (\*.avi) format.
+* a copy of the AviSynth Script file (\*.avs).
+* an error log (error.log) containing errors found during the mount operation. If there is no error, this file contains video and audio codec properties.
+* multiple audio file (\*.wav, \*.w64) with the same encoding. As far as I know, they are all identical.
+* an uncompressed video file in the Audio Video Interleave (\*.avi) format.
 
 If you selected the option *Open after mount*, the following window will be displayed:
 

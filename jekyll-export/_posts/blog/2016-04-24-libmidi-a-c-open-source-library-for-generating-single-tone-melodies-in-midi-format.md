@@ -1,5 +1,5 @@
 ---
-title: libMIDI – A C++ open-source library for generating single tone melodies in MIDI format
+title: libMIDI ï¿½ A C++ open-source library for generating single tone melodies in MIDI format
 author: end2end
 date: 2016-04-24T16:42:27+00:00
 url: /libmidi-a-c-open-source-library-for-generating-single-tone-melodies-in-midi-format/
@@ -37,22 +37,22 @@ I mostly develop on the Windows platform. When I try to generate basic sounds an
 
 Possible use are:
 
-- Generate notes using a tone frequency and duration.
-- Supports custom delays, volumes, melody name &amp; instruments.
-- Defines multiple speed requirements : 
-    - Ticks (or pulses) per quarters notes.
-    - Tempo (microseconds per quarter note).
-    - BPM (beats per minute).
-- Simple unit conversion API: 
-    - BPM to/from Tempo.
-    - Ticks to/from microseconds.
+* Generate notes using a tone frequency and duration.
+* Supports custom delays, volumes, melody name &amp; instruments.
+* Defines multiple speed requirements : 
+    * Ticks (or pulses) per quarters notes.
+    * Tempo (microseconds per quarter note).
+    * BPM (beats per minute).
+* Simple unit conversion API: 
+    * BPM to/from Tempo.
+    * Ticks to/from microseconds.
 
 ## Requirements
 
 The library has some compilation requirements and library dependencies which are:
 
-- Only Visual Studio 2008 projects files are available. Files can be manually converted to other version as required. Supporting other compilers is not currently planned.
-- The [Google Test](http://github.com/google/googletest) v1.6 library is required for running test cases.
+* Only Visual Studio 2008 projects files are available. Files can be manually converted to other version as required. Supporting other compilers is not currently planned.
+* The [Google Test](http://github.com/google/googletest) v1.6 library is required for running test cases.
 
 # Usage
 
@@ -88,4 +88,4 @@ libMIDI Library Copyright (C) 2016 Antoine Beauchamp The code &amp; updates for 
 
 You can download the libMIDI library by clicking on the following link:
 
-- {{% download old-id="1893" href="https://github.com/end2endzone/libMidi/archive/refs/tags/2.0.0.zip" %}}libMidi v2.0.0.zip{{% /download %}}
+* {{% download old-id="1893" href="https://github.com/end2endzone/libMidi/archive/refs/tags/2.0.0.zip" %}}libMidi v2.0.0.zip{{% /download %}}

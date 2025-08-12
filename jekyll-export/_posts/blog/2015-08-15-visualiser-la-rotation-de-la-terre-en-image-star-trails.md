@@ -22,8 +22,8 @@ Suite à [ce vidéo](/visualiser-la-rotation-de-la-terre-en-video/), j'ai aussi 
 
 **Quelques statistiques**:
 
-- Duré de la séance 2h38.
-- 297 photos cumulées.
+* Duré de la séance 2h38.
+* 297 photos cumulées.
 
 **Voici le résultat:**
 

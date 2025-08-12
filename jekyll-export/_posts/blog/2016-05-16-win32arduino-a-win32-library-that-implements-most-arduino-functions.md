@@ -29,10 +29,10 @@ win32Arduino is a Windows implementation of the most used arduino functions whic
 
 Possible use are:
 
-- Implements most arduino functions.
-- Allows a developer to tests a library outside of the arduino platform.
-- Quicker unit test execution.
-- Supports realtime millis() function or simulated millis() and micros() functions.
+* Implements most arduino functions.
+* Allows a developer to tests a library outside of the arduino platform.
+* Quicker unit test execution.
+* Supports realtime millis() function or simulated millis() and micros() functions.
 
 # Library dependencies
 
@@ -48,12 +48,12 @@ The following instructions show how to easily test an arduino library using the 
 
 The project should compile properly without errors or unresolved extensions allowing you to properly unit test each functionality. For unit testing the library, the following environment variables must be defined:
 
-- GTEST\_INCLUDE
-- GTEST\_LIBRARY\_DIR
-- GTEST\_LIBRARY\_X86\_DEBUG
-- GTEST\_LIBRARY\_X86\_RELEASE
-- GTEST\_LIBRARY\_X64\_DEBUG
-- GTEST\_LIBRARY\_X64\_RELEASE
+* GTEST\_INCLUDE
+* GTEST\_LIBRARY\_DIR
+* GTEST\_LIBRARY\_X86\_DEBUG
+* GTEST\_LIBRARY\_X86\_RELEASE
+* GTEST\_LIBRARY\_X64\_DEBUG
+* GTEST\_LIBRARY\_X64\_RELEASE
 
 # License
 

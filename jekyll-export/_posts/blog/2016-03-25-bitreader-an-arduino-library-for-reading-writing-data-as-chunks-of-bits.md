@@ -38,25 +38,25 @@ This BitReader library allows one to read data which is not necessarily aligned 
 
 The library is useful for storing or decoding data in binary format using the minimum amount of bits. For examples...
 
-- [Shorter text strings](#Making_text_strings_shorter)
-- [Shorter structures](#Shorter_structuresdefinition)
-- [Shorter data arrays](#Make_data_arrays_much_shorter)
+* [Shorter text strings](#Making_text_strings_shorter)
+* [Shorter structures](#Shorter_structuresdefinition)
+* [Shorter data arrays](#Make_data_arrays_much_shorter)
 
 # Library features
 
 Possible use are:
 
-- Reduces size of data (strings, structures, arrays) in memory to the minimum amount of bits required.
-- Help reading/updating bit-field structures.
-- Handles bit [serialization ](https://en.wikipedia.org/wiki/Serialization)data to/from buffers.
+* Reduces size of data (strings, structures, arrays) in memory to the minimum amount of bits required.
+* Help reading/updating bit-field structures.
+* Handles bit [serialization ](https://en.wikipedia.org/wiki/Serialization)data to/from buffers.
 
 # Usage
 
 Create an instance of *BitReader*, *BitWriter* or *BitAddress* depending on the following optimization switches:
 
-- USE\_BITADDRESS\_SETTER\_GETTER
-- USE\_SINGLEBIT\_MACROS
-- USE\_BITADDRESS\_READ\_WRITE
+* USE\_BITADDRESS\_SETTER\_GETTER
+* USE\_SINGLEBIT\_MACROS
+* USE\_BITADDRESS\_READ\_WRITE
 
 Then assign a reading or writing buffer using the *setBuffer()* method.Then call the *write()* method for writing bits to the assigned buffer or call the *read()* method for reading bits from the assigned buffer. Each method allows one to specify the amount of bits to read or write.
 
@@ -128,7 +128,7 @@ Consider an algorithm that plays a [Morse code](https://en.wikipedia.org/wiki/Mo
 
 ```
 .... . .-.. .-.. --- / -- -.-- / -. .- -- . / .. ... / .- -. 
-- --- .. -. . .-.-.- / .. / .-- .-. --- - . / - .... . / -... 
+* --- .. -. . .-.-.- / .. / .-- .-. --- - . / - .... . / -... 
 .. - .-. . .- -.. . .-. / .-.. .. -... .-. .- .-. -.-- / .-- 
 .... . -. / .. / .-- .- ... / ...-- ....- / -.-- . .- .-. 
 ... / --- .-.. -.. .-.-.-

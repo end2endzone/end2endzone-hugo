@@ -22,17 +22,17 @@ DNS-343 Monitor is a tool for monitoring how much space is left on your DNS-343 
 
 It's main features are:
 
-- Show space left and used for each drives.
-- GUI supported.
-- Compatible with all firmware versions.
+* Show space left and used for each drives.
+* GUI supported.
+* Compatible with all firmware versions.
 
 **Note:** This tool requires administrator privileges on the DNS-343 for retrieving free space left.
 
 **Usage:**
 
-- Launch application
-- Enters administrator credentials
-- Press GET button
+* Launch application
+* Enters administrator credentials
+* Press GET button
 
 # Screenshots
 
@@ -46,26 +46,26 @@ It's main features are:
 
 You can download DNS-343 Monitor by clicking on the following links:
 
-- {{% download old-id="675" href="/wp-content/uploads/2015/02/DNS-343-Monitor-v1.1.33-win32-portable.zip" %}}DNS-343 Monitor v1.1.33 (win32 portable){{% /download %}}
+* {{% download old-id="675" href="/wp-content/uploads/2015/02/DNS-343-Monitor-v1.1.33-win32-portable.zip" %}}DNS-343 Monitor v1.1.33 (win32 portable){{% /download %}}
 <!-- - {{% download old-id="672" href="" %}}DNS-343 Monitor v1.1.33 (win32 Setup){{% /download %}}-->
-- {{% download old-id="670" href="/wp-content/uploads/2015/02/DNS-343-Monitor-v1.1.33-x64-portable.zip" %}}DNS-343 Monitor v1.1.33 (x64 portable){{% /download %}}
+* {{% download old-id="670" href="/wp-content/uploads/2015/02/DNS-343-Monitor-v1.1.33-x64-portable.zip" %}}DNS-343 Monitor v1.1.33 (x64 portable){{% /download %}}
 <!-- - {{% download old-id="666" href="" %}}DNS-343 Monitor v1.1.33 (x64 Setup){{% /download %}}-->
 
 # Compatible with
 
 DNS343Monitor is only available for the Windows platform and has been tested with the following version of Windows:
 
-- Windows XP
-- Windows Vista
-- Windows 7
+* Windows XP
+* Windows Vista
+* Windows 7
 
 # Minimum system requirements
 
-- 100% PC compatible
-- Pentium II, 300 mhz
-- 256 Mb RAM
-- 30 Mb free disk space
-- Administrator rights (for installation)
+* 100% PC compatible
+* Pentium II, 300 mhz
+* 256 Mb RAM
+* 30 Mb free disk space
+* Administrator rights (for installation)
 
 # License
 

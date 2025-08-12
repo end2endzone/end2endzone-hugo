@@ -1,5 +1,5 @@
 ---
-title: SoftTimers – A collection of software timers to easily compute elapsed time since an event occurred
+title: SoftTimers ï¿½ A collection of software timers to easily compute elapsed time since an event occurred
 author: end2end
 date: 2016-06-10T20:14:19+00:00
 url: /softtimers-a-collection-of-software-timers-to-easily-compute-elapsed-time-since-an-event-occured/
@@ -42,12 +42,12 @@ The SoftTimers allows one to properly time multiple events and know when each "t
 
 Here is a list of all library features:
 
-- Provides the non-blocking equivalent to blocking `delay()` function.
-- Each timers encapsulate its own expiration (timeout) time.
-- Provides elapsed time, remaining time and progress (in percentage) APIs.
-- Supports milliseconds, microseconds or any other arbitrary time with external time counting function.
-- Provides expiration loop count API (as if timer never expire and automatically `reset()`) to easily implement toggling, and time based state machines.
-- Automatically handles `micros()` an `millis()` overflows / wrap around special cases.
+* Provides the non-blocking equivalent to blocking `delay()` function.
+* Each timers encapsulate its own expiration (timeout) time.
+* Provides elapsed time, remaining time and progress (in percentage) APIs.
+* Supports milliseconds, microseconds or any other arbitrary time with external time counting function.
+* Provides expiration loop count API (as if timer never expire and automatically `reset()`) to easily implement toggling, and time based state machines.
+* Automatically handles `micros()` an `millis()` overflows / wrap around special cases.
 
 # Usage
 
@@ -83,10 +83,10 @@ Click the following to download the example below:
 
 SoftTimer library also help reducing repetitive timed cycles to their simplest non-blocking form. SoftTimer library automatically computes current cycle index. Any toggling or cycle scenarios can be implemented with very few lines of code. The following example implements a system where a single HIGH pin must be cycled every second within multiple pins as defined by the following loop:
 
-- set pin 8, 9 and 13 to LOW, LOW and HIGH respectively and then wait 1 second.
-- set pin 8, 9 and 13 to HIGH, LOW and LOW respectively and then wait 1 second.
-- set pin 8, 9 and 13 to LOW, HIGH and LOW respectively and then wait 1 second.
-- repeat the cycle forever...
+* set pin 8, 9 and 13 to LOW, LOW and HIGH respectively and then wait 1 second.
+* set pin 8, 9 and 13 to HIGH, LOW and LOW respectively and then wait 1 second.
+* set pin 8, 9 and 13 to LOW, HIGH and LOW respectively and then wait 1 second.
+* repeat the cycle forever...
 
 Demo:
 
@@ -100,11 +100,11 @@ Click the following to download the example below:
 
 SoftTimer library allows one to make an easy abstraction of time when dealing with timed restricted state machines. The following example implement an hypothetical state machine where each state has a maximum duration:
 
-- State #1 - IDLE (1000 ms)
-- State #2 - LISTENING (200 ms)
-- State #3 - SYNCHRONIZING (500 ms)
-- State #4 - UPDATING (300 ms)
-- State #1 ....
+* State #1 - IDLE (1000 ms)
+* State #2 - LISTENING (200 ms)
+* State #3 - SYNCHRONIZING (500 ms)
+* State #4 - UPDATING (300 ms)
+* State #1 ....
 
 Demo:
 

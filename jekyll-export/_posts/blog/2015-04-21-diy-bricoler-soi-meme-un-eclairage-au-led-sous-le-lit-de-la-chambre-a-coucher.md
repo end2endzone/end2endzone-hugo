@@ -29,10 +29,10 @@ Combien de fois avez-vous réveiller votre partenaire au lit parce que vous devi
 
 Cette option fournit les avantages suivants dans une chambre à coucher:
 
-- La lumière produit par les DEL n'est pas une lumière trop éblouissante. Le gradateur permet aussi d'ajuster l'intensité pour quelle soit agréable pour les yeux la nuit.
-- Cela permet de voir où vous mettez les pieds. Être en mesure de bien voir le passage dans le corridor entre la chambre et la salle de bain est aussi très intéressant.
-- Le système d'éclairage peut être activé sans déranger le sommeil de l'autre partenaire.
-- Donne une belle lumière ambiante pour les activités nocturnes...
+* La lumière produit par les DEL n'est pas une lumière trop éblouissante. Le gradateur permet aussi d'ajuster l'intensité pour quelle soit agréable pour les yeux la nuit.
+* Cela permet de voir où vous mettez les pieds. Être en mesure de bien voir le passage dans le corridor entre la chambre et la salle de bain est aussi très intéressant.
+* Le système d'éclairage peut être activé sans déranger le sommeil de l'autre partenaire.
+* Donne une belle lumière ambiante pour les activités nocturnes...
 
 Dans cet article, je vais vous expliquer comment j'ai créé moi-même un éclairage au DEL sous la base de mon lit de ma chambre à coucher. **Remarque:**La manipulation de l'électricité murale peut être dangereux. Si vous ne avez pas les compétences de base nécessaire pour manipuler de l'électricité, je recommande fortement que vous ne procédez pas à l'installation de ce projet. Procéder à vos propres risques.
 
@@ -42,18 +42,18 @@ Dans cet article, je vais vous expliquer comment j'ai créé moi-même un éclai
 
 Les matériaux nécessaires pour ce projet sont les suivants:
 
-- Une bande d'éclairage DEL de 5 mètres.
-- Connecteur à 2 broches (1 seule couleur) pour bande DEL SMD 3528 (5 fois)
-- Une alimentation 36 Watts (12 volts, 3 ampères).
-- Un cordon d’alimentation avec une prise murale à 3 broches.
-- Un module gradateur pour DEL.
-- 2 interrupteurs mural à 3 voies (à 3 positions).
-- 2 à 3 mètres de fil de couleur (rouge et noir).
-- Un couple de [connecteurs RCA](https://www.google.ca/search?q=RCA+connectors&tbm=isch) (male et femelle)
-- Un multimètre (pour tester les connexions)
-- Vis
-- Un tournevis cruciforme
-- Ruban à mesurer flexible
+* Une bande d'éclairage DEL de 5 mètres.
+* Connecteur à 2 broches (1 seule couleur) pour bande DEL SMD 3528 (5 fois)
+* Une alimentation 36 Watts (12 volts, 3 ampères).
+* Un cordon d’alimentation avec une prise murale à 3 broches.
+* Un module gradateur pour DEL.
+* 2 interrupteurs mural à 3 voies (à 3 positions).
+* 2 à 3 mètres de fil de couleur (rouge et noir).
+* Un couple de [connecteurs RCA](https://www.google.ca/search?q=RCA+connectors&tbm=isch) (male et femelle)
+* Un multimètre (pour tester les connexions)
+* Vis
+* Un tournevis cruciforme
+* Ruban à mesurer flexible
 
 ### Équipement habituel
 
@@ -73,14 +73,14 @@ Tout comme le projet de la cuisine, celui-ci peut être complété à petit budg
 
 Voici le prix détaillée de chacun des éléments:
 
-- $8.13 - Bande d'éclairage DEL achetée sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/LED-strip.png).
-- $2.29 - Connecteur à 2 broches (1 seule couleur) pour bande DEL SMD 3528 acheté sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Connectors.png).
-- $7.15 - Alimentation 36 Watts achetée sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Power-supply.png).
-- $0.00 - Cordon d’alimentation avec une prise murale à 3 broches. (J'en ai souvent plusieurs à la maison. Je récupère souvent plusieurs pièce et morceau avant de jeter un appareil aux ordures.
-- $6.02 - Module gradateur pour DEL acheté sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Dimmer.png).
-- $3.98 - Deux interrupteurs mural à 3 voies acheté à la quincaillerie.
-- $4.00 - Fil électrique de couleur (j'ai utilisé du calibre 18) du magasin à un dollar.
-- $0.00 - 1x connecteur RCA male et 1x connecteur RCa femelle. J'en ai plusieurs à la maison.
+* $8.13 - Bande d'éclairage DEL achetée sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/LED-strip.png).
+* $2.29 - Connecteur à 2 broches (1 seule couleur) pour bande DEL SMD 3528 acheté sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Connectors.png).
+* $7.15 - Alimentation 36 Watts achetée sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Power-supply.png).
+* $0.00 - Cordon d’alimentation avec une prise murale à 3 broches. (J'en ai souvent plusieurs à la maison. Je récupère souvent plusieurs pièce et morceau avant de jeter un appareil aux ordures.
+* $6.02 - Module gradateur pour DEL acheté sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Dimmer.png).
+* $3.98 - Deux interrupteurs mural à 3 voies acheté à la quincaillerie.
+* $4.00 - Fil électrique de couleur (j'ai utilisé du calibre 18) du magasin à un dollar.
+* $0.00 - 1x connecteur RCA male et 1x connecteur RCa femelle. J'en ai plusieurs à la maison.
 
 Coût total: $**31.57**
 

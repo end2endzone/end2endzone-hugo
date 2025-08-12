@@ -39,11 +39,11 @@ During my encounter with the trees, one of the servo got loose in its socket and
 
 As I said earlier in [The Hobby Zone Super Cub LP RTF. A good beginner’s RC plane](/the-hobby-zone-super-cub-lp-rtf-a-good-beginners-rc-plane/), the plane can be repaired easily. As long as your electronics are still working, it is hard to damage the plane beyond repair. Here the description of the damage:
 
-- The wings broke in half near the middle.
-- The nose broke into pieces.
-- The firewall got smashed.
-- The engine and motor gears went through the firewall and almost reached the inside of the fuselage.
-- The fuselage bent near the second window.
+* The wings broke in half near the middle.
+* The nose broke into pieces.
+* The firewall got smashed.
+* The engine and motor gears went through the firewall and almost reached the inside of the fuselage.
+* The fuselage bent near the second window.
 
 Here is some pictures of the wreckage
 
