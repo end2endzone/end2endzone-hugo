@@ -272,8 +272,8 @@ The show is almost going to its end. The finale is coming and it is going to be 
 
 Make sure you have enough
 
-  * Free space on your memory card.
-  * Battery power left.
+* Free space on your memory card.
+* Battery power left.
 
 How many stills you can shoot? You do not want to have to change your memory card and swap batteries during the finale. There is a good chance that changing your battery also means that you will loose your settings which is a bad thing during the finale. You might also have to disconnect the camera from the tripod which means that I will have to zoom and set focus again.
 

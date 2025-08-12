@@ -22,9 +22,9 @@ The [DNS-343](http://www.google.com/?q=dns-343) is a [Network Attached Storage](
 
 It's main features are:
 
-  * Show space left and used for each drives.
-  * GUI supported.
-  * Compatible with all firmware versions.
+* Show space left and used for each drives.
+* GUI supported.
+* Compatible with all firmware versions.
 
 {{< pleasenote >}}
   **Note:** This tool requires administrator privileges on the DNS-343 for retrieving free space left.
@@ -64,17 +64,17 @@ You can download DNS-343 Monitor by clicking on the following links:
 
 DNS343Monitor is only available for the Windows platform and has been tested with the following version of Windows:
 
-  * Windows XP
-  * Windows Vista
-  * Windows 7
+* Windows XP
+* Windows Vista
+* Windows 7
 
 # Minimum system requirements
 
-  * 100% PC compatible
-  * Pentium II, 300 mhz
-  * 256 Mb RAM
-  * 30 Mb free disk space
-  * Administrator rights (for installation)
+* 100% PC compatible
+* Pentium II, 300 mhz
+* 256 Mb RAM
+* 30 Mb free disk space
+* Administrator rights (for installation)
 
 # License
 

@@ -14,11 +14,11 @@ draft: true
 ## Ref shortcodes
 
 * Ref:
-  * {{< ref "blog/2014-08-14-diy-kitchen-under-cabinet-led-lighting.md" >}}
+    * {{< ref "blog/2014-08-14-diy-kitchen-under-cabinet-led-lighting.md" >}}
 * Relref:
-  * {{< relref "blog/2014-08-14-diy-kitchen-under-cabinet-led-lighting.md" >}}
+    * {{< relref "blog/2014-08-14-diy-kitchen-under-cabinet-led-lighting.md" >}}
 * Nested in markdown:
-  * [DIY Kitchen under cabinet LED lighting]({{< relref "blog/2014-08-14-diy-kitchen-under-cabinet-led-lighting.md" >}})
+    * [DIY Kitchen under cabinet LED lighting]({{< relref "blog/2014-08-14-diy-kitchen-under-cabinet-led-lighting.md" >}})
 
 ## Hyperlinks
 

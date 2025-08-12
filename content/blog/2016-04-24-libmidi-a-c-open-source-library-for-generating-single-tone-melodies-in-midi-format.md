@@ -58,9 +58,9 @@ Possible use are:
     * BPM (beats per minute).
 </li>
 
-  * Simple unit conversion API: 
-      * BPM to/from Tempo.
-      * Ticks to/from microseconds.
+* Simple unit conversion API: 
+* BPM to/from Tempo.
+* Ticks to/from microseconds.
 
 ## Requirements
 
@@ -119,5 +119,5 @@ This software is furnished "as is", without technical support, and with no warra
 
 You can download the libMIDI library by clicking on the following link:
 
-  * 
+* 
 		[ Download "libMIDI-v1.0.0.40.zip" libMIDI-v1.0.0.40.zip - Downloaded 433 times - 43 KB ](http://www.end2endzone.com/download/1893/)

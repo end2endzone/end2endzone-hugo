@@ -47,20 +47,23 @@ According to the
 Mixing allows control input for a channel to affect more than one channel at a time. Mixing functions support: 
 
 * Mixing a channel to another channel.
-  * Mixing a channel to itself.
-  * Assigning offset to a channel
-  * Linking primary to secondary trim. These mixes are available for each model memory. Select a channel for master and slave. Inputs for the Master Channel control both the master and Slave Channels. For example, Elevator to Flap makes elevator the Master Channel and flap the Slave Channel. Change the offset value to move the effective center position of the Slave Channel. Positive or negative value determines the direction of the offset. Offset is not available for curve mixes.
+* Mixing a channel to itself.
+* Assigning offset to a channel
+* Linking primary to secondary trim.
+    
+These mixes are available for each model memory. Select a channel for master and slave. Inputs for the Master Channel control both the master and Slave Channels. For example, Elevator to Flap makes elevator the Master Channel and flap the Slave Channel. Change the offset value to move the effective center position of the Slave Channel. Positive or negative value determines the direction of the offset. Offset is not available for curve mixes.
+
 In other words, mixing allows you to affect a Slave Channel based on the input of another (master). By mastering the art of mixing, you will reduce the amount of small corrections you make to get the desired flight pattern. A mix is composed of the following: 
 
-  * Master & Slave Channels.
-  * High and Low rates value.
-  * An offset value.
-  * A trim value (not always, not covered in this article) All mix properties shall be in the following range: 
+* Master & Slave Channels.
+* High and Low rates value.
+* An offset value.
+* A trim value (not always, not covered in this article) All mix properties shall be in the following range: 
 
-  * High and Low rates shall be in the range -125 to +125.
-  * Offset shall be in the range -100 to +100.
-  * Minimum calculated mix value shall be -150.
-  * Maximum calculated mix value shall be +150. Mixes can also be enabled or disabled based on a switch. This is useful to get different behavior based for instance on a flight mode. Multiple mixes can also be combined (see 
+* High and Low rates shall be in the range -125 to +125.
+* Offset shall be in the range -100 to +100.
+* Minimum calculated mix value shall be -150.
+* Maximum calculated mix value shall be +150. Mixes can also be enabled or disabled based on a switch. This is useful to get different behavior based for instance on a flight mode. Multiple mixes can also be combined (see 
 
 [Combining mixes](#Combining_mixes)) into the same Slave Channel to get different effects. 
 
@@ -133,9 +136,9 @@ Use the following to get an effective range of 100% to 0% to 100%.
 | Offset   | =        | 0%       |
 In other words: 
 
-  * A knob will show 100% when completely clockwise or counter clockwise but show 0% when halfway turned.
-  * A 3-position switch will show 100% in Position 0 and Position 2 but 0% in Position 1.
-  * A 2-position switch will always show 100%.
+* A knob will show 100% when completely clockwise or counter clockwise but show 0% when halfway turned.
+* A 3-position switch will show 100% in Position 0 and Position 2 but 0% in Position 1.
+* A 2-position switch will always show 100%.
 
 ## Inverted polarity mix
 Use the following to invert the polarity of a switch or a knob resulting in an effective range from +100 to -100 instead of -100 to +100. 
@@ -228,5 +231,5 @@ _**[ARTICLE TO BE PUBLISHED SOON]**_.
 # Other lectures
 Here is more information to better understand mixing: 
 
-  * [Solving the DX8 spectrum mix setting mystery](http://www.helifreak.com/showpost.php?s=bf5c92b4901bbc01862159e89eb118c8&p=5479009&postcount=14) (or [here](http://www.helifreak.com/showthread.php?p=5370251))
-  * [Mixing - DX9 Wiki - Wikia](http://dx9.wikia.com/wiki/Mixing)
+* [Solving the DX8 spectrum mix setting mystery](http://www.helifreak.com/showpost.php?s=bf5c92b4901bbc01862159e89eb118c8&p=5479009&postcount=14) (or [here](http://www.helifreak.com/showthread.php?p=5370251))
+* [Mixing - DX9 Wiki - Wikia](http://dx9.wikia.com/wiki/Mixing)

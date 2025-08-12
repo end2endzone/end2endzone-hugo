@@ -24,13 +24,13 @@ It is designed to make interaction with the device easy by automating as much as
 
 It's main features are:
 
-  * Quicker & easier to understand and install than other DVR solutions like [MythTV](https://www.mythtv.org/) and [Windows Media Center](http://windows.microsoft.com/en-CA/windows/products/windows-media-center).
-  * Auto-detection of existing HDHomeRun devices on the network.
-  * Auto-detection of busy tuners.
-  * Automatic selection of an available tuner for watching or recording a live TV stream.
-  * Manual recording support.
-  * Scheduled recording support (enables DVR capabilities with the HDHomeRun)
-  * Watch live TV streams.
+* Quicker & easier to understand and install than other DVR solutions like [MythTV](https://www.mythtv.org/) and [Windows Media Center](http://windows.microsoft.com/en-CA/windows/products/windows-media-center).
+* Auto-detection of existing HDHomeRun devices on the network.
+* Auto-detection of busy tuners.
+* Automatic selection of an available tuner for watching or recording a live TV stream.
+* Manual recording support.
+* Scheduled recording support (enables DVR capabilities with the HDHomeRun)
+* Watch live TV streams.
 
 _HDHomeRun TV Dump_ should also work with devices that supports the  MPEG4/H.264 video codec but this functionality is still untested.
 
@@ -140,15 +140,15 @@ HDHomeRun Tv Dump - New Scheduled Recording
 
 This dialog allows a user assign a name to the recording for better future referencing. The user also have to press the **...** button to setup virtually any kind of schedule:
 
-  * _**Unique**_:  
+* _**Unique**_:  
     Simply specify a date and time.
-  * _**Repetitive**_:  
+* _**Repetitive**_:  
     A value is used for repeating on minutes, hours, days,  weeks and months starting on specified date and time.
-  * _**Daily**_:  
+* _**Daily**_:  
     Specify the type from Everyday, Week days and Week ends starting on the specified date and time.
-  * _**Weekly**_:  
+* _**Weekly**_:  
     Specify individual recording days, starting on the specified date and time.
-  * _**Monthly**_:  
+* _**Monthly**_:  
     Select individual recording months, starting on the specified date and time.
 
 Press OK button to create the scheduled recording. A new entry will be listed on the scheduled recordings dialog.
@@ -157,17 +157,17 @@ Press OK button to create the scheduled recording. A new entry will be listed on
 
 _HdHomeRun TV Dump_&nbsp;is only available for the Windows platform and has been tested with the following software versions:
 
-  * Windows Vista
-  * Windows 7
-  * HDHomeRun Setup application 20130117
-  * VLC v2.1.2 (any future release should also be compatible)
+* Windows Vista
+* Windows 7
+* HDHomeRun Setup application 20130117
+* VLC v2.1.2 (any future release should also be compatible)
 
 # Minimum system requirements
 
-  * 100% PC compatible
-  * Pentium II, 300 mhz
-  * 256 Mb RAM
-  * 20 Mb free disk space
+* 100% PC compatible
+* Pentium II, 300 mhz
+* 256 Mb RAM
+* 20 Mb free disk space
 
 # License
 

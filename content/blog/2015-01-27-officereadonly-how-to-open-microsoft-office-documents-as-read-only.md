@@ -21,10 +21,10 @@ OfficeReadOnly is a tool that allows a user to open any Office Documents as a Re
 
 It's main features are:
 
-  * Integrates into Windows File Explorer or the with the "Send to" folder.
-  * Supports Documents, Workbooks, Presentations and Diagrams.
-  * Supports both Microsoft Office 2003 (*.doc) and Microsoft Office 2010 file extensions (*.doc, and *.docx).
-  * Can be used from the command prompt.
+* Integrates into Windows File Explorer or the with the "Send to" folder.
+* Supports Documents, Workbooks, Presentations and Diagrams.
+* Supports both Microsoft Office 2003 (*.doc) and Microsoft Office 2010 file extensions (*.doc, and *.docx).
+* Can be used from the command prompt.
 
 Microsoft Office does not supports opening files as read-only when right-clicking a document from the File Explorer menu and it does not support opening file as read-only from the command prompt.
 
@@ -64,17 +64,17 @@ You can download OfficeReadOnly by clicking on the following links:
 
 OfficeReadOnly is only available for the Windows platform and has been tested with the following version of Windows:
 
-  * Windows XP
-  * Windows Vista
-  * Windows 7
+* Windows XP
+* Windows Vista
+* Windows 7
 
 # Minimum system requirements
 
-  * 100% PC compatible
-  * Pentium II, 300 mhz
-  * 512 Mb RAM
-  * 5 Mb free disk space
-  * Administrator rights (for installation)
+* 100% PC compatible
+* Pentium II, 300 mhz
+* 512 Mb RAM
+* 5 Mb free disk space
+* Administrator rights (for installation)
 
 # License
 

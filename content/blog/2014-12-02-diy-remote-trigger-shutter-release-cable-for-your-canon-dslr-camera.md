@@ -37,10 +37,10 @@ Making one of these is a simple task. I decided to use the DIY way because I get
 
 The material for this project is as follows:
 
-  * 2 momentary switches.
-  * At least 5 ft of 3-wire cable.
-  * A small project box
-  * A 2.5 mm male stereo audio plug
+* 2 momentary switches.
+* At least 5 ft of 3-wire cable.
+* A small project box
+* A 2.5 mm male stereo audio plug
 
 ### Switches
 
@@ -84,10 +84,10 @@ This project is really cheap and can be completed with less than 10$.
 
 Here is the detailed price of each items:
 
-  * 4.00$ - Switches
-  * 1.25$ - Cable
-  * 1.00$ - Project box
-  * 2.00$ - Audio plug
+* 4.00$ - Switches
+* 1.25$ - Cable
+* 1.00$ - Project box
+* 2.00$ - Audio plug
 
 Total cost: $**8.25**
 

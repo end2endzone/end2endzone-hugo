@@ -52,9 +52,9 @@ This plane is really popular. Eventually, if you decide to go into this hobby, y
 
 You can also order multiple add-ons for the plane to enjoy a little more of the Super Cub. You can order online (or from your local hobby shop) for a relatively cheap price the following add-ons:
 
-  * Snow skis to fly the plane during winter.
-  * Float set for takeoff and landing on a lake.
-  * Drop module.
+* Snow skis to fly the plane during winter.
+* Float set for takeoff and landing on a lake.
+* Drop module.
 
 # Cons
 

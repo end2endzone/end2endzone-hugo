@@ -62,12 +62,12 @@ The project should compile properly without errors or unresolved extensions allo
 
 For unit testing the library, the following environment variables must be defined:
 
-  * GTEST_INCLUDE
-  * GTEST\_LIBRARY\_DIR
-  * GTEST\_LIBRARY\_X86_DEBUG
-  * GTEST\_LIBRARY\_X86_RELEASE
-  * GTEST\_LIBRARY\_X64_DEBUG
-  * GTEST\_LIBRARY\_X64_RELEASE
+* GTEST_INCLUDE
+* GTEST\_LIBRARY\_DIR
+* GTEST\_LIBRARY\_X86_DEBUG
+* GTEST\_LIBRARY\_X86_RELEASE
+* GTEST\_LIBRARY\_X64_DEBUG
+* GTEST\_LIBRARY\_X64_RELEASE
 
 # License
 

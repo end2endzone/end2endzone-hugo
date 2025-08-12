@@ -40,10 +40,10 @@ Skip to the [download section](#Download) for quick download.
 
 The following section list the features of **_csvplot_** script:
 
-  * Supports lossless PNG image format.
-  * Supports CSV data file format which is a generic text file format supported by any application and programming language.
-  * The script supports virtually an unlimited number of time series plots.
-  * Automatically detect appropriate boundaries for the graph
+* Supports lossless PNG image format.
+* Supports CSV data file format which is a generic text file format supported by any application and programming language.
+* The script supports virtually an unlimited number of time series plots.
+* Automatically detect appropriate boundaries for the graph
 
 # Limitations
 

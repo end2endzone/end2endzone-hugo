@@ -195,10 +195,10 @@ Now that VirtualDub is ready to server frames to the next application, you need 
 ## Workspace
 Your workspace should contains 4 files: 
 
-  * The original MPEG2 recording file (*.mpg)
-  * The AviSynth Script file (*.avs)
-  * The VirtualDub AVIFile signpost file (*.vdr)
-  * The VirtualDub editing backup file (*.vdscript)
+* The original MPEG2 recording file (*.mpg)
+* The AviSynth Script file (*.avs)
+* The VirtualDub AVIFile signpost file (*.vdr)
+* The VirtualDub editing backup file (*.vdscript)
 
 [![Remove ADS From TV Recording Workspace](/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png)](/wp-content/uploads/2015/11/Remove-ADS-From-TV-Recording-Workspace.png)
 

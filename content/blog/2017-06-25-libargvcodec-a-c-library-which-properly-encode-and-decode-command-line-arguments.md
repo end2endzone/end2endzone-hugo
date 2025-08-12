@@ -44,14 +44,14 @@ Transferring local variable values to another application through command line a
 
 Here is a list of all library features:
 
-  * Supports `int argc, char* argv[]` argument parsing.
-  * Supports case sensitive and case insensitive searches within lists of arguments.
-  * Quickly identify unknown arguments.
-  * Supports any type of argument prefixes like: slashes, single dash,  double dash, etc.
-  * Encodes multiple single arguments into a full command line.
-  * Decodes a command line into individual arguments.
+* Supports `int argc, char* argv[]` argument parsing.
+* Supports case sensitive and case insensitive searches within lists of arguments.
+* Quickly identify unknown arguments.
+* Supports any type of argument prefixes like: slashes, single dash,  double dash, etc.
+* Encodes multiple single arguments into a full command line.
+* Decodes a command line into individual arguments.
 * Supports both Windows shell (command prompt) and Windows [CreateProcess()](http://msdn.microsoft.com/en-us/library/windows/desktop/ms682425(v=vs.85).aspx) encoding/decoding.
-  * Bulletproof application againts command line injection attacks.
+* Bulletproof application againts command line injection attacks.
 
 # Usage
 

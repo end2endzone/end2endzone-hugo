@@ -21,12 +21,12 @@ extTools is a fast and innovative FREEWARE (for non-commercial use) software sui
 
 It's main features are:
 
-  * Advanced clipboard support (copy, append or modify).
-  * File operation queuing (batch copy or paste).
-  * Better & quicker file deletions.
-  * Powerful file renaming algorithms.
-  * XP like search tool (simple search tool).
-  * Extends Windows File Explorer by registering as a Shell Extension.
+* Advanced clipboard support (copy, append or modify).
+* File operation queuing (batch copy or paste).
+* Better & quicker file deletions.
+* Powerful file renaming algorithms.
+* XP like search tool (simple search tool).
+* Extends Windows File Explorer by registering as a Shell Extension.
 
 extTools allows its users to execute tasks that are not available in a default Windows environment. extTools is also designed to replace existing task that are badly designed, annoying to execute or simply missing.
 # Download
@@ -80,10 +80,10 @@ extFileRenamer is a powerful file renaming manager. This application can rename 
 
 extFileRenamer has the following features:
 
-  * Allows you to rename files using a pattern or with a "search & replace" through the file names.
-  * Manually select target files to rename.
-  * Live preview of renamed files.
-  * Automatic detection of renaming conflict (before renaming files!)
+* Allows you to rename files using a pattern or with a "search & replace" through the file names.
+* Manually select target files to rename.
+* Live preview of renamed files.
+* Automatic detection of renaming conflict (before renaming files!)
 
 Here is some typical pattern scenarios where extFileRenaming shines!
 
@@ -141,11 +141,11 @@ extSearch is a file search application. It's design is identical to Windows XP's
 
 extSearch allows searching for a file using multiple criteria:
 
-  * File name or file extension using wildcard characters such as _*****_ or _**?**_
-  * Search for a specific word or phrase in a file (matching case or not).
-  * Searches sub-folders or not.
-  * Searches files based on its last modification date.
-  * Searches files based on its size.
+* File name or file extension using wildcard characters such as _*****_ or _**?**_
+* Search for a specific word or phrase in a file (matching case or not).
+* Searches sub-folders or not.
+* Searches files based on its last modification date.
+* Searches files based on its size.
 
 ## Clipboard management
 
@@ -155,11 +155,11 @@ All features of extTools are available through a shell explorer add-on. A nice f
 
 extTools screenshot (clipboard)
 
-  * Copy Full Path
-  * Copy File name only
-  * Copy Folder only
-  * Append to Copy
-  * Append to Cut
+* Copy Full Path
+* Copy File name only
+* Copy Folder only
+* Append to Copy
+* Append to Cut
 
 ## extBatchFileProcessor
 
@@ -295,9 +295,9 @@ A file hash is the result of a [file verification](http://en.wikipedia.org/wiki/
 
 extHashCalculator supports the following hash algorithms:
 
-  * CRC32
-  * MD5
-  * SHA1
+* CRC32
+* MD5
+* SHA1
 
 ## extGuid
 
@@ -345,19 +345,19 @@ extAnsiPrinter a command prompt only application (no GUI). It is an implementati
 
 extTools is only available for the following Windows platform:
 
-  * Windows XP
-  * Windows Vista
-  * Windows 7
+* Windows XP
+* Windows Vista
+* Windows 7
 
 extTools is still untested with Windows 8. If you do install it on Windows 8, [please tell me!](/contact/)
 
 # Minimum system requirements
 
-  * 100% PC compatible
-  * Pentium II, 300 mhz
-  * 256 Mb RAM
-  * 30 Mb free disk space
-  * Administrator rights (for installation)
+* 100% PC compatible
+* Pentium II, 300 mhz
+* 256 Mb RAM
+* 30 Mb free disk space
+* Administrator rights (for installation)
 
 # History of changes
 

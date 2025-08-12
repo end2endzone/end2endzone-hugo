@@ -27,11 +27,11 @@ Following the birth of a child and after the celebration is all the stuff you ha
 
 I looked at several models and I have not found a model that can suit my needs and my situation. I needed a baby gate that can:
 
-  * Cover a length of at least 52 inches.
-  * Operate at an angle of 41.9 degrees.
-  * Attachable to a wall and a stair railing.
-  * Non-intrusive (it should not leave any mark on the ramp once removed).
-  * Strong enough to withstand a child jumping on it.
+* Cover a length of at least 52 inches.
+* Operate at an angle of 41.9 degrees.
+* Attachable to a wall and a stair railing.
+* Non-intrusive (it should not leave any mark on the ramp once removed).
+* Strong enough to withstand a child jumping on it.
 
 Unfortunately, the area to be protected is very large and I have not managed to find a gate that is long enough and solid to block the access to the stairs. This is how I started this project: ​​build my own baby gate.
 
@@ -41,12 +41,12 @@ Unfortunately, the area to be protected is very large and I have not managed to 
 
 The material for this project is as follows:
 
-  * 5 strips 2x2x8' for the posts.
-  * 2 strips of 1x5½x8' for up and down rows.
-  * 1 strips of 2x4x40" for attachment to the boom.
-  * Dyeing
-  * Hinges
-  * Latch
+* 5 strips 2x2x8' for the posts.
+* 2 strips of 1x5½x8' for up and down rows.
+* 1 strips of 2x4x40" for attachment to the boom.
+* Dyeing
+* Hinges
+* Latch
 
 ## Total cost of the project
 

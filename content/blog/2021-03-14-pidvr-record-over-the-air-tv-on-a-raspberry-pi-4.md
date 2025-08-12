@@ -22,19 +22,19 @@ The following project explains how I used a Raspberry Pi 4 to create a personal 
 
 This project requires the following hardware:
 
-  * Raspberry Pi 4 (with the required parts) 
-      * 4GB of ram
-      * A 16GB SD card
-      * A micro HDMI cable
-      * Monitor with HDMI input
-      * A 15.3W USB-C Power Supply (3A @ 5v power supply)
-      * Raspberry Pi 4 case. Preferably a passive cooling case for noise consideration.  
+* Raspberry Pi 4 (with the required parts) 
+    * 4GB of ram
+    * A 16GB SD card
+    * A micro HDMI cable
+    * Monitor with HDMI input
+    * A 15.3W USB-C Power Supply (3A @ 5v power supply)
+    * Raspberry Pi 4 case. Preferably a passive cooling case for noise consideration.  
         I used the [Argon One](https://www.argon40.com/argon-one-raspberry-pi-4-case.html) case.
-  * An HDHomeRun Dual tuner from [Silicondust](https://www.silicondust.com/). The oldest model will do. For this build, I used the [_HDHR3-US_](https://www.google.com/search?q=HDHR3-US&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjquKyuvsbuAhWkrFkKHXbmCLMQ_AUoA3oECAEQBQ&amp;biw=1920&amp;bih=927) which dates back to 2012-2013.
-  * An over-the-air tv antenna for ATSC signals. For this build I use the [Clearstream 4](https://www.google.com/search?q=Antennas+Direct+Clearstream+4+antenna) antenna by Antennas Direct.
-  * 50ft to 100ft Coaxial Cable, 18AWG, 75 Ohm to connect the antenna to the HDHomeRun.
-  * External Solid State Drive (SSD) with about 500Gb in size.
-  * USB 3.0 to SATA Converter Adapter - Look for one that has UASP support.
+* An HDHomeRun Dual tuner from [Silicondust](https://www.silicondust.com/). The oldest model will do. For this build, I used the [_HDHR3-US_](https://www.google.com/search?q=HDHR3-US&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjquKyuvsbuAhWkrFkKHXbmCLMQ_AUoA3oECAEQBQ&amp;biw=1920&amp;bih=927) which dates back to 2012-2013.
+* An over-the-air tv antenna for ATSC signals. For this build I use the [Clearstream 4](https://www.google.com/search?q=Antennas+Direct+Clearstream+4+antenna) antenna by Antennas Direct.
+* 50ft to 100ft Coaxial Cable, 18AWG, 75 Ohm to connect the antenna to the HDHomeRun.
+* External Solid State Drive (SSD) with about 500Gb in size.
+* USB 3.0 to SATA Converter Adapter - Look for one that has UASP support.
 
 # Software list
 
@@ -179,12 +179,12 @@ In summary, run the following commands in a terminal:
 
 The following list of programs can be installed manually in the terminal:
 
-  * [hdparm](https://en.wikipedia.org/wiki/Hdparm), to perform read and write performance tests
-  * [GNOME Disks](https://en.wikipedia.org/wiki/GNOME_Disks), to get information about disks and partitions
-  * [GNOME Partition Editor](https://en.wikipedia.org/wiki/GParted) (gparted), to resize and format partions.
-  * [GSmartControl](https://gsmartcontrol.sourceforge.io/home/), to get SMART information about our disks.
-  * [QDirStat](https://github.com/shundhammer/qdirstat), to calculate disk usage per directories.
-  * [7-zip](https://www.7-zip.org/), to add support for *.7z archives in [Archiver](https://magpi.raspberrypi.org/articles/unzip-and-uncompress-files-on-a-raspberry-pi) software.
+* [hdparm](https://en.wikipedia.org/wiki/Hdparm), to perform read and write performance tests
+* [GNOME Disks](https://en.wikipedia.org/wiki/GNOME_Disks), to get information about disks and partitions
+* [GNOME Partition Editor](https://en.wikipedia.org/wiki/GParted) (gparted), to resize and format partions.
+* [GSmartControl](https://gsmartcontrol.sourceforge.io/home/), to get SMART information about our disks.
+* [QDirStat](https://github.com/shundhammer/qdirstat), to calculate disk usage per directories.
+* [7-zip](https://www.7-zip.org/), to add support for *.7z archives in [Archiver](https://magpi.raspberrypi.org/articles/unzip-and-uncompress-files-on-a-raspberry-pi) software.
 
 The following instructions can install all software mentioned above:
 
@@ -199,9 +199,9 @@ As discussed above, we want tv recordings to be stored on the SSD in the **pidvr
 
 In directory **/media/pi/pidvr**, create the following directories:
 
-  * **backup**, for storing backup images of the raspberry pi os
-  * **recordings**, for storing our recordings, obviously
-  * **shared**, for creating a Windows shared directory for easily transferring files from/to the raspberry pi. See next section below.
+* **backup**, for storing backup images of the raspberry pi os
+* **recordings**, for storing our recordings, obviously
+* **shared**, for creating a Windows shared directory for easily transferring files from/to the raspberry pi. See next section below.
 
 By default, these directories will only be writable (or accessible) for the **pi** user on the Raspberry Pi. This is a problem for our build since tvheadend run as **hts** user and _hts_ user won't have access by default to our **recordings** directory. To allow anyone to have read and write access to these directories, enter the following command in a terminal:
 
@@ -290,8 +290,8 @@ tvheadend - welcome page (1 or 2)
 
 Enter the following values:
 
-  * English
-  * French
+* English
+* French
 
 Click **Save & Next** to get to the next page.
 
@@ -453,10 +453,10 @@ If you did not mapped all services as channels during first configuration, now i
 
 For Montreal area, here is the list of French channels:
 
-  * Radio-Canada CBFT-DT
-  * TVA CFTM-DT
-  * Noovo CFJP-DT
-  * Télé-Québec CJNT
+* Radio-Canada CBFT-DT
+* TVA CFTM-DT
+* Noovo CFJP-DT
+* Télé-Québec CJNT
 
   1. Go to _Configuration_, _DVB Inputs_, _Services_ tab.
   2. Select all available services: click on the first service and press _CTRL+A_.
@@ -480,10 +480,10 @@ This is for changing the name of the channels from CBFT (or something) to the ac
 
 For example:
 
-  * Radio-Canada - CBFT-DT
-  * TVA - CFTM-DT
-  * Noovo - CFJP-DT
-  * Télé-Québec - CJNT
+* Radio-Canada - CBFT-DT
+* TVA - CFTM-DT
+* Noovo - CFJP-DT
+* Télé-Québec - CJNT
 
 ### UTF-8 characters in Electronic Program Guide (EPG) - bug
 

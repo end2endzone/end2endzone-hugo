@@ -31,15 +31,15 @@ Building a solution that has multiple projects can quickly become bloated with t
 
 It's main features are:
 
-  * Supports both msbuild and Visual Studio 2008 (and over) build logs.
-  * Useful for [Continuous Integration (CI)](http://en.wikipedia.org/wiki/Continuous_integration) servers (build servers).
-  * Allows quicker identification of the project that caused an error.
-  * Command line support.
+* Supports both msbuild and Visual Studio 2008 (and over) build logs.
+* Useful for [Continuous Integration (CI)](http://en.wikipedia.org/wiki/Continuous_integration) servers (build servers).
+* Allows quicker identification of the project that caused an error.
+* Command line support.
 
 **Usage:<br /> **msbuildreorder [input file]&nbsp;[output file]
 
-  * **input file**: Path to the input build log file to reorder.
-  * **output file**: Path of the output reordered build log file.
+* **input file**: Path to the input build log file to reorder.
+* **output file**: Path of the output reordered build log file.
 
 # Screenshot
 
@@ -70,16 +70,16 @@ Reordered build log:
 
 MSBuildReorder is only available for the Windows platform and has been tested with the following version of Windows:
 
-  * Windows XP
-  * Windows Vista
-  * Windows 7
+* Windows XP
+* Windows Vista
+* Windows 7
 
 # Minimum system requirements
 
-  * 100% PC compatible
-  * Pentium II, 300 mhz
-  * 256 Mb RAM
-  * 5 Mb free disk space
+* 100% PC compatible
+* Pentium II, 300 mhz
+* 256 Mb RAM
+* 5 Mb free disk space
 
 # License
 

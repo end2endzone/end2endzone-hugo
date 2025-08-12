@@ -66,9 +66,9 @@ The following section shows example of using libRtttl gui to convert arduino cod
 
 Source code:
 
-  * Youtube:&nbsp;<http://www.youtube.com/watch?v=vrzQU_QbQ5U>
-  * Code from pastebin:&nbsp;<http://pastebin.com/q76D0asp>
-  * Cache version here:&nbsp;[FULL Game of Thrones Theme Song on Arduino](/wp-content/uploads/2016/05/FULL-Game-of-Thrones-Theme-Song-on-Arduino.ino)
+* Youtube:&nbsp;<http://www.youtube.com/watch?v=vrzQU_QbQ5U>
+* Code from pastebin:&nbsp;<http://pastebin.com/q76D0asp>
+* Cache version here:&nbsp;[FULL Game of Thrones Theme Song on Arduino](/wp-content/uploads/2016/05/FULL-Game-of-Thrones-Theme-Song-on-Arduino.ino)
 
 Modify the code by adding the _"Arduino tone and delay functions overrides"_ to the code. Once done, the code should be looking like this:
 
@@ -97,9 +97,9 @@ or the following (by enabling unofficial BPM values) which help have accurate de
 
 Source code:
 
-  * Instructables: <http://www.instructables.com/id/How-to-easily-play-music-with-buzzer-on-arduino-Th/>
-  * Code from pasted: <http://pasted.co/e525c1b2>
-  * Cache version here:&nbsp;[Star_Wars_-_The_imperial_March](/wp-content/uploads/2016/05/Star_Wars_-_The_imperial_March.ino)
+* Instructables: <http://www.instructables.com/id/How-to-easily-play-music-with-buzzer-on-arduino-Th/>
+* Code from pasted: <http://pasted.co/e525c1b2>
+* Cache version here:&nbsp;[Star_Wars_-_The_imperial_March](/wp-content/uploads/2016/05/Star_Wars_-_The_imperial_March.ino)
 
 Modify the code by adding the "_Arduino tone and delay functions overrides_" to the code. Once done, the code should be looking like this:
 
@@ -128,9 +128,9 @@ or the following (by enabling unofficial BPM values) which help have accurate de
 
 Source code:
 
-  * GitHub: <https://github.com/tsukisan/Arduino/blob/master/WiiClassicSoundboard/WiiClassicSoundboard.ino>
-  * Code from GitHub: <https://raw.githubusercontent.com/tsukisan/Arduino/master/WiiClassicSoundboard/WiiClassicSoundboard.ino>
-  * Cache version here:&nbsp;[WiiClassicSoundboard - Super Mario Bros. themes](/wp-content/uploads/2016/11/WiiClassicSoundboard.ino)
+* GitHub: <https://github.com/tsukisan/Arduino/blob/master/WiiClassicSoundboard/WiiClassicSoundboard.ino>
+* Code from GitHub: <https://raw.githubusercontent.com/tsukisan/Arduino/master/WiiClassicSoundboard/WiiClassicSoundboard.ino>
+* Cache version here:&nbsp;[WiiClassicSoundboard - Super Mario Bros. themes](/wp-content/uploads/2016/11/WiiClassicSoundboard.ino)
 
 Modify the code by adding the "_Arduino tone and delay functions overrides_" to the code. Once done, the code should be looking like this:
 

@@ -892,9 +892,9 @@ For extracting the data, I assumed that moving _**any**_&nbsp;sticks to the top,
 
 The two tables above shows two polynomial functions (see highlighted columns) that offers the best performance:
 
-  * Function #7 (which has an order of 2) and a sum of 6.3.
-  * Function #8 (which has an order of 2) and a sum of 7.21.
-  * All polynomial function which has an order of 1 shows terrible prediction performance.
+* Function #7 (which has an order of 2) and a sum of 6.3.
+* Function #8 (which has an order of 2) and a sum of 7.21.
+* All polynomial function which has an order of 1 shows terrible prediction performance.
 
 {{< pleasenote >}}
   Note that best function for channel 1 (function #7) shows terrible results when used in calculations of channel 2. That is also for function 8. This means that there is no generic function that can be used for all channel situations. As a proof, function #6 which is based on all observed values for all channels shows terrible results.

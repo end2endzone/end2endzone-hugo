@@ -30,14 +30,14 @@ It has been a long time since I wanted to get more light available under the kit
 
 LED strips are an alternative to fluorescent, halogen or xenon lights. LED are becoming more and more popular and are super easy to install and adapt to many situations. Some LED strips can be used outside too but that is for another post! They provide the following benefits in a kitchen:
 
-  * Cheap!
-  * Give a proper lighting.
-  * Can be dimmed to low levels.
-  * Available in multiple colors like warm white or cold/cool white.
-  * Do not produce any heat (almost).
-  * Do not burn or has a much longer life time than normal lights.
-  * Operates at 12 volts. No need for wall AC current which could lead to accidents.
-  * Use less electricity (much fewer current than alternative lighting options).
+* Cheap!
+* Give a proper lighting.
+* Can be dimmed to low levels.
+* Available in multiple colors like warm white or cold/cool white.
+* Do not produce any heat (almost).
+* Do not burn or has a much longer life time than normal lights.
+* Operates at 12 volts. No need for wall AC current which could lead to accidents.
+* Use less electricity (much fewer current than alternative lighting options).
 
 In this post, I will explain how I installed in my kitchen a custom under cabinet LED lighting solution. 
 
@@ -52,19 +52,19 @@ In this post, I will explain how I installed in my kitchen a custom under cabine
 
 The material for this project is as follows:
 
-  * A 5 meters LED strip.
-  * 2 pin Connector Wire Cable For 3528 Single Color LED Strips (5 times)
-  * A 36 Watts (12 volts, 3 amps) power supply.
-  * A 3 pins wall outlet power cord.
-  * A LED dimmer module.
-  * A wall switch.
-  * 2-3 meters of colored (red & black) wire.
-  * Double sided tape
-  * Sticker gum
-  * A multimeter (for testing connections and power output)
-  * Screws
-  * A Phillips screwdriver
-  * Flexible measuring tape
+* A 5 meters LED strip.
+* 2 pin Connector Wire Cable For 3528 Single Color LED Strips (5 times)
+* A 36 Watts (12 volts, 3 amps) power supply.
+* A 3 pins wall outlet power cord.
+* A LED dimmer module.
+* A wall switch.
+* 2-3 meters of colored (red & black) wire.
+* Double sided tape
+* Sticker gum
+* A multimeter (for testing connections and power output)
+* Screws
+* A Phillips screwdriver
+* Flexible measuring tape
 
 ### Power supply
 
@@ -95,14 +95,14 @@ As I said before, this project can be completed at a pretty cheap price. The tot
 
 Here is the detailed price of each items:
 
-  * $8.13 - LED strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/LED-strip.png).
-  * $2.29 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/Connectors.png).
-  * $7.15 -&nbsp;36 Watts power supply from ebay. See [screenshot here](/wp-content/uploads/2014/08/Power-supply.png).
-  * $0.00 -&nbsp;Power cord. (I had one lying around. I usually salvage all of them when recycling old appliance.
-  * $6.02 -&nbsp;LED dimmer from ebay. See [screenshot here](/wp-content/uploads/2014/08/Dimmer.png).
-  * $1.25 - Power switch from the hardware store.
-  * $2.00 - Colored wire (I used gauge 18awg) from dollar store
-  * $1.00 - Double sided tape
+* $8.13 - LED strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/LED-strip.png).
+* $2.29 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/Connectors.png).
+* $7.15 -&nbsp;36 Watts power supply from ebay. See [screenshot here](/wp-content/uploads/2014/08/Power-supply.png).
+* $0.00 -&nbsp;Power cord. (I had one lying around. I usually salvage all of them when recycling old appliance.
+* $6.02 -&nbsp;LED dimmer from ebay. See [screenshot here](/wp-content/uploads/2014/08/Dimmer.png).
+* $1.25 - Power switch from the hardware store.
+* $2.00 - Colored wire (I used gauge 18awg) from dollar store
+* $1.00 - Double sided tape
 
 Total cost: $**27.84**
 
