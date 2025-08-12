@@ -21,10 +21,11 @@ tags:
   - multilingual
 
 ---
+# Introduction
 
-# Introduction 
+Following the birth of a child and after the celebration is all the stuff you have to buy to protect the house of "potential dangers". Quickly, you realize that you need to buy a baby gate.
 
-Following the birth of a child and after the celebration is all the stuff you have to buy to protect the house of "potential dangers". Quickly, you realize that you need to buy a baby gate. I looked at several models and I have not found a model that can suit my needs and my situation. I needed a baby gate that can:
+I looked at several models and I have not found a model that can suit my needs and my situation. I needed a baby gate that can:
 
 * Cover a length of at least 52 inches.
 * Operate at an angle of 41.9 degrees.
@@ -61,7 +62,9 @@ Construction steps are very simple. Just cut and assemble.
 
 ## Cutting and Sanding
 
-The easiest to begin with is to start with the posts. A total of 11 posts are needed. One of them will be use to attach the gate to the wall and a second one that ends flush with the gate to lock with the ramp. You need to cut 11 bars of 2x2 each one with a length of 35¾ inches. The first post of the gate is special. It should be cut in an angle of 45 degrees but too much to make a triangle, but rather to 5 sides figure. Both pieces must of the same length: the 45 degrees one and the wall mount. The purpose is to facilitate the attachment step in the wall assembly.
+The easiest to begin with is to start with the posts. A total of 11 posts are needed. One of them will be use to attach the gate to the wall and a second one that ends flush with the gate to lock with the ramp. You need to cut 11 bars of 2x2 each one with a length of 35¾ inches.
+
+The first post of the gate is special. It should be cut in an angle of 45 degrees but too much to make a triangle, but rather to 5 sides figure. Both pieces must of the same length: the 45 degrees one and the wall mount. The purpose is to facilitate the attachment step in the wall assembly.
 
 The following picture explains it better:
 
@@ -83,7 +86,9 @@ There is nothing special to say to assemble the posts. Each one is screwed to th
 
 ### Fixing the ramp
 
-The innovation of this baby gate is related to the means used for fixing to the rail. This solution is not intrusive and does not leave a mark on the ramp when the barrier will no longer be necessary. No attachments or adhesive is required and the whole is as strong as the ramp. The ramp is composed of two vertical bars on each side of the horizontal rail.
+The innovation of this baby gate is related to the means used for fixing to the rail. This solution is not intrusive and does not leave a mark on the ramp when the barrier will no longer be necessary. No attachments or adhesive is required and the whole is as strong as the ramp.
+
+The ramp is composed of two vertical bars on each side of the horizontal rail.
 
 [![IMG_9308](/wp-content/uploads/2014/07/IMG_9308-200x300.jpg)](/wp-content/uploads/2014/07/IMG_9308.jpg)
 
@@ -121,7 +126,9 @@ I was not convinced of the feasibility of the barrier when I started this projec
 
 [![DSC02216](/wp-content/uploads/2014/07/DSC02216-300x225.jpg)](/wp-content/uploads/2014/07/DSC02216.jpg)
 
-It would have been normal to dye the wood before assembly to avoid areas that are not accessible or impossible to dye. Dying the wood each piece at a time would have been more uniform and would have avoided drops everywhere. However, these details are not visible to more than 3 meters from the barrier.
+It would have been normal to dye the wood before assembly to avoid areas that are not accessible or impossible to dye.
+
+Dying the wood each piece at a time would have been more uniform and would have avoided drops everywhere. However, these details are not visible to more than 3 meters from the barrier.
 
 ## Search for a finished product
 
