@@ -23,7 +23,7 @@ This guide is a follow up to the post called [How to remove ads from HDHomeRun r
 
 # What's the trick ?
 
-The trick is to use VirtualDub's frame server ability and other software to create a virtual file instead of an intermediate file as [my old guide](https://www.end2endzone.com/how-to-remove-ads-from-hdhomerun-recordings-and-still-encode-with-handbrake/) suggests. This option is much faster (takes 1 minute instead of hours) and uses much less disk space (2 KB instead of 8 GB) since there is no intermediate file to encode. VirtualDub is still required to cut ads as you would normally do. The process is also lossless (it does not add any quality degradation). Once the virtual file is generated (mounted), use Handbrake to encode the final video for best results.
+The trick is to use VirtualDub's frame server ability and other software to create a virtual file instead of an intermediate file as [my old guide]({{< relref "blog/2015-10-04-how-to-remove-ads-from-hdhomerun-recordings-and-still-encode-with-handbrake.md" >}}) suggests. This option is much faster (takes 1 minute instead of hours) and uses much less disk space (2 KB instead of 8 GB) since there is no intermediate file to encode. VirtualDub is still required to cut ads as you would normally do. The process is also lossless (it does not add any quality degradation). Once the virtual file is generated (mounted), use Handbrake to encode the final video for best results.
 
 # Download &amp; Install required software
 

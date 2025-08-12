@@ -1,4 +1,6 @@
 links to `www.end2endzone.com`
 	https://www.end2endzone.com/wp-content
+	{{< relref "blog/*" >}}
+	regex: end2endzone\.com\/(?!wp-content|\?p=)\S*
 images from `www.end2endzone.com`
 Check if relative links must be `/static/wp-content/...` or `/wp-content/...`

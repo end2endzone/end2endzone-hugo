@@ -185,9 +185,9 @@ The code on the arduino requires multiple external arduino libraries. The follow
 
 | Name | Version | Usage |
 |---|---|---|
-| [SoftTimers](https://www.end2endzone.com/softtimers-a-collection-of-software-timers-to-easily-compute-elapsed-time-since-an-event-occured/) <sup>5</sup> | v1.1.219 | Required for all computation and handling of the LED's ON and OFF times. |
-| [RcReceiverSignal](https://www.end2endzone.com/rcreceiversignal-an-arduino-library-for-retreiving-the-rc-transmitter-value-from-an-rc-receiver-pulse/) <sup>8</sup> | v1.2.203 | Required to read PWM signals sent from the RC Receiver. |
-| [AnyRtttl](https://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) <sup>7</sup> | v2.1 | Required to play RTTTL melodies data. |
+| [SoftTimers]({{< relref "blog/2016-06-10-softtimers-a-collection-of-software-timers-to-easily-compute-elapsed-time-since-an-event-occured.md" >}}) <sup>5</sup> | v1.1.219 | Required for all computation and handling of the LED's ON and OFF times. |
+| [RcReceiverSignal]({{< relref "blog/2016-03-30-rcreceiversignal-an-arduino-library-for-retreiving-the-rc-transmitter-value-from-an-rc-receiver-pulse.md" >}}) <sup>8</sup> | v1.2.203 | Required to read PWM signals sent from the RC Receiver. |
+| [AnyRtttl]({{< relref "blog/2016-05-21-anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies.md" >}}) <sup>7</sup> | v2.1 | Required to play RTTTL melodies data. |
 | [PinChangeInt](http://github.com/GreyGnome/PinChangeInt) | version 2402 | RcReceiverSignal library has a dependency to PinChangeInt library. |
 | [eRCaGuy Timer2 Counter](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html) | version 20140709 (last updated 9 July 2014) | Required to have a micros() replacement function which has a 1µs resolution instead of 4µs. |
 
@@ -295,17 +295,17 @@ For maintainability, portability and reusability reasons, it might be interestin
 
 Here is the list of all sub-articles that made this project a reality: Documentation:
 
-1. [How to multiplex RC Transmitter switches into a single channel](https://www.end2endzone.com/how-to-multiplex-rc-transmitter-switches-into-a-single-channel/).
-2. [Mapping RC Transmitter PWM signal to actual transmitter values](https://www.end2endzone.com/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/).
-3. [Demystifying RC Transmitter Mixing](https://www.end2endzone.com/demystifying-rc-transmitter-mixing/).
-4. [RC Transmitter Mix Calculator](https://www.end2endzone.com/rc-transmitter-mix-calculator/).
+1. [How to multiplex RC Transmitter switches into a single channel]({{< relref "blog/2016-03-30-how-to-multiplex-rc-transmitter-switches-into-a-single-channel.md" >}}).
+2. [Mapping RC Transmitter PWM signal to actual transmitter values]({{< relref "blog/2016-03-26-mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values.md" >}}).
+3. [Demystifying RC Transmitter Mixing]({{< relref "blog/2016-01-28-demystifying-rc-transmitter-mixing.md" >}}).
+4. [RC Transmitter Mix Calculator]({{< relref "blog/2016-01-28-rc-transmitter-mix-calculator.md" >}}).
 
 Arduino libraries:
 
-1. [SoftTimers – A collection of software timers to easily compute elapsed time since an event occurred](https://www.end2endzone.com/softtimers-a-collection-of-software-timers-to-easily-compute-elapsed-time-since-an-event-occured/).
-2. [libRtttl – A c++ library (with UI) for compressing/optimizing the RTTTL audio format](https://www.end2endzone.com/librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/).
-3. [AnyRtttl – A feature rich arduino library for playing RTTTL melodies](https://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/).
-4. [RcReceiverSignal: an arduino library for retrieving the RC Transmitter value from an RC Receiver pulse](https://www.end2endzone.com/rcreceiversignal-an-arduino-library-for-retreiving-the-rc-transmitter-value-from-an-rc-receiver-pulse/).
+1. [SoftTimers – A collection of software timers to easily compute elapsed time since an event occurred]({{< relref "blog/2016-06-10-softtimers-a-collection-of-software-timers-to-easily-compute-elapsed-time-since-an-event-occured.md" >}}).
+2. [libRtttl – A c++ library (with UI) for compressing/optimizing the RTTTL audio format]({{< relref "blog/2016-05-28-librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format.md" >}}).
+3. [AnyRtttl – A feature rich arduino library for playing RTTTL melodies]({{< relref "blog/2016-05-21-anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies.md" >}}).
+4. [RcReceiverSignal: an arduino library for retrieving the RC Transmitter value from an RC Receiver pulse]({{< relref "blog/2016-03-30-rcreceiversignal-an-arduino-library-for-retreiving-the-rc-transmitter-value-from-an-rc-receiver-pulse.md" >}}).
 
 # Notes
 

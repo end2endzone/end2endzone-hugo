@@ -22,7 +22,7 @@ J'ai fait l’acquisition de mon premier quadrirotor. Puisque je préfère de lo
 
 Il s'agit d'une version clone du F450 de DJI. Je l'utilise depuis plus de 2 ans et je dois dire que j'ai beaucoup de plaisir à le voler. L'assemblage du quadrirotor s'effectue sur 2 jours. Comme dans tous les projets, on n'est jamais suffisamment préparé. Forcément, lors de ma première journée... "Il me manque des connecteurs pour les moteurs. On remballe le tout! C'est terminé pour aujourd'hui..."
 
-À titre d'information, il s'agit du quadrirotor sur lequel[ j'ai ajouté un LED ultra-puissant et une alarme](/diy-lost-plane-alarm-finder-and-10-watts-led-visual-aids-for-easy-orientation/) afin de pouvoir le retrouver en cas de crash inattendu. Consulter [ces autres articles](/tag/time-lapse/) pour d'autres vidéos time lapse. Tutoriels sur comment faire ces propres vidéos time lapse avec des logiciels gratuit disponible à l'adresse: <https://www.end2endzone.com/how-to-make-a-time-lapse-video-with-free-tools-and-a-dslr-camera/>.
+À titre d'information, il s'agit du quadrirotor sur lequel[ j'ai ajouté un LED ultra-puissant et une alarme](/diy-lost-plane-alarm-finder-and-10-watts-led-visual-aids-for-easy-orientation/) afin de pouvoir le retrouver en cas de crash inattendu. Consulter [ces autres articles](/tag/time-lapse/) pour d'autres vidéos time lapse. Tutoriels sur comment faire ces propres vidéos time lapse avec des logiciels gratuit disponible à l'adresse: [How to make a time-lapse video with free tools and a DSLR camera]({{< relref "blog/2015-03-15-how-to-make-a-time-lapse-video-with-free-tools-and-a-dslr-camera.md" >}}).
 
 # Time Lapse
 

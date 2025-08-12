@@ -24,7 +24,12 @@ tags:
 
 # Introduction
 
-The following article is about another library that I have written: libRtttl is a c++ library for manipulating the RTTTL audio format. Skip to the [download section](#Download) for quick download. See this post for a [quick recall of the RTTTL format](/nonblockingrtttl-a-non-blocking-arduino-library-for-playing-rtttl-melodies/#Quick_recall_of_the_RTTTL_format). Edit: for a better understanding and examples of what libRTTTL can do, please see this post: **[How to convert arduino code to actual RTTTL melodies using libRtttl and AnyRtttl](https://www.end2endzone.com/how-to-convert-arduino-code-to-actual-rtttl-melodies-using-librtttl-and-anyrtttl/).**
+The following article is about another library that I have written: libRtttl is a c++ library for manipulating the RTTTL audio format. Skip to the [download section](#Download) for quick download. See this post for a [quick recall of the RTTTL format](/nonblockingrtttl-a-non-blocking-arduino-library-for-playing-rtttl-melodies/#Quick_recall_of_the_RTTTL_format).
+
+{{< postedit >}}
+Edit: for a better understanding and examples of what libRTTTL can do, please see this post:
+[How to convert arduino code to actual RTTTL melodies using libRtttl and AnyRtttl]({{< relref "blog/2016-12-22-how-to-convert-arduino-code-to-actual-rtttl-melodies-using-librtttl-and-anyrtttl.md" >}}).
+{{< /postedit >}}
 
 # Purpose
 
@@ -177,7 +182,7 @@ void playMario1up(int pin) {
 
 ## RTTTL to Binary (10 bits)
 
-Copy &amp; paste a valid song in RTTTL format in the _Command Input_ section. Press the {{% windows-button3d %}}RTTTL 2 Binary (10 bits){{% /windows-button3d %}} button to decode the input RTTTL song and encode the same melody into a binary RTTTL format where each note is encoded into 10 bits. The bits definition is already documented in section [RTTTL binary format definition](https://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/#Binary_RTTTL_format_definition) of [AnyRtttl library](https://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) post. The [AnyRtttl](/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) library can be used to play the compressed RTTTL data. For example, the RTTTL code for playing *Tetris* theme song:
+Copy &amp; paste a valid song in RTTTL format in the _Command Input_ section. Press the {{% windows-button3d %}}RTTTL 2 Binary (10 bits){{% /windows-button3d %}} button to decode the input RTTTL song and encode the same melody into a binary RTTTL format where each note is encoded into 10 bits. The bits definition is already documented in section [RTTTL binary format definition]({{< relref "blog/2016-05-21-anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies.md" >}}#Binary_RTTTL_format_definition) of [AnyRtttl library]({{< relref "blog/2016-05-21-anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies.md" >}}) post. The [AnyRtttl]({{< relref "blog/2016-05-21-anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies.md" >}}) library can be used to play the compressed RTTTL data. For example, the RTTTL code for playing *Tetris* theme song:
 
 ```
 tetris:d=4,o=5,b=160:e6,8b,8c6,8d6,16e6,16d6,8c6,8b,a,8a,
@@ -193,7 +198,7 @@ which reduces the original code length by 104 bytes (from 159 bytes to 55 bytes)
 
 ## RTTTL to Binary (16 bits)
 
-Copy &amp; paste a valid song in RTTTL format in the _Command Input_ section. Press the {{% windows-button3d %}}RTTTL 2 Binary (16 bits){{% /windows-button3d %}} button to decode the input RTTTL song and encode the same melody into a binary RTTTL format where each note is encoded into 16 bits. The bits definition is already documented in section [RTTTL binary format definition](https://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/#Binary_RTTTL_format_definition) of [AnyRtttl library](https://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) post. The [AnyRtttl](/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) library can be used to play the compressed RTTTL data. For example, the same RTTTL code for playing *Tetris* theme song:
+Copy &amp; paste a valid song in RTTTL format in the _Command Input_ section. Press the {{% windows-button3d %}}RTTTL 2 Binary (16 bits){{% /windows-button3d %}} button to decode the input RTTTL song and encode the same melody into a binary RTTTL format where each note is encoded into 16 bits. The bits definition is already documented in section [RTTTL binary format definition]({{< relref "blog/2016-05-21-anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies.md" >}}#Binary_RTTTL_format_definition) of [AnyRtttl library]({{< relref "blog/2016-05-21-anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies.md" >}}) post. The [AnyRtttl]({{< relref "blog/2016-05-21-anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies.md" >}}) library can be used to play the compressed RTTTL data. For example, the same RTTTL code for playing *Tetris* theme song:
 
 ```
 tetris:d=4,o=5,b=160:e6,8b,8c6,8d6,16e6,16d6,8c6,8b,a,8a,

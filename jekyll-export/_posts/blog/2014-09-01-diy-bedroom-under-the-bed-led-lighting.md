@@ -58,7 +58,7 @@ The material for this project is as follows:
 
 ### Usual equipment
 
-As I have explained before, the equipment is almost identical to the one for my [DIY Kitchen under cabinet LED lighting](https://www.end2endzone.com/diy-kitchen-under-cabinet-led-lighting/). I wont go into details of how to connect everything together or why choosing which type of LED are better. Please consult the other post for details
+As I have explained before, the equipment is almost identical to the one for my [DIY Kitchen under cabinet LED lighting]({{< relref "blog/2014-08-14-diy-kitchen-under-cabinet-led-lighting.md" >}}). I wont go into details of how to connect everything together or why choosing which type of LED are better. Please consult the other post for details
 
 ### 3-way switch
 
@@ -97,7 +97,7 @@ Construction steps are very simple. Screw, wire everything up and enjoy. Here is
 
 # Testing everything together
 
-The first thing you need to focus on is to test everything together before mounting it behind the headboard of the bed. The last ting you want is to wire everything up and finding out that a wire is bad or the dimmer or switches (which are glued) are dead. As mentioned before, all questions regarding how to connect the power cord to the power supply or how to connect the dimmer, can be answered in the following post: [DIY Kitchen under cabinet LED lighting](https://www.end2endzone.com/diy-kitchen-under-cabinet-led-lighting/).
+The first thing you need to focus on is to test everything together before mounting it behind the headboard of the bed. The last ting you want is to wire everything up and finding out that a wire is bad or the dimmer or switches (which are glued) are dead. As mentioned before, all questions regarding how to connect the power cord to the power supply or how to connect the dimmer, can be answered in the following post: [DIY Kitchen under cabinet LED lighting](/diy-kitchen-under-cabinet-led-lighting/).
 
 ## Deciding where to put your stuff
 
