@@ -52,15 +52,15 @@ Here the description of the damage:
 
 Here is some pictures of the wreckage:
 
-[![Super Cub LP Crash (wings)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg)
+[![Super Cub LP Crash (wings)](/wp-content/uploads/2014/09/DSC034641.jpg)](/wp-content/uploads/2014/09/DSC034641.jpg)
 
 Super Cub LP Crash (wings)
 
-[![Super Cub LP Crash (nose smashed)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg)
+[![Super Cub LP Crash (nose smashed)](/wp-content/uploads/2014/09/DSC03466.jpg)](/wp-content/uploads/2014/09/DSC03466.jpg)
 
 Super Cub LP Crash (nose smashed)
 
-[![Super Cub LP Crash (engine smashed)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg)
+[![Super Cub LP Crash (engine smashed)](/wp-content/uploads/2014/09/DSC03468.jpg)](/wp-content/uploads/2014/09/DSC03468.jpg)
 
 Super Cub LP Crash (engine smashed)
 

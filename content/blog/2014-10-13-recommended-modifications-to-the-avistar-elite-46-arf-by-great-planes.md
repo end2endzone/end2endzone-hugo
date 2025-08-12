@@ -23,7 +23,7 @@ Here are all the modifications that I did to make this trainer the perfect plane
 
 ## Small battery pack
 
-[![Avistar Elite battery socket replacement](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1095.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1095.jpg)
+[![Avistar Elite battery socket replacement](/wp-content/uploads/2014/10/IMG_1095.jpg)](/wp-content/uploads/2014/10/IMG_1095.jpg)
 
 Avistar Elite battery socket replacement
 
@@ -33,7 +33,7 @@ The solution to this issue was to change the battery pack for a bigger one. I us
 
 ## Battery holder
 
-[![Avistar Elite with battery pack installed](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1115.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1115.jpg)
+[![Avistar Elite with battery pack installed](/wp-content/uploads/2014/10/IMG_1115.jpg)](/wp-content/uploads/2014/10/IMG_1115.jpg)
 
 Avistar Elite with battery pack installed
 
@@ -43,13 +43,13 @@ Since I changed the battery pack, the space at the bottom was now too narrow to 
 
 Here is a picture of the foam holder without the battery pack:
 
-[![Avistar Elite without battery pack installed](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1132.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1132.jpg)
+[![Avistar Elite without battery pack installed](/wp-content/uploads/2014/10/IMG_1132.jpg)](/wp-content/uploads/2014/10/IMG_1132.jpg)
 
 Avistar Elite without battery pack installed
 
 ## Fuel tank
 
-[![Avistar Elite fuel tank](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1123.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1123.jpg)
+[![Avistar Elite fuel tank](/wp-content/uploads/2014/10/IMG_1123.jpg)](/wp-content/uploads/2014/10/IMG_1123.jpg)
 
 Avistar Elite fuel tank
 
@@ -61,7 +61,7 @@ To solve the issue, I glued a small piece of balsa wood behind the fuel tank as 
 
 ## Propeller
 
-[![Avistar Elite default properller](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1107.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1107.jpg)
+[![Avistar Elite default properller](/wp-content/uploads/2014/10/IMG_1107.jpg)](/wp-content/uploads/2014/10/IMG_1107.jpg)
 
 Avistar Elite default properller
 
@@ -75,7 +75,7 @@ This type of props is cheap (low price) but made with high quality plastic. Each
 
 ## Front wheel
 
-[![Avistar Elite replacement wheel](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1100.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1100.jpg)
+[![Avistar Elite replacement wheel](/wp-content/uploads/2014/10/IMG_1100.jpg)](/wp-content/uploads/2014/10/IMG_1100.jpg)
 
 Avistar Elite replacement wheel
 
@@ -83,7 +83,7 @@ The same thing applies with the front wheel. The stock 2¼" wheel is not bad and
 
 ## Elevator Tail
 
-[![Avistar Elite tail view](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1125.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1125.jpg)
+[![Avistar Elite tail view](/wp-content/uploads/2014/10/IMG_1125.jpg)](/wp-content/uploads/2014/10/IMG_1125.jpg)
 
 Avistar Elite tail view
 
@@ -93,7 +93,7 @@ If you follow the assembly guide, it is actually really easy to assemble the ele
 
 This method secures all the tail parts with each other but it does not prevent the tail from moving. To solve this problem, I simply glued the horizontal tail with the fuselage using epoxy. Here is a close up of the result:
 
-[![Avistar Elite Tail close up view](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1128.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1128.jpg)
+[![Avistar Elite Tail close up view](/wp-content/uploads/2014/10/IMG_1128.jpg)](/wp-content/uploads/2014/10/IMG_1128.jpg)
 
 Avistar Elite Tail close up view
 
@@ -101,7 +101,7 @@ This choice is preventing me from dissembling the tail after a crash to make rep
 
 ## Wings
 
-[![Avistar Elite black wing stripes](http://www.end2endzone.com/wp-content/uploads/2014/10/DSC00129.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/10/DSC00129.jpg)
+[![Avistar Elite black wing stripes](/wp-content/uploads/2014/10/DSC00129.jpg)](/wp-content/uploads/2014/10/DSC00129.jpg)
 
 Avistar Elite black wing stripes
 
@@ -111,7 +111,7 @@ I modified the appearance of the bottom side of the wings and added two black Mo
 
 ## Silicone exhaust deflector
 
-[![Avistar Elite Silicone exhaust deflector](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/10/IMG_1136.jpg)
+[![Avistar Elite Silicone exhaust deflector](/wp-content/uploads/2014/10/IMG_1136.jpg)](/wp-content/uploads/2014/10/IMG_1136.jpg)
 
 Avistar Elite Silicone exhaust deflector
 

@@ -39,15 +39,15 @@ It's main features are:
 
 # Screenshots
 
-[![DNS-343 Monitor (Idle)](http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png)](http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png)
+[![DNS-343 Monitor (Idle)](/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png)](/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png)
 
 DNS-343 Monitor (Idle)
 
-[![DNS-343 Monitor (Searching)](http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png)](http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png)
+[![DNS-343 Monitor (Searching)](/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png)](/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png)
 
 DNS-343 Monitor (Searching)
 
-[![DNS-343 Monitor (Usage)](http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png)](http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png)
+[![DNS-343 Monitor (Usage)](/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png)](/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png)
 
 DNS-343 Monitor (Usage)
 
@@ -80,7 +80,7 @@ DNS343Monitor is only available for the Windows platform and has been tested wit
 
 DNS-343 Monitor is being distributed as Freeware for personal, commercial use, non-profit organization, and educational purpose. It may be included with CD-ROM/DVD-ROM distributions. You are NOT allowed to make a charge for distributing this Software (either for profit or merely to recover your media and distribution costs) whether as a stand-alone product, or as part of a compilation or anthology, nor to use it for supporting your business or customers. It may be distributed freely on any website or through any other distribution mechanism, as long as no part of it is changed in any way.
 
-The full license is available [here](http://www.end2endzone.com/wp-content/uploads/2015/02/DNS-343-Monitor-v1.1.28-EULA.htm).
+The full license is available [here](/wp-content/uploads/2015/02/DNS-343-Monitor-v1.1.28-EULA.htm).
 
 # History of changes
 

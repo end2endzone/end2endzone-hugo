@@ -60,7 +60,7 @@ pause
 
 ## UI
 
-[![svnpropertylog - Select Subversion Property](http://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample.png)](http://www.end2endzone.com/wp-content/uploads/2016/05/svnpropertylog-property-sample.png)
+[![svnpropertylog - Select Subversion Property](/wp-content/uploads/2016/05/svnpropertylog-property-sample.png)](/wp-content/uploads/2016/05/svnpropertylog-property-sample.png)
 
 svnpropertylog - Select Subversion Property
 

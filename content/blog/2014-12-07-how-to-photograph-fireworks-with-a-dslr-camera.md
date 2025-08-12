@@ -42,7 +42,7 @@ Before ever start looking for the perfect holiday to go outside on a hunt, you n
 
 ### Tripod
 
-![Manfrotto 190XPROB Tripod](http://www.end2endzone.com/wp-content/uploads/2014/12/Manfrotto-190XPROB-Tripod.jpg)
+![Manfrotto 190XPROB Tripod](/wp-content/uploads/2014/12/Manfrotto-190XPROB-Tripod.jpg)
 
 Manfrotto 190XPROB Tripod
 
@@ -52,7 +52,7 @@ On every perfect firework picture, you can see the light trail of the flare goin
 
 ### Remote shutter release
 
-![Canon Remote Switch RS-60E3](http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Remote-Switch-RS-60E3.jpg)
+![Canon Remote Switch RS-60E3](/wp-content/uploads/2014/12/Canon-Remote-Switch-RS-60E3.jpg)
 
 Canon Remote Switch RS-60E3
 
@@ -68,7 +68,7 @@ A remote trigger is the only way to open the shutter on time (just before a fire
 
 ### Flashlight
 
-![9 LED Mini Flashlight](http://www.end2endzone.com/wp-content/uploads/2014/12/9-LED-Mini-Flashlight.jpg)
+![9 LED Mini Flashlight](/wp-content/uploads/2014/12/9-LED-Mini-Flashlight.jpg)
 
 9 LED Mini Flashlight
 
@@ -76,7 +76,7 @@ It is going to get dark pretty quickly. It is a good idea to bring with yourself
 
 ### Masking tape
 
-![Scotch Greener Masking Tape Basic Painting](http://www.end2endzone.com/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting.jpg)
+![Scotch Greener Masking Tape Basic Painting](/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting.jpg)
 
 Scotch Greener Masking Tape Basic Painting
 
@@ -86,7 +86,7 @@ Masking tape is optional but having some can be useful. You can also use it to t
 
 ### Filters
 
-![Hoya 58.0mm PL-CIR filter](http://www.end2endzone.com/wp-content/uploads/2014/12/Hoya-58.0mm-PL-CIR-filter.jpg)
+![Hoya 58.0mm PL-CIR filter](/wp-content/uploads/2014/12/Hoya-58.0mm-PL-CIR-filter.jpg)
 
 Hoya 58.0mm PL-CIR filter
 
@@ -96,7 +96,7 @@ Polarized filters are also not required. There is no need to filter out a specif
 
 ### Flash
 
-![Canon Speedlite Flash (600EX-RT)](http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-Speedlite-Flash-600EX-RT.jpg)
+![Canon Speedlite Flash (600EX-RT)](/wp-content/uploads/2014/12/Canon-Speedlite-Flash-600EX-RT.jpg)
 
 Canon Speedlite Flash (600EX-RT)
 
@@ -104,7 +104,7 @@ A flash is also not really required. There is no object close enough that would 
 
 ### Expensive lenses
 
-![Canon EF 70-200mm f2.8L USM Standard Lens](http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-EF-70-200mm-f2.8L-USM-Standard-Lens.jpg)
+![Canon EF 70-200mm f2.8L USM Standard Lens](/wp-content/uploads/2014/12/Canon-EF-70-200mm-f2.8L-USM-Standard-Lens.jpg)
 
 Canon EF 70-200mm f2.8L USM Standard Lens
 
@@ -140,7 +140,7 @@ Avoid light sources like street lights or the hot dog stand. Since you are takin
 
 ## Focus to infinity
 
-![Focus on infinity](http://www.end2endzone.com/wp-content/uploads/2014/12/Focus-on-infinity.jpg)
+![Focus on infinity](/wp-content/uploads/2014/12/Focus-on-infinity.jpg)
 
 Focus on infinity
 
@@ -152,7 +152,7 @@ The best method for adjusting your focus is still to search for a far away objec
 
 ## Set camera in manual mode
 
-![Canon SL1 Mode Dial to Manual](http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual.jpg)
+![Canon SL1 Mode Dial to Manual](/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual.jpg)
 
 Canon SL1 Mode Dial to Manual
 
@@ -160,7 +160,7 @@ The only mode that can be used for photographing fireworks is the manual mode. A
 
 ## Low ISO
 
-![Canon SL1 ISO Selection](http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-ISO-Selection.jpg)
+![Canon SL1 ISO Selection](/wp-content/uploads/2014/12/Canon-SL1-ISO-Selection.jpg)
 
 Canon SL1 ISO Selection
 
@@ -172,7 +172,7 @@ In case your picture are underexposed, do not increase ISO to 200 but instead us
 
 ## Use a small aperture
 
-![Canon SL1 aperture selection](http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-aperture-selection.jpg)
+![Canon SL1 aperture selection](/wp-content/uploads/2014/12/Canon-SL1-aperture-selection.jpg)
 
 Canon SL1 aperture selection
 
@@ -180,13 +180,13 @@ The fireworks are bright enough in the sky to let you use a narrow aperture (hig
 
 ## Set camera to Bulb mode
 
-![Canon SL1 Bulb Selection](http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection.jpg)
+![Canon SL1 Bulb Selection](/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection.jpg)
 
 Canon SL1 Bulb Selection
 
 Most cameras now have a BULB mode. Bulb mode is a perfect candidate for this task. It allows you to have a variable shutter speed for each shots. In bulb mode, pressing the shutter button will open the shutter to start capturing light and will leave the shutter open as long as you press the shutter button. This is pretty convenient when you are trying to capture an event that you don't know how long it will last.
 
-![Canon SL1 Bulb Dial Selection](http://www.end2endzone.com/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection.jpg)
+![Canon SL1 Bulb Dial Selection](/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection.jpg)
 
 Canon SL1 Bulb Dial Selection
 
@@ -194,7 +194,7 @@ This mode is usually found at the end of your shutter speed range (slowest shutt
 
 ## Turn off Image stabilization (IS)
 
-![Image Stabilizer Turned off](http://www.end2endzone.com/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg)
+![Image Stabilizer Turned off](/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg)
 
 Image Stabilizer Turned off
 
@@ -206,7 +206,7 @@ On Canon lens, the IS switch is usually located on the lens itself.
 
 ## Set your camera to RAW mode
 
-![RAW image quality](http://www.end2endzone.com/wp-content/uploads/2014/12/RAW-image-quality.jpg)
+![RAW image quality](/wp-content/uploads/2014/12/RAW-image-quality.jpg)
 
 RAW image quality
 
@@ -222,7 +222,7 @@ However, if you are lucky and get the perfect ISO-aperture-shutter-speed combina
 
 # Wait until the show begins
 
-![Kaïn célèbre la Fête nationale à Saint-Jérôme](http://www.end2endzone.com/wp-content/uploads/2014/12/Kaïn-célèbre-la-Fête-nationale-à-Saint-Jérôme.jpg)
+![Kaïn célèbre la Fête nationale à Saint-Jérôme](/wp-content/uploads/2014/12/Kaïn-célèbre-la-Fête-nationale-à-Saint-Jérôme.jpg)
 
 Kaïn célèbre la Fête nationale à Saint-Jérôme
 
@@ -246,7 +246,7 @@ During the firework show, the intensity or size of the fireworks will probably c
 
 Leave the ISO setting to 100.
 
-![Quick Aperture Exposure compensation button With Main Dial](http://www.end2endzone.com/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial.jpg)
+![Quick Aperture Exposure compensation button With Main Dial](/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial.jpg)
 
 Quick Aperture Exposure compensation button With Main Dial
 
@@ -264,7 +264,7 @@ If you are a little more advanced, you can try to photograph the surrounding env
 
 # Save for the finale
 
-![Checking the Battery Level](http://www.end2endzone.com/wp-content/uploads/2014/12/Battery-check-2.jpg)
+![Checking the Battery Level](/wp-content/uploads/2014/12/Battery-check-2.jpg)
 
 Checking the Battery Level
 
@@ -289,8 +289,8 @@ Enjoy!
 {{< image-gallery >}}
 | <!-- -->                                                                                                                                                                                                                    | <!-- -->                                                                                                                                                                                                    | <!-- -->                                                                                                                                                                                                                            |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Pop over the fire](http://www.end2endzone.com/wp-content/uploads/2014/11/firework06-IMG_8540_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396785601/in/album-72157686721348930/ "Pop over the fire") | [![Red giant](http://www.end2endzone.com/wp-content/uploads/2014/11/firework04-IMG_8501_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396786961/in/album-72157686721348930/ "Red giant") | [![The big bang (4 pops)](http://www.end2endzone.com/wp-content/uploads/2014/11/firework07-IMG_8553_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/36687836454/in/album-72157686721348930/ "The big bang (4 pops)") |
-| [![Green over blue](http://www.end2endzone.com/wp-content/uploads/2014/11/firework03-IMG_8500_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396788021/in/album-72157686721348930/ "Green over blue")     | [![RGB](http://www.end2endzone.com/wp-content/uploads/2014/11/firework02-IMG_8493_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396788931/in/album-72157686721348930/ "RGB")             | [![Purple Medley](http://www.end2endzone.com/wp-content/uploads/2014/11/firework05-IMG_8539_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396786031/in/album-72157686721348930/ "Purple Medley")                 |
-| [![Two colors in one](http://www.end2endzone.com/wp-content/uploads/2014/11/firework01-IMG_8483_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396789821/in/album-72157686721348930/ "Two colors in one") |                                                                                                                                                                                                             |                                                                                                                                                                                                                                     |
+| [![Pop over the fire](/wp-content/uploads/2014/11/firework06-IMG_8540_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396785601/in/album-72157686721348930/ "Pop over the fire") | [![Red giant](/wp-content/uploads/2014/11/firework04-IMG_8501_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396786961/in/album-72157686721348930/ "Red giant") | [![The big bang (4 pops)](/wp-content/uploads/2014/11/firework07-IMG_8553_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/36687836454/in/album-72157686721348930/ "The big bang (4 pops)") |
+| [![Green over blue](/wp-content/uploads/2014/11/firework03-IMG_8500_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396788021/in/album-72157686721348930/ "Green over blue")     | [![RGB](/wp-content/uploads/2014/11/firework02-IMG_8493_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396788931/in/album-72157686721348930/ "RGB")             | [![Purple Medley](/wp-content/uploads/2014/11/firework05-IMG_8539_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396786031/in/album-72157686721348930/ "Purple Medley")                 |
+| [![Two colors in one](/wp-content/uploads/2014/11/firework01-IMG_8483_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396789821/in/album-72157686721348930/ "Two colors in one") |                                                                                                                                                                                                             |                                                                                                                                                                                                                                     |
 {{< /image-gallery >}}
 

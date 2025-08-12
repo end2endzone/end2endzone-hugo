@@ -65,7 +65,7 @@ The DIY solution consist of adding two devices on the quadcopter each device for
 
 ## 10 watts LED
 
-[![10 Watt LEDs](http://www.end2endzone.com/wp-content/uploads/2016/07/10-Watt-LEDs.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/07/10-Watt-LEDs.jpg)
+[![10 Watt LEDs](/wp-content/uploads/2016/07/10-Watt-LEDs.jpg)](/wp-content/uploads/2016/07/10-Watt-LEDs.jpg)
 
 10 Watt LEDs
 
@@ -75,24 +75,24 @@ This type of LED is quite bright and provides 900 to 1000 lumens of light which 
 
 As an example, here is a picture of the LED mounted to the quadcopter seen from 333 meters away.
 
-[![Quadcopter 10 watts LED seen from 333 meters away](http://www.end2endzone.com/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-on-from-333-meters.png)](http://www.end2endzone.com/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-on-from-333-meters.png)
+[![Quadcopter 10 watts LED seen from 333 meters away](/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-on-from-333-meters.png)](/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-on-from-333-meters.png)
 
 Quadcopter 10 watts LED seen from 333 meters away
 
 To help locate the LED location, here is the same point of view with the LED turned off:
 
-[![Quadcopter 10 watts LED OFF](http://www.end2endzone.com/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-off-from-333-meters.png)](http://www.end2endzone.com/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-off-from-333-meters.png)
+[![Quadcopter 10 watts LED OFF](/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-off-from-333-meters.png)](/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-off-from-333-meters.png)
 
 Quadcopter 10 watts LED OFF
 
 {{< pleasenote >}}
-  Note that both images are cropped version of [the original image](http://www.end2endzone.com/wp-content/uploads/2016/07/10w-Quadcopter-LED-full-image.jpg) which have a much bigger field-of-view.
+  Note that both images are cropped version of [the original image](/wp-content/uploads/2016/07/10w-Quadcopter-LED-full-image.jpg) which have a much bigger field-of-view.
 {{< /pleasenote >}}
 
 
 ## Lost plane alarm finder
 
-[![Piezoelectric Buzzer - Audible Alarm Sound Buzzers](http://www.end2endzone.com/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers.jpg)
+[![Piezoelectric Buzzer - Audible Alarm Sound Buzzers](/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers.jpg)](/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers.jpg)
 
 Piezoelectric Buzzer - Audible Alarm Sound Buzzers
 
@@ -106,7 +106,7 @@ With the DIY route, the piezo buzzer is much louder reaching peaks of 96 dB inst
 
 ## Microcontroller
 
-[![Arduino Nano v3](http://www.end2endzone.com/wp-content/uploads/2016/07/Arduino-Nano-v3.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/07/Arduino-Nano-v3.jpg)
+[![Arduino Nano v3](/wp-content/uploads/2016/07/Arduino-Nano-v3.jpg)](/wp-content/uploads/2016/07/Arduino-Nano-v3.jpg)
 
 Arduino Nano v3
 
@@ -135,24 +135,24 @@ The material for this project is as follows:
 
 | Image                                                                                                                                                                                                                                                                                                         | Description                                                           | Qty |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----|
-| [![Arduino Nano v3](http://www.end2endzone.com/wp-content/uploads/2016/07/Arduino-Nano-v3.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/07/Arduino-Nano-v3.jpg)                                                                                                                                    | Arduino Nano v3                                                       | 1   |
-| [![Piezoelectric Buzzer - Audible Alarm Sound Buzzers](http://www.end2endzone.com/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers.jpg)                               | Piezoelectric Buzzer                                                  | 1   |
-| [![10 Watt LEDs](http://www.end2endzone.com/wp-content/uploads/2016/07/10-Watt-LEDs.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/07/10-Watt-LEDs.jpg)                                                                                                                                             | 10 Watt LEDs                                                          | 1   |
-| [![MR16 12v 10w LED Driver](http://www.end2endzone.com/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver.jpg)                                                                                                            | MR16 Constant Current LED Driver (12v 10w)                            | 1   |
-| [![IRF630N N-Channel 200V, 9.3A, 0.30-Ohm TO-220AB Power Mosfet](http://www.end2endzone.com/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet.jpg) | N-Channel TO-220AB Power Mosfet<br /> (IRF630N, 200V, 9.3A, 0.30-Ohm) | 2   |
-| [![20CM Male to Male Servo Extension Lead Wire Cable](http://www.end2endzone.com/wp-content/uploads/2016/07/20CM-Male-Servo-Extension-Lead-Wire-Cable.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/07/20CM-Male-Servo-Extension-Lead-Wire-Cable.jpg)                                              | 20cm Male Servo Extension Lead Wire Cable                             | 1   |
-| [![Female JST Battery Connector](http://www.end2endzone.com/wp-content/uploads/2016/07/Female-JST-Battery-Connector.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/07/Female-JST-Battery-Connector.jpg)                                                                                             | Female JST battery connector                                          | 1   |
-| [![Single Side 5x7cm Prototyping Stripboard](http://www.end2endzone.com/wp-content/uploads/2016/07/Single-Side-5x7cm-Prototyping-Stripboard.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/07/Single-Side-5x7cm-Prototyping-Stripboard.jpg)                                                         | Single Side 5x7cm Prototyping Stripboard                              | 1   |
-| [![10k resistor](http://www.end2endzone.com/wp-content/uploads/2016/07/10k-resistor.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/07/10k-resistor.jpg)                                                                                                                                             | 10k Ohm Resistor                                                      | 2   |
-| [![Wire](http://www.end2endzone.com/wp-content/uploads/2016/07/Wire.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/07/Wire.jpg)                                                                                                                                                                     | Wires                                                                 | 1   |
-| [![Wrapping Foam](http://www.end2endzone.com/wp-content/uploads/2016/08/Wrapping-Foam.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/08/Wrapping-Foam.jpg)                                                                                                                                          | Wrapping foam                                                         | 1   |
-| [![Wood BBQ Skewers](http://www.end2endzone.com/wp-content/uploads/2016/08/Wood-BBQ-Skewers.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/08/Wood-BBQ-Skewers.jpg)                                                                                                                                 | Wood BBQ Skewers                                                      | 2   |
-| [![CCPM Servo Tester](http://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg)                                                                                                                              | CCPM-Servo-Tester                                                     | 1   |
+| [![Arduino Nano v3](/wp-content/uploads/2016/07/Arduino-Nano-v3.jpg)](/wp-content/uploads/2016/07/Arduino-Nano-v3.jpg)                                                                                                                                    | Arduino Nano v3                                                       | 1   |
+| [![Piezoelectric Buzzer - Audible Alarm Sound Buzzers](/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers.jpg)](/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers.jpg)                               | Piezoelectric Buzzer                                                  | 1   |
+| [![10 Watt LEDs](/wp-content/uploads/2016/07/10-Watt-LEDs.jpg)](/wp-content/uploads/2016/07/10-Watt-LEDs.jpg)                                                                                                                                             | 10 Watt LEDs                                                          | 1   |
+| [![MR16 12v 10w LED Driver](/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver.jpg)](/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver.jpg)                                                                                                            | MR16 Constant Current LED Driver (12v 10w)                            | 1   |
+| [![IRF630N N-Channel 200V, 9.3A, 0.30-Ohm TO-220AB Power Mosfet](/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet.jpg)](/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet.jpg) | N-Channel TO-220AB Power Mosfet<br /> (IRF630N, 200V, 9.3A, 0.30-Ohm) | 2   |
+| [![20CM Male to Male Servo Extension Lead Wire Cable](/wp-content/uploads/2016/07/20CM-Male-Servo-Extension-Lead-Wire-Cable.jpg)](/wp-content/uploads/2016/07/20CM-Male-Servo-Extension-Lead-Wire-Cable.jpg)                                              | 20cm Male Servo Extension Lead Wire Cable                             | 1   |
+| [![Female JST Battery Connector](/wp-content/uploads/2016/07/Female-JST-Battery-Connector.jpg)](/wp-content/uploads/2016/07/Female-JST-Battery-Connector.jpg)                                                                                             | Female JST battery connector                                          | 1   |
+| [![Single Side 5x7cm Prototyping Stripboard](/wp-content/uploads/2016/07/Single-Side-5x7cm-Prototyping-Stripboard.jpg)](/wp-content/uploads/2016/07/Single-Side-5x7cm-Prototyping-Stripboard.jpg)                                                         | Single Side 5x7cm Prototyping Stripboard                              | 1   |
+| [![10k resistor](/wp-content/uploads/2016/07/10k-resistor.jpg)](/wp-content/uploads/2016/07/10k-resistor.jpg)                                                                                                                                             | 10k Ohm Resistor                                                      | 2   |
+| [![Wire](/wp-content/uploads/2016/07/Wire.jpg)](/wp-content/uploads/2016/07/Wire.jpg)                                                                                                                                                                     | Wires                                                                 | 1   |
+| [![Wrapping Foam](/wp-content/uploads/2016/08/Wrapping-Foam.jpg)](/wp-content/uploads/2016/08/Wrapping-Foam.jpg)                                                                                                                                          | Wrapping foam                                                         | 1   |
+| [![Wood BBQ Skewers](/wp-content/uploads/2016/08/Wood-BBQ-Skewers.jpg)](/wp-content/uploads/2016/08/Wood-BBQ-Skewers.jpg)                                                                                                                                 | Wood BBQ Skewers                                                      | 2   |
+| [![CCPM Servo Tester](/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg)](/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg)                                                                                                                              | CCPM-Servo-Tester                                                     | 1   |
 
 
 ### MR16 Constant Current LED Driver
 
-[![MR16 12v 10w LED Driver](http://www.end2endzone.com/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver.jpg)
+[![MR16 12v 10w LED Driver](/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver.jpg)](/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver.jpg)
 
 MR16 12v 10w LED Driver
 
@@ -164,7 +164,7 @@ I am not that much concerned about power efficiency of the driver since the proj
 
 ### N-Channel Power Mosfet
 
-[![IRF630N N-Channel 200V, 9.3A, 0.30-Ohm TO-220AB Power Mosfet](http://www.end2endzone.com/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet.jpg)
+[![IRF630N N-Channel 200V, 9.3A, 0.30-Ohm TO-220AB Power Mosfet](/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet.jpg)](/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet.jpg)
 
 IRF630N N-Channel 200V, 9.3A, 0.30-Ohm TO-220AB Power Mosfet
 
@@ -234,7 +234,7 @@ The following section shows the drawings and the schematics used by the controll
 
 ## Fritzing files
 
-[![Fritzing - Open-Source Hardware Initiative Tool](http://www.end2endzone.com/wp-content/uploads/2016/10/fritzing_logo_new.png)](http://www.end2endzone.com/wp-content/uploads/2016/10/fritzing_logo_new.png)
+[![Fritzing - Open-Source Hardware Initiative Tool](/wp-content/uploads/2016/10/fritzing_logo_new.png)](/wp-content/uploads/2016/10/fritzing_logo_new.png)
 
 Fritzing - Open-Source Hardware Initiative Tool
 
@@ -254,7 +254,7 @@ The project files are also available for download. Click the following link to g
 
 The following section shows the circuit diagram layout
 
-[![Quadcopter Controller Project - Schematics view](http://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_schematics.png)](http://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_schematics.png)
+[![Quadcopter Controller Project - Schematics view](/wp-content/uploads/2016/07/Quad_Controller_schematics.png)](/wp-content/uploads/2016/07/Quad_Controller_schematics.png)
 
 Quadcopter Controller Project - Schematics view
 
@@ -262,7 +262,7 @@ Quadcopter Controller Project - Schematics view
 
 The following section shows a breadboard layout view of the circuit.
 
-[![Quadcopter Controller Project - Breadboard view](http://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)](http://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)
+[![Quadcopter Controller Project - Breadboard view](/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)](/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)
 
 Quadcopter Controller Project - Breadboard view
 
@@ -295,7 +295,7 @@ Click the following to download the example below:
 
 # Building steps
 
-[![building-steps](http://www.end2endzone.com/wp-content/uploads/2016/10/Building-steps.png)](http://www.end2endzone.com/wp-content/uploads/2016/10/Building-steps.png)
+[![building-steps](/wp-content/uploads/2016/10/Building-steps.png)](/wp-content/uploads/2016/10/Building-steps.png)
 
 The following section explains all the different steps on how to build my DIY quadcopter visual aids controller.
 
@@ -385,7 +385,7 @@ As a reference, here are the mixes that I use for my Spektrum DX9 transmitter:
 
 ## Build a prototype
 
-[![DIY Quadcopter lost plane alarm finder and 10w LED visual aids Prototype](http://www.end2endzone.com/wp-content/uploads/2016/07/DIY-Quadcopter-lost-plane-alarm-finder-and-10w-LED-visual-aids-Prototype.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/07/DIY-Quadcopter-lost-plane-alarm-finder-and-10w-LED-visual-aids-Prototype.jpg)
+[![DIY Quadcopter lost plane alarm finder and 10w LED visual aids Prototype](/wp-content/uploads/2016/07/DIY-Quadcopter-lost-plane-alarm-finder-and-10w-LED-visual-aids-Prototype.jpg)](/wp-content/uploads/2016/07/DIY-Quadcopter-lost-plane-alarm-finder-and-10w-LED-visual-aids-Prototype.jpg)
 
 DIY Quadcopter lost plane alarm finder and 10w LED visual aids Prototype
 
@@ -393,7 +393,7 @@ The purpose of these steps is to evaluate the feasibility of the project by impl
 
 ### Test the code
 
-[![QuadCtrl - Testing the code in Arduino IDE](http://www.end2endzone.com/wp-content/uploads/2016/10/QuadCtrl-Arduino-IDE-transparency.png)](http://www.end2endzone.com/wp-content/uploads/2016/10/QuadCtrl-Arduino-IDE-transparency.png)
+[![QuadCtrl - Testing the code in Arduino IDE](/wp-content/uploads/2016/10/QuadCtrl-Arduino-IDE-transparency.png)](/wp-content/uploads/2016/10/QuadCtrl-Arduino-IDE-transparency.png)
 
 QuadCtrl - Testing the code in Arduino IDE
 
@@ -420,13 +420,13 @@ Now that you know that the code is working as expected, you may want to test eac
 
 The final step is to integrate all real components to the breadboard prototype and use external 12v power supply (to mimic a 3S LiPo battery).
 
-[![Quadcopter Controller Project - Breadboard view](http://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)](http://www.end2endzone.com/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)
+[![Quadcopter Controller Project - Breadboard view](/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)](/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)
 
 Complete the actual circuit as defined in [Breadboard Layout](#Breadboard_Layout)&nbsp;section.
 
 ## Solder components
 
-[![QuadCtrl - Soldering components to the stripboard](http://www.end2endzone.com/wp-content/uploads/2016/10/IMG_4566.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/10/IMG_4566.jpg)
+[![QuadCtrl - Soldering components to the stripboard](/wp-content/uploads/2016/10/IMG_4566.jpg)](/wp-content/uploads/2016/10/IMG_4566.jpg)
 
 QuadCtrl - Soldering components to the stripboard
 
@@ -442,7 +442,7 @@ Solder each component carefully following the schematics and head to the final s
 
 ## Secure the unit on the quadcopter
 
-[![QuadCtrl - Securing components with wrapping foam](http://www.end2endzone.com/wp-content/uploads/2016/10/IMG_4557.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/10/IMG_4557.jpg)
+[![QuadCtrl - Securing components with wrapping foam](/wp-content/uploads/2016/10/IMG_4557.jpg)](/wp-content/uploads/2016/10/IMG_4557.jpg)
 
 QuadCtrl - Securing components with wrapping foam
 
@@ -458,11 +458,11 @@ For best result, position the 10w LED below the propeller's wind blast. This wil
 
 Here is the final result:
 
-[![Arduino Quadcopter LED & Buzzer Controler (final)](http://www.end2endzone.com/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final.jpg)
+[![Arduino Quadcopter LED & Buzzer Controler (final)](/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final.jpg)](/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final.jpg)
 
 Arduino Quadcopter LED & Buzzer Controler (final)
 
-[![Arduino Quadcopter LED & Buzzer Controler (final) - Close Up](http://www.end2endzone.com/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final-close-up.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final-close-up.jpg)
+[![Arduino Quadcopter LED & Buzzer Controler (final) - Close Up](/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final-close-up.jpg)](/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final-close-up.jpg)
 
 Arduino Quadcopter LED & Buzzer Controler (final) - Close Up
 

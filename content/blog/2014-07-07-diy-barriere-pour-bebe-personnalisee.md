@@ -66,7 +66,7 @@ Le plus facile est de commencer par les poteaux. Au total, 11 poteaux sont néce
 
 Le premier barreau de la barrière est particulier. Il doit être coupé dans un angle de 45 degrés mais pas de façon à faire un triangle mais plutôt une figure à 5 cotés. Le côté à 45 degrés doit avoir la même longueur que la penture. Le but est de faciliter la fixation au mur dans l'étape d'assemblage. La photo suivante l'explique plus facilement:
 
-[![DSC02216](http://www.end2endzone.com/wp-content/uploads/2014/07/DSC02216.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/07/DSC02216.jpg)Il aurait été normal de teindre le bois avant de l'assembler afin d'éviter d'avoir des zones inaccessibles et impossible à teindre.
+[![DSC02216](/wp-content/uploads/2014/07/DSC02216.jpg)](/wp-content/uploads/2014/07/DSC02216.jpg)Il aurait été normal de teindre le bois avant de l'assembler afin d'éviter d'avoir des zones inaccessibles et impossible à teindre.
 
 De plus cela aurait permis d'avoir une teinture uniforme et évité d'avoir des coulisses un peu partout. Ces détails ne sont plus visibles à plus de 3 mètres de la barrière.
 

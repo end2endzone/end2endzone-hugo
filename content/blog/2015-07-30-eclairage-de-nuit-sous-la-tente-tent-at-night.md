@@ -21,7 +21,7 @@ Se lever au beau milieu de la nuit pour voir ce décors, PRICELESS!
 Une image vaut mille mots!
 
 [  
-![Tent at night](http://www.end2endzone.com/wp-content/uploads/2015/07/IMG_5287_e2ez-672x448.jpg)  
+![Tent at night](/wp-content/uploads/2015/07/IMG_5287_e2ez-672x448.jpg)  
 ](https://www.flickr.com/photos/154618444@N05/23729082528/in/album-72157689242914796/) 
 
 Tent at night

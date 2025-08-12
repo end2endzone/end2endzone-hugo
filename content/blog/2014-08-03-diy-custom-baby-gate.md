@@ -66,7 +66,7 @@ The easiest to begin with is to start with the posts. A total of 11 posts are ne
 
 The first post of the gate is special. It should be cut in an angle of 45 degrees but too much to make a triangle, but rather to 5 sides figure. Both pieces must of the same length: the 45 degrees one and the wall mount. The purpose is to facilitate the attachment step in the wall assembly. The following picture explains it better:
 
-[![IMG_9290](http://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9290.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9290.jpg)
+[![IMG_9290](/wp-content/uploads/2014/07/IMG_9290.jpg)](/wp-content/uploads/2014/07/IMG_9290.jpg)
 
 Sand all parts before assembly.
 
@@ -80,14 +80,14 @@ The innovation of this baby gate is related to the means used for fixing to the 
 
 The ramp is composed of two vertical bars on each side of the horizontal rail.
 
-[![IMG_9295](http://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9295.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/07/IMG_9295.jpg)  
+[![IMG_9295](/wp-content/uploads/2014/07/IMG_9295.jpg)](/wp-content/uploads/2014/07/IMG_9295.jpg)  
  ****
 
 ## **Dying**
 
 Once assembly is complete, you only have to dye the wood to the right color.
 
-[![DSC02242](http://www.end2endzone.com/wp-content/uploads/2014/07/DSC02242.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/07/DSC02242.jpg)When you apply a dye, you must be careful not to judge the appearance of the dye when it is dry. A dye like the photos has a brown-purple appearance when applied on wood and wet.
+[![DSC02242](/wp-content/uploads/2014/07/DSC02242.jpg)](/wp-content/uploads/2014/07/DSC02242.jpg)When you apply a dye, you must be careful not to judge the appearance of the dye when it is dry. A dye like the photos has a brown-purple appearance when applied on wood and wet.
 
 ## **Installation**
 
@@ -99,7 +99,7 @@ For mounting on the wall, I used one of the bars that will be screwed into the w
 
 Here is the final result:
 
-[![DSC02299](http://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/07/DSC02299.jpg)**
+[![DSC02299](/wp-content/uploads/2014/07/DSC02299.jpg)](/wp-content/uploads/2014/07/DSC02299.jpg)**
 
 # **Made anything differently?**
 
@@ -107,7 +107,7 @@ Here is the final result:
 
 I was not convinced of the feasibility of the barrier when I started this project and so I did not do things in the right order. I was also too hurry to see the final product so I didn't dye the wood before assembling it.
 
-[![DSC02216](http://www.end2endzone.com/wp-content/uploads/2014/07/DSC02216.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/07/DSC02216.jpg)It would have been normal to dye the wood before assembly to avoid areas that are not accessible or impossible to dye.
+[![DSC02216](/wp-content/uploads/2014/07/DSC02216.jpg)](/wp-content/uploads/2014/07/DSC02216.jpg)It would have been normal to dye the wood before assembly to avoid areas that are not accessible or impossible to dye.
 
 Dying the wood each piece at a time would have been more uniform and would have avoided drops everywhere. However, these details are not visible to more than 3 meters from the barrier.
 

@@ -96,7 +96,7 @@ You first need to define the following:
   * How long the final video would be ?
   * What is the final video frame rate ? That is 15 or less for hard and 24 and over for smooth.
 
-Now open [Photography time-lapse calculator](http://www.end2endzone.com/wp-content/uploads/2015/02/Photography-time-lapse-calculator.xls)&nbsp;(that's an Excel sheet) and take a look at the "interval calculator". Use the same number in the appropriate fields and the sheet will do the math to give you the perfect interval time for the desired smooth/hard transition effect.
+Now open [Photography time-lapse calculator](/wp-content/uploads/2015/02/Photography-time-lapse-calculator.xls)&nbsp;(that's an Excel sheet) and take a look at the "interval calculator". Use the same number in the appropriate fields and the sheet will do the math to give you the perfect interval time for the desired smooth/hard transition effect.
 
 # Gear setup
 
@@ -304,7 +304,7 @@ The best way to resize your images is to use [David's Batch Processor 1.1.8](htt
   </ol>
 </li>
 
-[![David Batch Processor Done](http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png)](http://www.end2endzone.com/wp-content/uploads/2015/02/David-Batch-Processor-Done.png)
+[![David Batch Processor Done](/wp-content/uploads/2015/02/David-Batch-Processor-Done.png)](/wp-content/uploads/2015/02/David-Batch-Processor-Done.png)
 
 David Batch Processor Done
 
@@ -316,7 +316,7 @@ In the next sections, I will explain 2 methods that you can use to combine photo
 
 This sections explains how to process your captured images into a video using Windows Movie Maker.
 
-[![Windows Movie Maker screenshot](http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg)](http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg)
+[![Windows Movie Maker screenshot](/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg)](/wp-content/uploads/2015/02/Windows-Movie-Maker.jpg)
 
 Windows Movie Maker screenshot
 
@@ -378,7 +378,7 @@ Now that your composition is complete, save your project into an MP4 video by fo
 * Click on **_Save Movie_** button in the ribbon toolbar.
 * Select the export settings that matches your needs and file size. For maximum quality, save your movie using the _**For high-definition display**_ setting.
 
-[![Windows Movie Maker Export Completed](http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png)](http://www.end2endzone.com/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png)
+[![Windows Movie Maker Export Completed](/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png)](/wp-content/uploads/2015/02/Windows-Movie-Maker-Export-Completed.png)
 
 Windows Movie Maker Export Completed
 
@@ -406,7 +406,7 @@ Importing your images as a video in VirtualDub is also really easy: simply follo
   4. Select the first image of the sequence and click the Open button. VirtualDub will automatically detect the next images and will update the timeline accordingly.
   5. Verify that the timeline length (in video frames) matches the total number of captured images in your project.
 
-[![VirtualDub editing](http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png)](http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-editing.png)
+[![VirtualDub editing](/wp-content/uploads/2015/03/VirtualDub-editing.png)](/wp-content/uploads/2015/03/VirtualDub-editing.png)
 
 VirtualDub editing
 
@@ -439,7 +439,7 @@ If you see flickering in your video, a filter can be applied to the video to red
 * Press the OK Button.
 * Configure the filter parameters and press the OK button.
 
-[![VirtualDub Deflicker filter](http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png)](http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png)
+[![VirtualDub Deflicker filter](/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png)](/wp-content/uploads/2015/03/VirtualDub-Deflicker-filter.png)
 
 VirtualDub Deflicker filter
 
@@ -453,7 +453,7 @@ If you want to add fade-in or fade-off effects you can use the FadeFX filter wit
 * Press the OK Button.
 * Configure the filter parameters and press the OK button.
 
-[![VirtualDub Fade In Fade Out filter](http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png)](http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png)
+[![VirtualDub Fade In Fade Out filter](/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png)](/wp-content/uploads/2015/03/VirtualDub-Fade-In-Fade-Out-filter.png)
 
 VirtualDub Fade In Fade Out filter
 
@@ -476,7 +476,7 @@ As explained in the [Lossless video codec](#Lossless_video_codec) section, Virtu
 * **_B_**_**rowse** _to the location where you want to save your video and enter a filename for saving. Click the Save button.
 * Wait for the encoding to complete.
 
-[![VirtualDub encoding](http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png)](http://www.end2endzone.com/wp-content/uploads/2015/03/VirtualDub-encoding.png)
+[![VirtualDub encoding](/wp-content/uploads/2015/03/VirtualDub-encoding.png)](/wp-content/uploads/2015/03/VirtualDub-encoding.png)
 
 VirtualDub encoding
 

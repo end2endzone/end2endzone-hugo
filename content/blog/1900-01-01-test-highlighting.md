@@ -77,20 +77,20 @@ Life is what happens when you're busy making other plans. -John Lennon
 {{< image-gallery >}}
 | <!-- -->                                                                                                                                                                                  | <!-- -->                                                                                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<br /> ![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2446_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/37538053182/in/album-72157686816329321/) | [<br /> ![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2488_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/37538049222/in/album-72157686816329321/) |
-| [<br /> ![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2526_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/37538046922/in/album-72157686816329321/) | [<br /> ![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2549_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/36900405873/in/album-72157686816329321/) |
-| [<br /> ![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2567_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/37538045602/in/album-72157686816329321/) |                                                                                                                                                                                           |
+| [<br /> ![](/wp-content/uploads/2015/08/IMG_2446_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/37538053182/in/album-72157686816329321/) | [<br /> ![](/wp-content/uploads/2015/08/IMG_2488_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/37538049222/in/album-72157686816329321/) |
+| [<br /> ![](/wp-content/uploads/2015/08/IMG_2526_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/37538046922/in/album-72157686816329321/) | [<br /> ![](/wp-content/uploads/2015/08/IMG_2549_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/36900405873/in/album-72157686816329321/) |
+| [<br /> ![](/wp-content/uploads/2015/08/IMG_2567_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/37538045602/in/album-72157686816329321/) |                                                                                                                                                                                           |
 {{< /image-gallery >}}
 
 
 # Image Galleries (images in a div)
 
 {{< image-gallery >}}
-[![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2446_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37538053182/in/album-72157686816329321/)
-[![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2488_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37538049222/in/album-72157686816329321/)
-[![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2526_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37538046922/in/album-72157686816329321/)
-[![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2549_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/36900405873/in/album-72157686816329321/)
-[![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2567_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37538045602/in/album-72157686816329321/)
+[![](/wp-content/uploads/2015/08/IMG_2446_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37538053182/in/album-72157686816329321/)
+[![](/wp-content/uploads/2015/08/IMG_2488_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37538049222/in/album-72157686816329321/)
+[![](/wp-content/uploads/2015/08/IMG_2526_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37538046922/in/album-72157686816329321/)
+[![](/wp-content/uploads/2015/08/IMG_2549_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/36900405873/in/album-72157686816329321/)
+[![](/wp-content/uploads/2015/08/IMG_2567_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37538045602/in/album-72157686816329321/)
 {{< /image-gallery >}}
 
 

@@ -96,11 +96,11 @@ Comme je l'ai déjà dit, ce projet peut être réalisé avec un petit budget. L
 
 Voici le prix détaillée de chacun des éléments:
 
-  * $8.13 - Bande d'éclairage DEL achetée sur eBay. Voir la [capture d'écran ici](http://www.end2endzone.com/wp-content/uploads/2014/08/LED-strip.png).
-  * $2.29 - Connecteur à 2 broches (1 seule couleur) pour bande DEL SMD 3528 acheté sur eBay. Voir la [capture d'écran ici](http://www.end2endzone.com/wp-content/uploads/2014/08/Connectors.png).
-  * $7.15 - Alimentation 36 Watts achetée sur eBay. Voir la [capture d'écran ici](http://www.end2endzone.com/wp-content/uploads/2014/08/Power-supply.png).
+  * $8.13 - Bande d'éclairage DEL achetée sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/LED-strip.png).
+  * $2.29 - Connecteur à 2 broches (1 seule couleur) pour bande DEL SMD 3528 acheté sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Connectors.png).
+  * $7.15 - Alimentation 36 Watts achetée sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Power-supply.png).
   * $0.00 -&nbsp;Cordon d’alimentation avec une prise murale à 3 broches. (J'en ai souvent plusieurs à la maison. Je récupère souvent plusieurs pièce et morceau avant de jeter un appareil aux ordures.
-  * $6.02 -&nbsp;Module gradateur pour DEL acheté sur eBay. Voir la [capture d'écran ici](http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer.png).
+  * $6.02 -&nbsp;Module gradateur pour DEL acheté sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Dimmer.png).
   * $1.25 - Interrupteur mural acheté à&nbsp;la quincaillerie.
   * $2.00 - Fil électrique de couleur (j'ai utilisé du calibre 18) du magasin à un dollar.
   * $1.00 -&nbsp;Ruban adhésif double face.
@@ -115,7 +115,7 @@ Le temps de préparation est assez court. Il nécessite de tester tout le circui
 
 Les étapes de construction sont très simple. Il suffit de visser et de relier le tout. Voici une photo du circuit que vous devez assembler:
 
-[![Dimmer2](http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg)Le gradateur dispose de 2 connexions d'entrée et deux connexions de sortie. Les connexions d'entrée sont étiquetés comme "In V- et In V+ " et les connexions de sortie sont étiquetés comme "Out V+ et V-". Il suffit de connecter une alimentation 12 volts sur la borne d'entrée et vous obtenez un "pulse" (pulsation) variable de 12 volts à la sortie. Pour le reste, je crois que c'est assez évident et ne nécessite pas d'explication.
+[![Dimmer2](/wp-content/uploads/2014/08/Dimmer2.jpg)](/wp-content/uploads/2014/08/Dimmer2.jpg)Le gradateur dispose de 2 connexions d'entrée et deux connexions de sortie. Les connexions d'entrée sont étiquetés comme "In V- et In V+ " et les connexions de sortie sont étiquetés comme "Out V+ et V-". Il suffit de connecter une alimentation 12 volts sur la borne d'entrée et vous obtenez un "pulse" (pulsation) variable de 12 volts à la sortie. Pour le reste, je crois que c'est assez évident et ne nécessite pas d'explication.
 
 ## Tester le tout
 
@@ -132,7 +132,7 @@ Branchez le cordon d'alimentation dans le mur, allumez l'interrupteur et votre b
 ## Choisir où mettre les composants
 
 <center>
-  [![DSC04072](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg) [![DSC04068](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg) [![DSC04060](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg) [![DSC04062](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)
+  [![DSC04072](/wp-content/uploads/2014/08/DSC04072.jpg)](/wp-content/uploads/2014/08/DSC04072.jpg) [![DSC04068](/wp-content/uploads/2014/08/DSC04068.jpg)](/wp-content/uploads/2014/08/DSC04068.jpg) [![DSC04060](/wp-content/uploads/2014/08/DSC04060.jpg)](/wp-content/uploads/2014/08/DSC04060.jpg) [![DSC04062](/wp-content/uploads/2014/08/DSC04062.jpg)](/wp-content/uploads/2014/08/DSC04062.jpg)
 </center>
 
 Je voulais placer l'interrupteur à un endroit où il peut être atteint facilement avec les doigts mais je voulais aussi le que le commutateur soit invisible à l'œil. J'ai décidé d'installer le commutateur sous les armoires, mais caché derrière les moulures avant. Pour les mêmes raisons, le gradateur est situé au même endroit. J'ai utilisé du ruban adhésif double face pour coller le gradateur et l'interrupteur d'alimentation en place. Le ruban adhésif est assez fort pour garder le l'interrupteur en place même lorsque quelqu'un est en train d'allumer ou d'éteindre le commutateur.
@@ -141,7 +141,7 @@ J'ai aussi décidé de positionner l'alimentation sous l'armoire, à l'arrière.
 
 Voici une vue du dessous de l'armoire:
 
-[![DSC04092](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png)
+[![DSC04092](/wp-content/uploads/2014/08/DSC04092.png)](/wp-content/uploads/2014/08/DSC04092.png)
 
 Puisque j'ai trois armoires de cuisine, j'ai dû couper trois longueurs de bande DEL.  La bande peut être coupé en toute sécurité à tous les 3 DEL. Chaque point de coupure est identifié par les points de contact en cuivre exposés. Il suffit de couper avec des ciseaux perpendiculairement à la bande (au milieu des points de contact) en s'assurant de laisser suffisamment de cuivre de chaque côté pour bien fixer les connecteurs.
 
@@ -150,14 +150,14 @@ Utilisez un ruban à mesurer souple pour calculer la longueur de chaque section 
 ### Perçage
 
 <center>
-  [![DSC04086](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg) [![DSC04085](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg)
+  [![DSC04086](/wp-content/uploads/2014/08/DSC04086.jpg)](/wp-content/uploads/2014/08/DSC04086.jpg) [![DSC04085](/wp-content/uploads/2014/08/DSC04085.jpg)](/wp-content/uploads/2014/08/DSC04085.jpg)
 </center>
 
 Afin d'obtenir de l'électricité d'une armoire à l'autre, j'ai dû parfois percer des trous dans le fond des l'armoire. C'était nécessaire pour passer les fils dessus de la hotte de cuisine et au dessus de l'évier. C'est le seul changement intrusif que j'avais à faire pour ce projet.
 
 ### Collage
 
-[![IMG_6846](http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg)
+[![IMG_6846](/wp-content/uploads/2014/08/IMG_6846.jpg)](/wp-content/uploads/2014/08/IMG_6846.jpg)
 
 # Refaire les choses différemment?
 

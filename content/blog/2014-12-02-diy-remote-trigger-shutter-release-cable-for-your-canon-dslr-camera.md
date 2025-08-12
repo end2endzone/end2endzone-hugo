@@ -44,7 +44,7 @@ The material for this project is as follows:
 
 ### Switches
 
-[![IMG_8772](http://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/11/IMG_8772.jpg)
+[![IMG_8772](/wp-content/uploads/2014/11/IMG_8772.jpg)](/wp-content/uploads/2014/11/IMG_8772.jpg)
 
 Black and red momentary switches
 
@@ -52,7 +52,7 @@ Switches can be any type you want as long as its a momentary switch (normally op
 
 ### Cable
 
-[![IMG_8756](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8756.jpg)
+[![IMG_8756](/wp-content/uploads/2014/12/IMG_8756.jpg)](/wp-content/uploads/2014/12/IMG_8756.jpg)
 
 20 feet telephone extension cord
 
@@ -60,7 +60,7 @@ You can use any type of cable as long as it have at least 3 colored wires. you b
 
 ### Project box
 
-[![IMG_8979](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8979.jpg)
+[![IMG_8979](/wp-content/uploads/2014/12/IMG_8979.jpg)](/wp-content/uploads/2014/12/IMG_8979.jpg)
 
 Crazy glue box
 
@@ -70,12 +70,12 @@ The project box is used for the switches. It can be anything as long as you can 
 
 | <!-- -->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![IMG_9001](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg "A multimeter")[768x576](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg)<br />[960x720](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg)<br />[960x720](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9001.jpg)                                                                                                  |
-| [![IMG_8993](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993.jpg "Solder paste")[768x576](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993.jpg)<br />[960x720](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993.jpg)<br />[960x720](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8993.jpg)                                                                                                  |
-| [![IMG_8766](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg "2.5 mm male stereo plug")[768x432](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg)<br />[1024x576](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg)<br />[1280x720](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg)<br />[1280x720](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8766.jpg) |
-| [![IMG_8991](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991.jpg "1/16 inch heat shrink tubing")[768x576](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991.jpg)<br />[960x720](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991.jpg)<br />[960x720](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8991.jpg)                                                                                  |
-| [![IMG_8996](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg "A third hand")[768x576](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg)<br />[960x720](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg)<br />[960x720](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8996.jpg)                                                                                                  |
-| [![IMG_8998](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg "A soldering iron")[768x576](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg)<br />[960x720](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg)<br />[960x720](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8998.jpg)                                                                                              |
+| [![IMG_9001](/wp-content/uploads/2014/12/IMG_9001.jpg)](/wp-content/uploads/2014/12/IMG_9001.jpg "A multimeter")[768x576](/wp-content/uploads/2014/12/IMG_9001.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_9001.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_9001.jpg)                                                                                                  |
+| [![IMG_8993](/wp-content/uploads/2014/12/IMG_8993.jpg)](/wp-content/uploads/2014/12/IMG_8993.jpg "Solder paste")[768x576](/wp-content/uploads/2014/12/IMG_8993.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_8993.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_8993.jpg)                                                                                                  |
+| [![IMG_8766](/wp-content/uploads/2014/12/IMG_8766.jpg)](/wp-content/uploads/2014/12/IMG_8766.jpg "2.5 mm male stereo plug")[768x432](/wp-content/uploads/2014/12/IMG_8766.jpg)<br />[1024x576](/wp-content/uploads/2014/12/IMG_8766.jpg)<br />[1280x720](/wp-content/uploads/2014/12/IMG_8766.jpg)<br />[1280x720](/wp-content/uploads/2014/12/IMG_8766.jpg) |
+| [![IMG_8991](/wp-content/uploads/2014/12/IMG_8991.jpg)](/wp-content/uploads/2014/12/IMG_8991.jpg "1/16 inch heat shrink tubing")[768x576](/wp-content/uploads/2014/12/IMG_8991.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_8991.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_8991.jpg)                                                                                  |
+| [![IMG_8996](/wp-content/uploads/2014/12/IMG_8996.jpg)](/wp-content/uploads/2014/12/IMG_8996.jpg "A third hand")[768x576](/wp-content/uploads/2014/12/IMG_8996.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_8996.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_8996.jpg)                                                                                                  |
+| [![IMG_8998](/wp-content/uploads/2014/12/IMG_8998.jpg)](/wp-content/uploads/2014/12/IMG_8998.jpg "A soldering iron")[768x576](/wp-content/uploads/2014/12/IMG_8998.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_8998.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_8998.jpg)                                                                                              |
 
 
 ## Total cost of the project
@@ -113,7 +113,7 @@ Use the audio plug and take off the protective cover of the 2.5 mm stereo plug l
 
 ## Soldering the audio plug
 
-[![IMG_8785](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_8785.jpg)I do recommend that you start with soldering of the audio plug to the cable. This is the easiest part and can be completed quickly.
+[![IMG_8785](/wp-content/uploads/2014/12/IMG_8785.jpg)](/wp-content/uploads/2014/12/IMG_8785.jpg)I do recommend that you start with soldering of the audio plug to the cable. This is the easiest part and can be completed quickly.
 
 Take off the protective cap of the audio plug leaving the pins exposed. Pass the cable through the protective cap so that once finished, you can put the cap back on the audio plug.
 
@@ -131,7 +131,7 @@ Put the heat shrink tubing over each soldered section to protect the circuit.
 
 If you have issues finding which pin are what, refer to the following image:
 
-[![Audio plug 2.5 mm pins usage](http://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg)
+[![Audio plug 2.5 mm pins usage](/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg)](/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg)
 
 Audio plug 2.5 mm pins usage
 
@@ -149,11 +149,11 @@ Take your phone cable and insert the other end into the project box and tie a kn
 
 Soldering the switches<br /> 
 
-[![IMG_9004](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9004.jpg)
+[![IMG_9004](/wp-content/uploads/2014/12/IMG_9004.jpg)](/wp-content/uploads/2014/12/IMG_9004.jpg)
 
 Remote trigger auto-focus button
 
-[![IMG_9003](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/12/IMG_9003.jpg)
+[![IMG_9003](/wp-content/uploads/2014/12/IMG_9003.jpg)](/wp-content/uploads/2014/12/IMG_9003.jpg)
 
 Remote trigger shutter button
 
@@ -176,7 +176,7 @@ Final Result
 
 Here is the final result:
 
-[![DIY Remote trigger shutter release cable for your Canon DSLR camera](http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg)
+[![DIY Remote trigger shutter release cable for your Canon DSLR camera](/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg)](/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg)
 
 DIY Remote trigger shutter release cable for your Canon DSLR camera
 

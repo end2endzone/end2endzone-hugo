@@ -26,7 +26,7 @@ Voici de quoi la plage a l'air!
 &nbsp;
 
 {{< image-gallery >}}
-[![Sunset at Parc nationale du Mont-Tremblant #1](http://www.end2endzone.com/wp-content/uploads/2015/07/IMG_5235_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37549401452/in/dateposted-public/ "Sunset at Parc nationale du Mont-Tremblant #1")
-[![Sunset at Parc nationale du Mont-Tremblant #2](http://www.end2endzone.com/wp-content/uploads/2015/07/IMG_5239_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/23729083798/in/dateposted-public/ "Sunset at Parc nationale du Mont-Tremblant #2")
+[![Sunset at Parc nationale du Mont-Tremblant #1](/wp-content/uploads/2015/07/IMG_5235_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37549401452/in/dateposted-public/ "Sunset at Parc nationale du Mont-Tremblant #1")
+[![Sunset at Parc nationale du Mont-Tremblant #2](/wp-content/uploads/2015/07/IMG_5239_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/23729083798/in/dateposted-public/ "Sunset at Parc nationale du Mont-Tremblant #2")
 {{< /image-gallery >}}
 

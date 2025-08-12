@@ -82,11 +82,11 @@ Tout comme le projet de la cuisine, celui-ci peut être complété à petit budg
 
 Voici le prix détaillée de chacun des éléments:
 
-  * $8.13 - Bande d'éclairage DEL achetée sur eBay. Voir la [capture d'écran ici](http://www.end2endzone.com/wp-content/uploads/2014/08/LED-strip.png).
-  * $2.29 - Connecteur à 2 broches (1 seule couleur) pour bande DEL SMD 3528 acheté sur eBay. Voir la [capture d'écran ici](http://www.end2endzone.com/wp-content/uploads/2014/08/Connectors.png).
-  * $7.15 - Alimentation 36 Watts achetée sur eBay. Voir la [capture d'écran ici](http://www.end2endzone.com/wp-content/uploads/2014/08/Power-supply.png).
+  * $8.13 - Bande d'éclairage DEL achetée sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/LED-strip.png).
+  * $2.29 - Connecteur à 2 broches (1 seule couleur) pour bande DEL SMD 3528 acheté sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Connectors.png).
+  * $7.15 - Alimentation 36 Watts achetée sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Power-supply.png).
   * $0.00 -&nbsp;Cordon d’alimentation avec une prise murale à 3 broches. (J'en ai souvent plusieurs à la maison. Je récupère souvent plusieurs pièce et morceau avant de jeter un appareil aux ordures.
-  * $6.02 -&nbsp;Module gradateur pour DEL acheté sur eBay. Voir la [capture d'écran ici](http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer.png).
+  * $6.02 -&nbsp;Module gradateur pour DEL acheté sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Dimmer.png).
   * $3.98 - Deux interrupteurs mural à 3 voies acheté à&nbsp;la quincaillerie.
   * $4.00 - Fil électrique de couleur (j'ai utilisé du calibre 18) du magasin à un dollar.
   * $0.00 - 1x connecteur RCA male et 1x connecteur RCa femelle. J'en ai plusieurs à la maison.
@@ -103,7 +103,7 @@ Le temps de préparation est simple, il nécessite de tester tous le circuit ava
 
 Les étapes de construction sont tout aussi simple. Voici une photo du circuit en entier:
 
-[![Bedroom led lighting circuit](http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)](http://www.end2endzone.com/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)
+[![Bedroom led lighting circuit](/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)](/wp-content/uploads/2014/09/Bedroom-led-lighting-circuit.png)
 
 ## Tester le tout
 
@@ -117,7 +117,7 @@ Cette section définit les raisons fondamentales qui conduisent à la conception
 
 ### Orientation des DEL
 
-[![IMG_7135](http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7135.jpg)
+[![IMG_7135](/wp-content/uploads/2014/09/IMG_7135.jpg)](/wp-content/uploads/2014/09/IMG_7135.jpg)
 
 L'emplacement des DEL est évident. Cependant, je ne savais pas si je devais coller les DEL sur la plateforme et les orienter vers le bas ou les collés sur la base et les orienter vers l'extérieur. Si vous choisissez la deuxième option (vers l'extérieur), toute la partie inférieure de la chambre sera illuminé et la lumière ne sera pas aussi élevée que si les DEL sont orientés vers le bas.
 
@@ -129,7 +129,7 @@ Il s'avère que pour moi, la meilleure méthode était de les coller vers le bas
 
 ### Commutateurs
 
-[![IMG_7125](http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7125.jpg)
+[![IMG_7125](/wp-content/uploads/2014/09/IMG_7125.jpg)](/wp-content/uploads/2014/09/IMG_7125.jpg)
 
 J'ai eu de la difficulté à&nbsp;déterminer où je est-ce que je mettrais les interrupteurs et le gradateur. Ils devaient être facilement disponibles et ne devraient pas trop encombrer la tête du lit. Je voulais être capable de trouver les interrupteurs avec seulement mes mains, sans avoir à regarder d'avances où ils se trouvaient. Vous aurez justement besoin de les retrouver rapidement au milieu de la nuit lorsque que vous n'êtes pas tout à fait réveillé!
 
@@ -139,7 +139,7 @@ J'ai opté de positionner le circuit des commutateurs au même niveau que la tê
 
 ### Gradateur
 
-[![IMG_7099](http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7099.jpg)
+[![IMG_7099](/wp-content/uploads/2014/09/IMG_7099.jpg)](/wp-content/uploads/2014/09/IMG_7099.jpg)
 
 Le gradateur n'est pas souvent utilisé. La plupart du temps, vous voulez que l'intensité de la lumière soit à son niveau de luminosité minimum. Dans certains scénarios, vous voulez obtenir plus de lumière et c'est là que le gradateur est utile.
 
@@ -151,7 +151,7 @@ Pour cette raison, j'ai décidé de positionner le gradateur derrière la tête 
 
 ### Coupe
 
-[![DSC04092](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png)
+[![DSC04092](/wp-content/uploads/2014/08/DSC04092.png)](/wp-content/uploads/2014/08/DSC04092.png)
 
 La bande doit être coupée en trois sections soit une pour chaque côté de la base de lit. La bande peut être coupée en toute sécurité à tous les 3 DEL. Chaque point de coupe est identifié par les points de contact en cuivre. Il suffit de couper au milieu des points de contact et de laisser assez de cuivre pour les connecteurs à 2 broches.
 
@@ -159,7 +159,7 @@ Utilisez un ruban à mesurer pour calculer la longueur de chaque côté de la ba
 
 ### Collage
 
-[![IMG_7136](http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7136.jpg)
+[![IMG_7136](/wp-content/uploads/2014/09/IMG_7136.jpg)](/wp-content/uploads/2014/09/IMG_7136.jpg)
 
 C'est maintenant le temps de coller les DEL à la base du lit. Le côté opposé de la bande est adhésif et peut être utilisée pour coller la bande sur une surface. Assurez-vous que la surface de montage est propre et sec puisque vous ne pourrez pas plusieurs essais avant que la bande perdre sa capacité à adhérer à la paroi. Si la bande ne correspond pas exactement à la longueur de la base, n'oubliez pas de centrer la bande pour obtenir l'éclairage approprié.
 
@@ -167,7 +167,7 @@ J'ai décidé d'utiliser de la colle chaude pour fixer le début de la bande à 
 
 ### Connexion entre les bandes
 
-![IMG_7133](http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_7133.jpg) 
+![IMG_7133](/wp-content/uploads/2014/09/IMG_7133.jpg) 
 
 Utilisez les connecteurs pour relier ensemble chacune des bandes. Les connecteurs sont spécifiquement conçus pour connecter des bandes DEL ensemble. Vous avez juste à ouvrir une porte, faites glisser la bande en place et fermez la porte ce qui tiendra la bande en place. Lors de la liaison, assurez-vous que vous alignez la borne positive (rouge) et la borne négative (noire) de la bande avec le code de couleur appropriée du connecteur.
 
@@ -177,7 +177,7 @@ J'ai également utilisé de la colle chaude pour maintenir le connecteur collé 
 
 Voici une photo du résultat final:
 
-[![DIY Bedroom under the bed led lighting](http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/09/IMG_0846.jpg)
+[![DIY Bedroom under the bed led lighting](/wp-content/uploads/2014/09/IMG_0846.jpg)](/wp-content/uploads/2014/09/IMG_0846.jpg)
 
 DIY Bedroom under the bed led lighting
 

@@ -101,7 +101,7 @@ All functionalities of the library are available through the UI.
 
 Start the UI by launching rtttlOptimizerGui.exe.
 
-[![rtttlOptimizerGui with default options](http://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg)
+[![rtttlOptimizerGui with default options](/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg)](/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg)
 
 rtttlOptimizerGui with default options
 

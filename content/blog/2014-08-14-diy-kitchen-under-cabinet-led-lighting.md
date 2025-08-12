@@ -95,11 +95,11 @@ As I said before, this project can be completed at a pretty cheap price. The tot
 
 Here is the detailed price of each items:
 
-  * $8.13 - LED strips from ebay. See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/LED-strip.png).
-  * $2.29 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips from ebay. See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/Connectors.png).
-  * $7.15 -&nbsp;36 Watts power supply from ebay. See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/Power-supply.png).
+  * $8.13 - LED strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/LED-strip.png).
+  * $2.29 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/Connectors.png).
+  * $7.15 -&nbsp;36 Watts power supply from ebay. See [screenshot here](/wp-content/uploads/2014/08/Power-supply.png).
   * $0.00 -&nbsp;Power cord. (I had one lying around. I usually salvage all of them when recycling old appliance.
-  * $6.02 -&nbsp;LED dimmer from ebay. See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer.png).
+  * $6.02 -&nbsp;LED dimmer from ebay. See [screenshot here](/wp-content/uploads/2014/08/Dimmer.png).
   * $1.25 - Power switch from the hardware store.
   * $2.00 - Colored wire (I used gauge 18awg) from dollar store
   * $1.00 - Double sided tape
@@ -116,7 +116,7 @@ The preparation time is simple, it requires to test all the circuit before fixin
 
 Construction steps are very simple. Screw, wire everything up and enjoy. Here is a picture of the circuit that you need to assemble:
 
-[![Dimmer2](http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg)The dimmer has 2 input connections and 2 output connections. The input connections are labeled as "Input V- and Input V+" and output connections are labelled as "Output V+ and Output V-". I think this is pretty obvious and does not requires any explanations.
+[![Dimmer2](/wp-content/uploads/2014/08/Dimmer2.jpg)](/wp-content/uploads/2014/08/Dimmer2.jpg)The dimmer has 2 input connections and 2 output connections. The input connections are labeled as "Input V- and Input V+" and output connections are labelled as "Output V+ and Output V-". I think this is pretty obvious and does not requires any explanations.
 
 ## Testing everything together
 
@@ -133,7 +133,7 @@ Plug the power cord into the wall, turn on the switch and your LED should turn o
 ## Deciding where to put your stuff
 
 <center>
-  [![DSC04072](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg) [![DSC04068](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg)<br /> [![DSC04060](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg) [![DSC04062](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)
+  [![DSC04072](/wp-content/uploads/2014/08/DSC04072.jpg)](/wp-content/uploads/2014/08/DSC04072.jpg) [![DSC04068](/wp-content/uploads/2014/08/DSC04068.jpg)](/wp-content/uploads/2014/08/DSC04068.jpg)<br /> [![DSC04060](/wp-content/uploads/2014/08/DSC04060.jpg)](/wp-content/uploads/2014/08/DSC04060.jpg) [![DSC04062](/wp-content/uploads/2014/08/DSC04062.jpg)](/wp-content/uploads/2014/08/DSC04062.jpg)
 </center>
 
 I wanted to position the switch at a location where is can be reached easily with your fingers but I also wanted the switch to be invisible to the eye. I decided to install the switch below the cabinets but hidden behind the front panel under the cabinets. For the same reasons, the dimmer is located at the same location. I used double sided tape to stick the dimmer and the power switch in place. The tape is strong enough to keep the switch in place even when someone is turning the lights on or off.
@@ -142,21 +142,21 @@ I also decided to position the power supply below the cabinet, at the back. This
 
 Here is a view from below the cabinet:
 
-[![DSC04092](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png)Since I have 3 kitchen cabinets, I had to cut 3 slices of strip. The strip can be cut safely at every 3 LEDs. Each cut point is identified by the contact points in copper.Simply cut in the middle of the contact points to leave enough copper for the 2-pins connectors.
+[![DSC04092](/wp-content/uploads/2014/08/DSC04092.png)](/wp-content/uploads/2014/08/DSC04092.png)Since I have 3 kitchen cabinets, I had to cut 3 slices of strip. The strip can be cut safely at every 3 LEDs. Each cut point is identified by the contact points in copper.Simply cut in the middle of the contact points to leave enough copper for the 2-pins connectors.
 
 Use a flexible measuring tape to calculate the length of each cabinet and cut a section of the strip for each cabinet sections. If the length of the cabinet does not match a cut point, do not hesitate to get a smaller length since 3 missing LEDs wont make a difference. You just have to center the strip into the cabinet for proper lighting.
 
 ### Drilling
 
 <center>
-  [![DSC04085](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg) [![DSC04086](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg)
+  [![DSC04085](/wp-content/uploads/2014/08/DSC04085.jpg)](/wp-content/uploads/2014/08/DSC04085.jpg) [![DSC04086](/wp-content/uploads/2014/08/DSC04086.jpg)](/wp-content/uploads/2014/08/DSC04086.jpg)
 </center>
 
 In order to get electricity from one cabinet to another, I had to drill holes in the bottom of the cabinet. This is the only intrusive change that I had to do for this project. I had to drill holes to get the wires above the kitchen hood and above the sink.
 
 ### Sticking
 
-[![IMG_6846](http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg)
+[![IMG_6846](/wp-content/uploads/2014/08/IMG_6846.jpg)](/wp-content/uploads/2014/08/IMG_6846.jpg)
 
 # Made anything differently?
 

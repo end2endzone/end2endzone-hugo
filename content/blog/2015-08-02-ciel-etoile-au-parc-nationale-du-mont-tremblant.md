@@ -31,7 +31,7 @@ Le résultats est quand même très jolie pour une première tentative mais mes 
 
 {{< image-gallery >}}
   {{< figure
-      src="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5300_e2ez-672x448.jpg"
+      src="/wp-content/uploads/2015/08/IMG_5300_e2ez-672x448.jpg"
       link="https://www.flickr.com/photos/154618444@N05/36893577574/in/album-72157687682410954/"
       alt="La vue du Lac Monroe. Au loin, les montagnes et un peu de nuages. La grande ourse dans le ciel. On peut aussi apercevoir en bas à gauche la pollution lumineuse provenant du Village du Mont-Tremblant."
       caption="La vue du Lac Monroe. Au loin, les montagnes et un peu de nuages. La grande ourse dans le ciel. On peut aussi apercevoir en bas à gauche la pollution lumineuse provenant du Village du Mont-Tremblant."
@@ -43,7 +43,7 @@ Le résultats est quand même très jolie pour une première tentative mais mes 
       caption="Le ciel observé à plus de 60 degrés d'inclinaison. 30 secondes d'exposition au total. Les étoiles sont plus brillantes mais aussi plus élongées. Le ciel est aussi plus clair. On peut distinguer des teintes orangées et bleutées"
   >}}
   {{< figure
-      src="http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_5304_e2ez-672x448.jpg"
+      src="/wp-content/uploads/2015/08/IMG_5304_e2ez-672x448.jpg"
       link="https://www.flickr.com/photos/154618444@N05/51427401992/in/album-72157687682410954/"
       alt="Toujours une inclinaison de plus de 60 degrés mais avec seulement 20 secondes d'exposition au total. Les étoiles sont moins brillantes mais surtout moins élongées. Le ciel est sombre. On distingue les mêmes teintes orangées et bleutées. Certainement le meilleur rapport temps versus qualité."
       caption="Toujours une inclinaison de plus de 60 degrés mais avec seulement 20 secondes d'exposition au total. Les étoiles sont moins brillantes mais surtout moins élongées. Le ciel est sombre. On distingue les mêmes teintes orangées et bleutées. Certainement le meilleur rapport temps versus qualité."

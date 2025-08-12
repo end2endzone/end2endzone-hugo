@@ -29,6 +29,6 @@ Contrairement au vidéo, je ne peux pas utiliser tout l'ensemble des photos car 
 
 **Voici le résultat:**
 
-[![Star Trails over the woods of Mirabel](http://www.end2endzone.com/wp-content/uploads/2015/08/StarStaX_IMG_5753-IMG_6050_lighten_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37690259711/in/dateposted-public/)
+[![Star Trails over the woods of Mirabel](/wp-content/uploads/2015/08/StarStaX_IMG_5753-IMG_6050_lighten_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37690259711/in/dateposted-public/)
 
 Star Trails over the woods of Mirabel

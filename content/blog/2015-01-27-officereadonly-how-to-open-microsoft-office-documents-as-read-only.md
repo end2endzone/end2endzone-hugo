@@ -39,15 +39,15 @@ OfficeReadOnly also helps developers by keeping the file intact! Since OfficeRea
 
 # Screenshots
 
-[![Office Read Only (context menu)](http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu.png)](http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-context-menu.png)
+[![Office Read Only (context menu)](/wp-content/uploads/2015/01/Office-Read-Only-context-menu.png)](/wp-content/uploads/2015/01/Office-Read-Only-context-menu.png)
 
 Office Read Only (context menu)
 
-[![Office Read Only (send to menu)](http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu.png)](http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu.png)
+[![Office Read Only (send to menu)](/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu.png)](/wp-content/uploads/2015/01/Office-Read-Only-send-to-menu.png)
 
 Office Read Only (send to menu)
 
-[![Office Read Only (unsupported file)](http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file.png)](http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file.png)
+[![Office Read Only (unsupported file)](/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file.png)](/wp-content/uploads/2015/01/Office-Read-Only-unsupported-file.png)
 
 Office Read Only (unsupported file)
 
@@ -80,7 +80,7 @@ OfficeReadOnly is only available for the Windows platform and has been tested wi
 
 OfficeReadOnly is being distributed as Freeware for personal, commercial use, non-profit organization, and educational purpose. It may be included with CD-ROM/DVD-ROM distributions. You are NOT allowed to make a charge for distributing this Software (either for profit or merely to recover your media and distribution costs) whether as a stand-alone product, or as part of a compilation or anthology, nor to use it for supporting your business or customers. It may be distributed freely on any website or through any other distribution mechanism, as long as no part of it is changed in any way.
 
-The full license is available [here](http://www.end2endzone.com/wp-content/uploads/2015/01/Office-Read-Only-v1.2-EULA.htm).
+The full license is available [here](/wp-content/uploads/2015/01/Office-Read-Only-v1.2-EULA.htm).
 
 # History of changes
 

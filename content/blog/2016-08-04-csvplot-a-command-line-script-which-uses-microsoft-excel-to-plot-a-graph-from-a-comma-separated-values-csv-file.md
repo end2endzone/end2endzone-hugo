@@ -98,7 +98,7 @@ pause
 
 On execution, the following output is produced by the script:
 
-[![csvplot Command Line Output](http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png)](http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot-command-line-output.png)
+[![csvplot Command Line Output](/wp-content/uploads/2016/07/csvplot-command-line-output.png)](/wp-content/uploads/2016/07/csvplot-command-line-output.png)
 
 csvplot Command Line Output
 
@@ -143,7 +143,7 @@ The CSV data can be downloaded here:
 
 	[ Apple Share Prices over time (2015).csv](http://www.end2endzone.com/download/2212/ "Version 1.0")
 
-[![Apple Share Prices over time (2015) plot using cvsplot](http://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png)](http://www.end2endzone.com/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png)
+[![Apple Share Prices over time (2015) plot using cvsplot](/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png)](/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png)
 
 Apple Share Prices over time (2015) plot using cvsplot
 
@@ -154,7 +154,7 @@ The following show a hypothetical car engine model which speed increase of decre
 The CSV data can be downloaded here: 
 	[ Car Engine Model.csv](http://www.end2endzone.com/download/2214/ "Version 1.0")
 
-[![Car Engine Model plot using cvsplot](http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png)](http://www.end2endzone.com/wp-content/uploads/2016/07/csvplot.CarEngineModel.png)
+[![Car Engine Model plot using cvsplot](/wp-content/uploads/2016/07/csvplot.CarEngineModel.png)](/wp-content/uploads/2016/07/csvplot.CarEngineModel.png)
 
 Car Engine Model plot using cvsplot
 
@@ -165,7 +165,7 @@ The following show a graph of sin(), cos() and log() function in Excel.
 The CSV data can be downloaded here: 
 	[ sin(x), cos(x) & log(x) function data.csv](http://www.end2endzone.com/download/2216/ "Version 1.0")
 
-[![sin(x), cos(x) & log(x) plot using cvsplot](http://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png)](http://www.end2endzone.com/wp-content/uploads/2016/08/sinxcosxlogx.png)
+[![sin(x), cos(x) & log(x) plot using cvsplot](/wp-content/uploads/2016/08/sinxcosxlogx.png)](/wp-content/uploads/2016/08/sinxcosxlogx.png)
 
 sin(x), cos(x) & log(x) plot using cvsplot
 

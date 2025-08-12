@@ -192,8 +192,8 @@ The following section show the results of all my data capture sessions. Each dev
 
 | <!-- -->                                                                                                                                                                                                                                                                                                                 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Spektrum DX9 9-ch RC Tx](http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg "Spektrum DX9 9-ch RC Tx")[250x250](http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg) |
-| [![Orange R620X 6-ch RC Rx](http://www.end2endzone.com/wp-content/uploads/2016/02/Orange-R620X-6-ch-RC-Rx.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/02/Orange-R620X-6-ch-RC-Rx.jpg "Orange R620X 6-ch RC Rx")[250x250](http://www.end2endzone.com/wp-content/uploads/2016/02/Orange-R620X-6-ch-RC-Rx.jpg) |
+| [![Spektrum DX9 9-ch RC Tx](/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg)](/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg "Spektrum DX9 9-ch RC Tx")[250x250](/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg) |
+| [![Orange R620X 6-ch RC Rx](/wp-content/uploads/2016/02/Orange-R620X-6-ch-RC-Rx.jpg)](/wp-content/uploads/2016/02/Orange-R620X-6-ch-RC-Rx.jpg "Orange R620X 6-ch RC Rx")[250x250](/wp-content/uploads/2016/02/Orange-R620X-6-ch-RC-Rx.jpg) |
 
 
 **Table 1<br />**The Spektrum DX9 Tx & Orange R620X Rx shows a PWM range from **827 µs** to **2194 µs**. The following table shows the details of my data capture session:
@@ -403,8 +403,8 @@ Download the
 
 | <!-- -->                                                                                                                                                                                                                                                                                                                 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Spektrum DX9 9-ch RC Tx](http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg "Spektrum DX9 9-ch RC Tx")[250x250](http://www.end2endzone.com/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg) |
-| [![Spektrum AR8000 Rx](http://www.end2endzone.com/wp-content/uploads/2016/03/Spektrum-AR8000-Rx-1.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/03/Spektrum-AR8000-Rx-1.jpg "Spektrum AR8000 Rx")[250x250](http://www.end2endzone.com/wp-content/uploads/2016/03/Spektrum-AR8000-Rx-1.jpg)                    |
+| [![Spektrum DX9 9-ch RC Tx](/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg)](/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg "Spektrum DX9 9-ch RC Tx")[250x250](/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg) |
+| [![Spektrum AR8000 Rx](/wp-content/uploads/2016/03/Spektrum-AR8000-Rx-1.jpg)](/wp-content/uploads/2016/03/Spektrum-AR8000-Rx-1.jpg "Spektrum AR8000 Rx")[250x250](/wp-content/uploads/2016/03/Spektrum-AR8000-Rx-1.jpg)                    |
 
 
 **Table 1<br />**The Spektrum DX9 Tx & Spektrum AR8000 Rx shows a PWM range from **921 µs** to **2129 µs**. The following table shows the details of my data capture session:
@@ -614,8 +614,8 @@ Download the
 
 | <!-- -->                                                                                                                                                                                                                                                                                                               |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Tactic TTX600 6-ch Tx.jpg](http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg "Tactic TTX600 6-ch Tx.jpg")[250x250](http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg) |
-| [![Tactic TR624 6-ch Rx](http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TR624-6-ch-Rx.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TR624-6-ch-Rx.jpg "Tactic TR624 6-ch Rx")[250x250](http://www.end2endzone.com/wp-content/uploads/2016/03/Tactic-TR624-6-ch-Rx.jpg)              |
+| [![Tactic TTX600 6-ch Tx.jpg](/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg)](/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg "Tactic TTX600 6-ch Tx.jpg")[250x250](/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg) |
+| [![Tactic TR624 6-ch Rx](/wp-content/uploads/2016/03/Tactic-TR624-6-ch-Rx.jpg)](/wp-content/uploads/2016/03/Tactic-TR624-6-ch-Rx.jpg "Tactic TR624 6-ch Rx")[250x250](/wp-content/uploads/2016/03/Tactic-TR624-6-ch-Rx.jpg)              |
 
 
 **Notes:<br />**The TTX600 transmitter is not digital. This means that it is hard to reproduce the exact behavior every time. As you can see the result are pretty erratic. Each different channel has a different behavior.
@@ -920,7 +920,7 @@ Download the
 
 | <!-- -->                                                                                                                                                                                                                                                                                   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![CCPM Servo Tester](http://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg "CCPM Servo Tester")[250x250](http://www.end2endzone.com/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg) |
+| [![CCPM Servo Tester](/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg)](/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg "CCPM Servo Tester")[250x250](/wp-content/uploads/2016/03/CCPM-Servo-Tester.jpg) |
 
 
 **Table 1**  

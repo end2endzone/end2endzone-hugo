@@ -31,6 +31,6 @@ Une belle journée de vol s'annonce.
 {{< image-gallery >}}
 | <!-- -->                                                                                                                                                                                                                                 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6162_LR5.jpg)](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6162_LR5.jpg)[1620x1080](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6162_LR5.jpg) |
-| [![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6159_LR5.jpg)](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6159_LR5.jpg)[1620x1080](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6159_LR5.jpg) |
+| [![](/wp-content/uploads/2015/08/IMG_6162_LR5.jpg)](/wp-content/uploads/2015/08/IMG_6162_LR5.jpg)[1620x1080](/wp-content/uploads/2015/08/IMG_6162_LR5.jpg) |
+| [![](/wp-content/uploads/2015/08/IMG_6159_LR5.jpg)](/wp-content/uploads/2015/08/IMG_6159_LR5.jpg)[1620x1080](/wp-content/uploads/2015/08/IMG_6159_LR5.jpg) |
 {{< /image-gallery >}}

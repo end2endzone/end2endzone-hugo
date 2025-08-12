@@ -47,23 +47,23 @@ You can download extTools by clicking on the following links:
 
 | <!-- -->                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![extWebGet screenshot](http://www.end2endzone.com/wp-content/uploads/2014/10/extWebGet-screenshot.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extWebGet-screenshot.png "extWebGet screenshot")[660x150](http://www.end2endzone.com/wp-content/uploads/2014/10/extWebGet-screenshot.png)                                                                                                                         |
-| [![extGuid screenshot](http://www.end2endzone.com/wp-content/uploads/2014/10/extGuid-screenshot.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extGuid-screenshot.png "extGuid screenshot")[468x363](http://www.end2endzone.com/wp-content/uploads/2014/10/extGuid-screenshot.png)                                                                                                                                   |
-| [![extHashCalculator screenshot (md5)](http://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png "extHashCalculator screenshot (md5)")[360x135](http://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png)                                                         |
-| [![extImageEncoder screenshot](http://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot.png "extImageEncoder screenshot")[660x559](http://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot.png)                                                                                           |
-| [![extSearch screenshot](http://www.end2endzone.com/wp-content/uploads/2014/10/extSearch-screenshot.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extSearch-screenshot.png "extSearch screenshot")[677x485](http://www.end2endzone.com/wp-content/uploads/2014/10/extSearch-screenshot.png)                                                                                                                         |
-| [![extTools screenshot (clipboard)](http://www.end2endzone.com/wp-content/uploads/2014/10/extTools-screenshot-clipboard.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extTools-screenshot-clipboard.png "extTools screenshot (clipboard)")[413x292](http://www.end2endzone.com/wp-content/uploads/2014/10/extTools-screenshot-clipboard.png)                                                                        |
-| [![extFileSplitter screenshot (split)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileSplitter-screenshot-split.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileSplitter-screenshot-split.png "extFileSplitter screenshot (split)")[450x245](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileSplitter-screenshot-split.png)                                                         |
-| [![extFileSplitter screenshot (join)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileSplitter-screenshot-join.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileSplitter-screenshot-join.png "extFileSplitter screenshot (join)")[450x245](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileSplitter-screenshot-join.png)                                                              |
-| [![extFileRenamer screenshot (search & replace #1)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-search-replace-1.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-search-replace-1.png "extFileRenamer screenshot (search & replace #1)")[660x690](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-search-replace-1.png) |
-| [![extFileRenamer screenshot (search & replace #2)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-search-replace-2.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-search-replace-2.png "extFileRenamer screenshot (search & replace #2)")[660x690](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-search-replace-2.png) |
-| [![extFileRenamer screenshot (pattern #1)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png "extFileRenamer screenshot (pattern #1)")[660x690](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png)                                        |
-| [![extFileRenamer screenshot (pattern #2)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-2.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-2.png "extFileRenamer screenshot (pattern #2)")[660x690](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-2.png)                                        |
-| [![extDelete screenshot](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot.png "extDelete screenshot")[576x264](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot.png)                                                                                                                         |
-| [![extDelete screenshot (secure delete mode)](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-secure-delete-mode.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-secure-delete-mode.png "extDelete screenshot (secure delete mode)")[560x305](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-secure-delete-mode.png)                      |
-| [![extDelete screenshot (normal delete mode)](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-normal-delete-mode.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-normal-delete-mode.png "extDelete screenshot (normal delete mode)")[560x220](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-normal-delete-mode.png)                      |
-| [![extDelete screenshot (fast delete mode)](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-fast-delete-mode.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-fast-delete-mode.png "extDelete screenshot (fast delete mode)")[560x230](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-fast-delete-mode.png)                                |
-| [![extBatchFileProcessor screenshot](http://www.end2endzone.com/wp-content/uploads/2014/10/extBatchFileProcessor-screenshot.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extBatchFileProcessor-screenshot.png "extBatchFileProcessor screenshot")[503x316](http://www.end2endzone.com/wp-content/uploads/2014/10/extBatchFileProcessor-screenshot.png)                                                             |
+| [![extWebGet screenshot](/wp-content/uploads/2014/10/extWebGet-screenshot.png)](/wp-content/uploads/2014/10/extWebGet-screenshot.png "extWebGet screenshot")[660x150](/wp-content/uploads/2014/10/extWebGet-screenshot.png)                                                                                                                         |
+| [![extGuid screenshot](/wp-content/uploads/2014/10/extGuid-screenshot.png)](/wp-content/uploads/2014/10/extGuid-screenshot.png "extGuid screenshot")[468x363](/wp-content/uploads/2014/10/extGuid-screenshot.png)                                                                                                                                   |
+| [![extHashCalculator screenshot (md5)](/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png)](/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png "extHashCalculator screenshot (md5)")[360x135](/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png)                                                         |
+| [![extImageEncoder screenshot](/wp-content/uploads/2014/10/extImageEncoder-screenshot.png)](/wp-content/uploads/2014/10/extImageEncoder-screenshot.png "extImageEncoder screenshot")[660x559](/wp-content/uploads/2014/10/extImageEncoder-screenshot.png)                                                                                           |
+| [![extSearch screenshot](/wp-content/uploads/2014/10/extSearch-screenshot.png)](/wp-content/uploads/2014/10/extSearch-screenshot.png "extSearch screenshot")[677x485](/wp-content/uploads/2014/10/extSearch-screenshot.png)                                                                                                                         |
+| [![extTools screenshot (clipboard)](/wp-content/uploads/2014/10/extTools-screenshot-clipboard.png)](/wp-content/uploads/2014/10/extTools-screenshot-clipboard.png "extTools screenshot (clipboard)")[413x292](/wp-content/uploads/2014/10/extTools-screenshot-clipboard.png)                                                                        |
+| [![extFileSplitter screenshot (split)](/wp-content/uploads/2014/10/extFileSplitter-screenshot-split.png)](/wp-content/uploads/2014/10/extFileSplitter-screenshot-split.png "extFileSplitter screenshot (split)")[450x245](/wp-content/uploads/2014/10/extFileSplitter-screenshot-split.png)                                                         |
+| [![extFileSplitter screenshot (join)](/wp-content/uploads/2014/10/extFileSplitter-screenshot-join.png)](/wp-content/uploads/2014/10/extFileSplitter-screenshot-join.png "extFileSplitter screenshot (join)")[450x245](/wp-content/uploads/2014/10/extFileSplitter-screenshot-join.png)                                                              |
+| [![extFileRenamer screenshot (search & replace #1)](/wp-content/uploads/2014/10/extFileRenamer-screenshot-search-replace-1.png)](/wp-content/uploads/2014/10/extFileRenamer-screenshot-search-replace-1.png "extFileRenamer screenshot (search & replace #1)")[660x690](/wp-content/uploads/2014/10/extFileRenamer-screenshot-search-replace-1.png) |
+| [![extFileRenamer screenshot (search & replace #2)](/wp-content/uploads/2014/10/extFileRenamer-screenshot-search-replace-2.png)](/wp-content/uploads/2014/10/extFileRenamer-screenshot-search-replace-2.png "extFileRenamer screenshot (search & replace #2)")[660x690](/wp-content/uploads/2014/10/extFileRenamer-screenshot-search-replace-2.png) |
+| [![extFileRenamer screenshot (pattern #1)](/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png)](/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png "extFileRenamer screenshot (pattern #1)")[660x690](/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png)                                        |
+| [![extFileRenamer screenshot (pattern #2)](/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-2.png)](/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-2.png "extFileRenamer screenshot (pattern #2)")[660x690](/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-2.png)                                        |
+| [![extDelete screenshot](/wp-content/uploads/2014/10/extDelete-screenshot.png)](/wp-content/uploads/2014/10/extDelete-screenshot.png "extDelete screenshot")[576x264](/wp-content/uploads/2014/10/extDelete-screenshot.png)                                                                                                                         |
+| [![extDelete screenshot (secure delete mode)](/wp-content/uploads/2014/10/extDelete-screenshot-secure-delete-mode.png)](/wp-content/uploads/2014/10/extDelete-screenshot-secure-delete-mode.png "extDelete screenshot (secure delete mode)")[560x305](/wp-content/uploads/2014/10/extDelete-screenshot-secure-delete-mode.png)                      |
+| [![extDelete screenshot (normal delete mode)](/wp-content/uploads/2014/10/extDelete-screenshot-normal-delete-mode.png)](/wp-content/uploads/2014/10/extDelete-screenshot-normal-delete-mode.png "extDelete screenshot (normal delete mode)")[560x220](/wp-content/uploads/2014/10/extDelete-screenshot-normal-delete-mode.png)                      |
+| [![extDelete screenshot (fast delete mode)](/wp-content/uploads/2014/10/extDelete-screenshot-fast-delete-mode.png)](/wp-content/uploads/2014/10/extDelete-screenshot-fast-delete-mode.png "extDelete screenshot (fast delete mode)")[560x230](/wp-content/uploads/2014/10/extDelete-screenshot-fast-delete-mode.png)                                |
+| [![extBatchFileProcessor screenshot](/wp-content/uploads/2014/10/extBatchFileProcessor-screenshot.png)](/wp-content/uploads/2014/10/extBatchFileProcessor-screenshot.png "extBatchFileProcessor screenshot")[503x316](/wp-content/uploads/2014/10/extBatchFileProcessor-screenshot.png)                                                             |
 
 
 # Application components<br /> 
@@ -72,7 +72,7 @@ Below is all the tools that are included in extTools. A quick description is ava
 
 ## extFileRenamer
 
-[![extFileRenamer screenshot (pattern #1)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png)
+[![extFileRenamer screenshot (pattern #1)](/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png)](/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png)
 
 extFileRenamer screenshot (pattern #1)
 
@@ -133,7 +133,7 @@ To remove the artist and album name from MP3 files, set _replace from_&nbsp;fiel
 
 ## extSearch
 
-[![extSearch screenshot](http://www.end2endzone.com/wp-content/uploads/2014/10/extSearch-screenshot.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extSearch-screenshot.png)
+[![extSearch screenshot](/wp-content/uploads/2014/10/extSearch-screenshot.png)](/wp-content/uploads/2014/10/extSearch-screenshot.png)
 
 extSearch screenshot
 
@@ -151,7 +151,7 @@ extSearch allows searching for a file using multiple criteria:
 
 All features of extTools are available through a shell explorer add-on. A nice feature of extTools is how the clipboard is managed:
 
-[![extTools screenshot (clipboard)](http://www.end2endzone.com/wp-content/uploads/2014/10/extTools-screenshot-clipboard.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extTools-screenshot-clipboard.png)
+[![extTools screenshot (clipboard)](/wp-content/uploads/2014/10/extTools-screenshot-clipboard.png)](/wp-content/uploads/2014/10/extTools-screenshot-clipboard.png)
 
 extTools screenshot (clipboard)
 
@@ -163,7 +163,7 @@ extTools screenshot (clipboard)
 
 ## extBatchFileProcessor
 
-[![extBatchFileProcessor screenshot](http://www.end2endzone.com/wp-content/uploads/2014/10/extBatchFileProcessor-screenshot.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extBatchFileProcessor-screenshot.png)
+[![extBatchFileProcessor screenshot](/wp-content/uploads/2014/10/extBatchFileProcessor-screenshot.png)](/wp-content/uploads/2014/10/extBatchFileProcessor-screenshot.png)
 
 extBatchFileProcessor screenshot
 
@@ -181,7 +181,7 @@ With extBatchFileProcessor, you can queue a copy operation of the missing folder
 
 ## extDelete
 
-[![extDelete screenshot](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot.png)
+[![extDelete screenshot](/wp-content/uploads/2014/10/extDelete-screenshot.png)](/wp-content/uploads/2014/10/extDelete-screenshot.png)
 
 extDelete screenshot
 
@@ -191,7 +191,7 @@ extDelete supports 3 deletion modes:
 
 ### Normal
 
-[![extDelete screenshot (normal delete mode)](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-normal-delete-mode.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-normal-delete-mode.png)
+[![extDelete screenshot (normal delete mode)](/wp-content/uploads/2014/10/extDelete-screenshot-normal-delete-mode.png)](/wp-content/uploads/2014/10/extDelete-screenshot-normal-delete-mode.png)
 
 extDelete screenshot (normal delete mode)
 
@@ -199,7 +199,7 @@ This mode is the standard mode. It is really similar to the default Windows fold
 
 ### Fast
 
-[![extDelete screenshot (fast delete mode)](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-fast-delete-mode.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-fast-delete-mode.png)
+[![extDelete screenshot (fast delete mode)](/wp-content/uploads/2014/10/extDelete-screenshot-fast-delete-mode.png)](/wp-content/uploads/2014/10/extDelete-screenshot-fast-delete-mode.png)
 
 extDelete screenshot (fast delete mode)
 
@@ -218,7 +218,7 @@ Using extDelete would start deleting files and recovering space right away!
 
 ### Secure
 
-[![extDelete screenshot (secure delete mode)](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-secure-delete-mode.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extDelete-screenshot-secure-delete-mode.png)
+[![extDelete screenshot (secure delete mode)](/wp-content/uploads/2014/10/extDelete-screenshot-secure-delete-mode.png)](/wp-content/uploads/2014/10/extDelete-screenshot-secure-delete-mode.png)
 
 extDelete screenshot (secure delete mode)
 
@@ -233,7 +233,7 @@ This mode allows a user to destroy the content of every file ([Zeroisation](http
 
 ## extFileSplitter
 
-[![extFileSplitter screenshot (split)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileSplitter-screenshot-split.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileSplitter-screenshot-split.png)
+[![extFileSplitter screenshot (split)](/wp-content/uploads/2014/10/extFileSplitter-screenshot-split.png)](/wp-content/uploads/2014/10/extFileSplitter-screenshot-split.png)
 
 extFileSplitter screenshot (split)
 
@@ -243,7 +243,7 @@ Supported split values are bytes, kilobytes, megabytes, gigabytes or "files" whi
 
 Each file is split into smaller files which have the same name as the original with a sequential number append at the end. For instance, big\_file.mp4 will be split into big\_file.mp4.001, big\_file.mp4.002, big\_file.mp4.003, big_file.mp4.004 and so forth.
 
-[![extFileSplitter screenshot (join)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileSplitter-screenshot-join.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extFileSplitter-screenshot-join.png)
+[![extFileSplitter screenshot (join)](/wp-content/uploads/2014/10/extFileSplitter-screenshot-join.png)](/wp-content/uploads/2014/10/extFileSplitter-screenshot-join.png)
 
 extFileSplitter screenshot (join)
 
@@ -258,7 +258,7 @@ extFileSplitter is really useful for splitting a huge file on multiple medias (C
 
 ##  extImageEncoder
 
-[![extImageEncoder screenshot](http://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extImageEncoder-screenshot.png)
+[![extImageEncoder screenshot](/wp-content/uploads/2014/10/extImageEncoder-screenshot.png)](/wp-content/uploads/2014/10/extImageEncoder-screenshot.png)
 
 extImageEncoder screenshot
 
@@ -275,7 +275,7 @@ extImageEncoder only supports [lossless](http://en.wikipedia.org/wiki/Lossless_c
 
 ## extWebGet
 
-[![extWebGet screenshot](http://www.end2endzone.com/wp-content/uploads/2014/10/extWebGet-screenshot.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extWebGet-screenshot.png)
+[![extWebGet screenshot](/wp-content/uploads/2014/10/extWebGet-screenshot.png)](/wp-content/uploads/2014/10/extWebGet-screenshot.png)
 
 extWebGet screenshot
 
@@ -285,7 +285,7 @@ Good usage involves downloading file that would not be downloadable from an inte
 
 ## extHashCalculator
 
-[![extHashCalculator screenshot (md5)](http://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png)
+[![extHashCalculator screenshot (md5)](/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png)](/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png)
 
 extHashCalculator screenshot (md5)
 
@@ -301,7 +301,7 @@ extHashCalculator supports the following hash algorithms:
 
 ## extGuid
 
-[![extGuid screenshot](http://www.end2endzone.com/wp-content/uploads/2014/10/extGuid-screenshot.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extGuid-screenshot.png)
+[![extGuid screenshot](/wp-content/uploads/2014/10/extGuid-screenshot.png)](/wp-content/uploads/2014/10/extGuid-screenshot.png)
 
 extGuid screenshot
 
@@ -333,7 +333,7 @@ static const GUID <<name>> =
 
 ## extAnsiPrinter
 
-[![extAnsiPrinter screenshot (apple)](http://www.end2endzone.com/wp-content/uploads/2014/10/extAnsiPrinter-screenshot-apple.png)](http://www.end2endzone.com/wp-content/uploads/2014/10/extAnsiPrinter-screenshot-apple.png)
+[![extAnsiPrinter screenshot (apple)](/wp-content/uploads/2014/10/extAnsiPrinter-screenshot-apple.png)](/wp-content/uploads/2014/10/extAnsiPrinter-screenshot-apple.png)
 
 extAnsiPrinter screenshot (apple)
 

@@ -69,7 +69,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
 
 * Ouvrir _**Microsoft Word**_.
 * Naviguer au menu **_Affichage_** du **_ruban_**.
-* Cliquer sur le bouton _**Macros**_ pour ouvrir l'éditeur de macro Microsoft Visual Basic.<br /> [![](http://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)
+* Cliquer sur le bouton _**Macros**_ pour ouvrir l'éditeur de macro Microsoft Visual Basic.<br /> [![](/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)](/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)
 * Entrer un nom de macro bidon. Par exemple '_police_'.
 * Cliquer sur le bouton Créer.
 * Dans la fenêtre Projet, repérer les deux noeuds principaux soient _**Normal**_ ou _**Project (Document1)**_.
@@ -79,7 +79,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
 <li>
   Un nouveau noeud nommé _**Modules**_ sera créer. Sous **_Modules_**, vous pourrez apercevoir le nouveau module:&nbsp;_**ListInstalledFont**_. <p>
     <div id="attachment_2355" style="width: 190px" class="wp-caption alignnone">
-      [![ListInstalledFonts - Module installé sous Normal](http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Module-installé-sous-Normal.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Module-installé-sous-Normal.jpg)
+      [![ListInstalledFonts - Module installé sous Normal](/wp-content/uploads/2016/12/ListInstalledFonts-Module-installé-sous-Normal.jpg)](/wp-content/uploads/2016/12/ListInstalledFonts-Module-installé-sous-Normal.jpg)
       
       <p id="caption-attachment-2355" class="wp-caption-text">
         ListInstalledFonts - Module installé sous Normal
@@ -87,7 +87,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
     </div>
 </li> 
     
-    * Cliquer sur le l'icône de sauvegarde (&nbsp;[![microsoft-word-save-icon](http://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)&nbsp;)&nbsp;pour sauvegarder le nouveau module.
+    * Cliquer sur le l'icône de sauvegarde (&nbsp;[![microsoft-word-save-icon](/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)](/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)&nbsp;)&nbsp;pour sauvegarder le nouveau module.
     * Fermer l'éditeur de macro Microsoft Visual Basic.</ol> 
     
     Le module est maintenant installé sur le système.
@@ -107,7 +107,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
     <ol>
       * Ouvrir _**Microsoft Word**_.
       * Naviguer au menu **_Affichage_** du **_ruban_**.
-      * Cliquer sur le bouton _**Macros**_ pour ouvrir l'éditeur de macro Microsoft Visual Basic.<br /> [![](http://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)
+      * Cliquer sur le bouton _**Macros**_ pour ouvrir l'éditeur de macro Microsoft Visual Basic.<br /> [![](/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)](/wp-content/uploads/2016/12/Microsoft-Word-Menu-Macros-du-Ruban.jpg)
       * Entrer un nom de macro bidon. Par exemple '_police_'.
       * Cliquer sur le bouton Créer.
       * Dans la fenêtre Projet, repérer les deux noeuds principaux soient _**Normal**_ ou _**Project (Document1)**_.
@@ -117,7 +117,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
       * Dans la fenêtre _**Propriété - Module1**_, repérer la propriété **_Name_** du module dont la valeur est _**Module1**_.
       * Changer la valeur de la propriété pour la valeur _**ListInstalledFonts**_.
       * Coller le code dans la section de droite de l'éditeur. Le contenu du script devrait s'afficher.
-      * Cliquer sur le l'icône de sauvegarde (&nbsp;[![microsoft-word-save-icon](http://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)&nbsp;)&nbsp;pour sauvegarder le nouveau module.
+      * Cliquer sur le l'icône de sauvegarde (&nbsp;[![microsoft-word-save-icon](/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)](/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)&nbsp;)&nbsp;pour sauvegarder le nouveau module.
       * Fermer l'éditeur de macro Microsoft Visual Basic.
     </ol>
     
@@ -136,7 +136,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
       <li>
         Sélectionner la macro _**ListInstalledFonts**_. <p>
           <div id="attachment_2357" style="width: 560px" class="wp-caption alignnone">
-            [![Éditeur de macro Microsoft Word - Macro ListInstalledFonts sélectionnée](http://www.end2endzone.com/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée.jpg)
+            [![Éditeur de macro Microsoft Word - Macro ListInstalledFonts sélectionnée](/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée.jpg)](/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée.jpg)
             
             <p id="caption-attachment-2357" class="wp-caption-text">
               Éditeur de macro Microsoft Word - Macro ListInstalledFonts sélectionnée
@@ -148,7 +148,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
           <li>
             La fenêtre suivante s'ouvrira: <p>
               <div id="attachment_2354" style="width: 383px" class="wp-caption alignnone">
-                [![ListInstalledFonts - Sélection d'un exemple de texte](http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Sélection-dun-exemple-de-texte.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/12/ListInstalledFonts-Sélection-dun-exemple-de-texte.jpg)
+                [![ListInstalledFonts - Sélection d'un exemple de texte](/wp-content/uploads/2016/12/ListInstalledFonts-Sélection-dun-exemple-de-texte.jpg)](/wp-content/uploads/2016/12/ListInstalledFonts-Sélection-dun-exemple-de-texte.jpg)
                 
                 <p id="caption-attachment-2354" class="wp-caption-text">
                   ListInstalledFonts - Sélection d'un exemple de texte
@@ -169,7 +169,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
               
               <p>
                 <div id="attachment_2350" style="width: 863px" class="wp-caption alignnone">
-                  [![Exemple de d'affichage toutes les polices](http://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg)](http://www.end2endzone.com/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg)
+                  [![Exemple de d'affichage toutes les polices](/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg)](/wp-content/uploads/2016/12/Comment-affichier-une-liste-de-toutes-les-polices-dans-Microsoft-Word.jpg)
                   
                   <p id="caption-attachment-2350" class="wp-caption-text">
                     Exemple de d'affichage toutes les polices

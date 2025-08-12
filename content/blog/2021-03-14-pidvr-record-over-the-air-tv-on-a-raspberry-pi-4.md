@@ -282,7 +282,7 @@ After installation, connect to the tvheadend web interface to configure the appl
 
 ### Welcome (1 of 2)
 
-[![tvheadend - welcome page (1 or 2)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01.png)
+[![tvheadend - welcome page (1 or 2)](/wp-content/uploads/2021/03/tvheadend_screenshot01.png)](/wp-content/uploads/2021/03/tvheadend_screenshot01.png)
 
 tvheadend - welcome page (1 or 2)
 
@@ -301,7 +301,7 @@ _Note: Since we actually changed the language of the web interface, the same pag
 
 ![](RackMultipart20210314-4-ej0w6x_html_8ff4b1990405bb00.png) 
 
-[![tvheadend - welcome page (2 or 2)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot02.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot02.png)
+[![tvheadend - welcome page (2 or 2)](/wp-content/uploads/2021/03/tvheadend_screenshot02.png)](/wp-content/uploads/2021/03/tvheadend_screenshot02.png)
 
 tvheadend - welcome page (2 or 2)
 
@@ -315,7 +315,7 @@ Click **Save & Next** to get to the next page.
 
 ### Network settings
 
-[![tvheadend - network settings](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03.png)
+[![tvheadend - network settings](/wp-content/uploads/2021/03/tvheadend_screenshot03.png)](/wp-content/uploads/2021/03/tvheadend_screenshot03.png)
 
 tvheadend - network settings
 
@@ -329,7 +329,7 @@ Click **Save & Next** to get to the next page.
 
 ### Assign predefined muxes to networks
 
-[![tvheadend - muxes](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04.png)
+[![tvheadend - muxes](/wp-content/uploads/2021/03/tvheadend_screenshot04.png)](/wp-content/uploads/2021/03/tvheadend_screenshot04.png)
 
 tvheadend - muxes
 
@@ -339,13 +339,13 @@ Click **Save & Next** to get to the next page.
 
 ### Scan status
 
-[![tvheadend - scan status](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a.png)
+[![tvheadend - scan status](/wp-content/uploads/2021/03/tvheadend_screenshot05a.png)](/wp-content/uploads/2021/03/tvheadend_screenshot05a.png)
 
 tvheadend - scan status
 
 The scan will now commence. It will search for "muxes" and "services" that are distributed via those muxes. Note, a service is a TV channel. When the scan hits 100% you'll be able to see how many muxes and services it's picked up.
 
-[![tvheadend - scan status (100% completed)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b.png)
+[![tvheadend - scan status (100% completed)](/wp-content/uploads/2021/03/tvheadend_screenshot05b.png)](/wp-content/uploads/2021/03/tvheadend_screenshot05b.png)
 
 tvheadend - scan status (100% completed)
 
@@ -353,7 +353,7 @@ Click **Save & Next** to get to the next page
 
 ### Service mapping
 
-[![tvheadend - service mapping](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06.png)
+[![tvheadend - service mapping](/wp-content/uploads/2021/03/tvheadend_screenshot06.png)](/wp-content/uploads/2021/03/tvheadend_screenshot06.png)
 
 tvheadend - service mapping
 
@@ -363,7 +363,7 @@ Click **Save & Next** to get to the next page.
 
 ### Finished
 
-[![tvheadend - setup finished](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07.png)
+[![tvheadend - setup finished](/wp-content/uploads/2021/03/tvheadend_screenshot07.png)](/wp-content/uploads/2021/03/tvheadend_screenshot07.png)
 
 tvheadend - setup finished
 
@@ -489,7 +489,7 @@ For example:
 
 ![](RackMultipart20210314-4-ej0w6x_html_16af1b06ba9c6ad8.png) The tv guide seems to be still using non-utf8 characters. This is still an open issue and I have not yet figured out a way to solve the issue:
 
-[![](http://www.end2endzone.com/wp-content/uploads/2021/03/EPG-utf-8-bug.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/EPG-utf-8-bug.png)&nbsp;
+[![](/wp-content/uploads/2021/03/EPG-utf-8-bug.png)](/wp-content/uploads/2021/03/EPG-utf-8-bug.png)&nbsp;
 
 ## Configure Kodi to connect to tvheadend
 
