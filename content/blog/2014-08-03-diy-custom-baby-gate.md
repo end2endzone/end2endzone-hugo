@@ -21,7 +21,7 @@ tags:
   - multilingual
 
 ---
-# **Introduction **
+# Introduction 
 
 Following the birth of a child and after the celebration is all the stuff you have to buy to protect the house of "potential dangers". Quickly, you realize that you need to buy a baby gate.
 
@@ -35,9 +35,9 @@ I looked at several models and I have not found a model that can suit my needs a
 
 Unfortunately, the area to be protected is very large and I have not managed to find a gate that is long enough and solid to block the access to the stairs. This is how I started this project: ​​build my own baby gate.
 
-# **Project data**
+# Project data
 
-## **Equipment**
+## Equipment
 
 The material for this project is as follows:
 
@@ -48,19 +48,19 @@ The material for this project is as follows:
   * Hinges
   * Latch
 
-## **Total cost of the project**
+## Total cost of the project
 
 The total cost of the project is about 80$ which is quite high for this type of project. The total cost includes a lot of wasted wood.
 
-## **Preparation time**
+## Preparation time
 
 The whole thing took about 10-15 hours to complete (I do not have the exact time) not counting the drying time for dyeing. This includes the time to buy wood and all stages of construction.
 
-# **Building steps**
+# Building steps
 
 Construction steps are very simple. Just cut and assemble.
 
-## **Cutting and Sanding**
+## Cutting and Sanding
 
 The easiest to begin with is to start with the posts. A total of 11 posts are needed. One of them will be use to attach the gate to the wall and a second one that ends flush with the gate to lock with the ramp. You need to cut 11 bars of 2x2 each one with a length of 35¾ inches.
 
@@ -70,11 +70,11 @@ The first post of the gate is special. It should be cut in an angle of 45 degree
 
 Sand all parts before assembly.
 
-## **Assembly**
+## Assembly
 
 There is nothing special to say to assemble the posts. Each one is screwed to the top and bottom rails. Each one is spaced by 4 inches which  is a regular space for a stair railing.
 
-### **Fixing the ramp**
+### Fixing the ramp
 
 The innovation of this baby gate is related to the means used for fixing to the rail. This solution is not intrusive and does not leave a mark on the ramp when the barrier will no longer be necessary. No attachments or adhesive is required and the whole is as strong as the ramp.
 
@@ -83,27 +83,27 @@ The ramp is composed of two vertical bars on each side of the horizontal rail.
 [![IMG_9295](/wp-content/uploads/2014/07/IMG_9295.jpg)](/wp-content/uploads/2014/07/IMG_9295.jpg)  
  ****
 
-## **Dying**
+## Dying
 
 Once assembly is complete, you only have to dye the wood to the right color.
 
 [![DSC02242](/wp-content/uploads/2014/07/DSC02242.jpg)](/wp-content/uploads/2014/07/DSC02242.jpg)When you apply a dye, you must be careful not to judge the appearance of the dye when it is dry. A dye like the photos has a brown-purple appearance when applied on wood and wet.
 
-## **Installation**
+## Installation
 
-### **Wall mounting**
+### Wall mounting
 
 For mounting on the wall, I used one of the bars that will be screwed into the wall through the plaster using two plaster screws. I have installed two hinges on the bar to be attached to the first rung of the fence (the one with a cut at 45 degrees).
 
-# **Final Result**
+# Final Result
 
 Here is the final result:
 
 [![DSC02299](/wp-content/uploads/2014/07/DSC02299.jpg)](/wp-content/uploads/2014/07/DSC02299.jpg)**
 
-# **Made anything differently?**
+# Made anything differently?
 
-## **Take your time and do not skip step**
+## Take your time and do not skip step
 
 I was not convinced of the feasibility of the barrier when I started this project and so I did not do things in the right order. I was also too hurry to see the final product so I didn't dye the wood before assembling it.
 
@@ -111,10 +111,10 @@ I was not convinced of the feasibility of the barrier when I started this projec
 
 Dying the wood each piece at a time would have been more uniform and would have avoided drops everywhere. However, these details are not visible to more than 3 meters from the barrier.
 
-## **Search for a finished product**
+## Search for a finished product
 
 I should have used a better wood quality. I have not taken the time to find the right wood to work with. I used the cheapest wood I could find at Home Depot but also wood for outdoor use instead of one with a more finished appearance for indoor use.
 
-# **Notes**
+# Notes
 
 none
