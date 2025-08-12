@@ -15,7 +15,6 @@ tags:
 
 ---
 During summer 2013, I have found myself with a high interest in flying an RC plane. I didn’t know what to expect from this but I wanted to get a new toy to play with. Like everyone, I thought that flying a plane was not that hard and that I could easily manage to fly any kind of plane. I was wrong. During my search for the best plane, I learned about the [Hobby Zone Super Cub LP RTF](http://secure.hobbyzone.com/catalog/hz/HBZ7300.html) which I think is a really good plane for a beginner.  
-<!--more-->
 
 I already knew that flying RC planes can be a hobby. Because of that, it can be easy to sink huge amount of cash in this before you realize that you went too far. As a hobby, you can also find good experienced people for advices and easily find a flight instructor that will assist you with the technical aspect to reduce your learning time. However, this process is time consuming and I didn’t wanted to spend too much in this new thing before I knew that I would like and enjoy flying an RC plane.
 

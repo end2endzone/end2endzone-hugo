@@ -18,8 +18,7 @@ J'ai fait l’acquisition de mon premier quadrirotor. Puisque je préfère de lo
 
 Tous comme avec mon [Avistar Elite](/deballage-du-avistar-elite-46-un-video-timelapse/), j'ai capturé le déballage et l'assemblage de l'engin sur photos afin de réaliser un vidéo time lapse.
 
-Pour le plaisir de vos yeux, voici le vidéo démontrant le déballage et l'assemblage de mon premier quadrirotor.<!--more-->
-
+Pour le plaisir de vos yeux, voici le vidéo démontrant le déballage et l'assemblage de mon premier quadrirotor.
 # Description
 
 Il s'agit d'une version clone du F450 de DJI. Je l'utilise depuis plus de 2 ans et je dois dire que j'ai beaucoup de plaisir à le voler.

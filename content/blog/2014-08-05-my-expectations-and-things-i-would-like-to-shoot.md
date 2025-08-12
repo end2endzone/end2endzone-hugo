@@ -44,7 +44,6 @@ tags:
 What I expect from photography? I don't really know. It's a hobby after all but over time I managed to think about cool things I would like to shoot. Most of them are technical challenges but some of them have a geographical difficulty level. Others are only possible during a specific period of the year.
 
 Here is my list of what I would hunt for a good shoot:  
-<!--more-->
 
 Note: I will try to update this post as I managed to find the opportunity to shoot one of those. Come back later to see what new ideas I added or what I've done (strike trough).
 

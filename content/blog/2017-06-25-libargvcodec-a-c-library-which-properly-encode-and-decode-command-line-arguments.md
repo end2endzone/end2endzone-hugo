@@ -27,8 +27,7 @@ tags:
 ---
 # Introduction
 
-This post is about a decade old problem: how to properly encode command line arguments. Properly encoding string arguments into a long command line should not be a complicated issue. However, I have seen multiple situations where people wrongfully assume that wrapping each argument with double quotes is 'safe enough' for most situations. That is simply not true.<!--more-->
-
+This post is about a decade old problem: how to properly encode command line arguments. Properly encoding string arguments into a long command line should not be a complicated issue. However, I have seen multiple situations where people wrongfully assume that wrapping each argument with double quotes is 'safe enough' for most situations. That is simply not true.
 This article is about the C++ library libArgvCodec which properly encodes and decodes command line parameters.
 
 Skip to the [download section](#Download) for quick download.

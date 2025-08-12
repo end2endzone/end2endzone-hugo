@@ -24,8 +24,7 @@ tags:
 ---
 # Introduction
 
-The following article is yet another library that I have written. libMIDI is a c++ library for generating single tone melodies (monolithic melodies) in MIDI format.<!--more-->
-
+The following article is yet another library that I have written. libMIDI is a c++ library for generating single tone melodies (monolithic melodies) in MIDI format.
 Skip to the [download section](#Download) for quick download.
 
 # Purpose

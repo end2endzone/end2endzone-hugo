@@ -27,7 +27,6 @@ Introduction
 How many times did you wake up your partner in bed because you had to turn on a lamp to see something? Did you ever wanted to have a bedside lamp/table lamp that do not take too much space on the bedside table? How about being able to turn off a lamp that's been turned on by your partner without leaving your bed?
 
 In this article, I will explain how I created a bedroom under the bed LED lighting solution that can replace your existing bedside lamp.  
-<!--more-->
 
 After completing my [DIY Kitchen under cabinet LED lighting](/diy-kitchen-under-cabinet-led-lighting/) project, I managed to get a few spare parts lying around. I realized that I had all the equipment required to implement something similar for the bedroom.
 

@@ -34,7 +34,7 @@ tags:
 
 The following arduino library was written to use the findings found during the _**[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/){.row-title}**_&nbsp;article. All results were wrapped into a library for ease of use.
 
-The RcReceiverSignal is an arduino library that allows one to read a signal sent from a Remote Controlled (RC) receiver.<!--more-->
+The RcReceiverSignal is an arduino library that allows one to read a signal sent from a Remote Controlled (RC) receiver.
 
 Skip to the [download section](#Download) for quick download.
 

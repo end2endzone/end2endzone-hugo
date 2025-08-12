@@ -28,8 +28,7 @@ tags:
 
 The subversion application does not offer native support for identifying changes to subversion properties as easily as changes to files.
 
-The purpose of this script is to allows a subversion user to find all revisions where a change to a specific property occurred. In other words, it's a "_show log for subversion properties_".<!--more-->
-
+The purpose of this script is to allows a subversion user to find all revisions where a change to a specific property occurred. In other words, it's a "_show log for subversion properties_".
 Skip to the [download section](#Download) for quick download.
 
 {{< pleasenote >}}

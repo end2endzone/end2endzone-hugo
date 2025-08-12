@@ -26,7 +26,6 @@ tags:
 Ce qui suit la naissance d'un enfant après les réjouissances c'est tous les trucs qu'il faut acheter pour protéger la maison des "dangers potentiels". Rapidement, on doit acheter une barrière pour bébé.
 
 J'ai regardé plusieurs modèles et je n'ai pas trouvé un modèle qui puisse convenir à mes besoins et à ma situation soit:  
-<!--more-->
 
   * Couvrir une longueur d'au moins 52 pouces.
   * Fonctionnant à un angle de 41.9 degrés.

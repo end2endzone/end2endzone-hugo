@@ -26,7 +26,6 @@ tags:
 Following the birth of a child and after the celebration is all the stuff you have to buy to protect the house of "potential dangers". Quickly, you realize that you need to buy a baby gate.
 
 I looked at several models and I have not found a model that can suit my needs and my situation. I needed a baby gate that can:  
-<!--more-->
 
   * Cover a length of at least 52 inches.
   * Operate at an angle of 41.9 degrees.

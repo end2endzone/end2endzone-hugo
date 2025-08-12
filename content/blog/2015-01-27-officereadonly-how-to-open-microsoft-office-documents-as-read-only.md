@@ -28,8 +28,7 @@ It's main features are:
 
 Microsoft Office does not supports opening files as read-only when right-clicking a document from the File Explorer menu and it does not support opening file as read-only from the command prompt.
 
-OfficeReadOnly was created to solve this issue.<!--more-->
-
+OfficeReadOnly was created to solve this issue.
 The only way to open a document read-only is to first open the appropriate application for the document and then use the "_**File**_" menu and select "_**Open**_". Then, user has to browse to the actual file and change the opening mode from "**_Open_**" to "**_Open Read-Only_**" and finally click the file. That is a long process for a task that should be simpler.
 
 OfficeReadOnly makes it easy to open a document as read-only right from the File Explorer. Simply right-click a document and select "**_Open with Office Read-Only_**".

@@ -19,7 +19,6 @@ tags:
 # The Good
 
 After 1½ month of flying the plane, I was feeling a little more confident and I trusted enough myself for doing loops.  So at the end of the 2013 season, I went flying with a friend with my Super Cub LP. I wasn't expecting any disaster...  
-<!--more-->
 
 It was a little cloudy & windy but I went flying anyway because I was too much confident that nothing could happen since I had 6-7 flights of experience!<br /> 
 

@@ -28,8 +28,7 @@ Most programming language I know does not offer a native library for plotting da
 
 Excel is a native platform for parsing Comma-separated values (CSV) files and can be scripted to plot the result into an image.
 
-The purpose of this script is to allows any programming language which generates data to plot the data into an image by saving the raw data to a CSV file and then using the power of Excel to plot the result into an image.<!--more-->
-
+The purpose of this script is to allows any programming language which generates data to plot the data into an image by saving the raw data to a CSV file and then using the power of Excel to plot the result into an image.
 Skip to the [download section](#Download) for quick download.
 
 {{< pleasenote >}}

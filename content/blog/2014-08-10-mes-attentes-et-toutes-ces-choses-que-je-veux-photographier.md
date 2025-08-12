@@ -44,7 +44,6 @@ tags:
 Ce que j'attends de la photographie? Je ne sais pas vraiment. C'est un passe-temps après tout, mais au fil du temps, j'ai réussi à réfléchir à des choses agréable à photographier. La plupart d'entre elles sont des défis techniques, mais certains d'entre elles ont un niveau de difficulté géographique. D'autres ne sont possibles que pendant une période spécifique de l'année.
 
 Voici ma liste de ce que je voudrais réussir à capturer avec ma caméra:  
-<!--more-->
 
 Note: Je vais essayer de mettre à jour ce post le plus souvent possible et surtout lorsque j'aurai réussi à trouver la possibilité de photographier un de ceux mentionné plus bas. Revenez plus tard pour voir quelles nouvelles idées j'ai ajouté ou ce que j'ai fait.
 

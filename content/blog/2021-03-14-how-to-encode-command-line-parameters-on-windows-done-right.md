@@ -17,8 +17,7 @@ tags:
 
 This post is a follow up on command line arguments. I recently published a C++ library ([libArgvCodec](/libargvcodec-a-c-library-which-properly-encode-and-decode-command-line-arguments/)) which properly handles all encoding and decoding of command line arguments. It is much safer to use the library than simply wrap each argument with double quotes.
 
-This post is about the list of rules that the library implements for encoding and decoding of arguments.<!--more-->
-
+This post is about the list of rules that the library implements for encoding and decoding of arguments.
 # Using libArgvCodec library
 
 The [libArgvCodec](/libargvcodec-a-c-library-which-properly-encode-and-decode-command-line-arguments/) library can be used for free and is released as Open Source. The code is available [here](/download/2480/). Feel free to download the library to use it in your own projects.

@@ -23,7 +23,6 @@ tags:
 
 ---
 Hi everyone. This is my first post regarding photography. I recently started this hobby but I had an interest in photography since a long time but never pursued this hobby because I always tough that good photography skills were not achievable or simply because you need a lot of gears that are expensive. Unfortunately, I changed my mind and rediscovered photography.  
-<!--more-->
 
 <h1 id="firstHeading" lang="en">
   Misconceptions

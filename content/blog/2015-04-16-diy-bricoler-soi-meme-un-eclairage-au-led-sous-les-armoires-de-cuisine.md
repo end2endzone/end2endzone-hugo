@@ -26,7 +26,6 @@ tags:
 
 Il manque quelque chose dans la plupart des cuisines que j'ai vus dans ma vie et ce ne est pas un énorme espace de travail pour couper vos légumes ou un réfrigérateur intelligent. Ce qu'il manque souvent est beaucoup plus simple: c'est un éclairage adéquat. Toutes les cuisines que j'ai utilisé avait un éclairage décent lorsqu'elles sont utilisés pendant le jour (beaucoup de fenêtre, une bonne lumière ambiante)&nbsp;mais c'est souvent pas le cas pendant les jours pluvieux ou la nuit. La plupart des cuisines manquent aussi d'un bon éclairage sous les armoires de cuisine.
 
-<!--more-->
 
 Cela fait bien longtemps que je voulais avoir plus de lumière disponible sous les armoires de cuisine. Malheureusement, je n'ai jamais eu le courage d'installer des lumières supplémentaires pour plusieurs raisons. Une d'entre elles est que je n'avais pas les bons outils et que je manquais de connaissances. Je n'aimais, non plus , aimé l'idée de percer des trous dans les armoires ou à travers le comptoir pour apporter de l'électricité et finalement, lorsque l'on installe des lumières sous les armoires, cela produit beaucoup trop de chaleur (certaines lumières peuvent aussi vous brûler!). Ce projet était donc en attente jusqu'à ce qu'une solution facile à installer a jaillit dans mon esprit: des bandes d'éclairage au DEL.
 

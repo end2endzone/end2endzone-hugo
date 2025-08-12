@@ -23,7 +23,6 @@ tags:
 
 ---
 Salut tout le monde. Ceci est mon premier post concernant la photographie. J'ai récemment débuté ce passe-temps, mais j'ai toujours eu un intérêt pour la photographie depuis longtemps, mais jamais poussé plus loin ce passe-temps parce que j'ai toujours cru que de devenir bon en photographie n'était pas de mon ressort ou simplement parce que vous avez besoin de beaucoup trop d'équipement coûteux pour arriver à faire quelque chose de bon. Heureusement, j'ai changé d'avis et redécouvert la photographie.  
-<!--more-->
 
 # Les idées fausses
 

@@ -19,8 +19,7 @@ Le jour de Fête nationale, les Québécois n'hésite pas à faire la fête (ou 
 
 Voici donc un symbole patriotique afin de vivifier votre flamme et votre amour de la Belle province.
 
-En ce 24 juin, dites-le haut et fort: "Je suis fier d'être Québécois"<!--more-->
-
+En ce 24 juin, dites-le haut et fort: "Je suis fier d'être Québécois"
 {{< image-gallery >}}
 | <!-- -->                                                                                                                                                                                                             | <!-- -->                                                                                                                                                                                                             |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

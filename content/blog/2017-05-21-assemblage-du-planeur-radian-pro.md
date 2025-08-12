@@ -20,7 +20,6 @@ C'est un excellent appareil. Je le recommande fortement. Lorsque je le pilote, j
 
 Le tout présenté en time lapse.
 
-<!--more-->
 
 # Description
 

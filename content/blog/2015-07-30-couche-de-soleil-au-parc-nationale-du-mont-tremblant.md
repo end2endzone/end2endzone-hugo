@@ -16,7 +16,9 @@ tags:
   - sunset
 
 ---
-Nous sommes partis en camping cet été au Parc Nationale du Mont-Tremblant. J'ai naturellement apporté ma caméra avec moi puisque je ne vais plus nulle part sans elle. Une fois installé, j'ai décidé d'aller faire un tour à la plage et j'ai capturé un merveilleux couché de soleil...<!--more-->Le point d'observation est depuis l'une des nombreuses plages du Lac Monroe. Plus précisément, la plage est situé aux coordonnées 
+Nous sommes partis en camping cet été au Parc Nationale du Mont-Tremblant. J'ai naturellement apporté ma caméra avec moi puisque je ne vais plus nulle part sans elle. Une fois installé, j'ai décidé d'aller faire un tour à la plage et j'ai capturé un merveilleux couché de soleil...
+
+Le point d'observation est depuis l'une des nombreuses plages du Lac Monroe. Plus précisément, la plage est situé aux coordonnées 
 
 [46°20'2&#8243; N 74°30'25" W](https://www.google.ca/maps/place/46°20'01.5"N+74°30'24.7"W/@46.333754,-74.506858,812m/).
 

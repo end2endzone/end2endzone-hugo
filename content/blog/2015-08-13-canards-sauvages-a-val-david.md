@@ -16,8 +16,7 @@ tags:
   - photography
 
 ---
-Les parents de ma conjointe ont aménagés un étang artificiel près de la résidence. À chaque été, un couple de canard sauvages viennent se reposer à l'étang pendant leur migration.<!--more-->
-
+Les parents de ma conjointe ont aménagés un étang artificiel près de la résidence. À chaque été, un couple de canard sauvages viennent se reposer à l'étang pendant leur migration.
 {{< image-gallery >}}
 | <!-- -->                                                                                                                                                                                  | <!-- -->                                                                                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

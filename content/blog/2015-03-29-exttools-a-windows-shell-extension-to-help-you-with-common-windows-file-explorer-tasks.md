@@ -28,8 +28,7 @@ It's main features are:
   * XP like search tool (simple search tool).
   * Extends Windows File Explorer by registering as a Shell Extension.
 
-extTools allows its users to execute tasks that are not available in a default Windows environment. extTools is also designed to replace existing task that are badly designed, annoying to execute or simply missing.<!--more-->
-
+extTools allows its users to execute tasks that are not available in a default Windows environment. extTools is also designed to replace existing task that are badly designed, annoying to execute or simply missing.
 # Download
 
 You can download extTools by clicking on the following links:

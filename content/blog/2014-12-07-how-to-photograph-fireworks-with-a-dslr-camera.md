@@ -22,8 +22,7 @@ Getting a nice firework picture is it not as simple as going outside, finding a 
 
 Of course, it is also temping to take picture of the fireworks with a decent phone or point & shoot camera if you have a "firework" option, but those kind of picture often comes out as grainy/noisy or worst blurry.
 
-In this article, I will guide you to make the most stunning photography of fireworks with your DSLR camera.<!--more-->
-
+In this article, I will guide you to make the most stunning photography of fireworks with your DSLR camera.
 That kind of event do not occurs pretty often. Roughly 1 or 2 times a year during summer depending where you live. That is why I have written this guide: so that next time you get outside hunting a firework display, you will be well documented and prepared for most situations.
 
 In Québec, we have 2 holidays that are good opportunities to shoot fireworks which are Canada Day (Memorial Day), and St. Jean Baptiste Day. If you live near Montreal, you have access to the L'international des feux Loto-Québec  (<s>http://www.laronde.com/larondeen/linternational-des-feux/overview</s>, previously <s>http://internationaldesfeuxloto-quebec.com/en/</s>) festival which is prefect for making spectacular photos.

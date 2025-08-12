@@ -27,7 +27,6 @@ Il est 5 heures du matin. Tout est calme et on entend quelque fois le crie d'un 
 
 Une belle journée de vol s'annonce.
 
-<!--more-->
 
 {{< image-gallery >}}
 | <!-- -->                                                                                                                                                                                                                                 |

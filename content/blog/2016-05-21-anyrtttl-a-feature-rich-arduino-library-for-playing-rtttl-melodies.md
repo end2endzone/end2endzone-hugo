@@ -33,8 +33,7 @@ tags:
 ---
 # Introduction
 
-The following article is about yet another Arduino library that I have written. AnyRtttl is a feature rich arduino library for playing RTTTL melodies. The library offers much more interesting features than relying on the widely available `void play_rtttl(char *p)` function. The AnyRtttl is a feature rich library which supports all best RTTTL features.<!--more-->
-
+The following article is about yet another Arduino library that I have written. AnyRtttl is a feature rich arduino library for playing RTTTL melodies. The library offers much more interesting features than relying on the widely available `void play_rtttl(char *p)` function. The AnyRtttl is a feature rich library which supports all best RTTTL features.
 Skip to the [download section](#Download) for quick download.
 
 # Purpose

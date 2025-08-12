@@ -15,8 +15,7 @@ tags:
   - motion blur
 
 ---
-J'ai apporté mon appareil photo lors d'une séance de vol à mon club d'aviation.  Lorsqu'un collègue était au "pit", j'ai tenté de faire une photo de son avion avec un beau flou d'hélice.<!--more-->
-
+J'ai apporté mon appareil photo lors d'une séance de vol à mon club d'aviation.  Lorsqu'un collègue était au "pit", j'ai tenté de faire une photo de son avion avec un beau flou d'hélice.
 # Un peu d'explication
 
 Il existe deux moyen de faire un flou d'hélice. Le premier étant un peu plus traditionnelle correspond à faire une photo avec une longue exposition (typiquement dans les 1/30 seconde). Cette méthode permet de bien voir la dimension des pales de l'hélice et forme d'impressionnants cercles homogènes complets. Le résultat est d'autant plus beau lorsque les hélices ont des motifs de couleur ce qui rend les cercles encore plus beaux.

@@ -34,7 +34,6 @@ It's main features are:
   * Makes it harder for resource hacker to modify or steal the embedded files.
   * No third party libraries required for retrieving the data of the embedded files.
 
-<!--more-->
 
 bin2cpp is not implemented using [executable resources](http://en.wikipedia.org/wiki/Resource_(Windows)). Instead, bin2cpp creates multiple function calls for retrieving the data which makes it harder to steal the executable's content. It also makes it even harder to replace an existing resource of the executable.
 

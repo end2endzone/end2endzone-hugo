@@ -21,8 +21,7 @@ tags:
 
 [Time-lapse photography](http://en.wikipedia.org/wiki/time-lapse_photography)&nbsp;is a wonderful effect to make your images alive instead of static because you can make a plain (or almost boring) event and make it so much more dramatic. However, it is something that usually needs a lot of time investment to get something acceptable.
 
-Considering my family was planning to decorate the Christmas tree during the weekend, I decided to take my camera and capture the whole event in a time-lapse video.<!--more-->
-
+Considering my family was planning to decorate the Christmas tree during the weekend, I decided to take my camera and capture the whole event in a time-lapse video.
 To get a nice video, you need to prepare yourself before taking the shots because if you don’t, you can end up with a bad picture set and have a hard time merging all pictures together.
 
 The following article will explains how I managed to make a nice time-lapse video with a DSLR using only free software.

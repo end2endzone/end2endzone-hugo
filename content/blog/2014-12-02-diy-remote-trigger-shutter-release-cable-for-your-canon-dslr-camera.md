@@ -26,7 +26,6 @@ Canon sells a [Remote Switch RS-60E3](http://estore.canon.ca/shop/en-CA/catalog/
 
 Since the Canon version is not exactly what I needed, I though why not create one instead of buying it. In this article, I will show you how I built a DIY version of Canon's remote shutter release cable for my Canon DSLR camera.
 
-<!--more-->
 
 On most Canon cameras, you can make a DIY remote trigger version by connecting a simple 2.5mm stereo plug into your camera and shorting the longest pin with one of the shortest pin.
 

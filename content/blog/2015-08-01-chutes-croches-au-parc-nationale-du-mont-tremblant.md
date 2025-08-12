@@ -17,8 +17,7 @@ tags:
   - waterfall
 
 ---
-Une des attractions du Parc nationale de Mont-Tremblant sont les Chutes Croches qui coulent le long de la rivière de la Diable. Les Chutes Croches sont situés plus précisément aux coordonnées [46°22'10.1&#8243; N 74°31'00.0&#8243; W](https://www.google.ca/maps/place/46%C2%B022%2710.1%22N+74%C2%B031%2700.0%22W/@46.3694722,-74.5166667,15.28z/data=!4m2!3m1!1s0x0:0x0) à 398 mètres d'altitude.<!--more-->
-
+Une des attractions du Parc nationale de Mont-Tremblant sont les Chutes Croches qui coulent le long de la rivière de la Diable. Les Chutes Croches sont situés plus précisément aux coordonnées [46°22'10.1&#8243; N 74°31'00.0&#8243; W](https://www.google.ca/maps/place/46%C2%B022%2710.1%22N+74%C2%B031%2700.0%22W/@46.3694722,-74.5166667,15.28z/data=!4m2!3m1!1s0x0:0x0) à 398 mètres d'altitude.
 &nbsp;
 
 {{< image-gallery >}}

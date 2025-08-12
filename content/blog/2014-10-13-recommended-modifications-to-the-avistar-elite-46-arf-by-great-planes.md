@@ -18,8 +18,7 @@ tags:
 
 I recently bought an Avistar Elite .46 ARF by Great Planes for flying with a flight instructor at my local hobby club. Before we went to the club and start flying, he and I (mostly he) made some adjustments to the plane for getting the perfect trainer for me. Basically, I changed some settings to get better results from the stock options.
 
-Here are all the modifications that I did to make this trainer the perfect plane.<!--more-->
-
+Here are all the modifications that I did to make this trainer the perfect plane.
 # Modifications
 
 ## Small battery pack

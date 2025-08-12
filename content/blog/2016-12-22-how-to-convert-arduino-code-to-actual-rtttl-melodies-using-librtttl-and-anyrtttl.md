@@ -18,8 +18,7 @@ tags:
 ---
 # Introduction
 
-The following article is written in order to demonstrate how my arduino libraries [libRtttl](/librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/) & [AnyRtttl](/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) can be used to convert arduino code (`tone()` and `delay()` functions calls) into actual RTTTL melodies.<!--more-->
-
+The following article is written in order to demonstrate how my arduino libraries [libRtttl](/librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/) & [AnyRtttl](/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) can be used to convert arduino code (`tone()` and `delay()` functions calls) into actual RTTTL melodies.
 This article shows how to convert '_Game of Throne theme_', '_Star Wars - The imperial March_' and most _Super Mario Bros. sound themes_ (Main theme, 1-up life sound, Flagpole fanfare, Death and Game Over sounds) into actual playable RTTTL melodies.
 
 # Methodology

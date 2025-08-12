@@ -34,7 +34,6 @@ tags:
 
 The following article is about another library that I have written: libRtttl is a c++ library for manipulating the RTTTL audio format.
 
-<!--more-->
 
 Skip to the [download section](#Download) for quick download.
 

@@ -31,8 +31,7 @@ tags:
 ---
 # Introduction
 
-The following article is about my simplest library that I wrote for the arduino: _SoftTimers_. The _SoftTimers_ arduino library allows one to properly time multiple events and know when each "timer" expires meaning that an action is required.<!--more-->
-
+The following article is about my simplest library that I wrote for the arduino: _SoftTimers_. The _SoftTimers_ arduino library allows one to properly time multiple events and know when each "timer" expires meaning that an action is required.
 Skip to the [download section](#Download) for quick download.
 
 When I first learned programming the arduino, I learned the "_hello world_" of the arduino: turning a LED on and off.  As expected, I used `delay()` to define how long the LED should be on and off.

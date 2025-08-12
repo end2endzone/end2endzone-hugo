@@ -26,7 +26,6 @@ After implementing many arduino library, I realized that unit testing a library 
 
 The win32Arduino is a solution to this issue.
 
-<!--more-->
 
 Skip to the [download section](#Download) for quick download.
 

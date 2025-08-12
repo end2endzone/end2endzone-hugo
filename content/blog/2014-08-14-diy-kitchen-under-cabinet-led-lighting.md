@@ -25,7 +25,6 @@ tags:
 # Introduction
 
 There is something missing in most kitchens I have seen in my life and it is not a huge free space or a smart refrigerator. It is much simpler than that. I am talking about good lighting. All kitchen that I have used had decent lighting when used during a bright shiny day but was lacking appropriate lighting during a rainy days or nights. Most of then were also missing under cabinet lighting.  
-<!--more-->
 
 It has been a long time since I wanted to get more light available under the kitchen cabinets. However, I never felt ready to install some lights by myself for many reasons. One of them was that I was missing the proper tools and knowledge. I also didn't like the idea of drilling holes in the cabinet or through the kitchen counter to get the electricity and finally, when I was looking at a kitchen with under cabinet lights, the lights that were used was producing too much heat that I could almost burn myself. This project was "on hold" until a super easy to install solution came to my mind: LED strips.
 

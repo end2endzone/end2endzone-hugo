@@ -27,7 +27,6 @@ tags:
 # Introduction
 If you look on the internet for "mixing", you will usually find posts and articles of people asking for things like "what is the best mix I should use for this or that" which I think is not helpful. I think it is far more helpful to actually understand what mixing is and how it can help you improve your skills as a pilot. Lately I wanted to understand how mixing could help me in a personal project. I took this opportunity to learn something new and try to demystifying RC Transmitter Mixing.
 
-<!--more-->
 
 {{< postedit >}}
   EDIT: To make all mixing pre-calculations easier, do not hesitate to use my [Mixing Calculator for R/C Transmitter](/rc-transmitter-mix-calculator/)&nbsp;(it's an Excel Sheet!)

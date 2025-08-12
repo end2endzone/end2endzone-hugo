@@ -17,8 +17,7 @@ tags:
   - français
 
 ---
-Suite à [ce vidéo](/visualiser-la-rotation-de-la-terre-en-video/), j'ai aussi fusionné (ou plutôt cumulé) toutes les images en une seule. Le résultat est ce que l'on appelle une image "Star Trails" (ou Filé d'étoiles en français).<!--more-->
-
+Suite à [ce vidéo](/visualiser-la-rotation-de-la-terre-en-video/), j'ai aussi fusionné (ou plutôt cumulé) toutes les images en une seule. Le résultat est ce que l'on appelle une image "Star Trails" (ou Filé d'étoiles en français).
 Vous pouvez voir que les étoiles semblent tourner autour d'un même point. Il s'agit de l'étoile polaire. Cette étoile est fixe dans le ciel peut importe l'heure à laquelle vous regarder le ciel. C'est à dire  qu'elle est parfaitement alignée avec l'axe de rotation de la terre. Donc pour obtenir ce type d'image, il suffit d’aligner la camera vers le Nord (polaire) et cadrer le tout pour obtenir un bel effet.
 
 Contrairement au vidéo, je ne peux pas utiliser tout l'ensemble des photos car les dernières sont trop vives à cause du levé du soleil.

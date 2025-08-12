@@ -28,7 +28,6 @@ tags:
 
 The following article is about my new c++ library: libVariant. The library allows one to easily store/encapsulate a value of any c++ type into an instance of type Variant. The library is useful for declaring objects, interfaces, APIs or plugins to be type-independent.
 
-<!--more-->
 
 Skip to the [download section](#Download) for quick download.
 

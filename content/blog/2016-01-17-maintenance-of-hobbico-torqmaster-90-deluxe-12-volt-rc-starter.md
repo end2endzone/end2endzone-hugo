@@ -14,7 +14,9 @@ tags:
   - RC
 
 ---
-This article is about how I did the maintenance on my Hobbico Torqmaster 90 deluxe which is a 12 Volt starter for remote controlled (RC) aircraft. I wanted to change the rubber nose to get a better grip on my [Avistar Elite](/tag/avistar-elite/) spinner. I ended up disassembling the whole unit before understanding what I should have done.<!--more--> This guide documents the steps and tricks I used to reassemble the unit. I hope it may help someone that have the same issue. If not, then I shall use this article as a way for me to remember how I did the maintenance on the starter and which tool I used... 
+This article is about how I did the maintenance on my Hobbico Torqmaster 90 deluxe which is a 12 Volt starter for remote controlled (RC) aircraft. I wanted to change the rubber nose to get a better grip on my [Avistar Elite](/tag/avistar-elite/) spinner. I ended up disassembling the whole unit before understanding what I should have done.
+
+This guide documents the steps and tricks I used to reassemble the unit. I hope it may help someone that have the same issue. If not, then I shall use this article as a way for me to remember how I did the maintenance on the starter and which tool I used... 
 
 # General information
 This is a Hobbico Torqmaster 90 Deluxe 12 Volt Starter. It is designed for starting Glow Engines up to .90 cubic inches in size. This starter features an aluminum starter cone with V-Groove for boat starter belts and round rubber insert for airplane spinner cones. The starter has self-adjusting carbon brushes for longer lasting usage and constant contact with the armature. Easy-Press start switch makes starting easy without requiring heavy finger pressure and a built-in finger-guard promises safe starts. Pre-attached alligator clips for easy attachment to a 12 volt battery. The starter is a regular DC brushed motor. Most parts of the starter can be modded or replaced. The switch and the 

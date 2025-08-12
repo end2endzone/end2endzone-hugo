@@ -26,8 +26,7 @@ Introduction
 
 Combien de fois avez-vous réveiller votre partenaire au lit parce que vous deviez allumer une lampe pour voir quelque chose? Avez-vous jamais eu envie d'avoir une lampe de chevet qui ne prenait pas trop de place sur la table ? Que diriez-vous d'être en mesure d'éteindre une lampe qui a été allumé&nbsp;par votre partenaire sans avoir à quitter votre lit?
 
-Dans cet article, je vais vous expliquer comment j'ai créé&nbsp;moi-même un éclairage au DEL sous le lit de la chambre à coucher qui peut remplacer votre lampe de chevet existante.<!--more-->
-
+Dans cet article, je vais vous expliquer comment j'ai créé&nbsp;moi-même un éclairage au DEL sous le lit de la chambre à coucher qui peut remplacer votre lampe de chevet existante.
 Après avoir terminé mon projet de [bricoler soi-même un éclairage au DEL sous les armoires de cuisine](/diy-bricoler-soi-meme-un-eclairage-au-led-sous-les-armoires-de-cuisine/), j'avais encore quelque pièces de rechange pour ce projet qui traînaient ici et là. J'ai compris que j'avais tout le matériel nécessaire pour mettre en œuvre quelque chose de similaire pour la chambre à coucher.
 
 La raison pour laquelle je commencé ce projet était que je voulais être en mesure d'allumer une lumière de faible luminosité pendant la nuit afin que je puisse voir où je vais. Dans un même ordre d'idée, je ne vais pas toujours au lit en même temps que ma partenaire. Avoir une lumière qui peut éclairer la chambre lorsqu'elle va se coucher et qui peut être laissée allumée sans l’empêcher de s'endormir est une caractéristique très intéressante.

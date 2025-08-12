@@ -16,8 +16,7 @@ tags:
   - stars
 
 ---
-Le même jour où j'ai capturé [ce merveilleux couché de soleil](/couche-de-soleil-au-parc-nationale-du-mont-tremblant), je me suis levé au beau milieu de la nuit pour aller prendre des photos du ciel et des étoiles.<!--more-->
-
+Le même jour où j'ai capturé [ce merveilleux couché de soleil](/couche-de-soleil-au-parc-nationale-du-mont-tremblant), je me suis levé au beau milieu de la nuit pour aller prendre des photos du ciel et des étoiles.
 Il s'agit du même point d'observation du Lac Monroe d'où j'ai capturé le couché de soleil. Plus précisément, la plage est situé aux coordonnées [46°20'2&#8243; N 74°30'25" W](https://www.google.ca/maps/place/46°20'01.5"N+74°30'24.7"W/@46.333754,-74.506858,812m/).
 
 J'ai rapidement compris la différence entre un appareil de loisir et un appareil professionnel. Aux même réglages la quantité de bruit (noise) est beaucoup moins élevé avec un appareil professionnel. Dans mon cas, le [Canon EOS Rebel SL1](https://www.google.ca/search?q=canon+eos+rebel+sl1) est un excellent appareil... de loisir.

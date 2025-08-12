@@ -24,7 +24,6 @@ tags:
 # Introduction
 
 Shooting a waterfall with a DSLR camera is not that hard. As usual in photography, you need a lot a patience. The perfect picture is all about managing a long exposure of the waterfall. This will get you a nice look as if the waterfall would be a silk river. In this guide, I will explain how I managed to get this picture of the "Chute du Diable".  
-<!--more-->
 
 # Context
 

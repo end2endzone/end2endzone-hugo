@@ -17,8 +17,7 @@ tags:
   - nature
 
 ---
-Pendant le début du mois de juillet, j'ai décidé de me lancer dans la photographie macro. Ce que j'ai découvert durant cette expérience est étonnant.<!--more-->
-
+Pendant le début du mois de juillet, j'ai décidé de me lancer dans la photographie macro. Ce que j'ai découvert durant cette expérience est étonnant.
 Comme tout le monde, j'ai naturellement décidé d'utiliser les fleurs comme sujet. Quoi de mieux que le mois de juillet,  où les fleurs sont belles et épanouies, pour essayer de faire de la photographie.
 
 Je suis donc parti à la recherche de fleurs avec mon appareil, [mon trépied](/wp-content/uploads/2015/02/Manfrotto-190XPROB-Tripod-with-3D-Head-804RC2.jpg "Manfrotto  190XPROB Tripod with 3D Head 804RC2") ainsi que des [tubes d'extension (21mm)](/wp-content/uploads/2015/02/Aputure-AF-Macro-Extension-Tube-for-Canon-EOS-EF-EF-S-Lens-Mount.jpg "Aputure AF Macro Extension Tube for Canon EOS EF EF-S Lens Mount").

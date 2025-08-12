@@ -18,7 +18,7 @@ tags:
 ---
 # HDHomeRun TV Dump
 
-_HdHomeRun TV Dump_&nbsp;is a [GUI](http://en.wikipedia.org/wiki/Graphical_user_interface)&nbsp;that installs over the native [HDHomeRun application](http://www.silicondust.com/support/downloads/) and allows owners to quickly take control over the free to air live TV stream. Implementing DVR capabilities on your computer becomes a easy as 1-2-3.<!--more-->
+_HdHomeRun TV Dump_&nbsp;is a [GUI](http://en.wikipedia.org/wiki/Graphical_user_interface)&nbsp;that installs over the native [HDHomeRun application](http://www.silicondust.com/support/downloads/) and allows owners to quickly take control over the free to air live TV stream. Implementing DVR capabilities on your computer becomes a easy as 1-2-3.
 
 It is designed to make interaction with the device easy by automating as much as possible any task a user would like to execute.
 

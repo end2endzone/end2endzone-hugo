@@ -33,8 +33,7 @@ If you ever need to use an RC Transmitter & receiver for a personal project, an 
 
 However, decoding the signal to get actual transmitter values is not as easy as it sounds. You need to know the correct encoding and searching on the internet about the subject gives erratic results.
 
-Here is the full article that explains how to correctly map an RC Transmitter PWM signal to actual transmitter values.<!--more-->
-
+Here is the full article that explains how to correctly map an RC Transmitter PWM signal to actual transmitter values.
 # How does it works?
 
 The receiver signal is encoded with a [Pulse Width Modulation](https://en.wikipedia.org/wiki/Pulse-width_modulation). In other way, the transfer of the signal is analog and not digital. This means there is no direct method to read the signal. To accurately read the signal, you need to know the given length of the pulse for each unique transmitter values.

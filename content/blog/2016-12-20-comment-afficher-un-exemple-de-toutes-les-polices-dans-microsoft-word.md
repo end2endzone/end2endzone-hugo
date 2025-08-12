@@ -30,8 +30,7 @@ tags:
 
 À chaque fois que je travail en graphisme et que je dois ajouter du texte à une image, je me retrouve toujours avec le même problème: "Comment faire pour identifier rapidement la meilleure police pour mon affiche ?"
 
-Je crois maintenant avoir finalement trouver la solution à ce problème.<!--more-->
-
+Je crois maintenant avoir finalement trouver la solution à ce problème.
 Voici un script pour Microsoft Word qui permet de générer n'importe quelle exemple de texte avec toutes les polices de votre ordinateur.
 
 # Comment ça fonctionne ?

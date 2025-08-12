@@ -15,8 +15,7 @@ tags:
   - photography
 
 ---
-Voici une galerie de photos que j'ai capturé au cours de mes promenades en forêt.<!--more-->
-
+Voici une galerie de photos que j'ai capturé au cours de mes promenades en forêt.
 D'autre photos seront ajouté au fil du temps.
 
 {{< image-gallery >}}

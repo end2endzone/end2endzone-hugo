@@ -35,8 +35,7 @@ As a desktop developer, I am not used to have memory (or even CPU) requirements 
 
 As most arduino developers have faced, the amount of memory available on embedded devices is pretty limited. Having a way to save bits or our precious memory is interesting.
 
-BitReader is an arduino library that allows one to read or write data as chunks of bits.<!--more-->
-
+BitReader is an arduino library that allows one to read or write data as chunks of bits.
 Skip to the [download section](#Download) for quick download.
 
 # Purpose

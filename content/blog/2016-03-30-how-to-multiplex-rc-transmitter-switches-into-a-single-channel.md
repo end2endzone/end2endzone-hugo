@@ -44,8 +44,7 @@ In a personal project, I wanted to add 2 new devices to an existing quadcopter. 
 | CH 6     | :        | ???         |
 The following article explains how I manage to solve the issue: 
 
-_How can I control more than one device using a single channel_.<!--more-->
-
+_How can I control more than one device using a single channel_.
 {{< postedit >}}
   EDIT: To make all mixing pre-calculations easier, do not hesitate to use my [Mixing Calculator for R/C Transmitter](/rc-transmitter-mix-calculator/)&nbsp;(it's an Excel Sheet!)
 {{< /postedit >}}
