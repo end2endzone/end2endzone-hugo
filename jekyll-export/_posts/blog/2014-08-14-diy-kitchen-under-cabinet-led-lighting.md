@@ -22,10 +22,13 @@ tags:
   - multilingual
 
 ---
-
 # Introduction
 
-There is something missing in most kitchens I have seen in my life and it is not a huge free space or a smart refrigerator. It is much simpler than that. I am talking about good lighting. All kitchen that I have used had decent lighting when used during a bright shiny day but was lacking appropriate lighting during a rainy days or nights. Most of then were also missing under cabinet lighting. It has been a long time since I wanted to get more light available under the kitchen cabinets. However, I never felt ready to install some lights by myself for many reasons. One of them was that I was missing the proper tools and knowledge. I also didn't like the idea of drilling holes in the cabinet or through the kitchen counter to get the electricity and finally, when I was looking at a kitchen with under cabinet lights, the lights that were used was producing too much heat that I could almost burn myself. This project was "on hold" until a super easy to install solution came to my mind: LED strips. LED strips are an alternative to fluorescent, halogen or xenon lights. LED are becoming more and more popular and are super easy to install and adapt to many situations. Some LED strips can be used outside too but that is for another post! They provide the following benefits in a kitchen:
+There is something missing in most kitchens I have seen in my life and it is not a huge free space or a smart refrigerator. It is much simpler than that. I am talking about good lighting. All kitchen that I have used had decent lighting when used during a bright shiny day but was lacking appropriate lighting during a rainy days or nights. Most of then were also missing under cabinet lighting.
+
+It has been a long time since I wanted to get more light available under the kitchen cabinets. However, I never felt ready to install some lights by myself for many reasons. One of them was that I was missing the proper tools and knowledge. I also didn't like the idea of drilling holes in the cabinet or through the kitchen counter to get the electricity and finally, when I was looking at a kitchen with under cabinet lights, the lights that were used was producing too much heat that I could almost burn myself. This project was "on hold" until a super easy to install solution came to my mind: LED strips.
+
+LED strips are an alternative to fluorescent, halogen or xenon lights. LED are becoming more and more popular and are super easy to install and adapt to many situations. Some LED strips can be used outside too but that is for another post! They provide the following benefits in a kitchen:
 
 * Cheap!
 * Give a proper lighting.
@@ -38,7 +41,10 @@ There is something missing in most kitchens I have seen in my life and it is not
 
 In this post, I will explain how I installed in my kitchen a custom under cabinet LED lighting solution.
 
-**Note:** Handling wall electricity can be dangerous. If you do not have basic electricity skills, I strongly recommend that you do not complete this project. Proceed at your own risk.
+{{< pleasenote >}}
+  **Note:** Handling wall electricity can be dangerous. If you do not have basic electricity skills, I strongly recommend that you do not complete this project. Proceed at your own risk.
+{{< /pleasenote >}}
+
 
 # Project data
 
@@ -66,11 +72,18 @@ Theoretically, only a 24 Watts power supply is required for powering the whole L
 
 ### Dimmer module
 
-The dimmer module is optional but I strongly recommend to use one. Without the dimmer module, the LED strip is too bright for many situations. Full brightness is only required for cutting vegetables. For all other scenarios, you will need to reduce the intensity of the light if you want to create ambient lighting during the night or if you need a low-light in the morning. Even a warm white (compared to a cool/cold white) strip is too bright when I get out of the bed. Anyway, for the price of the module, it should be a no brainer. Please note that a "normal" wall dimmer cannot be used to power the LED strip since LED can only be dimmed with a [PWM module](http://www.google.ca/#q=12v%20pwm%20dimmer) and not by a variable resistance in the circuit.
+The dimmer module is optional but I strongly recommend to use one. Without the dimmer module, the LED strip is too bright for many situations. Full brightness is only required for cutting vegetables. For all other scenarios, you will need to reduce the intensity of the light if you want to create ambient lighting during the night or if you need a low-light in the morning. Even a warm white (compared to a cool/cold white) strip is too bright when I get out of the bed. Anyway, for the price of the module, it should be a no brainer.
+
+{{< pleasenote >}}
+  Please note that a "normal" wall dimmer cannot be used to power the LED strip since LED can only be dimmed with a [PWM module](http://www.google.ca/#q=12v%20pwm%20dimmer) and not by a variable resistance in the circuit.
+{{< /pleasenote >}}
+
 
 ### SMD 3528 or SMD 5050 LED strip ?
 
-I used SMD 3528 LED chips instead of SMD 5050 LED chips. Basically, the code for the LEDs is the dimension in millimeters of each LED. SMD 5050 are brighter but uses more electricity. Since I didn't need the brightness of the 5050 LEDs and I wanted to use less electricity as possible, the SMD 3528 LEDs were the best choice. Make sure that you buy 600 LEDs per reel strips instead of 300 LEDs per reel because 300 LEDs per reel may not be sufficient. Here is a good article about the differences between them: [Comparison between 3528 LEDs and 5050 LEDs.](http://www.flexfireleds.com/pages/Comparison-between-3528-LEDs-and-5050-LEDs.html)
+I used SMD 3528 LED chips instead of SMD 5050 LED chips. Basically, the code for the LEDs is the dimension in millimeters of each LED. SMD 5050 are brighter but uses more electricity. Since I didn't need the brightness of the 5050 LEDs and I wanted to use less electricity as possible, the SMD 3528 LEDs were the best choice. Make sure that you buy 600 LEDs per reel strips instead of 300 LEDs per reel because 300 LEDs per reel may not be sufficient.
+
+Here is a good article about the differences between them: [Comparison between 3528 LEDs and 5050 LEDs.](http://www.flexfireleds.com/pages/Comparison-between-3528-LEDs-and-5050-LEDs.html)
 
 ### Connectors
 
@@ -78,7 +91,9 @@ You only need 3 LED connectors for this project. You need 2 connectors for linki
 
 ## Total cost of the project
 
-As I said before, this project can be completed at a pretty cheap price. The total cost of the project is less than 30$. I had to say that I bought all major items (strips, dimmer and power supply) from ebay for a ridiculous amount of money. Don't make the mistake and buy this stuff at an electrical or lighting store because you could easily double or triple the cost of the project! Here is the detailed price of each items:
+As I said before, this project can be completed at a pretty cheap price. The total cost of the project is less than 30$. I had to say that I bought all major items (strips, dimmer and power supply) from ebay for a ridiculous amount of money. Don't make the mistake and buy this stuff at an electrical or lighting store because you could easily double or triple the cost of the project!
+
+Here is the detailed price of each items:
 
 * $8.13 - LED strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/LED-strip.png).
 * $2.29 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/Connectors.png).
@@ -125,7 +140,15 @@ The dimmer has 2 input connections and 2 output connections. The input connectio
 
 ## Testing everything together
 
-This section defines how to connect all the components together. Connect the power cord with the power supply. Screw the wires on the power supply as described above. Do not connect the power cord until the complete circuit is assembled. Connect the positive output of the power supply to one side of the switch. Screw another wire from the other side of the switch to the "IN V+" connector of the dimmer. Get another wire from the dimmer's "IN V-" back to the power supply negative output. Connect the dimmer's "OUT V+ to the positive lead of the LED strip and connect the negative lead of the strip back to the dimmer's "OUT V-". Plug the power cord into the wall, turn on the switch and your LED should turn on. Turn the knob of the dimmer to test the intensity.
+This section defines how to connect all the components together.
+
+Connect the power cord with the power supply. Screw the wires on the power supply as described above. Do not connect the power cord until the complete circuit is assembled.
+
+Connect the positive output of the power supply to one side of the switch. Screw another wire from the other side of the switch to the "IN V+" connector of the dimmer. Get another wire from the dimmer's "IN V-" back to the power supply negative output.
+
+Connect the dimmer's "OUT V+ to the positive lead of the LED strip and connect the negative lead of the strip back to the dimmer's "OUT V-".
+
+Plug the power cord into the wall, turn on the switch and your LED should turn on. Turn the knob of the dimmer to test the intensity.
 
 ## Deciding where to put your stuff
 
@@ -136,7 +159,9 @@ This section defines how to connect all the components together. Connect the pow
   [![DSC04062](/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](/wp-content/uploads/2014/08/DSC04062.jpg)
 {{< /image-gallery >}}
 
-I wanted to position the switch at a location where is can be reached easily with your fingers but I also wanted the switch to be invisible to the eye. I decided to install the switch below the cabinets but hidden behind the front panel under the cabinets. For the same reasons, the dimmer is located at the same location. I used double sided tape to stick the dimmer and the power switch in place. The tape is strong enough to keep the switch in place even when someone is turning the lights on or off. I also decided to position the power supply below the cabinet, at the back. This location is close to the switch and the dimmer and is also well ventilated. The power supply has two holes for screwing the case to a wood surface. I used small length screws to screw the power to the cabinet's wood panel.
+I wanted to position the switch at a location where is can be reached easily with your fingers but I also wanted the switch to be invisible to the eye. I decided to install the switch below the cabinets but hidden behind the front panel under the cabinets. For the same reasons, the dimmer is located at the same location. I used double sided tape to stick the dimmer and the power switch in place. The tape is strong enough to keep the switch in place even when someone is turning the lights on or off.
+
+I also decided to position the power supply below the cabinet, at the back. This location is close to the switch and the dimmer and is also well ventilated. The power supply has two holes for screwing the case to a wood surface. I used small length screws to screw the power to the cabinet's wood panel.
 
 Here is a view from below the cabinet:
 
@@ -148,7 +173,9 @@ Here is a view from below the cabinet:
 
 [![DSC04092](/wp-content/uploads/2014/08/DSC04092.png)](/wp-content/uploads/2014/08/DSC04092.png)
 
-Since I have 3 kitchen cabinets, I had to cut 3 slices of strip. The strip can be cut safely at every 3 LEDs. Each cut point is identified by the contact points in copper.Simply cut in the middle of the contact points to leave enough copper for the 2-pins connectors. Use a flexible measuring tape to calculate the length of each cabinet and cut a section of the strip for each cabinet sections. If the length of the cabinet does not match a cut point, do not hesitate to get a smaller length since 3 missing LEDs wont make a difference. You just have to center the strip into the cabinet for proper lighting.
+Since I have 3 kitchen cabinets, I had to cut 3 slices of strip. The strip can be cut safely at every 3 LEDs. Each cut point is identified by the contact points in copper.Simply cut in the middle of the contact points to leave enough copper for the 2-pins connectors.
+
+Use a flexible measuring tape to calculate the length of each cabinet and cut a section of the strip for each cabinet sections. If the length of the cabinet does not match a cut point, do not hesitate to get a smaller length since 3 missing LEDs wont make a difference. You just have to center the strip into the cabinet for proper lighting.
 
 ### Drilling
 
