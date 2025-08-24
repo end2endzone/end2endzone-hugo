@@ -4,7 +4,7 @@ author: end2end
 date: 2014-08-05T01:34:05+00:00
 url: /how-photography-all-started/
 images:
-  - src: /wp-content/uploads/2014/08/Rocher-Percé.jpg
+  - src: /wp-content/uploads/2014/08/Rocher-PercÃ©.jpg
 hits:
   - 69
 french_post_id:

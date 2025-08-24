@@ -23,7 +23,7 @@ tags:
 ---
 # Introduction
 
-Shooting a waterfall with a DSLR camera is not that hard. As usual in photography, you need a lot a patience. The perfect picture is all about managing a long exposure of the waterfall. This will get you a nice look as if the waterfall would be a silk river. In this guide, I will explain how I managed to get this picture of the "Chute du Diable".  
+Shooting a waterfall with a DSLR camera is not that hard. As usual in photography, you need a lot a patience. The perfect picture is all about managing a long exposure of the waterfall. This will get you a nice look as if the waterfall would be a silk river. In this guide, I will explain how I managed to get this picture of the "Chute du Diable".
 
 # Context
 
@@ -31,10 +31,10 @@ During summer 2014, I went camping with my family to Mont-Tremblant and as alway
 
 The "Chute du Diable" is located in Canada, Québec, Mont-Tremblant which is around 2 hours North of Montreal. If you still don't know where it is, here is the precise location where I got this shot:
 
-Latitude:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 46.3828892  
+Latitude:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 46.3828892
 Longitude: -74.4716262
 
-<div style="width: 100%"><iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=46.3828892,-74.4716262+(Chute%20du%20Diable)&amp;t=&amp;z=11&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.mapsdirections.info/fr/calculer-la-population-sur-une-carte">calculer la population sur la carte</a></iframe></div>
+<div style="width: 100%"><iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=46.3828892,-74.4716262+(Chute%20du%20Diable)&amp;t=&amp;z=11&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div>
 
 # Required gears
 
@@ -76,7 +76,6 @@ Switch your camera in manual mode and set the ISO to 100 to reduce the noise on 
   **Note:** You may also want to set your camera to shoot in RAW mode to adjust your final pictures. On sunny days, there is sometimes too much light to properly see the result picture on the preview screen. You might think that your exposure is correct when it's not. Shooting in RAW mode would allow you to correct this issue without scarifying too much of image quality.
 {{< /pleasenote >}}
 
-
 For your shot, you want to get the maximum area of the picture to be in focus. The static part of the picture (Trees, plants and flowers around the waterfall) has to be in focus to get a good contrast from the movement of the water. An aperture of f16 or higher would be a good start to get a nice depth of field. To get this thumbnail picture, I have set the aperture to f22.
 
 The perfect silk waterfall effect is achieved with a long exposure of 1 to 3 seconds depending on how fast the water is moving. Set your shutter speed to 1.5 seconds to get an average look.
@@ -97,9 +96,7 @@ Most important of all, do not forget to enjoy what you are doing!
 
 # Post processing
 
-<h2 style="line-height: 24px;">
-  Correcting underexposed trees and rocks<br /> 
-</h2>
+## Correcting underexposed trees and rocks
 
 After the capturing process, you may find your pictures are correctly exposed for the waterfall but all the vegetation and rocks around it might be underexposed. To correct this issue, you need to make a manual exposition correction in order to darken highly exposed areas while lightening underexposed areas. This is why it is important to shoot in RAW. The correction can be done with [Lightroom](http://www.adobe.com/ca/products/photoshop-lightroom.html) easily.
 
@@ -111,19 +108,15 @@ If you do not have access to a copy of [Lightroom](http://www.adobe.com/ca/produ
 
 This is the best picture I got using this technique. Here is the full scale image. Feel free to comment below!
 
-[![IMG_8597](/wp-content/uploads/2014/09/IMG_8597-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/51427589354/in/album-72157686721493240/)
-
-Chute du Diable
+[![IMG_8597](/wp-content/uploads/2014/09/IMG_8597-672x448.jpg "Chute du Diable")](https://www.flickr.com/photos/154618444@N05/51427589354/in/album-72157686721493240/)
 
 **EDIT:** And here is a Lightroom corrected version I made:
 
-[![IMG_8597_e2ez](/wp-content/uploads/2014/09/IMG_8597_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37139651090/in/album-72157686721493240/)
-
-Chute du Diable
+[![IMG_8597_e2ez](/wp-content/uploads/2014/09/IMG_8597_e2ez-672x448.jpg "Chute du Diable")](https://www.flickr.com/photos/154618444@N05/37139651090/in/album-72157686721493240/)
 
 In contrast, here is a static image of the same waterfall with motion freeze on automatic settings.
 
-[![IMG_8579](/wp-content/uploads/2014/09/IMG_8579.jpg)](/wp-content/uploads/2014/09/IMG_8579.jpg)
+[![IMG_8579](/wp-content/uploads/2014/09/IMG_8579-1024x683.jpg)](/wp-content/uploads/2014/09/IMG_8579.jpg)
 
 # What I would change for next time ?
 
@@ -137,6 +130,4 @@ Another good time of the day would be during "Grey days". When there is enough c
 
 ## Better composition
 
-When I was on site, I was overwhelmed by the waterfall and all the noise and the mist it was making.  I completely forgot to manage to properly frame the waterfall in it's context. I picture with more vegetation and showing the trees around it would have better showed the waterfall in it's context and would have made a better picture.
-
-
+When I was on site, I was overwhelmed by the waterfall and all the noise and the mist it was making. I completely forgot to manage to properly frame the waterfall in it's context. I picture with more vegetation and showing the trees around it would have better showed the waterfall in it's context and would have made a better picture.
