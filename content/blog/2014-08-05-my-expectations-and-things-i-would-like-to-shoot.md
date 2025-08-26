@@ -111,7 +111,7 @@ Tilt shifting gives a really unique effect to your picture. I makes all you subj
 
 # Panning
 
-Panning is another cool way to capture movement in a picture. The picture you get is a sharp enough subject on a blurred background. The effect can be achieve shooting a moving subject while panning the camera to follow the subject using a relatively long shutter speed (1/40 to 1/20 of a second). If you are good enough, you get a clear (sharp) subject that may have some part blurred because of the movement. When you shoot a cyclist in panning, you will get a clear head, body &amp; arms but a blurry background and blurry legs.
+Panning is another cool way to capture movement in a picture. The picture you get is a sharp enough subject on a blurred background. The effect can be achieve shooting a moving subject while panning the camera to follow the subject using a relatively long shutter speed (1/40 to 1/20 of a second). If you are good enough, you get a clear (sharp) subject that may have some part blurred because of the movement. When you shoot a cyclist in panning, you will get a clear head, body & arms but a blurry background and blurry legs.
 
 # HDR
 

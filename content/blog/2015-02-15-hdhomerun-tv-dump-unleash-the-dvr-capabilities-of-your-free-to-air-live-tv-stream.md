@@ -98,7 +98,7 @@ During this time, a play icon will be displayed on the _HDHomeRun TV Dump_ windo
 
 ## Record
 
-_HDHomeRun TV Dump_ can also be used to start a recording of the TV stream. Select your desired device &amp; channel in the available lists and press {{% windows-button3d %}}Record{{% /windows-button3d %}}. The following user dialog will be displayed:
+_HDHomeRun TV Dump_ can also be used to start a recording of the TV stream. Select your desired device & channel in the available lists and press {{% windows-button3d %}}Record{{% /windows-button3d %}}. The following user dialog will be displayed:
 
 [![HDHomeRun Tv Dump - Manual Recording Dialog](/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog-217x300.png "HDHomeRun Tv Dump - Manual Recording Dialog")](/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Manual-Recording-Dialog.png)
 

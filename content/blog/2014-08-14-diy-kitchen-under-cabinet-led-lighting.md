@@ -58,7 +58,7 @@ The material for this project is as follows:
 * A 3 pins wall outlet power cord.
 * A LED dimmer module.
 * A wall switch.
-* 2-3 meters of colored (red &amp; black) wire.
+* 2-3 meters of colored (red & black) wire.
 * Double sided tape
 * Sticker gum
 * A multimeter (for testing connections and power output)

@@ -15,7 +15,6 @@ tags:
   - Freeware
 
 ---
-
 # What is extTools
 
 extTools is a fast and innovative FREEWARE (for non-commercial use) software suite to help you executing common tasks in Windows File Explorer more easily.
@@ -45,7 +44,9 @@ You can download extTools by clicking on the following links:
 * {{% download old-id="828" href="N/A" %}}{{% /download %}} (for Windows 7 and over)
 -->
 
-Note: Please note that portable versions does not contain the shell extension module to register menu option with the File Explorer context menu.
+{{< pleasenote >}}
+  Note: Please note that portable versions does not contain the shell extension module to register menu option with the File Explorer context menu.
+{{< /pleasenote >}}
 
 # Screenshots
 
@@ -90,7 +91,9 @@ Here is some typical pattern scenarios where extFileRenaming shines!
 
 ### Pattern mode
 
-Select the ***pattern*** mode to rename photos or videos from a camera phone: Using a pattern like ***Trip to Hawaii with John (2007) ##.jpg*** you can rename the following files like this:
+Select the ***pattern*** mode to rename photos or videos from a camera phone:
+
+Using a pattern like ***Trip to Hawaii with John (2007) ##.jpg*** you can rename the following files like this:
 
 {{< renamep >}}
 IMG\_8823.jpg ⇨ Trip to Hawaii with John (2007) 01.jpg
@@ -156,7 +159,9 @@ Linkin\_Park\_album\_Living\_Things\_12\_Powerless.mp3 ⇨ 12\_Powerless.mp3
 
 [![extSearch screenshot](/wp-content/uploads/2014/10/extSearch-screenshot-300x215.png "extSearch screenshot")](/wp-content/uploads/2014/10/extSearch-screenshot.png)
 
-extSearch is a file search application. It's design is identical to Windows XP's search application. If you are using Windows Vista or later and you miss the simplicity that the search application was giving, then extSearch is for you. extSearch allows searching for a file using multiple criteria:
+extSearch is a file search application. It's design is identical to Windows XP's search application. If you are using Windows Vista or later and you miss the simplicity that the search application was giving, then extSearch is for you.
+
+extSearch allows searching for a file using multiple criteria:
 
 * File name or file extension using wildcard characters such as ***\**** or ***?***
 * Search for a specific word or phrase in a file (matching case or not).
@@ -182,7 +187,9 @@ All features of extTools are available through a shell explorer add-on. A nice f
 
 extBatchFileProcessor is a tool for queuing file operations (batch). This tools allows you to append a file operation (cut, copy or move) to a list of task to execute one after the other. In other words, you don't have to wait for another operation to complete before queuing another.
 
-This can be particularly handy when dealing with long operations like copying or moving a huge file or when dealing with slow peripherals like USB drives.Each queue item of extBatchFileProcessor uses default Windows API to process the operation so your data is safely processed.
+This can be particularly handy when dealing with long operations like copying or moving a huge file or when dealing with slow peripherals like USB drives.
+
+Each queue item of extBatchFileProcessor uses default Windows API to process the operation so your data is safely processed.
 
 As an example, imagine that you are copying multiple files to a USB drive. After the copying process is running for 10 minutes, you realize that you forgot to add another folder to the whole copy.
 
@@ -194,7 +201,9 @@ With extBatchFileProcessor, you can queue a copy operation of the missing folder
 
 [![extDelete screenshot](/wp-content/uploads/2014/10/extDelete-screenshot-300x138.png "extDelete screenshot")](/wp-content/uploads/2014/10/extDelete-screenshot.png)
 
-extDelete is a fast and secured file deletion application. It allows a user to quickly delete files and folders to recover free space as fast as possible.extDelete supports 3 deletion modes:
+extDelete is a fast and secured file deletion application. It allows a user to quickly delete files and folders to recover free space as fast as possible.
+
+extDelete supports 3 deletion modes:
 
 ### Normal
 
@@ -206,7 +215,15 @@ This mode is the standard mode. It is really similar to the default Windows fold
 
 [![extDelete screenshot (fast delete mode)](/wp-content/uploads/2014/10/extDelete-screenshot-fast-delete-mode-300x123.png "extDelete screenshot (fast delete mode)")](/wp-content/uploads/2014/10/extDelete-screenshot-fast-delete-mode.png)
 
-This is the main feature of extDelete. This mode allow a user to retrieve the deleted space as soon as possible. A nice GUI shows the amount of files and the retrieved size from deleted files "so far". It is designed to be the opposite behavior of the default Windows delete process which has to "discover" all the files in the target folder to show the total space to be deleted and an accurate "remaining time". The discovering process can take forever when dealing with folders that has many files. This mode is convenient when your are copying a huge amount of files from a remote drive to a local drive and finding out that you may not have enough space left. Note that deleting a temporary folder would take forever using Windows delete API since the drive would already be busy copying.
+This is the main feature of extDelete. This mode allow a user to retrieve the deleted space as soon as possible. A nice GUI shows the amount of files and the retrieved size from deleted files "so far".
+
+It is designed to be the opposite behavior of the default Windows delete process which has to "discover" all the files in the target folder to show the total space to be deleted and an accurate "remaining time". The discovering process can take forever when dealing with folders that has many files.
+
+This mode is convenient when your are copying a huge amount of files from a remote drive to a local drive and finding out that you may not have enough space left.
+
+{{< pleasenote >}}
+  Note that deleting a temporary folder would take forever using Windows delete API since the drive would already be busy copying.
+{{< /pleasenote >}}
 
 Using extDelete would start deleting files and recovering space right away!
 
@@ -218,23 +235,38 @@ Please note that extDelete ***secure*** deletion mode is not safe when deleting 
 
 This mode allows a user to destroy the content of every file ([Zeroisation](http://en.wikipedia.org/wiki/Zeroisation)) before deleting it preventing any file recovery ([Undelete](http://en.wikipedia.org/wiki/Undeletion)). Each file deleted in secured mode will see its data lost forever. If a user successfully undeletes a file, the content of the file will all be 0.
 
-**Note:** This mode has to "discover" the files first.
+{{< pleasenote >}}
+  **Note:** This mode has to "discover" the files first.
+{{< /pleasenote >}}
+
 
 ## extFileSplitter
 
 [![extFileSplitter screenshot (split)](/wp-content/uploads/2014/10/extFileSplitter-screenshot-split-300x163.png "extFileSplitter screenshot (split)")](/wp-content/uploads/2014/10/extFileSplitter-screenshot-split.png)
 
-extFileSplitter is a file splitting and joining application. It allows you to split a file to multiple smaller parts for easier management and join them back together later. Supported split values are bytes, kilobytes, megabytes, gigabytes or "files" which split the file evenly into the specified amount of files. Each file is split into smaller files which have the same name as the original with a sequential number append at the end. For instance, big\_file.mp4 will be split into big\_file.mp4.001, big\_file.mp4.002, big\_file.mp4.003, big\_file.mp4.004 and so forth.
+extFileSplitter is a file splitting and joining application. It allows you to split a file to multiple smaller parts for easier management and join them back together later.
+
+Supported split values are bytes, kilobytes, megabytes, gigabytes or "files" which split the file evenly into the specified amount of files.
+
+Each file is split into smaller files which have the same name as the original with a sequential number append at the end. For instance, big\_file.mp4 will be split into big\_file.mp4.001, big\_file.mp4.002, big\_file.mp4.003, big\_file.mp4.004 and so forth.
 
 [![extFileSplitter screenshot (join)](/wp-content/uploads/2014/10/extFileSplitter-screenshot-join-300x163.png "extFileSplitter screenshot (join)")](/wp-content/uploads/2014/10/extFileSplitter-screenshot-join.png)
 
-For joining a file back together, just select the first split file (\*.001) and let extFileSplitter automatically detect successive files. It will create a file with the same name without the .001 at the end. Joining big\_file.mp4.001 will automatically detect successive files (big\_file.mp4.002, big\_file.mp4.003, etc) and create a joined file name big\_file.mp4. extFileSplitter is really useful for splitting a huge file on multiple medias (CD or DVD) or send a file by email. Many email providers limit the size of each email preventing you to attach a big file to an email. Use extFileSplitter to split the file into multiple parts small enough to be accepted in an email. The recipient just have to join back all files to be able to rebuilt the original file. **Note:** extFileSplitter does not support splitting a file into more than 999 parts.
+For joining a file back together, just select the first split file (\*.001) and let extFileSplitter automatically detect successive files. It will create a file with the same name without the .001 at the end. Joining big\_file.mp4.001 will automatically detect successive files (big\_file.mp4.002, big\_file.mp4.003, etc) and create a joined file name big\_file.mp4.
+
+extFileSplitter is really useful for splitting a huge file on multiple medias (CD or DVD) or send a file by email. Many email providers limit the size of each email preventing you to attach a big file to an email. Use extFileSplitter to split the file into multiple parts small enough to be accepted in an email. The recipient just have to join back all files to be able to rebuilt the original file.
+
+{{< pleasenote >}}
+  **Note:** extFileSplitter does not support splitting a file into more than 999 parts.
+{{< /pleasenote >}}
 
 ##  extImageEncoder
 
 [![extImageEncoder screenshot](/wp-content/uploads/2014/10/extImageEncoder-screenshot-300x254.png "extImageEncoder screenshot")](/wp-content/uploads/2014/10/extImageEncoder-screenshot.png)
 
-extImageEncoder is an application that can hide a file/data into a picture. This process is called [steganography](http://en.wikipedia.org/wiki/Steganography). extImageEncoder does not simply append the data at the end of the image file but encodes the data into the actual pixels of the image by creating subtle change in pixel's color. If an unsuspecting user opens an encoded image into an image editor or picture viewer, it won't be able to see that a file is hidden within the image since that each change is so subtle that someone not specifically looking for it is unlikely to notice it.
+extImageEncoder is an application that can hide a file/data into a picture. This process is called [steganography](http://en.wikipedia.org/wiki/Steganography).
+
+extImageEncoder does not simply append the data at the end of the image file but encodes the data into the actual pixels of the image by creating subtle change in pixel's color. If an unsuspecting user opens an encoded image into an image editor or picture viewer, it won't be able to see that a file is hidden within the image since that each change is so subtle that someone not specifically looking for it is unlikely to notice it.
 
 The following features are supported:
 
@@ -247,13 +279,17 @@ extImageEncoder only supports [lossless](http://en.wikipedia.org/wiki/Lossless_c
 
 [![extWebGet screenshot](/wp-content/uploads/2014/10/extWebGet-screenshot-300x68.png "extWebGet screenshot")](/wp-content/uploads/2014/10/extWebGet-screenshot.png)
 
-extWebGet allows a user to download a file from a URL. Its usage is identical to UNIX wget application but wrapped with a nice GUI window. Good usage involves downloading file that would not be downloadable from an internet browser like html or rss files.
+extWebGet allows a user to download a file from a URL. Its usage is identical to UNIX wget application but wrapped with a nice GUI window.
+
+Good usage involves downloading file that would not be downloadable from an internet browser like html or rss files.
 
 ## extHashCalculator
 
 [![extHashCalculator screenshot (md5)](/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5-300x113.png "extHashCalculator screenshot (md5)")](/wp-content/uploads/2014/10/extHashCalculator-screenshot-md5.png)
 
-extHashCalculator calculate hashes ([message digests](http://en.wikipedia.org/wiki/Message_digest)) for any kind of file. A file hash is the result of a [file verification](http://en.wikipedia.org/wiki/File_verification) process that confirms the integrity of a file. Web sites that offers downloadable content mostly provide hash values to let users know that the downloaded file is not altered (incomplete, corrupted or modified by a virus).
+extHashCalculator calculate hashes ([message digests](http://en.wikipedia.org/wiki/Message_digest)) for any kind of file.
+
+A file hash is the result of a [file verification](http://en.wikipedia.org/wiki/File_verification) process that confirms the integrity of a file. Web sites that offers downloadable content mostly provide hash values to let users know that the downloaded file is not altered (incomplete, corrupted or modified by a virus).
 
 extHashCalculator supports the following hash algorithms:
 
@@ -265,19 +301,33 @@ extHashCalculator supports the following hash algorithms:
 
 [![extGuid screenshot](/wp-content/uploads/2014/10/extGuid-screenshot-300x233.png "extGuid screenshot")](/wp-content/uploads/2014/10/extGuid-screenshot.png)
 
-extGuid is tool for developers that allows a user to generate new [GUID](http://en.wikipedia.org/wiki/Guid) (Globally unique identifier) numbers.extGuid can format the GUID output in multiple forms which are:
+extGuid is tool for developers that allows a user to generate new [GUID](http://en.wikipedia.org/wiki/Guid) (Globally unique identifier) numbers.
+
+extGuid can format the GUID output in multiple forms which are:
 
 ### IMPLEMENT\_OLECREATE(...)
 
-// {A17F1F0D-6FCB-4DC1-83A1-22808A6B6501} IMPLEMENT\_OLECREATE(&lt;&lt;class&gt;&gt;, &lt;&lt;external\_name&gt;&gt;, 0xa17f1f0d, 0x6fcb, 0x4dc1, 0x83, 0xa1, 0x22, 0x80, 0x8a, 0x6b, 0x65, 0x01);
+```
+// {A17F1F0D-6FCB-4DC1-83A1-22808A6B6501}  
+IMPLEMENT\_OLECREATE(<<class>>, <<external\_name>>,  
+0xa17f1f0d, 0x6fcb, 0x4dc1, 0x83, 0xa1, 0x22, 0x80, 0x8a, 0x6b, 0x65, 0x01);
+```
 
 ### DEFINE\_GUID(...)
 
-// {A17F1F0D-6FCB-4DC1-83A1-22808A6B6501} DEFINE\_GUID(&lt;&lt;name&gt;&gt;, 0xa17f1f0d, 0x6fcb, 0x4dc1, 0x83, 0xa1, 0x22, 0x80, 0x8a, 0x6b, 0x65, 0x01);
+```
+// {A17F1F0D-6FCB-4DC1-83A1-22808A6B6501}  
+DEFINE_GUID(<<name>>,  
+0xa17f1f0d, 0x6fcb, 0x4dc1, 0x83, 0xa1, 0x22, 0x80, 0x8a, 0x6b, 0x65, 0x01);
+```
 
 ### static const struct GUID = {...}
 
-// {A17F1F0D-6FCB-4DC1-83A1-22808A6B6501} static const GUID &lt;&lt;name&gt;&gt; = { 0xa17f1f0d, 0x6fcb, 0x4dc1, { 0x83, 0xa1, 0x22, 0x80, 0x8a, 0x6b, 0x65, 0x01 } };
+```
+// {A17F1F0D-6FCB-4DC1-83A1-22808A6B6501}  
+static const GUID <<name>> =  
+{ 0xa17f1f0d, 0x6fcb, 0x4dc1, { 0x83, 0xa1, 0x22, 0x80, 0x8a, 0x6b, 0x65, 0x01 } };
+```
 
 ### Registry format
 
@@ -287,7 +337,9 @@ extGuid is tool for developers that allows a user to generate new [GUID](http://
 
 [![extAnsiPrinter screenshot (apple)](/wp-content/uploads/2014/10/extAnsiPrinter-screenshot-apple-300x152.png "extAnsiPrinter screenshot (apple)")](/wp-content/uploads/2014/10/extAnsiPrinter-screenshot-apple.png)
 
-extAnsiPrinter a command prompt only application (no GUI). It is an implementation of the old DOS driver ANSI.SYS. This driver is not available anymore on recent windows operating systems. This tools bring back this functionality and allows you to render ANSI files (\*.ans) on a windows command prompt (win32). **Usage:** extAnsiPrinter \[ansi file\]
+extAnsiPrinter a command prompt only application (no GUI). It is an implementation of the old DOS driver ANSI.SYS. This driver is not available anymore on recent windows operating systems. This tools bring back this functionality and allows you to render ANSI files (\*.ans) on a windows command prompt (win32).
+
+**Usage:** extAnsiPrinter \[ansi file\]
 
 # Compatible with
 
