@@ -248,7 +248,7 @@ You can install *Homebrew* with the following commands:
 1. Open a *Terminal* app.
 2. Enter the command  
     `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`.
-3. You’ll see messages in the *Terminal* explaining what you need to do to complete the installation process.
+3. You'll see messages in the *Terminal* explaining what you need to do to complete the installation process.
 
 Source: [Installing Homebrew on a Mac](https://treehouse.github.io/installation-guides/mac/homebrew).
 

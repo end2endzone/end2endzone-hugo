@@ -15,7 +15,7 @@ tags:
 
 ---
 
-Voici un autre modèle d'avion que j'ai assemblé: le planeur Radian Pro de ParkZone. C'est un excellent appareil. Je le recommande fortement. Lorsque je le pilote, je dois m'apporter une chaise afin de m’asseoir parce qu'une fois que cet oiseau est dans les airs, il ne veut juste plus redescendre au sol. Il faut s'armer de patience. Le tout présenté en time lapse.
+Voici un autre modèle d'avion que j'ai assemblé: le planeur Radian Pro de ParkZone. C'est un excellent appareil. Je le recommande fortement. Lorsque je le pilote, je dois m'apporter une chaise afin de m'asseoir parce qu'une fois que cet oiseau est dans les airs, il ne veut juste plus redescendre au sol. Il faut s'armer de patience. Le tout présenté en time lapse.
 
 # Description
 

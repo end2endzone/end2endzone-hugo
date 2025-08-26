@@ -1,5 +1,5 @@
 ---
-title: Flou d’hélice / Propeller blur
+title: Flou d'hélice / Propeller blur
 author: end2end
 date: 2015-06-10T01:29:41+00:00
 url: /flou-dhelice-propeller-blur/
@@ -35,7 +35,7 @@ La vitesse moyenne de rotation du moteur est de 2300 à 2400 tour/min lorsque le
 
 # Notez la courbure de l'hélice!
 
-La photo qui suit correspond à 1/3200 de seconde (0.0003125 seconde). Notez que l'hélice n’apparaît pas comme droite mais courbée avec un angle d'environ 135 dégrées. Cela se produit lorsque l'on prend en photo un objet qui se déplace rapidement et un temps d'exposition très court.
+La photo qui suit correspond à 1/3200 de seconde (0.0003125 seconde). Notez que l'hélice n'apparaît pas comme droite mais courbée avec un angle d'environ 135 dégrées. Cela se produit lorsque l'on prend en photo un objet qui se déplace rapidement et un temps d'exposition très court.
 
 Cela signifie que l'hélice a eu le temps de tourner pendant la capture de l'image! Bref, le moment où la lumière a atteint le bas du capteur de la caméra n'est pas identique au moment où la lumière atteint le haut du capteur!
 

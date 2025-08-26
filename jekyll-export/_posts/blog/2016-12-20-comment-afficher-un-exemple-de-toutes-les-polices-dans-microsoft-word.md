@@ -106,7 +106,7 @@ Procédez avec les étapes suivantes pour exécuter le module installé:
 
 1. Ouvrir ***Microsoft Word***.
 2. Naviguer au menu ***Affichage*** du ***ruban***.
-3. Cliquer sur le bouton ***Macros***. L'éditeur de macro Microsoft Visual Basic s’ouvrira.
+3. Cliquer sur le bouton ***Macros***. L'éditeur de macro Microsoft Visual Basic s'ouvrira.
 4. Sélectionner la macro ***ListInstalledFonts***.
 [![Éditeur de macro Microsoft Word - Macro ListInstalledFonts sélectionnée](/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée.jpg "Éditeur de macro Microsoft Word - Macro ListInstalledFonts sélectionnée")](/wp-content/uploads/2016/12/Éditeur-de-macro-Microsoft-Word-Macro-ListInstalledFonts-sélectionnée.jpg)
 5. Cliquer sur le bouton {{% windows-button3d %}}Exécuter{{% /windows-button3d %}} pour lancer l'exécution du script.
