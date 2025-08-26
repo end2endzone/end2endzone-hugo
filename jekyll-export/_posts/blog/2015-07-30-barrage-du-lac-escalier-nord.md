@@ -20,8 +20,7 @@ tags:
   - waterfall
 
 ---
-
-Voici une formidable photo du Barrage du Lac-Escalier Nord. Il est situé dans le Parc nationale du Mont-Tremblant plus précisément aux coordonnées [46°25'14.7" N 74°29'32.9" W](https://www.google.ca/maps/place/46%C2%B025%2714.7%22N+74%C2%B029%2732.9%22W/@46.42075,-74.4924722,15.28z/data=!4m2!3m1!1s0x0:0x0) à 436 mètres d'altitude.
+Voici une formidable photo du Barrage du Lac-Escalier Nord. Il est situé dans le Parc nationale du Mont-Tremblant plus précisément aux coordonnées [46°25'14.7" N 74°29'32.9" W](https://www.google.ca/maps/place/46%C2%B025%2714.7%22N+74%C2%B029%2732.9%22W/@46.42075,-74.4924722,15.28z/data=!4m2!3m1!1s0x0:0x0)à 436 mètres d'altitude.
 
 [![Barrage du Lac-Escalier Nord (Parc nationale du Mont-Tremblant)](/wp-content/uploads/2015/07/IMG_5362_e2ez-672x448.jpg)](https://www.flickr.com/photos/154618444@N05/37571831322/in/album-72157687682125444/)
 
