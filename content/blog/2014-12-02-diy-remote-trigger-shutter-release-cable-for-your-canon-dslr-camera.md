@@ -22,10 +22,9 @@ For all these kind of photography, camera shake is your greatest enemy. You real
 
 For solving this issue, most camera allows the user to set a delay for taking a picture. That is perfect alternative for situation where the scene you are photographing does not change a lot or is predictable like macrophotography or long exposures scenarios. However, it is not suitable for wild life super telephoto shots or when you need the bulb mode since you have to hold and release the shutter for the whole exposure.
 
-Canon sells a [Remote Switch RS-60E3](http://estore.canon.ca/shop/en-CA/catalog/product-accessories/eos-digital-slr-camera-accessories/remote-controllers-10614-24/remote-switch-rs-60e3)&nbsp;which acts exactly like your shutter button, enabling halfway or complete pressing for adjusting auto-focus or activating the shutter to capture an image. It sells for 34$ (at the time of this writing) but it is only 2-ft long.
+Canon sells a [Remote Switch RS-60E3](http://estore.canon.ca/shop/en-CA/catalog/product-accessories/eos-digital-slr-camera-accessories/remote-controllers-10614-24/remote-switch-rs-60e3) which acts exactly like your shutter button, enabling halfway or complete pressing for adjusting auto-focus or activating the shutter to capture an image. It sells for 34$ (at the time of this writing) but it is only 2-ft long.
 
 Since the Canon version is not exactly what I needed, I though why not create one instead of buying it. In this article, I will show you how I built a DIY version of Canon's remote shutter release cable for my Canon DSLR camera.
-
 
 On most Canon cameras, you can make a DIY remote trigger version by connecting a simple 2.5mm stereo plug into your camera and shorting the longest pin with one of the shortest pin.
 
@@ -44,38 +43,32 @@ The material for this project is as follows:
 
 ### Switches
 
-[![IMG_8772](/wp-content/uploads/2014/11/IMG_8772.jpg)](/wp-content/uploads/2014/11/IMG_8772.jpg)
-
-Black and red momentary switches
+[![IMG_8772](/wp-content/uploads/2014/11/IMG_8772-1024x576.jpg "Black and red momentary switches")](/wp-content/uploads/2014/11/IMG_8772.jpg)
 
 Switches can be any type you want as long as its a momentary switch (normally opened, push to close). I do recommend to have different colors for assigning auto-focus and shutter buttons to a wire color. I used these switches from eBay. They are cheap and are ready for mounting to a hard surface.
 
 ### Cable
 
-[![IMG_8756](/wp-content/uploads/2014/12/IMG_8756.jpg)](/wp-content/uploads/2014/12/IMG_8756.jpg)
-
-20 feet telephone extension cord
+[![IMG_8756](/wp-content/uploads/2014/12/IMG_8756-1024x576.jpg "20 feet telephone extension cord")](/wp-content/uploads/2014/12/IMG_8756.jpg)
 
 You can use any type of cable as long as it have at least 3 colored wires. you basically have to extend the connections of the 2.5 mm plug. I decided to go with a 20 feet phone cable because it is cheap and easily available. Make sure the cable is not too rough and can bent without too much force because you do not want to move your camera while you are pulling or raising your trigger.
 
 ### Project box
 
-[![IMG_8979](/wp-content/uploads/2014/12/IMG_8979.jpg)](/wp-content/uploads/2014/12/IMG_8979.jpg)
-
-Crazy glue box
+[![IMG_8979](/wp-content/uploads/2014/12/IMG_8979-169x300.jpg "Crazy glue box")](/wp-content/uploads/2014/12/IMG_8979.jpg)
 
 The project box is used for the switches. It can be anything as long as you can drill holes big enough for mounting the switches on. It also has to be small enough to be held in one hand. I decided to use a super glue container which is the perfect size for fitting in my hands.
 
 ### Other material
 
-| <!-- -->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![IMG_9001](/wp-content/uploads/2014/12/IMG_9001.jpg)](/wp-content/uploads/2014/12/IMG_9001.jpg "A multimeter")[768x576](/wp-content/uploads/2014/12/IMG_9001.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_9001.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_9001.jpg)                                                                                                  |
-| [![IMG_8993](/wp-content/uploads/2014/12/IMG_8993.jpg)](/wp-content/uploads/2014/12/IMG_8993.jpg "Solder paste")[768x576](/wp-content/uploads/2014/12/IMG_8993.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_8993.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_8993.jpg)                                                                                                  |
-| [![IMG_8766](/wp-content/uploads/2014/12/IMG_8766.jpg)](/wp-content/uploads/2014/12/IMG_8766.jpg "2.5 mm male stereo plug")[768x432](/wp-content/uploads/2014/12/IMG_8766.jpg)<br />[1024x576](/wp-content/uploads/2014/12/IMG_8766.jpg)<br />[1280x720](/wp-content/uploads/2014/12/IMG_8766.jpg)<br />[1280x720](/wp-content/uploads/2014/12/IMG_8766.jpg) |
-| [![IMG_8991](/wp-content/uploads/2014/12/IMG_8991.jpg)](/wp-content/uploads/2014/12/IMG_8991.jpg "1/16 inch heat shrink tubing")[768x576](/wp-content/uploads/2014/12/IMG_8991.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_8991.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_8991.jpg)                                                                                  |
-| [![IMG_8996](/wp-content/uploads/2014/12/IMG_8996.jpg)](/wp-content/uploads/2014/12/IMG_8996.jpg "A third hand")[768x576](/wp-content/uploads/2014/12/IMG_8996.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_8996.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_8996.jpg)                                                                                                  |
-| [![IMG_8998](/wp-content/uploads/2014/12/IMG_8998.jpg)](/wp-content/uploads/2014/12/IMG_8998.jpg "A soldering iron")[768x576](/wp-content/uploads/2014/12/IMG_8998.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_8998.jpg)<br />[960x720](/wp-content/uploads/2014/12/IMG_8998.jpg)                                                                                              |
+{{< image-gallery >}}
+[![](/wp-content/uploads/2014/12/IMG_8766-1024x576.jpg "2.5 mm male stereo plug")](/wp-content/uploads/2014/12/IMG_8766.jpg)
+[![](/wp-content/uploads/2014/12/IMG_8996-672x504.jpg "A third hand")](/wp-content/uploads/2014/12/IMG_8996.jpg)
+[![](/wp-content/uploads/2014/12/IMG_8998-672x504.jpg "A soldering iron")](/wp-content/uploads/2014/12/IMG_8998.jpg)
+[![](/wp-content/uploads/2014/12/IMG_8993-960x576.jpg "Solder paste")](/wp-content/uploads/2014/12/IMG_8993.jpg)
+[![](/wp-content/uploads/2014/12/IMG_8991-672x504.jpg "1/16 inch heat shrink tubing")](/wp-content/uploads/2014/12/IMG_8991.jpg)
+[![](/wp-content/uploads/2014/12/IMG_9001-672x504.jpg "A multimeter")](/wp-content/uploads/2014/12/IMG_9001.jpg)
+{{< /image-gallery >}}
 
 
 ## Total cost of the project
@@ -91,7 +84,7 @@ Here is the detailed price of each items:
 
 Total cost: $**8.25**
 
-* The cost of usual items such as screws and glue is not included in the cost of the project.
+\* The cost of usual items such as screws and glue is not included in the cost of the project.
 
 ## Preparation time
 
@@ -113,7 +106,9 @@ Use the audio plug and take off the protective cover of the 2.5 mm stereo plug l
 
 ## Soldering the audio plug
 
-[![IMG_8785](/wp-content/uploads/2014/12/IMG_8785.jpg)](/wp-content/uploads/2014/12/IMG_8785.jpg)I do recommend that you start with soldering of the audio plug to the cable. This is the easiest part and can be completed quickly.
+[![IMG_8785](/wp-content/uploads/2014/12/IMG_8785-1024x576.jpg)](/wp-content/uploads/2014/12/IMG_8785.jpg)
+
+I do recommend that you start with soldering of the audio plug to the cable. This is the easiest part and can be completed quickly.
 
 Take off the protective cap of the audio plug leaving the pins exposed. Pass the cable through the protective cap so that once finished, you can put the cap back on the audio plug.
 
@@ -131,9 +126,7 @@ Put the heat shrink tubing over each soldered section to protect the circuit.
 
 If you have issues finding which pin are what, refer to the following image:
 
-[![Audio plug 2.5 mm pins usage](/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg)](/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg)
-
-Audio plug 2.5 mm pins usage
+[![Audio plug 2.5 mm pins usage](/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage-1024x576.jpg "Audio plug 2.5 mm pins usage")](/wp-content/uploads/2014/12/Audio-plug-2.5-mm-pins-usage.jpg)
 
 ## Drilling
 
@@ -147,15 +140,11 @@ If you project box is too fragile, you may have to drill many times the same hol
 
 Take your phone cable and insert the other end into the project box and tie a knot to prevent the wire from pulling on the switches solder joints. You can also put a small amount of hot glue on the knot inside the box for the same purpose.
 
-Soldering the switches<br /> 
+## Soldering the switches
 
-[![IMG_9004](/wp-content/uploads/2014/12/IMG_9004.jpg)](/wp-content/uploads/2014/12/IMG_9004.jpg)
+[![IMG_9004](/wp-content/uploads/2014/12/IMG_9004-1024x576.jpg "Remote trigger auto-focus button")](/wp-content/uploads/2014/12/IMG_9004.jpg)
 
-Remote trigger auto-focus button
-
-[![IMG_9003](/wp-content/uploads/2014/12/IMG_9003.jpg)](/wp-content/uploads/2014/12/IMG_9003.jpg)
-
-Remote trigger shutter button
+[![IMG_9003](/wp-content/uploads/2014/12/IMG_9003-1024x576.jpg "Remote trigger shutter button")](/wp-content/uploads/2014/12/IMG_9003.jpg)
 
 In this section, you will solder the wires to the switches. The next set of instructions will assume that you want the red switch to trigger the shutter.
 
@@ -167,18 +156,15 @@ Take the red wire and solder the wire to the remaining pins of the red switch (s
   Please note that in the pictures above, I had to use a red wire to make the Y shape since I didn't had any black wire.
 {{< /pleasenote >}}
 
-
 ## Mounting
 
 That should be obvious...
 
-Final Result
+# Final Result
 
 Here is the final result:
 
-[![DIY Remote trigger shutter release cable for your Canon DSLR camera](/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg)](/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg)
-
-DIY Remote trigger shutter release cable for your Canon DSLR camera
+[![DIY Remote trigger shutter release cable for your Canon DSLR camera](/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera-1024x576.jpg "DIY Remote trigger shutter release cable for your Canon DSLR camera")](/wp-content/uploads/2014/12/DIY-Remote-trigger-shutter-release-cable-for-your-Canon-DSLR-camera.jpg)
 
 # Made anything differently?
 

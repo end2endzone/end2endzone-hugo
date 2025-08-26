@@ -18,9 +18,9 @@ tags:
 ---
 # The Good
 
-After 1½ month of flying the plane, I was feeling a little more confident and I trusted enough myself for doing loops.  So at the end of the 2013 season, I went flying with a friend with my Super Cub LP. I wasn't expecting any disaster...  
+After 1½ month of flying the plane, I was feeling a little more confident and I trusted enough myself for doing loops. So at the end of the 2013 season, I went flying with a friend with my Super Cub LP. I wasn't expecting any disaster...
 
-It was a little cloudy & windy but I went flying anyway because I was too much confident that nothing could happen since I had 6-7 flights of experience!<br /> 
+It was a little cloudy & windy but I went flying anyway because I was too much confident that nothing could happen since I had 6-7 flights of experience!
 
 # The Bad
 
@@ -32,7 +32,7 @@ After a minute of flying, the elevator stopped responding and violently crashed 
 
 Here is the video of the crash:
 
-
+{{< youtube Sy1FgYUYZB4 >}}
 
 # The explanation
 
@@ -52,17 +52,11 @@ Here the description of the damage:
 
 Here is some pictures of the wreckage:
 
-[![Super Cub LP Crash (wings)](/wp-content/uploads/2014/09/DSC034641.jpg)](/wp-content/uploads/2014/09/DSC034641.jpg)
-
-Super Cub LP Crash (wings)
-
-[![Super Cub LP Crash (nose smashed)](/wp-content/uploads/2014/09/DSC03466.jpg)](/wp-content/uploads/2014/09/DSC03466.jpg)
-
-Super Cub LP Crash (nose smashed)
-
-[![Super Cub LP Crash (engine smashed)](/wp-content/uploads/2014/09/DSC03468.jpg)](/wp-content/uploads/2014/09/DSC03468.jpg)
-
-Super Cub LP Crash (engine smashed)
+[![Super Cub LP Crash (wings)](/wp-content/uploads/2014/09/DSC034641-1024x768.jpg "Super Cub LP Crash (wings)")](/wp-content/uploads/2014/09/DSC034641.jpg)
+ 
+[![Super Cub LP Crash (nose smashed)](/wp-content/uploads/2014/09/DSC03466-1024x768.jpg "Super Cub LP Crash (nose smashed)")](/wp-content/uploads/2014/09/DSC03466.jpg)
+ 
+[![Super Cub LP Crash (engine smashed)](/wp-content/uploads/2014/09/DSC03468-1024x768.jpg "Super Cub LP Crash (engine smashed)")](/wp-content/uploads/2014/09/DSC03468.jpg)
 
 # Final note
 

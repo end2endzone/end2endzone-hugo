@@ -16,7 +16,7 @@ tags:
 ---
 # Introduction
 
-At the beginning of the 2014 season, I decided to join a local RC club to get to know good experienced people that would give me advices on the best practices for flying. I also decided to find a flight instructor that would assist me and help me with all the technical details that I am still lacking. When we met, he strongly suggested that I leave the [Hobby Zone Super Cub](/tag/super-cub/) behind and get to a wooden motorized trainer plane like the Avistar Elite .46 ARF by Great Planes, which I did.  
+At the beginning of the 2014 season, I decided to join a local RC club to get to know good experienced people that would give me advices on the best practices for flying. I also decided to find a flight instructor that would assist me and help me with all the technical details that I am still lacking. When we met, he strongly suggested that I leave the [Hobby Zone Super Cub](/tag/super-cub/) behind and get to a wooden motorized trainer plane like the Avistar Elite .46 ARF by Great Planes, which I did.
 
 I have flown the Avistar Elite .46 for the whole season and I would like to say that my flight instructor was right. It is a wonderful plane for beginners.
 
