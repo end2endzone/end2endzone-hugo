@@ -28,7 +28,7 @@ Note that this process is now deprecated as I have a new workflow which does not
 
 The trick is to use a temporary (intermediate) file to cut ads and encode this file with a lossless video codec to prevent any quality degradation. Then use Handbrake to encode the final video for best results.
 
-# Download &amp; Install required software
+# Download & Install required software
 
 The following software must be downloaded and installed:
 

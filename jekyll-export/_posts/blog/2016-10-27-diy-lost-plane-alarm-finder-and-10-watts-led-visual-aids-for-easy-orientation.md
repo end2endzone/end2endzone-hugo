@@ -272,9 +272,9 @@ Once everything is ready for flight, attach the package on the quadcopter. Conne
 
 Here is the final result:
 
-[![Arduino Quadcopter LED & Buzzer Controler (final)](/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final.jpg "Arduino Quadcopter LED &amp; Buzzer Controler (final)")](/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final.jpg)
+[![Arduino Quadcopter LED & Buzzer Controler (final)](/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final.jpg "Arduino Quadcopter LED & Buzzer Controler (final)")](/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final.jpg)
 
-[![Arduino Quadcopter LED & Buzzer Controler (final) - Close Up](/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final-close-up.jpg "Arduino Quadcopter LED &amp; Buzzer Controler (final) - Close Up")](/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final-close-up.jpg)
+[![Arduino Quadcopter LED & Buzzer Controler (final) - Close Up](/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final-close-up.jpg "Arduino Quadcopter LED & Buzzer Controler (final) - Close Up")](/wp-content/uploads/2016/08/Arduino-Quadcopter-Controler-final-close-up.jpg)
 
 # Made anything differently?
 

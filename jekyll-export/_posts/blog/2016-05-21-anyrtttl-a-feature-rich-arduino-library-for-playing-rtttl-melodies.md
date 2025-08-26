@@ -40,14 +40,14 @@ The following article is about yet another Arduino library that I have written. 
 
 See this post for a [quick recall of the RTTTL format](/nonblockingrtttl-a-non-blocking-arduino-library-for-playing-rtttl-melodies/#Quick_recall_of_the_RTTTL_format). Note that AnyRtttl library is a port from my [NonBlockingRtttl arduino library](/nonblockingrtttl-a-non-blocking-arduino-library-for-playing-rtttl-melodies/) which is now deprecated since development has stopped.
 
-After publishing my NonBlockingRtttl arduino library, I started using the library in more complex projects which was requiring other libraries. I quickly ran into the hell of library dependencies and library conflicts. I realized that I needed more features that could help me prototype faster. Other libraries available which allows you to "play" a melody in [RTTTL f](#Quick_recall_of_the_RTTTL_format)ormat suffer the same issue: they are based on blocking APIs or the RTTTL data is not optimized for space. AnyRtttl is different since it packs multiple RTTTL related features in a single library. It supports [blocking](https://en.wikipedia.org/wiki/Blocking_(computing)) &amp; [non-blocking](http://en.wikipedia.org/wiki/Non-blocking_algorithm) API which makes it suitable to be used by more advanced algorithm. For instance, when using the non-blocking API, the melody can be stopped when a button is pressed. The library is also compatible with *external Tone libraries* and it supports highly compressed RTTTL binary formats.
+After publishing my NonBlockingRtttl arduino library, I started using the library in more complex projects which was requiring other libraries. I quickly ran into the hell of library dependencies and library conflicts. I realized that I needed more features that could help me prototype faster. Other libraries available which allows you to "play" a melody in [RTTTL f](#Quick_recall_of_the_RTTTL_format)ormat suffer the same issue: they are based on blocking APIs or the RTTTL data is not optimized for space. AnyRtttl is different since it packs multiple RTTTL related features in a single library. It supports [blocking](https://en.wikipedia.org/wiki/Blocking_(computing)) & [non-blocking](http://en.wikipedia.org/wiki/Non-blocking_algorithm) API which makes it suitable to be used by more advanced algorithm. For instance, when using the non-blocking API, the melody can be stopped when a button is pressed. The library is also compatible with *external Tone libraries* and it supports highly compressed RTTTL binary formats.
 
 # Library features
 
 Here is a list of all library features:
 
-* Really small increase in memory &amp; code footprint compared to the usual blocking algorithm.
-* Blocking &amp; Non-Blocking modes available.
+* Really small increase in memory & code footprint compared to the usual blocking algorithm.
+* Blocking & Non-Blocking modes available.
 * Support custom `tone()`, `noTone()`, `delay()` and `millis()` functions.
 * Compatible with external Tone libraries.
 * Supports highly compressed RTTTL binary format.
@@ -138,7 +138,7 @@ void serialDelay(uint32_t duration) {
 }
 ```
 
-Each new functions prints the function call &amp; arguments to the serial port. In the `setup()` function, setup the AnyRtttl library to use the new functions:
+Each new functions prints the function call & arguments to the serial port. In the `setup()` function, setup the AnyRtttl library to use the new functions:
 
 ```
 //Use custom functions

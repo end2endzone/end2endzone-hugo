@@ -45,7 +45,7 @@ Most code that can be found on the internet that allows you to "play" an [RTTTL 
 
 # Quick recall of the RTTTL format
 
-I recently discovered the Ring Tone Text Transfer Language (RTTTL) audio format which is an audio format for storing single tone (monolithic) melodies. Each melody is composed of successive tone frequencies. The RTTTL format is [human readable](http://stackoverflow.com/questions/568671/why-should-i-use-a-human-readable-file-format) and usually more compressed than note &amp; duration arrays which helps reduce its memory footprint. In the arduino world, melodies are usually written as an array of notes (frequencies) followed by the note's duration (note1, duration1, note2, duration2, ... , noteX, durationX). The format is really suitable for embedded device that are limited in memory which can't store PCM (wav) or even MP3 data. Note that RTTTL can also be spelled RTTL (Ringtone Text Transfer Language). According to my Samsung phone, a ringtone can also be spelled as a single word...
+I recently discovered the Ring Tone Text Transfer Language (RTTTL) audio format which is an audio format for storing single tone (monolithic) melodies. Each melody is composed of successive tone frequencies. The RTTTL format is [human readable](http://stackoverflow.com/questions/568671/why-should-i-use-a-human-readable-file-format) and usually more compressed than note & duration arrays which helps reduce its memory footprint. In the arduino world, melodies are usually written as an array of notes (frequencies) followed by the note's duration (note1, duration1, note2, duration2, ... , noteX, durationX). The format is really suitable for embedded device that are limited in memory which can't store PCM (wav) or even MP3 data. Note that RTTTL can also be spelled RTTL (Ringtone Text Transfer Language). According to my Samsung phone, a ringtone can also be spelled as a single word...
 
 More information on the RTTTL format is available on its [Wikipedia acticle](https://en.wikipedia.org/wiki/Ring_Tone_Transfer_Language).
 
@@ -53,7 +53,7 @@ More information on the RTTTL format is available on its [Wikipedia acticle](htt
 
 Possible use are:
 
-* Really small increase in memory &amp; code footprint compared to the usual blocking algorithm.
+* Really small increase in memory & code footprint compared to the usual blocking algorithm.
 * Allows your program to read/write IOs pins while playing. Implementing a "stop" or "next song" push buttons is a breeze!
 
 # Usage
@@ -70,7 +70,7 @@ The following demo show how to use the library:
 
 # License
 
-The following code was written by Antoine Beauchamp. The non-blocking RTTTL library is a port of the RTTTL example from the [Tone library](http://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/rogue-code/Arduino-Library-Tone.zip) which is licensed with the [MIT License](http://www.opensource.org/licenses/mit-license.php). The code &amp; updates for the library can be found at <http://end2endzone.com>. For the original source code for the RTTTL player see: <http://code.google.com/archive/p/rogue-code/wikis/ToneLibraryDocumentation.wiki>.
+The following code was written by Antoine Beauchamp. The non-blocking RTTTL library is a port of the RTTTL example from the [Tone library](http://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/rogue-code/Arduino-Library-Tone.zip) which is licensed with the [MIT License](http://www.opensource.org/licenses/mit-license.php). The code & updates for the library can be found at <http://end2endzone.com>. For the original source code for the RTTTL player see: <http://code.google.com/archive/p/rogue-code/wikis/ToneLibraryDocumentation.wiki>.
 
 # Download
 

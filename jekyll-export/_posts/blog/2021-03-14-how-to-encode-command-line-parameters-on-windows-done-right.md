@@ -104,7 +104,7 @@ Plain `<strong>\</strong>` character must be escaped with `<strong>\\</strong>` 
 
 ## Rule #4 - Shell characters
 
-The following characters are **special shell characters**: **&amp;**, **&lt;**, **&gt;**, **(**, **)**, **|**, **%** or **!**
+The following characters are **special shell characters**: **&**, **&lt;**, **&gt;**, **(**, **)**, **|**, **%** or **!**
 
 ### Rule #4.1 (in string)
 
@@ -124,8 +124,8 @@ Plain shell characters must be escaped with `<strong>^</strong>` when inside a c
 | a ^&lt; b | a | &lt; | b |
 | ^"a ^&lt; b^" c | a &lt; b | c |  |
 | ^"a &lt; b^" c | The system cannot find the file specified. |
-| ^"a &amp; b^" c | 'b"' is not recognized as an internal or external command, operable program or batch file. |
-| ^"a &amp;whoami^" | outputs: %USERDOMAIN%\\%USERNAME% |
+| ^"a & b^" c | 'b"' is not recognized as an internal or external command, operable program or batch file. |
+| ^"a &whoami^" | outputs: %USERDOMAIN%\\%USERNAME% |
 
 ### Rule #4.3 (Escaped non-shell characters)
 
@@ -178,7 +178,7 @@ All other characters must be read as plain text.
 
 | Command Line | Arg #1 | Arg #2 | Arg #3 |
 |---|---|---|---|
-| ^"test\\"&lt;test&amp;whoami^" | test"&lt;test&amp;whoami^ |  |  |
+| ^"test\\"&lt;test&whoami^" | test"&lt;test&whoami^ |  |  |
 | ^"ab cd \\" ef^" | ab cd " ef^ |  |  |
 | ^"ab cd \\^" ef^" | ab cd " ef |  |  |
 | ^"ab cd \\\\" ef^" | ab cd \\ | ef^ |  |
@@ -224,8 +224,8 @@ For the list of all verification tests executed with libArgvCodec, please see th
 | """" | " |  |  |
 | """"" | "" |  |  |
 | """""" | "" |  |  |
-| ^"ab cd\\^"^&amp;echo foo^" | ab cd"&amp;echo foo |  |  |
-| "ab cd\\^"^&amp;echo foo^" | ab cd\\^&amp;echo | foo |  |
+| ^"ab cd\\^"^&echo foo^" | ab cd"&echo foo |  |  |
+| "ab cd\\^"^&echo foo^" | ab cd\\^&echo | foo |  |
 | ^"ab cd\\^" ee" | ab cd" ee |  |  |
 | "ab cd\\" ee" | ab cd" ee |  |  |
 | "ab cd\\^" ee" | ab cd\\^ | ee |  |
@@ -245,9 +245,9 @@ For the list of all verification tests executed with libArgvCodec, please see th
 | a ^"^" b | a |  | b |
 | ^"" a |  | a |  |
 | ^"^" a |  | a |  |
-| ^"test\\^"^&amp;whoami^" | test"&amp;whoami |  |  |
-| ^"test\\\\^"^&amp;whoami^" | test\\&amp;whoami |  |  |
-| ^"test\\"^&amp;whoami^" | test"^&amp;whoami^ |  |  |
+| ^"test\\^"^&whoami^" | test"&whoami |  |  |
+| ^"test\\\\^"^&whoami^" | test\\&whoami |  |  |
+| ^"test\\"^&whoami^" | test"^&whoami^ |  |  |
 | a\\\\\\\\"b | a\\\\b |  |  |
 | ^"a\\\\\\\\"b" | a\\\\b |  |  |
 | ^"a\\^\\^\\\\"b" | a\\\\b |  |  |

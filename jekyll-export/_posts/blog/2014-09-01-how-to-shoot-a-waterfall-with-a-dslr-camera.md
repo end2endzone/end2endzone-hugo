@@ -34,7 +34,7 @@ The "Chute du Diable" is located in Canada, Québec, Mont-Tremblant which is aro
 Latitude:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 46.3828892
 Longitude: -74.4716262
 
-<div style="width: 100%"><iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=46.3828892,-74.4716262+(Chute%20du%20Diable)&amp;t=&amp;z=11&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div>
+<div style="width: 100%"><iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&height=450&hl=en&q=46.3828892,-74.4716262+(Chute%20du%20Diable)&t=&z=11&ie=UTF8&iwloc=B&output=embed"></iframe></div>
 
 # Required gears
 

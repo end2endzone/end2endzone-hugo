@@ -24,7 +24,7 @@ It's main features are:
 
 * Advanced clipboard support (copy, append or modify).
 * File operation queuing (batch copy or paste).
-* Better &amp; quicker file deletions.
+* Better & quicker file deletions.
 * Powerful file renaming algorithms.
 * XP like search tool (simple search tool).
 * Extends Windows File Explorer by registering as a Shell Extension.
@@ -77,11 +77,11 @@ Below is all the tools that are included in extTools. A quick description is ava
 
 [![extFileRenamer screenshot (pattern #1)](/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1-287x300.png "extFileRenamer screenshot (pattern #1)")](/wp-content/uploads/2014/10/extFileRenamer-screenshot-pattern-1.png)
 
-extFileRenamer is a powerful file renaming manager. This application can rename a bunch of files according to a pattern (with increasing numbers) or rename files using a "search &amp; replace" technique to remove the same word(s) from multiple files.
+extFileRenamer is a powerful file renaming manager. This application can rename a bunch of files according to a pattern (with increasing numbers) or rename files using a "search & replace" technique to remove the same word(s) from multiple files.
 
 extFileRenamer has the following features:
 
-* Allows you to rename files using a pattern or with a "search &amp; replace" through the file names.
+* Allows you to rename files using a pattern or with a "search & replace" through the file names.
 * Manually select target files to rename.
 * Live preview of renamed files.
 * Automatic detection of renaming conflict (before renaming files!)
@@ -120,7 +120,7 @@ Trip to Hawaii with John IMG\_8825.jpg ⇨ Hawaii trip with John and Bruce 003.j
 Trip to Hawaii with John IMG\_8899.jpg ⇨ Hawaii trip with John and Bruce 077.jpg
 {{< /renamep >}}
 
-### Search &amp; Replace mode
+### Search & Replace mode
 
 To change all file extensions from DAT to RAW, set *replace from* field to ***\*.dat*** and set *replace to* field to ***\*.raw***. Click preview and you get:
 

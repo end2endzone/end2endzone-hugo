@@ -119,7 +119,7 @@ The following show a hypothetical car engine model which speed increase of decre
 
 The following show a graph of sin(), cos() and log() function in Excel. The CSV data can be downloaded here: {{% download old-id="2216" href="/wp-content/uploads/2016/08/sinxcosxlogx.csv" %}}sinxcosxlogx.csv{{% /download %}}
 
-[![sin(x), cos(x) & log(x) plot using cvsplot](/wp-content/uploads/2016/08/sinxcosxlogx.png "sin(x), cos(x) &amp; log(x) plot using cvsplot")](/wp-content/uploads/2016/08/sinxcosxlogx.png)
+[![sin(x), cos(x) & log(x) plot using cvsplot](/wp-content/uploads/2016/08/sinxcosxlogx.png "sin(x), cos(x) & log(x) plot using cvsplot")](/wp-content/uploads/2016/08/sinxcosxlogx.png)
 
 # License
 

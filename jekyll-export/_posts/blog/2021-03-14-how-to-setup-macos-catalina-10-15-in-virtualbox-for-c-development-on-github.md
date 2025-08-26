@@ -23,7 +23,7 @@ This article assumes that you already have access to a macOS image ISO file and 
 
 # Update macOS with latest security updates and bug fixes
 
-Following macOS Catalina 10.15 installation, it is best practice to update the Operating System with the latest software &amp; security update.
+Following macOS Catalina 10.15 installation, it is best practice to update the Operating System with the latest software & security update.
 
 1. Open *System Preferences*.
 2. Click on *Software Update*, a new window will open.
@@ -162,7 +162,7 @@ Source: [How to open apps from unidentified developers on Mac in macOS Catalina]
 ## Check Gatekeeper is disabled
 
 1. Click on *System Preferences* on your Mac Dock.
-2. Choose *Security &amp; Privacy*.
+2. Choose *Security & Privacy*.
 3. Look at *Allow apps download from:*, it should be set to `Anywhere`. If it is, you are done.
 4. If not, click the lock icon at the bottom left of the screen.
 5. Choose the `Anywhere` option under *Allow apps downloaded from*. Prior to making the change, this option wasn't available.

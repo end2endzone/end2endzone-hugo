@@ -13,9 +13,9 @@ Snippet:
   - |
     |
         Data capture sessions:
-        * [Spektrum DX9 Tx &amp; Orange R620X Rx](/download/1618/)
-        * [Spektrum DX9 Tx &amp; Spektrum AR8000 Rx](/download/1620/)
-        * [Tactic TTX600 Tx &amp; Tactic TR624 Rx](/download/1614/)
+        * [Spektrum DX9 Tx & Orange R620X Rx](/download/1618/)
+        * [Spektrum DX9 Tx & Spektrum AR8000 Rx](/download/1620/)
+        * [Tactic TTX600 Tx & Tactic TR624 Rx](/download/1614/)
         * [CCPM Servo Tester](/download/1616/)
         
 categories:
@@ -30,7 +30,7 @@ tags:
 
 # Introduction
 
-If you ever need to use an RC Transmitter &amp; receiver for a personal project, an easy way to retrieve the signal is to connect the receiver to a micro-controller.
+If you ever need to use an RC Transmitter & receiver for a personal project, an easy way to retrieve the signal is to connect the receiver to a micro-controller.
 
 However, decoding the signal to get actual transmitter values is not as easy as it sounds. You need to know the correct encoding and searching on the internet about the subject gives erratic results.
 
@@ -133,7 +133,7 @@ Note that some devices are low quality products and are not always constant or d
 
 # Devices
 
-## Spektrum DX9 Tx &amp; Orange R620X Rx
+## Spektrum DX9 Tx & Orange R620X Rx
 
 {{< image-gallery >}}
   [![](/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx-150x150.jpg)](/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg)
@@ -142,9 +142,9 @@ Note that some devices are low quality products and are not always constant or d
 
 **Table 1**
 
-The Spektrum DX9 Tx &amp; Orange R620X Rx shows a PWM range from **827 µs** to **2194 µs**. The following table shows the details of my data capture session:
+The Spektrum DX9 Tx & Orange R620X Rx shows a PWM range from **827 µs** to **2194 µs**. The following table shows the details of my data capture session:
 
-| Spektrum DX9 Tx &amp; Orange R620X Rx |
+| Spektrum DX9 Tx & Orange R620X Rx |
 |---|
 | Tx | Avg PWM | Min | Max | Width | Middle |
 | 150 | 2187.85 | 2181 | 2194 | 13 | 2187.5 |
@@ -217,7 +217,7 @@ f(x) = -8.0e-8\*x<sup>2</sup> + 0.2203\*x – 331.37
 
 Download the {{% download old=id="1618" href="/wp-content/uploads/2016/02/Spektrum-DX9-tx-Orange-R620X-Rx-Capture.xlsx" %}}Spektrum DX9 Tx & Orange R620X Rx{{% /download %}} full data capture.
 
-## Spektrum DX9 Tx &amp; Spektrum AR8000 Rx
+## Spektrum DX9 Tx & Spektrum AR8000 Rx
 
 {{< image-gallery >}}
   [![](/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx-150x150.jpg)](/wp-content/uploads/2016/02/Spektrum-DX9-9-ch-RC-Tx.jpg)
@@ -227,9 +227,9 @@ Download the {{% download old=id="1618" href="/wp-content/uploads/2016/02/Spektr
 
 **Table 1**
 
-The Spektrum DX9 Tx &amp; Spektrum AR8000 Rx shows a PWM range from **921 µs** to **2129 µs**. The following table shows the details of my data capture session:
+The Spektrum DX9 Tx & Spektrum AR8000 Rx shows a PWM range from **921 µs** to **2129 µs**. The following table shows the details of my data capture session:
 
-| Spektrum DX9 Tx &amp; Spektrum AR8000 Rx |
+| Spektrum DX9 Tx & Spektrum AR8000 Rx |
 |---|
 | Tx | Avg PWM | Min | Max | Width | Middle |
 | 150 | 2123.57 | 2119 | 2129 | 10 | 2124.0 |
@@ -302,7 +302,7 @@ f(x) = 0.25089444\*x – 382.665703
 
 Download the {{% download old-id="1620" href="/wp-content/uploads/2016/02/Spektrum-DX9-tx-Spektrum-AR8000-Rx-Capture.xlsx" %}}Spektrum DX9 Tx & Spektrum AR8000 Rx{{% /download %}} full data capture.
 
-## Tactic TTX600 Tx &amp; Tactic TR624 Rx
+## Tactic TTX600 Tx & Tactic TR624 Rx
 
 {{< image-gallery >}}
   [![](/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx-150x150.jpg)](/wp-content/uploads/2016/03/Tactic-TTX600-6-ch-Tx.jpg)
@@ -319,9 +319,9 @@ Note that each channel section are identified by a unique color which helps to i
 
 **Table 1**
 
-The Tactic TTX600 Tx &amp; Tactic TR624 Rx shows a PWM range from **984 µs** to **2030 µs**. The following table shows the details of my data capture session:
+The Tactic TTX600 Tx & Tactic TR624 Rx shows a PWM range from **984 µs** to **2030 µs**. The following table shows the details of my data capture session:
 
-| Tactic TTX600 tx &amp; Tactic TR624 |
+| Tactic TTX600 tx & Tactic TR624 |
 |---|
 | Tx | Avg PWM | Min | Max | Width | Middle | Comment |
 | 100 | 1969.01 | 1962 | 1973 | 11 | 1967.5 | CH1 +100 |
@@ -389,7 +389,7 @@ The two tables above shows two polynomial functions (see highlighted columns) th
 
 Note that best function for channel 1 (function #7) shows terrible results when used in calculations of channel 2. That is also for function 8. This means that there is no generic function that can be used for all channel situations. As a proof, function #6 which is based on all observed values for all channels shows terrible results.
 
-In other words, reading the PWM length or the *Tactic TTX600 Tx &amp; Tactic TR624 Rx combination* can only be used for detecting if the sticks are "up", "centered" or "down" but not really "how much up or down".
+In other words, reading the PWM length or the *Tactic TTX600 Tx & Tactic TR624 Rx combination* can only be used for detecting if the sticks are "up", "centered" or "down" but not really "how much up or down".
 
 The following polynomial functions offers the best performance to compute the Tactic TTX600 Tx transmitter value from the Tactic TR624 Rx pulse length:
 
@@ -420,7 +420,7 @@ The CCPM Servo Tester shows a PWM range from **900 µs** to **2210 µs**. The fo
 | 0 | 1504.75 | 1501 | 1511 | 10 | 1506 | CENTER |
 | -100 | 903.77 | 900 | 909 | 9 | 904.5 | CCW |
 
-Note that values for the CCPM Server Tester (100, -100) are assumptions and represents clockwise and counterclockwise positions of the potentiometer. In fact, based on the observed PWM values, the values should be more in the (133, -133) range according the *[Spektrum DX9 Tx &amp; Orange R620X Rx](#Spektrum_DX9_Tx_Orange_R620X_Rx)* results or in (150, -150) range according the *[Spektrum DX9 Tx &amp; Spektrum AR8000 Rx](#Spektrum_DX9_Tx_Spektrum_AR8000_Rx)* results.
+Note that values for the CCPM Server Tester (100, -100) are assumptions and represents clockwise and counterclockwise positions of the potentiometer. In fact, based on the observed PWM values, the values should be more in the (133, -133) range according the *[Spektrum DX9 Tx & Orange R620X Rx](#Spektrum_DX9_Tx_Orange_R620X_Rx)* results or in (150, -150) range according the *[Spektrum DX9 Tx & Spektrum AR8000 Rx](#Spektrum_DX9_Tx_Spektrum_AR8000_Rx)* results.
 
 **Table 2**  
 From these values, I extracted the following polynomial functions:

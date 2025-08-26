@@ -50,7 +50,7 @@ In other words, mixing allows you to affect a Slave Channel based on the input o
 
 A mix is composed of the following:
 
-* Master &amp; Slave Channels.
+* Master & Slave Channels.
 * High and Low rates value.
 * An offset value.
 * A trim value (not always, not covered in this article)

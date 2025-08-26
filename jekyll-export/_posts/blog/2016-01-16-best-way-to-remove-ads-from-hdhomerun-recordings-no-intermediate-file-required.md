@@ -24,7 +24,7 @@ This guide is a follow up to the post called [How to remove ads from HDHomeRun r
 
 The trick is to use VirtualDub's frame server ability and other software to create a virtual file instead of an intermediate file as [my old guide]({{< relref "blog/2015-10-04-how-to-remove-ads-from-hdhomerun-recordings-and-still-encode-with-handbrake.md" >}}) suggests. This option is much faster (takes 1 minute instead of hours) and uses much less disk space (2 KB instead of 8 GB) since there is no intermediate file to encode. VirtualDub is still required to cut ads as you would normally do. The process is also lossless (it does not add any quality degradation). Once the virtual file is generated (mounted), use Handbrake to encode the final video for best results.
 
-# Download &amp; Install required software
+# Download & Install required software
 
 The following software must be downloaded and installed:
 
@@ -97,7 +97,7 @@ To uninstall, delete the *c:\\windows\\avfs.exe* file.
 
 ## Chaining application
 
-The basic principle in this procedure is to chain application one after the other. The output from a software becomes the input of the next and so on until the video &amp; audio streams reaches handbrake.
+The basic principle in this procedure is to chain application one after the other. The output from a software becomes the input of the next and so on until the video & audio streams reaches handbrake.
 
 The process is as follows:
 
@@ -175,7 +175,7 @@ The frameserver is now ready to provide frames to other applications. Leave the 
 
 Now that VirtualDub is ready to server frames to the next application, you need to create an AviSynth file that will wrap the VirtualDub AVIFile signpost (\*.vdr) file and generate a valid AVI stream.
 
-1. Create a text file next to the VirtualDub AVIFile signpost (\*.vdr) file with the avs file extension (\*.avs). It is a good practice to use the same path &amp; filename as the \*.vdr file.
+1. Create a text file next to the VirtualDub AVIFile signpost (\*.vdr) file with the avs file extension (\*.avs). It is a good practice to use the same path & filename as the \*.vdr file.
 2. Enter the following text in the file: *AviSource("full\_path\_to\_vdr")* (replace *full\_path\_to\_vdr* by the actual full path to your vdr file).
 3. Save the file.
 

@@ -16,7 +16,7 @@ Snippet:
     * [Multiplexing 2-position switches](/download/1486/)
     * [Multiplexing 2-position + 3-position switches](/download/1482/)
     * [Multiplexing 3-position switches](/download/1484/)
-    * [Multiplexing analog &amp; switches](/download/1510/)
+    * [Multiplexing analog & switches](/download/1510/)
     Code samples:
     * [[download id="2071" template="title"]](/download/2071/)
     * [[download id="2069" template="title"]](/download/2069/)
@@ -369,7 +369,7 @@ Use the {{% download old-id="1484" href="/wp-content/uploads/2016/02/Multiplexin
 
 ## Decoding
 
-Decoding the switches configuration is relatively easy: First identify the block number matching the signal's value using a sequence of "*if*" statements. Then, update switches state based on the currently selected block. Refer to tables above for offsets &amp; switches states for each selected block. Note that if you get a signal value that is within the dead zone, it probably means that you have an issue with your transmitter mixes. Verify your mixes and try again.
+Decoding the switches configuration is relatively easy: First identify the block number matching the signal's value using a sequence of "*if*" statements. Then, update switches state based on the currently selected block. Refer to tables above for offsets & switches states for each selected block. Note that if you get a signal value that is within the dead zone, it probably means that you have an issue with your transmitter mixes. Verify your mixes and try again.
 
 Since reading switches states does not imply any analog value, you do not really care if the signal value is within the effective area (or not) so clamping is not necessary beside detecting instability issue in the signal. However, in the low probability that you get a signal within a dead zone, then the first dead zone should be considered as if you read the first value of the effective area and the last dead zone as the last value of the effective area.
 
@@ -471,7 +471,7 @@ Use the {{% download old-id="1510" href="/wp-content/uploads/2016/02/Multiplexin
 
 ## Decoding
 
-Decoding an analog value with switches configuration is different: First identify the block number matching the signal's value using a sequence of "if" statements. Then [clamp](https://www.google.com/?q=clamp+integer+c%2B%2B) the value within the effective block area. This is required since the signal can get close to a dead zone (or even reach a dead zone!). To get the actual analog value, you must also offset the block's effective range to get a constant 0-39 range. Finally, update switches state based on the currently selected block. Refer to tables above for offsets &amp; switches states for each selected block. Note that reading a value (with the micro-controller) that is outside the analog effective area should be considered the same as reading an analog value of 0 or 39 depending on the closest dead zone.
+Decoding an analog value with switches configuration is different: First identify the block number matching the signal's value using a sequence of "if" statements. Then [clamp](https://www.google.com/?q=clamp+integer+c%2B%2B) the value within the effective block area. This is required since the signal can get close to a dead zone (or even reach a dead zone!). To get the actual analog value, you must also offset the block's effective range to get a constant 0-39 range. Finally, update switches state based on the currently selected block. Refer to tables above for offsets & switches states for each selected block. Note that reading a value (with the micro-controller) that is outside the analog effective area should be considered the same as reading an analog value of 0 or 39 depending on the closest dead zone.
 
 ### Code sample
 
