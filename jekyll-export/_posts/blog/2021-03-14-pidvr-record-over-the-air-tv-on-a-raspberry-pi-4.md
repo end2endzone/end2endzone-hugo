@@ -31,7 +31,7 @@ This project requires the following hardware:
     * A 15.3W USB-C Power Supply (3A @ 5v power supply)
     * Raspberry Pi 4 case. Preferably a passive cooling case for noise consideration.  
         I used the [Argon One](https://www.argon40.com/argon-one-raspberry-pi-4-case.html) case.
-* An HDHomeRun Dual tuner from [Silicondust](https://www.silicondust.com/). The oldest model will do. For this build, I used the [*HDHR3-US*](https://www.google.com/search?q=HDHR3-US&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjquKyuvsbuAhWkrFkKHXbmCLMQ_AUoA3oECAEQBQ&amp;biw=1920&amp;bih=927) which dates back to 2012-2013.
+* An HDHomeRun Dual tuner from [Silicondust](https://www.silicondust.com/). The oldest model will do. For this build, I used the [*HDHR3-US*](https://www.google.com/search?q=HDHR3-US&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjquKyuvsbuAhWkrFkKHXbmCLMQ_AUoA3oECAEQBQ&biw=1920&bih=927) which dates back to 2012-2013.
 * An over-the-air tv antenna for ATSC signals. For this build I use the [Clearstream 4](https://www.google.com/search?q=Antennas+Direct+Clearstream+4+antenna) antenna by Antennas Direct.
 * 50ft to 100ft Coaxial Cable, 18AWG, 75 Ohm to connect the antenna to the HDHomeRun.
 * External Solid State Drive (SSD) with about 500Gb in size.
@@ -312,9 +312,9 @@ Enter the following values:
 * English
 * French
 
-Click **Save &amp; Next** to get to the next page.
+Click **Save & Next** to get to the next page.
 
-*Note: Since we actually changed the language of the web interface, the same page may be displayed when you first click* **Save &amp; Next***. Click it again.*
+*Note: Since we actually changed the language of the web interface, the same page may be displayed when you first click* **Save & Next***. Click it again.*
 
 ### Welcome (2 of 2)
 
@@ -328,7 +328,7 @@ We are going to allow all network access by leaving the 'Allowed network' field 
 
 We are also going to bypass any logins by entering `*` in each of those fields.
 
-Click **Save &amp; Next** to get to the next page.
+Click **Save & Next** to get to the next page.
 
 ### Network settings
 
@@ -342,7 +342,7 @@ Leave the *IPTV* fields from *Network 1* blank.
 
 At this point, tbheadend should have already discovered both *HDHomeRun ATSC-T Tuner #0 and #1* identified in "**Network 2**" and "**Network 3**" sections. Select **ATSC-T Network** in the *Network type* fields for each network.
 
-Click **Save &amp; Next** to get to the next page.
+Click **Save & Next** to get to the next page.
 
 ### Assign predefined muxes to networks
 
@@ -350,7 +350,7 @@ Click **Save &amp; Next** to get to the next page.
 
 We now have to set the "muxes". To save you from manually entering muxes, Tvheadend includes predefined mux lists. For best results in Montreal area, select the following muxes: **United States: us-ATSC-center-frequencies-8VSB**
 
-Click **Save &amp; Next** to get to the next page.
+Click **Save & Next** to get to the next page.
 
 ### Scan status
 
@@ -360,7 +360,7 @@ The scan will now commence. It will search for "muxes" and "services" that are d
 
 [![tvheadend - scan status (100% completed)](/wp-content/uploads/2021/03/tvheadend_screenshot05b-1.png "tvheadend - scan status (100% completed)")](/wp-content/uploads/2021/03/tvheadend_screenshot05b-1.png)
 
-Click **Save &amp; Next** to get to the next page
+Click **Save & Next** to get to the next page
 
 ### Service mapping
 
@@ -368,7 +368,7 @@ Click **Save &amp; Next** to get to the next page
 
 Next on the wizard is service mapping. This step maps the services that your scan discovered to channels. If you are interested in adding all channels in your area, do not tick any checkbox. Otherwise, tick the three check boxes.
 
-Click **Save &amp; Next** to get to the next page.
+Click **Save & Next** to get to the next page.
 
 ### Finished
 

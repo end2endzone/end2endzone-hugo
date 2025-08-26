@@ -23,16 +23,16 @@ Getting a nice firework picture is it not as simple as going outside, finding a 
 Of course, it is also temping to take picture of the fireworks with a decent phone or point & shoot camera if you have a "firework" option, but those kind of picture often comes out as grainy/noisy or worst blurry.
 
 In this article, I will guide you to make the most stunning photography of fireworks with your DSLR camera.
+
 That kind of event do not occurs pretty often. Roughly 1 or 2 times a year during summer depending where you live. That is why I have written this guide: so that next time you get outside hunting a firework display, you will be well documented and prepared for most situations.
 
-In Québec, we have 2 holidays that are good opportunities to shoot fireworks which are Canada Day (Memorial Day), and St. Jean Baptiste Day. If you live near Montreal, you have access to the L'international des feux Loto-Québec  (<s>http://www.laronde.com/larondeen/linternational-des-feux/overview</s>, previously <s>http://internationaldesfeuxloto-quebec.com/en/</s>) festival which is prefect for making spectacular photos.
+In Québec, we have 2 holidays that are good opportunities to shoot fireworks which are Canada Day (Memorial Day), and St. Jean Baptiste Day. If you live near Montreal, you have access to the L'international des feux Loto-Québec (<s>http://www.laronde.com/larondeen/linternational-des-feux/overview</s>, previously <s>http://internationaldesfeuxloto-quebec.com/en/</s>) festival which is prefect for making spectacular photos.
 
 Keep up reading and be ready.
 
 {{< pleasenote >}}
   **Note** If you simply want to see my photos, seek to the bottom of the article by [clicking here](#Final_results).
 {{< /pleasenote >}}
-
 
 # Prepare you gears
 
@@ -42,9 +42,7 @@ Before ever start looking for the perfect holiday to go outside on a hunt, you n
 
 ### Tripod
 
-![Manfrotto 190XPROB Tripod](/wp-content/uploads/2014/12/Manfrotto-190XPROB-Tripod.jpg)
-
-Manfrotto 190XPROB Tripod
+![Manfrotto 190XPROB Tripod](/wp-content/uploads/2014/12/Manfrotto-190XPROB-Tripod-239x300.jpg "Manfrotto 190XPROB Tripod")
 
 A tripod. This is the most important gear of all. Photographing fireworks usually requires pretty long exposure time. A nice shoot could take as long as 4 seconds. To get a crystal clear picture, you need to be steady as a rock.
 
@@ -52,15 +50,13 @@ On every perfect firework picture, you can see the light trail of the flare goin
 
 ### Remote shutter release
 
-![Canon Remote Switch RS-60E3](/wp-content/uploads/2014/12/Canon-Remote-Switch-RS-60E3.jpg)
-
-Canon Remote Switch RS-60E3
+![Canon Remote Switch RS-60E3](/wp-content/uploads/2014/12/Canon-Remote-Switch-RS-60E3-300x256.jpg "Canon Remote Switch RS-60E3")
 
 A remote trigger is also mandatory. You must have a remote trigger and there is no acceptable alternative. You can't simply use the "delay" option on your camera. For most [other photography project](/category/photography/) (like [shooting waterfalls](/how-to-shoot-a-waterfall-with-a-dslr-camera/)), using the "delay" option on your camera is often a good choice as an alternative to a remote trigger.
 
 However, when you are shooting fireworks, it is pretty hard to know when the burst will explode which mean you won't be able to accurately predict when you have to start the delay. The length of each burst is also unpredictable which means that you can't use "Shutter speed priority" to automatically close the shutter. You will have to physically press/release a button to close the shutter.
 
-If you do not own a remote trigger, you could make one yourself. Here is a simple guide that I have written that could help you making your own remote trigger:&nbsp;[DIY Remote trigger shutter release cable for your Canon DSLR camera](/diy-remote-trigger-shutter-release-cable-for-your-canon-dslr-camera/)
+If you do not own a remote trigger, you could make one yourself. Here is a simple guide that I have written that could help you making your own remote trigger: [DIY Remote trigger shutter release cable for your Canon DSLR camera](/diy-remote-trigger-shutter-release-cable-for-your-canon-dslr-camera/).
 
 A remote trigger is the only way to open the shutter on time (just before a firework pops) and close the shutter before another firework burst.
 
@@ -68,27 +64,21 @@ A remote trigger is the only way to open the shutter on time (just before a fire
 
 ### Flashlight
 
-![9 LED Mini Flashlight](/wp-content/uploads/2014/12/9-LED-Mini-Flashlight.jpg)
-
-9 LED Mini Flashlight
+![9 LED Mini Flashlight](/wp-content/uploads/2014/12/9-LED-Mini-Flashlight-1024x576.jpg "9 LED Mini Flashlight")
 
 It is going to get dark pretty quickly. It is a good idea to bring with yourself a flashlight to be able to see your controls, levels or equipment in the dark. Today, most people have a decent flashlight on their phone but a dollar store flashlight is as good as any other.
 
 ### Masking tape
 
-![Scotch Greener Masking Tape Basic Painting](/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting.jpg)
-
-Scotch Greener Masking Tape Basic Painting
+![Scotch Greener Masking Tape Basic Painting](/wp-content/uploads/2014/12/Scotch-Greener-Masking-Tape-Basic-Painting-1024x663.jpg "Scotch Greener Masking Tape Basic Painting")
 
 Masking tape is optional but having some can be useful. You can also use it to tape the focus ring to prevent accidental focus change to make sure it stays where it was set.
 
-## Tools you won't need<br /> 
+## Tools you won't need 
 
 ### Filters
 
-![Hoya 58.0mm PL-CIR filter](/wp-content/uploads/2014/12/Hoya-58.0mm-PL-CIR-filter.jpg)
-
-Hoya 58.0mm PL-CIR filter
+![Hoya 58.0mm PL-CIR filter](/wp-content/uploads/2014/12/Hoya-58.0mm-PL-CIR-filter.jpg "Hoya 58.0mm PL-CIR filter")
 
 Even if the fireworks are really bright, there is no need to bring filters. Simply use a narrower aperture (higher f number) to get the right exposition.
 
@@ -96,27 +86,23 @@ Polarized filters are also not required. There is no need to filter out a specif
 
 ### Flash
 
-![Canon Speedlite Flash (600EX-RT)](/wp-content/uploads/2014/12/Canon-Speedlite-Flash-600EX-RT.jpg)
-
-Canon Speedlite Flash (600EX-RT)
+![Canon Speedlite Flash (600EX-RT)](/wp-content/uploads/2014/12/Canon-Speedlite-Flash-600EX-RT.jpg "Canon Speedlite Flash (600EX-RT)")
 
 A flash is also not really required. There is no object close enough that would reflect the light of the flash back to the camera. Unless you plan on capturing people or the crowd while you are framing your shot, there is really no need for a flash.
 
 ### Expensive lenses
 
-![Canon EF 70-200mm f2.8L USM Standard Lens](/wp-content/uploads/2014/12/Canon-EF-70-200mm-f2.8L-USM-Standard-Lens.jpg)
-
-Canon EF 70-200mm f2.8L USM Standard Lens
+![Canon EF 70-200mm f2.8L USM Standard Lens](/wp-content/uploads/2014/12/Canon-EF-70-200mm-f2.8L-USM-Standard-Lens.jpg "Canon EF 70-200mm f2.8L USM Standard Lens")
 
 You do not require any professional lenses for shooting firework. The fireworks are bright enough in the sky so you do not need a specialized wide aperture lens (read below/wider than f3.5). If you are positioned with the crowd, there is few chance that you need a zoom lens unless you want to frame a specific area of the sky. I got my first firework shots with a standard 18-55mm lens and never had to zoom higher than 55mm. You can leave your 70-200mm at home.
 
 You might want to bring a wide angle lens to capture the whole ending scene but that would be only required if you are really too close the show.
 
-# Get on location early<br /> 
+# Get on location early 
 
 That might be the best advice I could give. The sooner you get on side the better.
 
-Fireworks are really big social events. If you get there too late, the best view point might be already taken by viewers. There will be much people in the crowd and moving from one location to another for a better spot might be dangerous for your equipment 🙂
+Fireworks are really big social events. If you get there too late, the best view point might be already taken by viewers. There will be much people in the crowd and moving from one location to another for a better spot might be dangerous for your equipment :)
 
 If you get there early, you might even find other photographers that would be willing to share their spot and even some helpful advice.
 
@@ -140,9 +126,7 @@ Avoid light sources like street lights or the hot dog stand. Since you are takin
 
 ## Focus to infinity
 
-![Focus on infinity](/wp-content/uploads/2014/12/Focus-on-infinity.jpg)
-
-Focus on infinity
+![Focus on infinity](/wp-content/uploads/2014/12/Focus-on-infinity-1024x576.jpg "Focus on infinity")
 
 If your lens has auto-focus, turn it off. It is best to use manual focus in this situation. The fireworks are far enough to set your lens to infinity.
 
@@ -152,17 +136,13 @@ The best method for adjusting your focus is still to search for a far away objec
 
 ## Set camera in manual mode
 
-![Canon SL1 Mode Dial to Manual](/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual.jpg)
-
-Canon SL1 Mode Dial to Manual
+![Canon SL1 Mode Dial to Manual](/wp-content/uploads/2014/12/Canon-SL1-Mode-Dial-to-Manual-1024x576.jpg "Canon SL1 Mode Dial to Manual")
 
 The only mode that can be used for photographing fireworks is the manual mode. Aperture priority cannot help in this situation for obvious reasons. Shutter priority mode is also not helpful. As explained before, there is no way to know how long a firework will last. Setting an average shutter speed of 3-4 seconds will either not completely capture the light trail or will capture part of the next one.
 
 ## Low ISO
 
-![Canon SL1 ISO Selection](/wp-content/uploads/2014/12/Canon-SL1-ISO-Selection.jpg)
-
-Canon SL1 ISO Selection
+![Canon SL1 ISO Selection](/wp-content/uploads/2014/12/Canon-SL1-ISO-Selection.jpg "Canon SL1 ISO Selection")
 
 Since you are capturing images over a perfect black background, noise can quickly become an issue. It will also be really perceptible. It will be easy to distinguish noise on dark areas so it is best to use a low ISO setting to reduce noise as much as possible.
 
@@ -172,31 +152,23 @@ In case your picture are underexposed, do not increase ISO to 200 but instead us
 
 ## Use a small aperture
 
-![Canon SL1 aperture selection](/wp-content/uploads/2014/12/Canon-SL1-aperture-selection.jpg)
-
-Canon SL1 aperture selection
+![Canon SL1 aperture selection](/wp-content/uploads/2014/12/Canon-SL1-aperture-selection.jpg "Canon SL1 aperture selection")
 
 The fireworks are bright enough in the sky to let you use a narrow aperture (higher f number). During your shooting session you will need to set the aperture in the range of f8 to f16. You can safely set your aperture to f11 at the beginning of the show and adjust as needed.
 
 ## Set camera to Bulb mode
 
-![Canon SL1 Bulb Selection](/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection.jpg)
-
-Canon SL1 Bulb Selection
+![Canon SL1 Bulb Selection](/wp-content/uploads/2014/12/Canon-SL1-Bulb-Selection.jpg "Canon SL1 Bulb Selection")
 
 Most cameras now have a BULB mode. Bulb mode is a perfect candidate for this task. It allows you to have a variable shutter speed for each shots. In bulb mode, pressing the shutter button will open the shutter to start capturing light and will leave the shutter open as long as you press the shutter button. This is pretty convenient when you are trying to capture an event that you don't know how long it will last.
 
-![Canon SL1 Bulb Dial Selection](/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection.jpg)
-
-Canon SL1 Bulb Dial Selection
+![Canon SL1 Bulb Dial Selection](/wp-content/uploads/2014/12/Canon-SL1-Bulb-Dial-Selection.jpg "Canon SL1 Bulb Dial Selection")
 
 This mode is usually found at the end of your shutter speed range (slowest shutter speed). You can activate it by increasing the shutter speed higher/longer than 30 seconds. On many DSLR camera, the knob controls the shutter speed in manual mode so rolling it will increase the shutter speed and will usually get you to activate bulb mode.
 
 ## Turn off Image stabilization (IS)
 
-![Image Stabilizer Turned off](/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg)
-
-Image Stabilizer Turned off
+![Image Stabilizer Turned off](/wp-content/uploads/2014/12/Image-Stabilizer-Turned-off.jpg "Image Stabilizer Turned off")
 
 Since you are using a tripod, turn off Image Stabilization (IS, Vibration Reduction on Nikon). Tripod and IS is always bad combination and you don't need it. Leaving it on probably does more harm than good. IS mechanism works by feeling the vibration the lens from your hands and creates a counter "vibration" to reduce the effect on the final image. It is better to switch off IS to prevent your lens stabilization mechanism from trying to stabilize a stabilized image which would result in image vibration (camera shake).
 
@@ -206,9 +178,7 @@ On Canon lens, the IS switch is usually located on the lens itself.
 
 ## Set your camera to RAW mode
 
-![RAW image quality](/wp-content/uploads/2014/12/RAW-image-quality.jpg)
-
-RAW image quality
+![RAW image quality](/wp-content/uploads/2014/12/RAW-image-quality.jpg "RAW image quality")
 
 Since you will have to [adapt to the situation](#Adapt_to_the_situation), you may end up with a shot perfectly composed and aligned but which is underexposed or overexposed. To help you correct the situation, it is better to capture your images in RAW mode. Making corrections on RAW images does much less harm to the picture quality than it does in JPG because of the image's compression.
 
@@ -222,11 +192,9 @@ However, if you are lucky and get the perfect ISO-aperture-shutter-speed combina
 
 # Wait until the show begins
 
-![Kaïn célèbre la Fête nationale à Saint-Jérôme](/wp-content/uploads/2014/12/Kaïn-célèbre-la-Fête-nationale-à-Saint-Jérôme.jpg)
+![Kaïn célèbre la Fête nationale à Saint-Jérôme](/wp-content/uploads/2014/12/Kaïn-célèbre-la-Fête-nationale-à-Saint-Jérôme-1024x576.jpg "Kaïn célèbre la Fête nationale à Saint-Jérôme")
 
-Kaïn célèbre la Fête nationale à Saint-Jérôme
-
-For some people, that's the hardest part 🙂
+For some people, that's the hardest part :)
 
 # Adapt to the situation
 
@@ -246,9 +214,7 @@ During the firework show, the intensity or size of the fireworks will probably c
 
 Leave the ISO setting to 100.
 
-![Quick Aperture Exposure compensation button With Main Dial](/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial.jpg)
-
-Quick Aperture Exposure compensation button With Main Dial
+![Quick Aperture Exposure compensation button With Main Dial](/wp-content/uploads/2014/12/Quick-Aperture-Exposure-compensation-button-With-Main-Dial.jpg "Quick Aperture Exposure compensation button With Main Dial")
 
 Concentrate on the aperture to make corrections and adjust your exposure. If the image is too bright, reduce the aperture (increase the f number) and do not hesitate to go as low as f16 if it is required.
 
@@ -264,9 +230,7 @@ If you are a little more advanced, you can try to photograph the surrounding env
 
 # Save for the finale
 
-![Checking the Battery Level](/wp-content/uploads/2014/12/Battery-check-2.jpg)
-
-Checking the Battery Level
+![Checking the Battery Level](/wp-content/uploads/2014/12/Battery-check-2.jpg "Checking the Battery Level")
 
 The show is almost going to its end. The finale is coming and it is going to be short. Are you prepared ? It is the best part of the show and the one that will require the most attention for capturing great firework images.
 
@@ -283,14 +247,12 @@ Take your time.
 
 # Final results
 
-Here are the final results of my firework images:  
+Here are the final results of my firework images:
 Enjoy!
 
 {{< image-gallery >}}
-| <!-- -->                                                                                                                                                                                                                    | <!-- -->                                                                                                                                                                                                    | <!-- -->                                                                                                                                                                                                                            |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![Pop over the fire](/wp-content/uploads/2014/11/firework06-IMG_8540_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396785601/in/album-72157686721348930/ "Pop over the fire") | [![Red giant](/wp-content/uploads/2014/11/firework04-IMG_8501_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396786961/in/album-72157686721348930/ "Red giant") | [![The big bang (4 pops)](/wp-content/uploads/2014/11/firework07-IMG_8553_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/36687836454/in/album-72157686721348930/ "The big bang (4 pops)") |
-| [![Green over blue](/wp-content/uploads/2014/11/firework03-IMG_8500_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396788021/in/album-72157686721348930/ "Green over blue")     | [![RGB](/wp-content/uploads/2014/11/firework02-IMG_8493_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396788931/in/album-72157686721348930/ "RGB")             | [![Purple Medley](/wp-content/uploads/2014/11/firework05-IMG_8539_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396786031/in/album-72157686721348930/ "Purple Medley")                 |
-| [![Two colors in one](/wp-content/uploads/2014/11/firework01-IMG_8483_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396789821/in/album-72157686721348930/ "Two colors in one") |                                                                                                                                                                                                             |                                                                                                                                                                                                                                     |
+|---|---|---|
+| [![Green over blue](/wp-content/uploads/2014/11/firework03-IMG_8500_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396788021/in/album-72157686721348930/ "Green over blue") | [![RGB](/wp-content/uploads/2014/11/firework02-IMG_8493_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396788931/in/album-72157686721348930/ "RGB") | [![Purple Medley](/wp-content/uploads/2014/11/firework05-IMG_8539_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396786031/in/album-72157686721348930/ "Purple Medley") |
+| [![Two colors in one](/wp-content/uploads/2014/11/firework01-IMG_8483_e2ez-150x100.jpg)](https://www.flickr.com/photos/154618444@N05/37396789821/in/album-72157686721348930/ "Two colors in one") |  |  |
 {{< /image-gallery >}}
-

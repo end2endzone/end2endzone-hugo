@@ -15,10 +15,11 @@ tags:
   - Freeware
 
 ---
-
 # DNS343Monitor
 
-DNS-343 Monitor is a tool for monitoring how much space is left on your DNS-343 NAS device.The [DNS-343](http://www.google.com/?q=dns-343) is a [Network Attached Storage](http://en.wikipedia.org/wiki/Network-attached_storage) (NAS) device that can hold as much as 4 drives. Since all the drives are shared in a Network, each disk can quickly become full. This tools allows you to see the remaining space left on each individual drives.
+DNS-343 Monitor is a tool for monitoring how much space is left on your DNS-343 NAS device.
+
+The [DNS-343](http://www.google.com/?q=dns-343) is a [Network Attached Storage](http://en.wikipedia.org/wiki/Network-attached_storage) (NAS) device that can hold as much as 4 drives. Since all the drives are shared in a Network, each disk can quickly become full. This tools allows you to see the remaining space left on each individual drives.
 
 It's main features are:
 
@@ -26,7 +27,9 @@ It's main features are:
 * GUI supported.
 * Compatible with all firmware versions.
 
-**Note:** This tool requires administrator privileges on the DNS-343 for retrieving free space left.
+{{< pleasenote >}}
+  **Note:** This tool requires administrator privileges on the DNS-343 for retrieving free space left.
+{{< /pleasenote >}}
 
 **Usage:**
 

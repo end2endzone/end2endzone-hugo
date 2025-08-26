@@ -23,11 +23,15 @@ tags:
   Please note that MSBuildReorder source code is now moved to GitHub. Source code can be downloaded from [the project's GitHub page](http://github.com/end2endzone/msbuildreorder).
 {{< /postedit >}}
 
+![](https://img.shields.io/badge/License-MIT-yellow.svg)
+![](https://img.shields.io/github/release/end2endzone/msbuildreorder.svg)
+![](https://ci.appveyor.com/api/projects/status/911ry08o97ubv506/branch/master?svg=true)
+![](https://img.shields.io/appveyor/tests/end2endzone/msbuildreorder/master.svg)
+![](https://img.shields.io/github/downloads/end2endzone/msbuildreorder/total.svg)
 
-![](https://img.shields.io/badge/License-MIT-yellow.svg)![](https://img.shields.io/github/release/end2endzone/msbuildreorder.svg)![](https://ci.appveyor.com/api/projects/status/911ry08o97ubv506/branch/master?svg=true)![](https://img.shields.io/appveyor/tests/end2endzone/msbuildreorder/master.svg)![](https://img.shields.io/github/downloads/end2endzone/msbuildreorder/total.svg) 
+MSBuildReorder is a tool for "reordering" (buildorder) a multi-process C++ build log. It allows a developer to convert the build log as if it was generated with a single processor.
 
-MSBuildReorder is a tool for "reordering" (buildorder) a multi-process C++&nbsp;build log. It allows a developer to convert the build log as if it was generated with a single processor.
-Building a solution that has multiple projects can quickly become bloated with too many lines that are not related to each other. For this reason, finding the actual cause of a build fail is harder than it should be.  MSBuildReorder is able to read the log and reorder the projects in a sequential order.
+Building a solution that has multiple projects can quickly become bloated with too many lines that are not related to each other. For this reason, finding the actual cause of a build fail is harder than it should be. MSBuildReorder is able to read the log and reorder the projects in a sequential order.
 
 It's main features are:
 
@@ -43,9 +47,7 @@ It's main features are:
 
 # Screenshot
 
-[![msbuildreorder screenshot](/wp-content/uploads/2015/01/msbuildreorder-screenshot.png)](/wp-content/uploads/2015/01/msbuildreorder-screenshot.png)
-
-msbuildreorder screenshot
+[![msbuildreorder screenshot](/wp-content/uploads/2015/01/msbuildreorder-screenshot-300x130.png "msbuildreorder screenshot")](/wp-content/uploads/2015/01/msbuildreorder-screenshot.png)
 
 # Download
 
@@ -54,7 +56,6 @@ You can download MSBuildReorder by clicking on the following link:
 {{< pleasenote >}}
   Please note that download links are now deprecated. Binary version of msbuildreorder can be downloaded directly from [the project's GitHub page](http://github.com/end2endzone/msbuildreorder/releases).
 {{< /pleasenote >}}
-
 
 # Sample
 

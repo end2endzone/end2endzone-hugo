@@ -18,7 +18,8 @@ tags:
 # DNS343Monitor
 
 DNS-343 Monitor is a tool for monitoring how much space is left on your DNS-343 NAS device.
-The [DNS-343](http://www.google.com/?q=dns-343) is a [Network Attached Storage](http://en.wikipedia.org/wiki/Network-attached_storage)&nbsp;(NAS)&nbsp;device that can hold as much as 4 drives. Since all the drives are shared in a Network, each disk can quickly become full. This tools allows you to see the remaining space left on each individual drives.
+
+The [DNS-343](http://www.google.com/?q=dns-343) is a [Network Attached Storage](http://en.wikipedia.org/wiki/Network-attached_storage) (NAS) device that can hold as much as 4 drives. Since all the drives are shared in a Network, each disk can quickly become full. This tools allows you to see the remaining space left on each individual drives.
 
 It's main features are:
 
@@ -30,7 +31,6 @@ It's main features are:
   **Note:** This tool requires administrator privileges on the DNS-343 for retrieving free space left.
 {{< /pleasenote >}}
 
-
 **Usage:**
 
 * Launch application
@@ -39,26 +39,20 @@ It's main features are:
 
 # Screenshots
 
-[![DNS-343 Monitor (Idle)](/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png)](/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png)
+[![DNS-343 Monitor (Idle)](/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png "DNS-343 Monitor (Idle)")](/wp-content/uploads/2015/02/DNS-343-Monitor-Idle.png)
 
-DNS-343 Monitor (Idle)
+[![DNS-343 Monitor (Searching)](/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png "DNS-343 Monitor (Searching)")](/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png)
 
-[![DNS-343 Monitor (Searching)](/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png)](/wp-content/uploads/2015/02/DNS-343-Monitor-Searching.png)
-
-DNS-343 Monitor (Searching)
-
-[![DNS-343 Monitor (Usage)](/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png)](/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png)
-
-DNS-343 Monitor (Usage)
+[![DNS-343 Monitor (Usage)](/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png "DNS-343 Monitor (Usage)")](/wp-content/uploads/2015/02/DNS-343-Monitor-Usage.png)
 
 # Download
 
 You can download DNS-343 Monitor by clicking on the following links:
 
-* [ DNS-343 Monitor v1.1.33 (win32 portable) (111 downloads) ](http://www.end2endzone.com/download/675/ "Version 1.1.33")
-* [ DNS-343 Monitor v1.1.33 (win32 Setup) (126 downloads) ](http://www.end2endzone.com/download/672/ "Version 1.1.33")
-* [ DNS-343 Monitor v1.1.33 (x64 portable) (122 downloads) ](http://www.end2endzone.com/download/670/ "Version 1.1.33")
-* [ DNS-343 Monitor v1.1.33 (x64 Setup) (113 downloads) ](http://www.end2endzone.com/download/666/ "Version 1.1.33")
+* {{% download old-id="675" href="/wp-content/uploads/2015/02/DNS-343-Monitor-v1.1.33-win32-portable.zip" %}}DNS-343 Monitor v1.1.33 (win32 portable){{% /download %}}
+<!-- - {{% download old-id="672" href="" %}}DNS-343 Monitor v1.1.33 (win32 Setup){{% /download %}}-->
+* {{% download old-id="670" href="/wp-content/uploads/2015/02/DNS-343-Monitor-v1.1.33-x64-portable.zip" %}}DNS-343 Monitor v1.1.33 (x64 portable){{% /download %}}
+<!-- - {{% download old-id="666" href="" %}}DNS-343 Monitor v1.1.33 (x64 Setup){{% /download %}}-->
 
 # Compatible with
 

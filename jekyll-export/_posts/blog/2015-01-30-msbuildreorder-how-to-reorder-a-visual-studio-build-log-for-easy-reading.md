@@ -17,12 +17,21 @@ tags:
   - visual studio
 
 ---
-
 # MSBuildReorder
 
-Please note that MSBuildReorder source code is now moved to GitHub. Source code can be downloaded from [the project's GitHub page](http://github.com/end2endzone/msbuildreorder).
+{{< postedit >}}
+  Please note that MSBuildReorder source code is now moved to GitHub. Source code can be downloaded from [the project's GitHub page](http://github.com/end2endzone/msbuildreorder).
+{{< /postedit >}}
 
-![](https://img.shields.io/badge/License-MIT-yellow.svg) ![](https://img.shields.io/github/release/end2endzone/msbuildreorder.svg) ![](https://ci.appveyor.com/api/projects/status/911ry08o97ubv506/branch/master?svg=true) ![](https://img.shields.io/appveyor/tests/end2endzone/msbuildreorder/master.svg) ![](https://img.shields.io/github/downloads/end2endzone/msbuildreorder/total.svg)MSBuildReorder is a tool for "reordering" (buildorder) a multi-process C++ build log. It allows a developer to convert the build log as if it was generated with a single processor.Building a solution that has multiple projects can quickly become bloated with too many lines that are not related to each other. For this reason, finding the actual cause of a build fail is harder than it should be. MSBuildReorder is able to read the log and reorder the projects in a sequential order.
+![](https://img.shields.io/badge/License-MIT-yellow.svg)
+![](https://img.shields.io/github/release/end2endzone/msbuildreorder.svg)
+![](https://ci.appveyor.com/api/projects/status/911ry08o97ubv506/branch/master?svg=true)
+![](https://img.shields.io/appveyor/tests/end2endzone/msbuildreorder/master.svg)
+![](https://img.shields.io/github/downloads/end2endzone/msbuildreorder/total.svg)
+
+MSBuildReorder is a tool for "reordering" (buildorder) a multi-process C++ build log. It allows a developer to convert the build log as if it was generated with a single processor.
+
+Building a solution that has multiple projects can quickly become bloated with too many lines that are not related to each other. For this reason, finding the actual cause of a build fail is harder than it should be. MSBuildReorder is able to read the log and reorder the projects in a sequential order.
 
 It's main features are:
 
@@ -31,7 +40,7 @@ It's main features are:
 * Allows quicker identification of the project that caused an error.
 * Command line support.
 
-**Usage:** msbuildreorder \[input file\] \[output file\]
+**Usage:<br /> **msbuildreorder [input file]&nbsp;[output file]
 
 * **input file**: Path to the input build log file to reorder.
 * **output file**: Path of the output reordered build log file.
@@ -42,7 +51,11 @@ It's main features are:
 
 # Download
 
-You can download MSBuildReorder by clicking on the following link: Please note that download links are now deprecated. Binary version of msbuildreorder can be downloaded directly from [the project's GitHub page](http://github.com/end2endzone/msbuildreorder/releases).
+You can download MSBuildReorder by clicking on the following link:
+
+{{< pleasenote >}}
+  Please note that download links are now deprecated. Binary version of msbuildreorder can be downloaded directly from [the project's GitHub page](http://github.com/end2endzone/msbuildreorder/releases).
+{{< /pleasenote >}}
 
 # Sample
 
