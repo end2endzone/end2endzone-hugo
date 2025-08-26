@@ -22,7 +22,7 @@ tags:
 [Time-lapse photography](http://en.wikipedia.org/wiki/time-lapse_photography) is a wonderful effect to make your images alive instead of static because you can make a plain (or almost boring) event and make it so much more dramatic. However, it is something that usually needs a lot of time investment to get something acceptable.
 
 Considering my family was planning to decorate the Christmas tree during the weekend, I decided to take my camera and capture the whole event in a time-lapse video.
-To get a nice video, you need to prepare yourself before taking the shots because if you don’t, you can end up with a bad picture set and have a hard time merging all pictures together.
+To get a nice video, you need to prepare yourself before taking the shots because if you don't, you can end up with a bad picture set and have a hard time merging all pictures together.
 
 The following article will explains how I managed to make a nice time-lapse video with a DSLR using only free software.
 
@@ -46,7 +46,7 @@ An intervalometer is a remote trigger with the added capacity to trigger the cam
 
 A calculator is useful if you go out in the field for your capturing session. For most time-lapse projects related to capturing the nature, it would be wise to bring a camera with you for calculating the perfect interval for your desired effect. See the section [_Calculating the best interval_](#Calculating_the_bestinterval) for details.
 
-## Tools you won’t need
+## Tools you won't need
 
 ### Flashes
 

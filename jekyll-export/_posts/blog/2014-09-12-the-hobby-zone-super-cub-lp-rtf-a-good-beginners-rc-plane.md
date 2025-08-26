@@ -1,5 +1,5 @@
 ---
-title: The Hobby Zone Super Cub LP RTF. A good beginner’s RC plane
+title: The Hobby Zone Super Cub LP RTF. A good beginner's RC plane
 author: end2end
 date: 2014-09-12T21:44:59+00:00
 url: /the-hobby-zone-super-cub-lp-rtf-a-good-beginners-rc-plane/
@@ -14,13 +14,13 @@ tags:
   - super cub
 
 ---
-During summer 2013, I have found myself with a high interest in flying an RC plane. I didn’t know what to expect from this but I wanted to get a new toy to play with. Like everyone, I thought that flying a plane was not that hard and that I could easily manage to fly any kind of plane. I was wrong. During my search for the best plane, I learned about the [Hobby Zone Super Cub LP RTF](http://secure.hobbyzone.com/catalog/hz/HBZ7300.html) which I think is a really good plane for a beginner.
+During summer 2013, I have found myself with a high interest in flying an RC plane. I didn't know what to expect from this but I wanted to get a new toy to play with. Like everyone, I thought that flying a plane was not that hard and that I could easily manage to fly any kind of plane. I was wrong. During my search for the best plane, I learned about the [Hobby Zone Super Cub LP RTF](http://secure.hobbyzone.com/catalog/hz/HBZ7300.html) which I think is a really good plane for a beginner.
 
-I already knew that flying RC planes can be a hobby. Because of that, it can be easy to sink huge amount of cash in this before you realize that you went too far. As a hobby, you can also find good experienced people for advices and easily find a flight instructor that will assist you with the technical aspect to reduce your learning time. However, this process is time consuming and I didn’t wanted to spend too much in this new thing before I knew that I would like and enjoy flying an RC plane.
+I already knew that flying RC planes can be a hobby. Because of that, it can be easy to sink huge amount of cash in this before you realize that you went too far. As a hobby, you can also find good experienced people for advices and easily find a flight instructor that will assist you with the technical aspect to reduce your learning time. However, this process is time consuming and I didn't wanted to spend too much in this new thing before I knew that I would like and enjoy flying an RC plane.
 
 So I bought a [Hobby Zone Super Cub LP RTF](http://secure.hobbyzone.com/catalog/hz/HBZ7300.html).
 
-Here are the reasons why I think this plane is a great beginner’s RC plane:
+Here are the reasons why I think this plane is a great beginner's RC plane:
 
 # Pros
 
@@ -44,7 +44,7 @@ In case you breaks something that is not made of foam, you can get many replacem
 
 ## Light
 
-Landing is the hardest task to do for a beginner. Since this plane is made of foam, it is really light. The total weight of the flying plane is 26 oz (715 g) which is really low. Because of that, you don’t need to know how to land the plane. In my experience, the best way to land the plane (besides actually landing the plane on its wheels) is to look for a grass field. My first flight was in a grass field and some places had grass that was 1 foot high which is more than enough to gently slow down the plane when trying to land.
+Landing is the hardest task to do for a beginner. Since this plane is made of foam, it is really light. The total weight of the flying plane is 26 oz (715 g) which is really low. Because of that, you don't need to know how to land the plane. In my experience, the best way to land the plane (besides actually landing the plane on its wheels) is to look for a grass field. My first flight was in a grass field and some places had grass that was 1 foot high which is more than enough to gently slow down the plane when trying to land.
 
 ## Expendable
 
@@ -68,9 +68,9 @@ At the same time, it might be preferable for a beginner. A bad move with aileron
 
 I never trusted this technology. It is based on a light sensor on top and bottom of the plane which detect which side is the lightest and which is the darkest and assumes that dark side is the ground. If the system detect that light side is "under" your plane, it will try to recover by taking the ownership of the commands. This means that flying the plane on a cloudy day or over a light ground area can be disastrous.
 
-The system can be turned off by flipping a switch on your controller but I would tend to forget to check these before a flight. Don’t even think to make a loop with this system turned on because that would be bad.
+The system can be turned off by flipping a switch on your controller but I would tend to forget to check these before a flight. Don't even think to make a loop with this system turned on because that would be bad.
 
-I don’t know about you, but if I crash my plane, I has to be my fault and not the one of a faulty system that made a wrong decision. Aside of that, you \*may\* (and this is the key word) find some examples on the net were this technology saved their plane from a potential crash.
+I don't know about you, but if I crash my plane, I has to be my fault and not the one of a faulty system that made a wrong decision. Aside of that, you \*may\* (and this is the key word) find some examples on the net were this technology saved their plane from a potential crash.
 
 Good news is this technology can be permanently disabled by unplugging both sensors.
 
