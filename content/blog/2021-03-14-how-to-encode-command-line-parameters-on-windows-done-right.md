@@ -44,7 +44,7 @@ Examples:
 Double quotes character (`"`) starts or ends a string. Strings allows one to insert a delimiter (or separators) character to an argument. The double quotes character is omitted from the argument.
 
 {{< pleasenote >}}
-  Note that strings ***may**&nbsp;**not***&nbsp;always be ended (the end of the command line may be hit without the end-of-string character)
+  Note that strings ***may** **not*** always be ended (the end of the command line may be hit without the end-of-string character)
 {{< /pleasenote >}}
 
 
@@ -81,7 +81,7 @@ Examples:
 `&lt;strong>^"&lt;/strong>` sequence starts or ends a caret-string. Caret-strings are different than normal strings. Caret-strings may be ended with an unescaped `&lt;strong>"&lt;/strong>` character. Caret-string may not be ended.
 
 {{< pleasenote >}}
-  Note that caret-strings ***may**&nbsp;**not***&nbsp;always be ended (the end of the command line may be hit without the end-of-string character)
+  Note that caret-strings ***may** **not*** always be ended (the end of the command line may be hit without the end-of-string character)
 {{< /pleasenote >}}
 
 
@@ -120,7 +120,7 @@ Examples:
 
 ## Rule #3 - The \ character
 
-Plain `&lt;strong>\&lt;/strong>` character must be escaped with `&lt;strong>\\&lt;/strong>`&nbsp;if they precedes a `&lt;strong>"&lt;/strong>` character or `&lt;strong>^"&lt;/strong>` character sequence. (string or caret-string termination).
+Plain `&lt;strong>\&lt;/strong>` character must be escaped with `&lt;strong>\\&lt;/strong>` if they precedes a `&lt;strong>"&lt;/strong>` character or `&lt;strong>^"&lt;/strong>` character sequence. (string or caret-string termination).
 
 Examples:
 
@@ -256,9 +256,9 @@ All other characters must be read as plain text.
 
 ### Exception #1
 
-`&lt;strong>\"&lt;/strong>` characters sequence inside a caret-string. This formatting is against [rule #2.3](#rule2_3)&nbsp;which states that double quote character `"` should be entered as `\^"`&nbsp;or againt [rule #3](#rule3) which states that `\` characters should be entered as `\\"`.
+`&lt;strong>\"&lt;/strong>` characters sequence inside a caret-string. This formatting is against [rule #2.3](#rule2_3) which states that double quote character `"` should be entered as `\^"` or againt [rule #3](#rule3) which states that `\` characters should be entered as `\\"`.
 
-Erroneous `&lt;strong>\"&lt;/strong>` sequence in a caret-string should be read as **_[end caret-string]_** and **_[start string]_** which as of [rule #6](#rule6)&nbsp;also inserts a plain `"` character.
+Erroneous `&lt;strong>\"&lt;/strong>` sequence in a caret-string should be read as **_[end caret-string]_** and **_[start string]_** which as of [rule #6](#rule6) also inserts a plain `"` character.
 
 Examples:
 

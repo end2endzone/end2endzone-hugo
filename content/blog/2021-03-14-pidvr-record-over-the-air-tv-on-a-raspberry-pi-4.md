@@ -489,7 +489,7 @@ For example:
 
 ![](RackMultipart20210314-4-ej0w6x_html_16af1b06ba9c6ad8.png) The tv guide seems to be still using non-utf8 characters. This is still an open issue and I have not yet figured out a way to solve the issue:
 
-[![](/wp-content/uploads/2021/03/EPG-utf-8-bug.png)](/wp-content/uploads/2021/03/EPG-utf-8-bug.png)&nbsp;
+[![](/wp-content/uploads/2021/03/EPG-utf-8-bug.png)](/wp-content/uploads/2021/03/EPG-utf-8-bug.png) 
 
 ## Configure Kodi to connect to tvheadend
 

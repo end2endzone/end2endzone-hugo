@@ -29,7 +29,7 @@ If you look on the internet for "mixing", you will usually find posts and articl
 
 
 {{< postedit >}}
-  EDIT: To make all mixing pre-calculations easier, do not hesitate to use my [Mixing Calculator for R/C Transmitter](/rc-transmitter-mix-calculator/)&nbsp;(it's an Excel Sheet!)
+  EDIT: To make all mixing pre-calculations easier, do not hesitate to use my [Mixing Calculator for R/C Transmitter](/rc-transmitter-mix-calculator/) (it's an Excel Sheet!)
 {{< /postedit >}}
 
 I am really new to mixing. I have flown all my planes without ever used any mix. This is mostly because I have never had the need to use some (I've always been trying to make adjustment manually with the sticks to improve my skills). 
@@ -108,7 +108,7 @@ This trick can come valuable in some situation.
 ## Forcing a value
 A mix can be used to force a given value to a channel. A typical use is triggering Failsafe flight mode. Say you have the following flight modes: 
 
-**\[gps\] \[failsafe\] \[attitude\] \[failsafe\] [manual]**. Assuming that the first Failsafe mode is identical to the second Failsafe, you need to assign two 2-position switches to implement all possible modes. In this case, no mix is required. Another way of implementing this is to use a 3-position switch and assign the **[gps]**, **[attitude]** and **[manual]**&nbsp;flight modes to this switch and use a second 2-position switch as a "panic" switch that triggers \[Failsafe\] (while also disabling the flight mode switch). A mix is required to cancel out the first switch and a second mix to force the flight mode channel to move to [Failsafe] position. See also [Cancelling a switch](#Cancelling_a_switch). 
+**\[gps\] \[failsafe\] \[attitude\] \[failsafe\] [manual]**. Assuming that the first Failsafe mode is identical to the second Failsafe, you need to assign two 2-position switches to implement all possible modes. In this case, no mix is required. Another way of implementing this is to use a 3-position switch and assign the **[gps]**, **[attitude]** and **[manual]** flight modes to this switch and use a second 2-position switch as a "panic" switch that triggers \[Failsafe\] (while also disabling the flight mode switch). A mix is required to cancel out the first switch and a second mix to force the flight mode channel to move to [Failsafe] position. See also [Cancelling a switch](#Cancelling_a_switch). 
 
 ## Throttle cut mix
 By combining 
@@ -155,7 +155,7 @@ This feature may be required if a transmitter does not support native inverting 
 ## The equation
 
 {{< pleasenote >}}
-  **Note:**&nbsp;The following is an extract of how the Spektrum transmitters calculate mixes. Please note that your mileage could vary if you use a different kind of transmitter.
+  **Note:** The following is an extract of how the Spektrum transmitters calculate mixes. Please note that your mileage could vary if you use a different kind of transmitter.
 {{< /pleasenote >}}
 
 A 3-position switch will define 3 values for a given mix: Position 0, Position 1 and Position 2 while a 2-position switch will define 2 values for a mix: Position 0 and Position 1. Position 0 of a 2-position switch matches Position 0 of a 3-position switch and Position 1 of a 2-position switch matches Position 2 of a 3-position switch. The following table list position matches: 
@@ -183,7 +183,7 @@ A 3-position switch will define 3 values for a given mix: Position 0, Position 1
 </table>
 The following equation will help you solve an endless issue: How to calculate a mix boundaries: 
 
-OffsetTravel = (switch default travel (see below)) - Offset if OffsetTravel < 0 SwitchMixValue = OffsetTravel / 100 *&nbsp;Low rate else SwitchMixValue = OffsetTravel / 100 *&nbsp;High rate
+OffsetTravel = (switch default travel (see below)) - Offset if OffsetTravel < 0 SwitchMixValue = OffsetTravel / 100 * Low rate else SwitchMixValue = OffsetTravel / 100 * High rate
 A 3-position switch has the following default travel values: 
 
 | <!-- -->   | <!-- --> | <!-- --> |

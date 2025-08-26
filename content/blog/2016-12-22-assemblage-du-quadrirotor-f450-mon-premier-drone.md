@@ -27,9 +27,9 @@ L'assemblage du quadrirotor s'effectue sur 2 jours. Comme dans tous les projets,
 
 "Il me manque des connecteurs pour les moteurs.<br /> On remballe le tout!<br /> C'est terminé pour aujourd'hui..."
 
-À&nbsp;titre d'information, il s'agit du quadrirotor sur lequel [j'ai ajouté un LED ultra-puissant et une alarme](/diy-lost-plane-alarm-finder-and-10-watts-led-visual-aids-for-easy-orientation/)&nbsp;afin de pouvoir le retrouver en cas de crash inattendu.
+À titre d'information, il s'agit du quadrirotor sur lequel [j'ai ajouté un LED ultra-puissant et une alarme](/diy-lost-plane-alarm-finder-and-10-watts-led-visual-aids-for-easy-orientation/) afin de pouvoir le retrouver en cas de crash inattendu.
 
-Consulter [ces autres articles](/tag/time-lapse/)&nbsp;pour d'autres vidéos time lapse.
+Consulter [ces autres articles](/tag/time-lapse/) pour d'autres vidéos time lapse.
 
 Tutoriels sur comment faire ces propres vidéos time lapse avec des logiciels gratuit disponible à l'adresse:  
 [http://www.end2endzone.com/how-to-make-a-time-lapse-video-with-free-tools-and-a-dslr-camera/](http://www.end2endzone.com/how-to-make-a-time-lapse-video-with-free-tools-and-a-dslr-camera/).
@@ -48,9 +48,9 @@ Temps d'assemblage: 4h55m
 
 # Musique
 
-Auteur:&nbsp;Ash O'Connor  
+Auteur: Ash O'Connor  
 Titre: Vibe  
 Label: NoCopyrightSounds  
-Reférence:&nbsp;<https://www.youtube.com/watch?v=B2p-jLTmFJ0>
+Reférence: <https://www.youtube.com/watch?v=B2p-jLTmFJ0>
 
 # Vidéo

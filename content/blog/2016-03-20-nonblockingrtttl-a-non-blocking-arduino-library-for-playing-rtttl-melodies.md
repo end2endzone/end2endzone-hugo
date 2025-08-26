@@ -47,13 +47,13 @@ Skip to the [download section](#Download) for quick download.
 
 Most code that can be found on the internet that allows you to "play" an [RTTTL](#Quick_recall_of_the_RTTTL_format) string is build the same way: sequential calls to the tone() function followed by a delay() function. This type of implementation might be good for robots but not for realtime application or projects that needs to monitor pins while the song is playing.
 
-This library is [non-blocking](http://en.wikipedia.org/wiki/Non-blocking_algorithm)&nbsp;which make it suitable to be used by more advanced algorithm. The non-blocking RTTTL library is a port of the RTTTL example from the [Tone library](http://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/rogue-code/Arduino-Library-Tone.zip).
+This library is [non-blocking](http://en.wikipedia.org/wiki/Non-blocking_algorithm) which make it suitable to be used by more advanced algorithm. The non-blocking RTTTL library is a port of the RTTTL example from the [Tone library](http://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/rogue-code/Arduino-Library-Tone.zip).
 
 # Quick recall of the RTTTL format
 
 I recently discovered the Ring Tone Text Transfer Language (RTTTL) audio format which is an audio format for storing single tone (monolithic)  melodies. Each melody is composed of successive tone frequencies.
 
-The RTTTL format is [human readable](http://stackoverflow.com/questions/568671/why-should-i-use-a-human-readable-file-format) and usually more compressed than note &&nbsp;duration arrays which helps reduce its memory footprint.
+The RTTTL format is [human readable](http://stackoverflow.com/questions/568671/why-should-i-use-a-human-readable-file-format) and usually more compressed than note & duration arrays which helps reduce its memory footprint.
 
 In the arduino world, melodies are usually written as an array of notes (frequencies) followed by the note's duration (note1, duration1, note2, duration2, ... ,  noteX, durationX).
 
@@ -91,7 +91,7 @@ The following demo show how to use the library:
 
 # License
 
-The following code was written by Antoine Beauchamp. The non-blocking RTTTL library is a port of the RTTTL example from the [Tone library](http://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/rogue-code/Arduino-Library-Tone.zip)&nbsp;which is licensed with the [MIT License](http://www.opensource.org/licenses/mit-license.php).
+The following code was written by Antoine Beauchamp. The non-blocking RTTTL library is a port of the RTTTL example from the [Tone library](http://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/rogue-code/Arduino-Library-Tone.zip) which is licensed with the [MIT License](http://www.opensource.org/licenses/mit-license.php).
 
 The code & updates for the library can be found at <http://end2endzone.com>.
 

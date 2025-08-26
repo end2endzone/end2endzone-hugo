@@ -27,7 +27,7 @@ With all TV shows comes a bunch of TV ads that I do not want to keep and waste t
 # What's the trick ?
 The trick is to use VirtualDub's frame server ability and other software to create a virtual file instead of an intermediate file as 
 
-[my old guide](http://www.end2endzone.com/how-to-remove-ads-from-hdhomerun-recordings-and-still-encode-with-handbrake/)&nbsp;suggests. This option is much faster (takes 1 minute instead of hours) and uses much less disk space (2 KB instead of 8 GB) since there is no intermediate file to encode. VirtualDub is still required to cut ads as you would normally do. The process is also lossless (it does not add any quality degradation). Once the virtual file is generated (mounted), use Handbrake to encode the final video for best results. 
+[my old guide](http://www.end2endzone.com/how-to-remove-ads-from-hdhomerun-recordings-and-still-encode-with-handbrake/) suggests. This option is much faster (takes 1 minute instead of hours) and uses much less disk space (2 KB instead of 8 GB) since there is no intermediate file to encode. VirtualDub is still required to cut ads as you would normally do. The process is also lossless (it does not add any quality degradation). Once the virtual file is generated (mounted), use Handbrake to encode the final video for best results. 
 
 # Download & Install required software
 The following software must be downloaded and installed: 
@@ -112,7 +112,7 @@ _c:\windows\avfs.exe_ file.
 ## Chaining application
 The basic principle in this procedure is to chain application one after the other. The output from a software becomes the input of the next and so on until the video & audio streams reaches handbrake. The process is as follows: 
 
-MPEG2 recording  VirtualDub  Editing  VirtualDub *.vdscript file (Editing backup)&nbsp; VirtualDub frame serving (*.vdr file)  Avisynth script (*.avs)  AVSF  Virtual *.AVI file  Handbrake encoding.
+MPEG2 recording  VirtualDub  Editing  VirtualDub *.vdscript file (Editing backup)  VirtualDub frame serving (*.vdr file)  Avisynth script (*.avs)  AVSF  Virtual *.AVI file  Handbrake encoding.
 
 ## Open video file in Virtualdub
 
@@ -177,7 +177,7 @@ VirtualDub Frameserver Options Window
 VirtualDub Frameserver Mode
 The frameserver is now ready to provide frames to other applications. Leave the dialog running until the encoding with handbrake is complete. Press 
 
-_Stop serving_ button to return to VirtualDub's editing mode. A safe way to know if VirtualDub is done serving frames is to look at the "_Number of frames served_" value. If it stopped increasing, it means that Handbrake and the frameclient is done processing all frames. *** Warning:** Pressing _Stop serving_&nbsp;button while the frame server is serving frames to Handbrake might corrupt your output (compressed) video. 
+_Stop serving_ button to return to VirtualDub's editing mode. A safe way to know if VirtualDub is done serving frames is to look at the "_Number of frames served_" value. If it stopped increasing, it means that Handbrake and the frameclient is done processing all frames. *** Warning:** Pressing _Stop serving_ button while the frame server is serving frames to Handbrake might corrupt your output (compressed) video. 
 
 ### Missing frameclients issue ?
 
@@ -187,7 +187,7 @@ _Stop serving_ button to return to VirtualDub's editing mode. A safe way to know
 Now that VirtualDub is ready to server frames to the next application, you need to create an AviSynth file that will wrap the VirtualDub AVIFile signpost (*.vdr) file and generate a valid AVI stream. 
 
   1. Create a text file next to the VirtualDub AVIFile signpost (\*.vdr) file with the avs file extension (\*.avs). It is a good practice to use the same path & filename as the *.vdr file.
-  2. Enter the following text in the file: _AviSource("full\_path\_to_vdr")_ (replace _full\_path\_to_vdr_&nbsp;by the actual full path to your vdr file).
+  2. Enter the following text in the file: _AviSource("full\_path\_to_vdr")_ (replace _full\_path\_to_vdr_ by the actual full path to your vdr file).
   3. Save the file. Here is an example of a valid AviSynth Script file (*.avs): 
 
 {{< hightlight-static-file file="/static/wp-content/uploads/2015/11/1021_20150405183000.avs" lang="cpp" >}}

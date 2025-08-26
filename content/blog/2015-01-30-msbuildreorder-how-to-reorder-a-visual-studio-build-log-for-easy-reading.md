@@ -40,7 +40,7 @@ It's main features are:
 * Allows quicker identification of the project that caused an error.
 * Command line support.
 
-**Usage:<br /> **msbuildreorder [input file]&nbsp;[output file]
+**Usage:** msbuildreorder [input file] [output file]
 
 * **input file**: Path to the input build log file to reorder.
 * **output file**: Path of the output reordered build log file.

@@ -128,7 +128,7 @@ Knowing that a pulse delta time of 1000 µS (from 1000 µS to 2000 µS) is requi
 
 WRONG!
 
-&nbsp;
+ 
 
 Theoretical values is never as good as real world observations.
 
@@ -200,7 +200,7 @@ The following section show the results of all my data capture sessions. Each dev
 
 <table class="generictable" border="0" cellspacing="0" cellpadding="0">
   <colgroup> <col /> <col /> <col /> <col span="2" /> <col /> </colgroup> <tr class="headerrow">
-    <td colspan="6">Spektrum DX9 Tx &&nbsp;Orange R620X Rx</td>
+    <td colspan="6">Spektrum DX9 Tx & Orange R620X Rx</td>
   </tr>
   <tr class="headerrow">
     <td>Tx</td>
@@ -394,12 +394,12 @@ Even if function #6 has a sum higher than function #3, the accuracy of function 
 
 The following polynomial function offers the best performance to compute the _Spektrum DX9 RC Transmitter_ value from the _Orange R620X Rx_ pulse length:
 
-f(x) = -8.0e-8*x<sup>2</sup> +&nbsp;0.2203*x – 331.37
+f(x) = -8.0e-8*x<sup>2</sup> + 0.2203*x – 331.37
 
 Download the 
-	[ Spektrum DX9 Tx & Orange R620X Rx (402 downloads) ](http://www.end2endzone.com/download/1618/ "Version 1.0")&nbsp;full data capture.
+	[ Spektrum DX9 Tx & Orange R620X Rx (402 downloads) ](http://www.end2endzone.com/download/1618/ "Version 1.0") full data capture.
 
-## Spektrum DX9 Tx &&nbsp;Spektrum AR8000 Rx
+## Spektrum DX9 Tx & Spektrum AR8000 Rx
 
 | <!-- -->                                                                                                                                                                                                                                                                                                                 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -411,7 +411,7 @@ Download the
 
 <table class="generictable" border="0" cellspacing="0" cellpadding="0" data-generictable="true">
   <colgroup> <col span="6" /> </colgroup> <tr class="headerrow" data-headerrow="true">
-    <td colspan="6">Spektrum DX9 Tx &&nbsp;Spektrum AR8000 Rx</td>
+    <td colspan="6">Spektrum DX9 Tx & Spektrum AR8000 Rx</td>
   </tr>
   <tr class="headerrow" data-headerrow="true">
     <td>Tx</td>
@@ -608,9 +608,9 @@ The following polynomial function offers the best performance to compute the Spe
 f(x) = 0.25089444*x – 382.665703
 
 Download the 
-	[ Spektrum DX9 Tx & Spektrum AR8000 Rx (365 downloads) ](http://www.end2endzone.com/download/1620/ "Version 1.0")&nbsp;full data capture.
+	[ Spektrum DX9 Tx & Spektrum AR8000 Rx (365 downloads) ](http://www.end2endzone.com/download/1620/ "Version 1.0") full data capture.
 
-## Tactic TTX600 Tx &&nbsp;Tactic TR624 Rx
+## Tactic TTX600 Tx & Tactic TR624 Rx
 
 | <!-- -->                                                                                                                                                                                                                                                                                                               |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -620,7 +620,7 @@ Download the
 
 **Notes:<br />**The TTX600 transmitter is not digital. This means that it is hard to reproduce the exact behavior every time. As you can see the result are pretty erratic. Each different channel has a different behavior.
 
-For extracting the data, I assumed that moving _**any**_&nbsp;sticks to the top, bottom, left and right position would always match a perfect 100% (or -100%). Other values (+60%, -60%) are based on the documentation manual which states that high and low dual rates are based on a 100% and 60% ratio.
+For extracting the data, I assumed that moving _**any**_ sticks to the top, bottom, left and right position would always match a perfect 100% (or -100%). Other values (+60%, -60%) are based on the documentation manual which states that high and low dual rates are based on a 100% and 60% ratio.
 
 {{< pleasenote >}}
   Note that each channel section are identified by a unique color which helps to identify the source of each Polynomial Equation.
@@ -631,7 +631,7 @@ For extracting the data, I assumed that moving _**any**_&nbsp;sticks to the top,
 
 <table class="generictable" border="0" cellspacing="0" cellpadding="0" data-generictable="true">
   <colgroup> <col span="7" /> </colgroup> <tr class="headerrow" data-headerrow="true">
-    <td colspan="7">Tactic TTX600 tx &&nbsp;Tactic TR624</td>
+    <td colspan="7">Tactic TTX600 tx & Tactic TR624</td>
   </tr>
   <tr class="headerrow" data-headerrow="true">
     <td>Tx</td>
@@ -901,7 +901,7 @@ The two tables above shows two polynomial functions (see highlighted columns) th
 {{< /pleasenote >}}
 
 
-In other words, reading the PWM length or the _Tactic TTX600 Tx & Tactic TR624 Rx combination_&nbsp;can only be used for detecting if the sticks are "up", "centered" or "down" but not really "how much up or down".
+In other words, reading the PWM length or the _Tactic TTX600 Tx & Tactic TR624 Rx combination_ can only be used for detecting if the sticks are "up", "centered" or "down" but not really "how much up or down".
 
 The following polynomial functions offers the best performance to compute the Tactic TTX600 Tx transmitter value from the Tactic TR624 Rx pulse length:
 
@@ -969,7 +969,7 @@ The CCPM Servo Tester shows a PWM range from **900 µs** to **2210 µs**. The fo
 </table>
 
 {{< pleasenote >}}
-  Note that values for the CCPM Server Tester (100, -100) are assumptions and represents clockwise and counterclockwise positions of the potentiometer. In fact, based on the observed PWM values, the values should be more in the (133, -133) range according the _[Spektrum DX9 Tx & Orange R620X Rx](#Spektrum_DX9_Tx_Orange_R620X_Rx)_&nbsp;results or in (150, -150) range according the _[Spektrum DX9 Tx & Spektrum AR8000 Rx](#Spektrum_DX9_Tx_Spektrum_AR8000_Rx)_ results.
+  Note that values for the CCPM Server Tester (100, -100) are assumptions and represents clockwise and counterclockwise positions of the potentiometer. In fact, based on the observed PWM values, the values should be more in the (133, -133) range according the _[Spektrum DX9 Tx & Orange R620X Rx](#Spektrum_DX9_Tx_Orange_R620X_Rx)_ results or in (150, -150) range according the _[Spektrum DX9 Tx & Spektrum AR8000 Rx](#Spektrum_DX9_Tx_Spektrum_AR8000_Rx)_ results.
 {{< /pleasenote >}}
 
 
@@ -1007,4 +1007,4 @@ The following polynomial function offers the best performance to compute the _CC
 f(x) = 4.0E-07*x<sup>2</sup> + 0.1653*x – 249.78
 
 Download the 
-	[ CCPM Servo Tester (384 downloads) ](http://www.end2endzone.com/download/1616/ "Version 1.0")&nbsp;full data capture.
+	[ CCPM Servo Tester (384 downloads) ](http://www.end2endzone.com/download/1616/ "Version 1.0") full data capture.

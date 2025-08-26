@@ -126,7 +126,7 @@ C:\Temp\csvplotdemo&gt;
 The code below can be downloaded by clicking on the following link:
 
 {{< pleasenote >}}
-  Please note that download links are now deprecated. Binary version of **csvplot**&nbsp;can be downloaded from the project’s [Release page](http://github.com/end2endzone/csvplot/releases/latest).
+  Please note that download links are now deprecated. Binary version of **csvplot** can be downloaded from the project’s [Release page](http://github.com/end2endzone/csvplot/releases/latest).
 {{< /pleasenote >}}
 
 
@@ -182,9 +182,9 @@ This software is furnished "as is", without technical support, and with no warra
 
 # Download
 
-You can download **_csvplot_**&nbsp;by clicking on the following link:
+You can download **_csvplot_** by clicking on the following link:
 
 {{< pleasenote >}}
-  Please note that download links are now deprecated. Binary version of **csvplot**&nbsp;can be downloaded from the project’s [Release page](http://github.com/end2endzone/csvplot/releases/latest).
+  Please note that download links are now deprecated. Binary version of **csvplot** can be downloaded from the project’s [Release page](http://github.com/end2endzone/csvplot/releases/latest).
 {{< /pleasenote >}}
 

@@ -27,9 +27,9 @@ Le Radian Pro est un planeur de 78.5 pouces d'envergure. Le fuselage mesure 45 p
 
 La fiche technique peut être retrouvée à cette adresse: <http://www.parkzone.com/Products/Default.aspx?ProdID=PKZ5480>
 
-Il possède aussi un frère [disponible ici](http://www.parkzone.com/Products/Default.aspx?ProdID=PKZ4700)&nbsp;mais il est beaucoup plus vieux et donc il possède moins de fonctionnalités.
+Il possède aussi un frère [disponible ici](http://www.parkzone.com/Products/Default.aspx?ProdID=PKZ4700) mais il est beaucoup plus vieux et donc il possède moins de fonctionnalités.
 
-Consulter [ces autres articles](/tag/time-lapse/)&nbsp;pour d'autres vidéos time lapse.
+Consulter [ces autres articles](/tag/time-lapse/) pour d'autres vidéos time lapse.
 
 Tutoriels sur comment faire ces propres vidéos time lapse avec des logiciels gratuit disponible à l'adresse:  
 [http://www.end2endzone.com/how-to-make-a-time-lapse-video-with-free-tools-and-a-dslr-camera/](http://www.end2endzone.com/how-to-make-a-time-lapse-video-with-free-tools-and-a-dslr-camera/).

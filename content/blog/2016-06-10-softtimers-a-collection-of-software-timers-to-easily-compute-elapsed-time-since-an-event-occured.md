@@ -71,7 +71,7 @@ Call `setTimeOutTime()` to setup the non-blocking SoftTimer then call `reset()` 
 
 Within the `loop()`, use `hasTimedOut()` to know if the timer has expired.
 
-At any moment, call `getElapsedTime()`&nbsp;to get the absolute elapsed time since the last `reset()`.
+At any moment, call `getElapsedTime()` to get the absolute elapsed time since the last `reset()`.
 
 ## Fade a LED
 

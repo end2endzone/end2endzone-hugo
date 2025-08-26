@@ -96,7 +96,7 @@ Quadcopter 10 watts LED OFF
 
 Piezoelectric Buzzer - Audible Alarm Sound Buzzers
 
-The second device is a 95 decibel (dB)&nbsp;[piezoelectric speaker](http://en.wikipedia.org/wiki/Piezoelectric_speaker). This allows the quadcopter to be easily found in case of a crash or an emergency landing. For example, if one enter [Failsafe mode](http://wiki.dji.com/en/index.php/Naza-M_Enhanced_Failsafe), the quadcopter can land immediately (or [Return To Home](http://wiki.dji.com/en/index.php/Inspire_1_Pro-Return_to_Home_(RTH))&nbsp;but that is out of scope) and there is a good chance that it will be far from your takeoff location. Tracking a beep-beep-beep sound is much more easier than estimating the landing location 1 km away.
+The second device is a 95 decibel (dB) [piezoelectric speaker](http://en.wikipedia.org/wiki/Piezoelectric_speaker). This allows the quadcopter to be easily found in case of a crash or an emergency landing. For example, if one enter [Failsafe mode](http://wiki.dji.com/en/index.php/Naza-M_Enhanced_Failsafe), the quadcopter can land immediately (or [Return To Home](http://wiki.dji.com/en/index.php/Inspire_1_Pro-Return_to_Home_(RTH)) but that is out of scope) and there is a good chance that it will be far from your takeoff location. Tracking a beep-beep-beep sound is much more easier than estimating the landing location 1 km away.
 
 There are already tons of existing options for a search alarm buzzer on the market, each with their own pros and cons. [Some buzzer](http://www.hobbyking.com/hobbyking/store/__14521__HobbyKing_174_Discovery_Buzzer.html) must be connected to a dedicated channel and make sound when flipping a switch on your controller. [Others](http://www.hobbyking.com/hobbyking/store/__13064__Signal_loss_Alarm_Lost_Plane_Finder.html) must be connected in series with the throttle channel and rings if the throttle signal has not changed for more than 60 seconds.
 
@@ -238,7 +238,7 @@ The following section shows the drawings and the schematics used by the controll
 
 Fritzing - Open-Source Hardware Initiative Tool
 
-All drawings and diagrams are build using [Fritzing](http://fritzing.org/home/)&nbsp;version 0.9.2b which is an open-source hardware initiative tool that allows developers to document their prototypes and share them with others. The application already features a huge parts library but there is no support for a [Generic Remote Controlled (RC) 6-Channels Receiver](#Components_and_Supplies)&nbsp;and for the [MR16 Constant Current LED Driver](#Components_and_Supplies).
+All drawings and diagrams are build using [Fritzing](http://fritzing.org/home/) version 0.9.2b which is an open-source hardware initiative tool that allows developers to document their prototypes and share them with others. The application already features a huge parts library but there is no support for a [Generic Remote Controlled (RC) 6-Channels Receiver](#Components_and_Supplies) and for the [MR16 Constant Current LED Driver](#Components_and_Supplies).
 
 The additional parts which are required for rendering the project are available for download:
 
@@ -276,9 +276,9 @@ The code on the arduino requires multiple external arduino libraries. The follow
 
 | Name                                                                                                                                                                    | Version                                                 | Usage                                                                                             |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| [SoftTimers](http://www.end2endzone.com/softtimers-a-collection-of-software-timers-to-easily-compute-elapsed-time-since-an-event-occured/)&nbsp;<sup>5</sup>            | v1.1.219                                                | Required for all computation and handling of the LED's ON and OFF times.                          |
-| [RcReceiverSignal](http://www.end2endzone.com/rcreceiversignal-an-arduino-library-for-retreiving-the-rc-transmitter-value-from-an-rc-receiver-pulse/)&nbsp;<sup>8</sup> | v1.2.203                                                | Required to read PWM signals sent<br /> from the RC Receiver.                                     |
-| [AnyRtttl](http://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/)&nbsp;<sup>7</sup>                                            | v2.1                                                    | Required to play RTTTL melodies data.                                                             |
+| [SoftTimers](http://www.end2endzone.com/softtimers-a-collection-of-software-timers-to-easily-compute-elapsed-time-since-an-event-occured/) <sup>5</sup>            | v1.1.219                                                | Required for all computation and handling of the LED's ON and OFF times.                          |
+| [RcReceiverSignal](http://www.end2endzone.com/rcreceiversignal-an-arduino-library-for-retreiving-the-rc-transmitter-value-from-an-rc-receiver-pulse/) <sup>8</sup> | v1.2.203                                                | Required to read PWM signals sent<br /> from the RC Receiver.                                     |
+| [AnyRtttl](http://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) <sup>7</sup>                                            | v2.1                                                    | Required to play RTTTL melodies data.                                                             |
 | [PinChangeInt](http://github.com/GreyGnome/PinChangeInt)                                                                                                                | version 2402                                            | RcReceiverSignal library has a dependency<br /> to PinChangeInt library.                          |
 | [eRCaGuy Timer2 Counter](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html)                                          | version 20140709<br /> (last updated<br /> 9 July 2014) | Required to have a micros() replacement function<br /> which has a 1µs resolution instead of 4µs. |
 
@@ -311,7 +311,7 @@ Upload the main arduino sketch to the arduino and proceed with the next step.
 
 As explained [above](#Microcontroller),  this project innovation relies on the fact that **both devices** are controlled by the quadcopter transmitter using only a **single channel**. This is achieved by configuring custom mixes on the transmitter.
 
-To know more about how mixes can be used to control more than one device with the help of a microcontroller, read the following article:&nbsp;[How to multiplex RC Transmitter switches into a single channel](/how-to-multiplex-rc-transmitter-switches-into-a-single-channel/).
+To know more about how mixes can be used to control more than one device with the help of a microcontroller, read the following article: [How to multiplex RC Transmitter switches into a single channel](/how-to-multiplex-rc-transmitter-switches-into-a-single-channel/).
 
 As a reference, here are the mixes that I use for my Spektrum DX9 transmitter:
 
@@ -379,7 +379,7 @@ As a reference, here are the mixes that I use for my Spektrum DX9 transmitter:
 </table>
 
 {{< pleasenote >}}
-  Note that the following mixes must match the [demultiplexing  code](#Arduino_sketch)&nbsp;running on the arduino. If you do not use the code "as is", then you must also adjust your transmitter mixes to reflect the change.
+  Note that the following mixes must match the [demultiplexing  code](#Arduino_sketch) running on the arduino. If you do not use the code "as is", then you must also adjust your transmitter mixes to reflect the change.
 {{< /pleasenote >}}
 
 
@@ -422,7 +422,7 @@ The final step is to integrate all real components to the breadboard prototype a
 
 [![Quadcopter Controller Project - Breadboard view](/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)](/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)
 
-Complete the actual circuit as defined in [Breadboard Layout](#Breadboard_Layout)&nbsp;section.
+Complete the actual circuit as defined in [Breadboard Layout](#Breadboard_Layout) section.
 
 ## Solder components
 

@@ -66,9 +66,9 @@ The following section shows example of using libRtttl gui to convert arduino cod
 
 Source code:
 
-* Youtube:&nbsp;<http://www.youtube.com/watch?v=vrzQU_QbQ5U>
-* Code from pastebin:&nbsp;<http://pastebin.com/q76D0asp>
-* Cache version here:&nbsp;[FULL Game of Thrones Theme Song on Arduino](/wp-content/uploads/2016/05/FULL-Game-of-Thrones-Theme-Song-on-Arduino.ino)
+* Youtube: <http://www.youtube.com/watch?v=vrzQU_QbQ5U>
+* Code from pastebin: <http://pastebin.com/q76D0asp>
+* Cache version here: [FULL Game of Thrones Theme Song on Arduino](/wp-content/uploads/2016/05/FULL-Game-of-Thrones-Theme-Song-on-Arduino.ino)
 
 Modify the code by adding the _"Arduino tone and delay functions overrides"_ to the code. Once done, the code should be looking like this:
 
@@ -81,7 +81,7 @@ which result in the following data outputted on the serial port when executed:
 Using libRtttl gui, the above code can be converted to the following RTTTL melody:
 
 {{< pleasenote >}}
-  Settings:&nbsp;force default, enable tone() octave offsetting.
+  Settings: force default, enable tone() octave offsetting.
 {{< /pleasenote >}}
 
 
@@ -93,13 +93,13 @@ or the following (by enabling unofficial BPM values) which help have accurate de
 
 `GOTv2:d=32,o=4,b=336:2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4e5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4e5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,1g.6,p,1c.6,p,4d#6,p,4f6,p,1g6,p,1c6,p,4d#6,p,4f6,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,1f.6,p,1a#.5,p,4d6,p,4d#6,p,1f6,p,1a#5,p,4d#6,p,4d6,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,1g.6,p,1c.6,p,4d#6,p,4f6,p,1g6,p,1c6,p,4d#6,p,4f6,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,1f.6,p,1a#.5,p,4d6,p,4d#6,p,1f6,p,1a#5,p,4d#6,p,4d6,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,1g.7,p,1c.7,p,4d#7,p,4f7,p,1g7,p,1c7,p,4d#7,p,4f7,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,1f.7,p,1a#.6,p,1d7,p,1d#7,p,1d7,p,1a#6,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c7,p,4d#5,p,4f5,p,2g5,p,2c7,p,4d#5,p,4f5,p,2g5,p,2a#6,p,4d5,p,4d#5,p,2f5,p,2a#6,p,4d5,p,4d#5,p,2f5,p,2g#6,p,4c5,p,4d5,p,2d#5,p,2g#6,p,4c5,p,4d5,p,2d#5,p,2g6,p,4a#,p,4c5,p,2d5,p,2g6,p,4a#,p,4c5,p,2d5,p,2d#6,p,4f#,p,4g#,p,2a#,p,2d#6,p,4f#,p,4g#,p,2a#,p,2d#6,p,4f#,p,4f#,p,2d#6,p,1f6,2p,4g#,p,4g#,p,2f6,p,2c6,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c7,p,4d#5,p,4f5,p,2g5,p,2c7,p,4d#5,p,4f5,p,2g5,p,2a#6,p,4d5,p,4d#5,p,2f5,p,2a#6,p,4d5,p,4d#5,p,2f5,p,2g#6,p,4c5,p,4d5,p,2d#5,p,2g#6,p,4c5,p,4d5,p,2d#5,p,2g6,p,4a#,p,4c5,p,2d5,p,2g6,p,4a#,p,4c5,p,2d5,p,2d#6,p,4f#,p,4g#,p,2a#,p,2d#6,p,4f#,p,4g#,p,2a#,p,1d#6,p,2d#6,p,1d6,p,2d6,p,2c6,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#5,p,4f5,p,2g5,p,2c5,p,4d#7,p,4f7,p,2g7,p,2c7,p,4d#7,p,4f7,p,2g7,p,2c7,p,4d#7,p,4f7,p,2g7,p`
 
-## Star Wars -&nbsp;The imperial March
+## Star Wars - The imperial March
 
 Source code:
 
 * Instructables: <http://www.instructables.com/id/How-to-easily-play-music-with-buzzer-on-arduino-Th/>
 * Code from pasted: <http://pasted.co/e525c1b2>
-* Cache version here:&nbsp;[Star_Wars_-_The_imperial_March](/wp-content/uploads/2016/05/Star_Wars_-_The_imperial_March.ino)
+* Cache version here: [Star_Wars_-_The_imperial_March](/wp-content/uploads/2016/05/Star_Wars_-_The_imperial_March.ino)
 
 Modify the code by adding the "_Arduino tone and delay functions overrides_" to the code. Once done, the code should be looking like this:
 
@@ -112,7 +112,7 @@ which result in the following data outputted on the serial port:
 Using libRtttl gui, the above code can be converted to the following RTTTL melody:
 
 {{< pleasenote >}}
-  Settings:&nbsp;force default, enable tone() octave offsetting
+  Settings: force default, enable tone() octave offsetting
 {{< /pleasenote >}}
 
 
@@ -130,7 +130,7 @@ Source code:
 
 * GitHub: <https://github.com/tsukisan/Arduino/blob/master/WiiClassicSoundboard/WiiClassicSoundboard.ino>
 * Code from GitHub: <https://raw.githubusercontent.com/tsukisan/Arduino/master/WiiClassicSoundboard/WiiClassicSoundboard.ino>
-* Cache version here:&nbsp;[WiiClassicSoundboard - Super Mario Bros. themes](/wp-content/uploads/2016/11/WiiClassicSoundboard.ino)
+* Cache version here: [WiiClassicSoundboard - Super Mario Bros. themes](/wp-content/uploads/2016/11/WiiClassicSoundboard.ino)
 
 Modify the code by adding the "_Arduino tone and delay functions overrides_" to the code. Once done, the code should be looking like this:
 
@@ -141,7 +141,7 @@ which result in the following data outputted on the serial port:
 {{< hightlight-static-file file="/static/wp-content/uploads/2016/11/Super-Mario-Bros.-themes-function-calls.txt" lang="cpp" >}}
 
 {{< pleasenote >}}
-  Note that output contains the following function calls:&nbsp;`tone(12,0,something);`. Unfortunately, the libRtttl does not properly identify these lines as "silence pin 12" but they can safely be removed from the output without any issue.
+  Note that output contains the following function calls: `tone(12,0,something);`. Unfortunately, the libRtttl does not properly identify these lines as "silence pin 12" but they can safely be removed from the output without any issue.
 {{< /pleasenote >}}
 
 

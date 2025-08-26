@@ -53,7 +53,7 @@ Another way is to try to unscrew the Drive Cone from the shaft of the unit. Use 
 ## Opening the case
 The case is held in place by 2 screws. Both screws are 4 inches long (goes through the whole body) and have a 8 mm hexadecimal head. To open the case, remove the 2 screws then pull out the back cover. 
 
-**Warning**:&nbsp;removing the back cover will disconnect the [brushes](https://en.wikipedia.org/wiki/Brush_(electric)) from the [rotor](https://en.wikipedia.org/wiki/Rotor_(electric)) and you will need to [assemble the unit again](#Reassembling_the_unit). 
+**Warning**: removing the back cover will disconnect the [brushes](https://en.wikipedia.org/wiki/Brush_(electric)) from the [rotor](https://en.wikipedia.org/wiki/Rotor_(electric)) and you will need to [assemble the unit again](#Reassembling_the_unit). 
 
 ## A fixed front cover
 For an unknown reason the front cover of the unit seems to be fixed to the rotor. Even if you remove the Driver Cone, you will not be able to detach the front cover from the rotor. This was unexpected but I never found out why I wasn't able to split the part. 

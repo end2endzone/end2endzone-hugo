@@ -32,7 +32,7 @@ At the time of this writing, the latest version of macOS Catalina is version 10.
 
 _Note: You can install optional updates by clicking on_ More info... _and selecting updates that are related to Catalina._
 
-&nbsp;
+ 
 
 # Set system preferences for developers
 

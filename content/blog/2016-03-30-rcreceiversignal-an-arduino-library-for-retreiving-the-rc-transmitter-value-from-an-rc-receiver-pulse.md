@@ -32,7 +32,7 @@ tags:
 ---
 # Introduction
 
-The following arduino library was written to use the findings found during the _**[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/){.row-title}**_&nbsp;article. All results were wrapped into a library for ease of use.
+The following arduino library was written to use the findings found during the _**[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/){.row-title}**_ article. All results were wrapped into a library for ease of use.
 
 The RcReceiverSignal is an arduino library that allows one to read a signal sent from a Remote Controlled (RC) receiver.
 
@@ -58,12 +58,12 @@ Possible use are:
   Supports multiple Transmitter/Receiver combination: <li>
       Spektrum DX9 tx + Spektrum AR8000 rx
     </li>
-    * Spektrum DX9 tx +&nbsp;Orange R620X rx
-    * Tactic TTX600 tx +&nbsp;Tactic TR624 rx
+    * Spektrum DX9 tx + Orange R620X rx
+    * Tactic TTX600 tx + Tactic TR624 rx
     * CCPM Servo Tester
 </li>
 
-* Supports [eRCaGuy_Timer2_Counter](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html)&nbsp;0.5µs (or the native _micros()_ function)&nbsp;for timing calculations.
+* Supports [eRCaGuy_Timer2_Counter](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html) 0.5µs (or the native _micros()_ function) for timing calculations.
 
 # Library dependencies
 
@@ -74,7 +74,7 @@ This library allows the arduino to attach interrupts on multiple pins.
 ## [eRCaGuy_Timer2_Counter](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html)
 
 (optional)  
-This library configures the arduino's timer2 to 0.5µs precision. It is used for a _micros()_&nbsp;function replacement and allows times calculations that are far more precise (8 times!) than the default's 4µs resolution.
+This library configures the arduino's timer2 to 0.5µs precision. It is used for a _micros()_ function replacement and allows times calculations that are far more precise (8 times!) than the default's 4µs resolution.
 
 # Usage
 

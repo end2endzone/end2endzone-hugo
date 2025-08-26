@@ -31,7 +31,7 @@ tags:
 
 Here is another arduino library that I have written.
 
-As a desktop developer, I am not used to have memory (or even CPU) requirements as most developers will not look at memory consumption as an arduino developer would. Memory &&nbsp;CPU is cheap. If your application is struggling to run on today's computer, it will run smoothly in 1-2 years.
+As a desktop developer, I am not used to have memory (or even CPU) requirements as most developers will not look at memory consumption as an arduino developer would. Memory & CPU is cheap. If your application is struggling to run on today's computer, it will run smoothly in 1-2 years.
 
 As most arduino developers have faced, the amount of memory available on embedded devices is pretty limited. Having a way to save bits or our precious memory is interesting.
 
@@ -63,7 +63,7 @@ Possible use are:
 
 # Usage
 
-Create an instance of _BitReader_, _BitWriter_ or _BitAddress_&nbsp;depending on the following optimization switches:
+Create an instance of _BitReader_, _BitWriter_ or _BitAddress_ depending on the following optimization switches:
 
 * USE_BITADDRESS_SETTER_GETTER
 * USE_SINGLEBIT_MACROS

@@ -21,9 +21,9 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 
 #### Inline Markdown within tables
 
-| Inline&nbsp;&nbsp;&nbsp;     | Markdown&nbsp;&nbsp;&nbsp;  | In&nbsp;&nbsp;&nbsp;                | Table      |
+| Inline     | Markdown  | In                | Table      |
 | ---------- | --------- | ----------------- | ---------- |
-| *italics*  | **bold**  | ~~strikethrough~~&nbsp;&nbsp;&nbsp; | `code`     |
+| *italics*  | **bold**  | ~~strikethrough~~ | `code`     |
 
 
 # cpp - code fences

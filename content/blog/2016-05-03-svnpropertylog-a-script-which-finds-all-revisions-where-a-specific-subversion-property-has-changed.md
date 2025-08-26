@@ -64,7 +64,7 @@ pause
 
 svnpropertylog - Select Subversion Property
 
-A GUI application is also available. From a [file explorer window](http://upload.wikimedia.org/wikipedia/en/c/cb/Windows_Explorer_Windows_7.png?download), double-click on **_svnpropertylogGui_** and follow on-screen instructions:&nbsp;the UI will prompt the user for each command line argument and then launch the script.
+A GUI application is also available. From a [file explorer window](http://upload.wikimedia.org/wikipedia/en/c/cb/Windows_Explorer_Windows_7.png?download), double-click on **_svnpropertylogGui_** and follow on-screen instructions: the UI will prompt the user for each command line argument and then launch the script.
 
 ## Output
 

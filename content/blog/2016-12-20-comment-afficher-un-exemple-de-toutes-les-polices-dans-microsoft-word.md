@@ -77,7 +77,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
 * Sélectionner l'option _**Importer un fichier...**_
 * Naviguer jusqu'à votre fichier téléchargé, sélectionnez-le et cliquer sur le bouton Ouvrir.
 <li>
-  Un nouveau noeud nommé _**Modules**_ sera créer. Sous **_Modules_**, vous pourrez apercevoir le nouveau module:&nbsp;_**ListInstalledFont**_. <p>
+  Un nouveau noeud nommé _**Modules**_ sera créer. Sous **_Modules_**, vous pourrez apercevoir le nouveau module: _**ListInstalledFont**_. <p>
     <div id="attachment_2355" style="width: 190px" class="wp-caption alignnone">
       [![ListInstalledFonts - Module installé sous Normal](/wp-content/uploads/2016/12/ListInstalledFonts-Module-installé-sous-Normal.jpg)](/wp-content/uploads/2016/12/ListInstalledFonts-Module-installé-sous-Normal.jpg)
       
@@ -87,7 +87,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
     </div>
 </li> 
     
-    * Cliquer sur le l'icône de sauvegarde (&nbsp;[![microsoft-word-save-icon](/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)](/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)&nbsp;)&nbsp;pour sauvegarder le nouveau module.
+    * Cliquer sur le l'icône de sauvegarde ( [![microsoft-word-save-icon](/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)](/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg) ) pour sauvegarder le nouveau module.
     * Fermer l'éditeur de macro Microsoft Visual Basic.</ol> 
     
     Le module est maintenant installé sur le système.
@@ -117,7 +117,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
       * Dans la fenêtre _**Propriété - Module1**_, repérer la propriété **_Name_** du module dont la valeur est _**Module1**_.
       * Changer la valeur de la propriété pour la valeur _**ListInstalledFonts**_.
       * Coller le code dans la section de droite de l'éditeur. Le contenu du script devrait s'afficher.
-      * Cliquer sur le l'icône de sauvegarde (&nbsp;[![microsoft-word-save-icon](/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)](/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)&nbsp;)&nbsp;pour sauvegarder le nouveau module.
+      * Cliquer sur le l'icône de sauvegarde ( [![microsoft-word-save-icon](/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg)](/wp-content/uploads/2016/12/Microsoft-Word-Save-icon.jpg) ) pour sauvegarder le nouveau module.
       * Fermer l'éditeur de macro Microsoft Visual Basic.
     </ol>
     

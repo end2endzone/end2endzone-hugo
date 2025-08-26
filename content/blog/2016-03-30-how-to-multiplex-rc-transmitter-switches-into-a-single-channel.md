@@ -46,7 +46,7 @@ The following article explains how I manage to solve the issue:
 
 _How can I control more than one device using a single channel_.
 {{< postedit >}}
-  EDIT: To make all mixing pre-calculations easier, do not hesitate to use my [Mixing Calculator for R/C Transmitter](/rc-transmitter-mix-calculator/)&nbsp;(it's an Excel Sheet!)
+  EDIT: To make all mixing pre-calculations easier, do not hesitate to use my [Mixing Calculator for R/C Transmitter](/rc-transmitter-mix-calculator/) (it's an Excel Sheet!)
 {{< /postedit >}}
 
 I could have used an 8-channel receiver to solve this but I did not had a free receiver that I could spare. This guide will show you how to multiplex RC transmitter switches (inputs) into a 
