@@ -22,10 +22,13 @@ tags:
   - multilingual
 
 ---
-
 # Introduction
 
-Il manque quelque chose dans la plupart des cuisines que j'ai vus dans ma vie et ce ne est pas un énorme espace de travail pour couper vos légumes ou un réfrigérateur intelligent. Ce qu'il manque souvent est beaucoup plus simple: c'est un éclairage adéquat. Toutes les cuisines que j'ai utilisé avait un éclairage décent lorsqu'elles sont utilisés pendant le jour (beaucoup de fenêtre, une bonne lumière ambiante) mais c'est souvent pas le cas pendant les jours pluvieux ou la nuit. La plupart des cuisines manquent aussi d'un bon éclairage sous les armoires de cuisine. Cela fait bien longtemps que je voulais avoir plus de lumière disponible sous les armoires de cuisine. Malheureusement, je n'ai jamais eu le courage d'installer des lumières supplémentaires pour plusieurs raisons. Une d'entre elles est que je n'avais pas les bons outils et que je manquais de connaissances. Je n'aimais, non plus , aimé l'idée de percer des trous dans les armoires ou à travers le comptoir pour apporter de l'électricité et finalement, lorsque l'on installe des lumières sous les armoires, cela produit beaucoup trop de chaleur (certaines lumières peuvent aussi vous brûler!). Ce projet était donc en attente jusqu'à ce qu'une solution facile à installer a jaillit dans mon esprit: des bandes d'éclairage au DEL. Les bandes de lumières au DEL sont une très bonne alternative au lumières fluorescentes, halogènes ou les lumières aux xénon. Les DEL deviennent de plus en plus populaire et sont souvent facile à installer et à adapter à plusieurs situations. Certaines bandes peuvent aussi être utilisées à l'extérieur (mais ça c'est pour une autre histoire).
+Il manque quelque chose dans la plupart des cuisines que j'ai vus dans ma vie et ce ne est pas un énorme espace de travail pour couper vos légumes ou un réfrigérateur intelligent. Ce qu'il manque souvent est beaucoup plus simple: c'est un éclairage adéquat. Toutes les cuisines que j'ai utilisé avait un éclairage décent lorsqu'elles sont utilisés pendant le jour (beaucoup de fenêtre, une bonne lumière ambiante) mais c'est souvent pas le cas pendant les jours pluvieux ou la nuit. La plupart des cuisines manquent aussi d'un bon éclairage sous les armoires de cuisine.
+
+Cela fait bien longtemps que je voulais avoir plus de lumière disponible sous les armoires de cuisine. Malheureusement, je n'ai jamais eu le courage d'installer des lumières supplémentaires pour plusieurs raisons. Une d'entre elles est que je n'avais pas les bons outils et que je manquais de connaissances. Je n'aimais, non plus , aimé l'idée de percer des trous dans les armoires ou à travers le comptoir pour apporter de l'électricité et finalement, lorsque l'on installe des lumières sous les armoires, cela produit beaucoup trop de chaleur (certaines lumières peuvent aussi vous brûler!). Ce projet était donc en attente jusqu'à ce qu'une solution facile à installer a jaillit dans mon esprit: des bandes d'éclairage au DEL.
+
+Les bandes de lumières au DEL sont une très bonne alternative au lumières fluorescentes, halogènes ou les lumières aux xénon. Les DEL deviennent de plus en plus populaire et sont souvent facile à installer et à adapter à plusieurs situations. Certaines bandes peuvent aussi être utilisées à l'extérieur (mais ça c'est pour une autre histoire).
 
 Ils procurent les avantages suivant dans une cuisine:
 
@@ -40,7 +43,9 @@ Ils procurent les avantages suivant dans une cuisine:
 
 Dans cet article, j'explique comment se bricoler soi-même un éclairage au DEL sous les armoires de cuisine.
 
-**Remarque:** La manipulation de l'électricité murale peut être dangereux. Si vous ne avez pas les compétences de base nécessaire pour manipuler de l'électricité, je recommande fortement que vous ne procédez pas à l'installation de ce projet. Procéder à vos propres risques.
+{{< pleasenote >}}
+  **Remarque:** La manipulation de l'électricité murale peut être dangereux. Si vous ne avez pas les compétences de base nécessaire pour manipuler de l'électricité, je recommande fortement que vous ne procédez pas à l'installation de ce projet. Procéder à vos propres risques.
+{{< /pleasenote >}}
 
 # Données du projet
 
@@ -68,11 +73,17 @@ Théoriquement, une alimentation de seulement 24 watts est nécessaire pour alim
 
 ### Module gradateur
 
-Le module gradateur est facultatif mais je recommande vivement d'en utiliser un. Sans le module gradateur, la bande est trop lumineuse pour de nombreuses situations. La luminosité maximale est requise uniquement pour des activités au comptoir. Pour tous les autres scénarios, vous aurez besoin de réduire l'intensité de la lumière si vous voulez créer un éclairage d'ambiance pendant la nuit ou si vous avez besoin d'une faible lumière dans la matinée. Même un blanc chaud (par rapport à un blanc froid) est trop lumineux lorsque je viens de sortir du lit. Quoi qu'il en soit, le prix du module est si bas que vous ne devriez même pas vous poser la question. Notez qu'un gradateur murale "normale" ne peux être utilisé pour alimenter la bande de DEL. Les bandes ne peuvent être alimentées que par un "circuit à modulation de largeur de bande" ([module PWM](http://www.google.ca/#q=12v%20pwm%20dimmer)) et non par une résistance variable dans le circuit.
+Le module gradateur est facultatif mais je recommande vivement d'en utiliser un. Sans le module gradateur, la bande est trop lumineuse pour de nombreuses situations. La luminosité maximale est requise uniquement pour des activités au comptoir. Pour tous les autres scénarios, vous aurez besoin de réduire l'intensité de la lumière si vous voulez créer un éclairage d'ambiance pendant la nuit ou si vous avez besoin d'une faible lumière dans la matinée. Même un blanc chaud (par rapport à un blanc froid) est trop lumineux lorsque je viens de sortir du lit. Quoi qu'il en soit, le prix du module est si bas que vous ne devriez même pas vous poser la question.
+
+{{< pleasenote >}}
+  Notez qu'un gradateur murale "normale" ne peux être utilisé pour alimenter la bande de DEL. Les bandes ne peuvent être alimentées que par un "circuit à modulation de largeur de bande" ([module PWM](http://www.google.ca/#q=12v%20pwm%20dimmer)) et non par une résistance variable dans le circuit.
+{{< /pleasenote >}}
 
 ### Bande SMD 3528 ou SMD 5050 ?
 
-J'ai décidé d'utiliser des DEL SMD 3528 au lieu des SMD 5050. Le code numérique pour les DEL correspond à la dimension en millimètres de chaque DEL soit 50mm ou 35mm. Les DELs SMD 5050 sont plus brillants, mais ils utilisent plus d'électricité. Puisque je n'ai pas besoin de la luminosité des DEL 5050 et je voulais utiliser le moins d'électricité que possible alors les DEL SMD 3528 étaient le meilleur choix. Assurez-vous que vous achetez 600 DELs par bande de 5 mètres au lieu de 300 DELs par brande car les bandes avec 300 DELs peuvent ne pas être suffisamment lumineuse. Voici un bon article (anglophone) sur les différences entre eux: [Comparison between 3528 LEDs and 5050 LEDs.](http://www.flexfireleds.com/pages/Comparison-between-3528-LEDs-and-5050-LEDs.html)
+J'ai décidé d'utiliser des DEL SMD 3528 au lieu des SMD 5050. Le code numérique pour les DEL correspond à la dimension en millimètres de chaque DEL soit 50mm ou 35mm. Les DELs SMD 5050 sont plus brillants, mais ils utilisent plus d'électricité. Puisque je n'ai pas besoin de la luminosité des DEL 5050 et je voulais utiliser le moins d'électricité que possible alors les DEL SMD 3528 étaient le meilleur choix. Assurez-vous que vous achetez 600 DELs par bande de 5 mètres au lieu de 300 DELs par brande car les bandes avec 300 DELs peuvent ne pas être suffisamment lumineuse.
+
+Voici un bon article (anglophone) sur les différences entre eux: [Comparison between 3528 LEDs and 5050 LEDs.](http://www.flexfireleds.com/pages/Comparison-between-3528-LEDs-and-5050-LEDs.html)
 
 ### Connecteurs
 
@@ -131,7 +142,15 @@ Le gradateur dispose de 2 connexions d'entrée et deux connexions de sortie. Les
 
 ## Tester le tout
 
-Cette section définit comment connecter tous les composants ensemble. Branchez le cordon d'alimentation avec l'alimentation. Visser les fils du bloc d'alimentation tel que décrit ci-dessus. Ne pas brancher le cordon d'alimentation au mur jusqu'à ce que le circuit complet soit assemblé. Connecter la sortie positive du bloc d'alimentation électrique à un côté de l'interrupteur. Vissez un autre fil de l'autre côté de l'interrupteur sur le connecteur "IN V+" du gradateur. Visser ensuite un autre fil sur le connecteur "IN V-" du gradateur jusqu'à la borne d'alimentation négative du bloc d'alimentation. Connectez la borne "OUT V+" du gradateur à la borne positive de la bande DEL et connecter le câble négatif de la bande vers la borne "OUT V-" du gradateur. Branchez le cordon d'alimentation dans le mur, allumez l'interrupteur et votre bande DEL devrait s'illuminer. Tournez le bouton du gradateur pour tester l'intensité.
+Cette section définit comment connecter tous les composants ensemble.
+
+Branchez le cordon d'alimentation avec l'alimentation. Visser les fils du bloc d'alimentation tel que décrit ci-dessus. Ne pas brancher le cordon d'alimentation au mur jusqu'à ce que le circuit complet soit assemblé.
+
+Connecter la sortie positive du bloc d'alimentation électrique à un côté de l'interrupteur. Vissez un autre fil de l'autre côté de l'interrupteur sur le connecteur "IN V+" du gradateur. Visser ensuite un autre fil sur le connecteur "IN V-" du gradateur jusqu'à la borne d'alimentation négative du bloc d'alimentation.
+
+Connectez la borne "OUT V+" du gradateur à la borne positive de la bande DEL et connecter le câble négatif de la bande vers la borne "OUT V-" du gradateur.
+
+Branchez le cordon d'alimentation dans le mur, allumez l'interrupteur et votre bande DEL devrait s'illuminer. Tournez le bouton du gradateur pour tester l'intensité.
 
 ## Choisir où mettre les composants
 
@@ -142,7 +161,9 @@ Cette section définit comment connecter tous les composants ensemble. Branchez 
   [![DSC04062](/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](/wp-content/uploads/2014/08/DSC04062.jpg)
 {{< /image-gallery >}}
 
-Je voulais placer l'interrupteur à un endroit où il peut être atteint facilement avec les doigts mais je voulais aussi le que le commutateur soit invisible à l'œil. J'ai décidé d'installer le commutateur sous les armoires, mais caché derrière les moulures avant. Pour les mêmes raisons, le gradateur est situé au même endroit. J'ai utilisé du ruban adhésif double face pour coller le gradateur et l'interrupteur d'alimentation en place. Le ruban adhésif est assez fort pour garder le l'interrupteur en place même lorsque quelqu'un est en train d'allumer ou d'éteindre le commutateur. J'ai aussi décidé de positionner l'alimentation sous l'armoire, à l'arrière. Cet emplacement est à proximité de l'interrupteur et du gradateur et c'est aussi bien aéré. L'alimentation possède 2 trous pour être visser à une surface. J'ai utilisé des petites vis pour visser le bloc d'alimentation au panel de bois des armoires.
+Je voulais placer l'interrupteur à un endroit où il peut être atteint facilement avec les doigts mais je voulais aussi le que le commutateur soit invisible à l'œil. J'ai décidé d'installer le commutateur sous les armoires, mais caché derrière les moulures avant. Pour les mêmes raisons, le gradateur est situé au même endroit. J'ai utilisé du ruban adhésif double face pour coller le gradateur et l'interrupteur d'alimentation en place. Le ruban adhésif est assez fort pour garder le l'interrupteur en place même lorsque quelqu'un est en train d'allumer ou d'éteindre le commutateur.
+
+J'ai aussi décidé de positionner l'alimentation sous l'armoire, à l'arrière. Cet emplacement est à proximité de l'interrupteur et du gradateur et c'est aussi bien aéré. L'alimentation possède 2 trous pour être visser à une surface. J'ai utilisé des petites vis pour visser le bloc d'alimentation au panel de bois des armoires.
 
 Voici une vue du dessous de l'armoire:
 
@@ -154,7 +175,9 @@ Voici une vue du dessous de l'armoire:
 
 [![DSC04092](/wp-content/uploads/2014/08/DSC04092.png)](/wp-content/uploads/2014/08/DSC04092.png)
 
-Puisque j'ai trois armoires de cuisine, j'ai dû couper trois longueurs de bande DEL. La bande peut être coupé en toute sécurité à tous les 3 DEL. Chaque point de coupure est identifié par les points de contact en cuivre exposés. Il suffit de couper avec des ciseaux perpendiculairement à la bande (au milieu des points de contact) en s'assurant de laisser suffisamment de cuivre de chaque côté pour bien fixer les connecteurs. Utilisez un ruban à mesurer souple pour calculer la longueur de chaque section de cabinet et couper une longueur de bande pour chaque sections de cabinet. Si la longueur de l'armoire ne correspond pas exactement à un point de coupure, ne hésitez pas à réduire la longueur de la bande car un manque de 3 DEL ne fera pas une différence perceptive au niveau la luminosité totale. Vous avez juste à centrer la bande dans l'armoire pour avoir un éclairage adéquat.
+Puisque j'ai trois armoires de cuisine, j'ai dû couper trois longueurs de bande DEL. La bande peut être coupé en toute sécurité à tous les 3 DEL. Chaque point de coupure est identifié par les points de contact en cuivre exposés. Il suffit de couper avec des ciseaux perpendiculairement à la bande (au milieu des points de contact) en s'assurant de laisser suffisamment de cuivre de chaque côté pour bien fixer les connecteurs.
+
+Utilisez un ruban à mesurer souple pour calculer la longueur de chaque section de cabinet et couper une longueur de bande pour chaque sections de cabinet. Si la longueur de l'armoire ne correspond pas exactement à un point de coupure, ne hésitez pas à réduire la longueur de la bande car un manque de 3 DEL ne fera pas une différence perceptive au niveau la luminosité totale. Vous avez juste à centrer la bande dans l'armoire pour avoir un éclairage adéquat.
 
 ### Perçage
 

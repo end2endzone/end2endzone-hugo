@@ -29,6 +29,7 @@ It's main features are:
 * Extends Windows File Explorer by registering as a Shell Extension.
 
 extTools allows its users to execute tasks that are not available in a default Windows environment. extTools is also designed to replace existing task that are badly designed, annoying to execute or simply missing.
+
 # Download
 
 You can download extTools by clicking on the following links:
@@ -95,31 +96,31 @@ Select the ***pattern*** mode to rename photos or videos from a camera phone:
 Using a pattern like ***Trip to Hawaii with John (2007) ##.jpg*** you can rename the following files like this:
 
 {{< renamep >}}
-IMG\_8823.jpg ? Trip to Hawaii with John (2007) 01.jpg
-IMG\_8824.jpg ? Trip to Hawaii with John (2007) 02.jpg
-IMG\_8825.jpg ? Trip to Hawaii with John (2007) 03.jpg
+IMG\_8823.jpg ⇨ Trip to Hawaii with John (2007) 01.jpg
+IMG\_8824.jpg ⇨ Trip to Hawaii with John (2007) 02.jpg
+IMG\_8825.jpg ⇨ Trip to Hawaii with John (2007) 03.jpg
 ...
-IMG\_8899.jpg ? Trip to Hawaii with John (2007) 77.jpg
+IMG\_8899.jpg ⇨ Trip to Hawaii with John (2007) 77.jpg
 {{< /renamep >}}
 
 Adding a prefix to all files is easy with the pattern ***Trip to Hawaii with John ????????????*** which would rename all your files to something like:
 
 {{< renamep >}}
-IMG\_8823.jpg ? Trip to Hawaii with John IMG\_8823.jpg
-IMG\_8824.jpg ? Trip to Hawaii with John IMG\_8824.jpg
-IMG\_8825.jpg ? Trip to Hawaii with John IMG\_8825.jpg
+IMG\_8823.jpg ⇨ Trip to Hawaii with John IMG\_8823.jpg
+IMG\_8824.jpg ⇨ Trip to Hawaii with John IMG\_8824.jpg
+IMG\_8825.jpg ⇨ Trip to Hawaii with John IMG\_8825.jpg
 ...
-IMG\_8899.jpg ? Trip to Hawaii with John IMG\_8899.jpg
+IMG\_8899.jpg ⇨ Trip to Hawaii with John IMG\_8899.jpg
 {{< /renamep >}}
 
 Complex renaming is also possible. With a pattern like ***||||||||?????? trip?????????? and Bruce ###.jpg***, you add Bruce to your picture set:
 
 {{< renamep >}}
-Trip to Hawaii with John IMG\_8823.jpg ? Hawaii trip with John and Bruce 001.jpg
-Trip to Hawaii with John IMG\_8824.jpg ? Hawaii trip with John and Bruce 002.jpg
-Trip to Hawaii with John IMG\_8825.jpg ? Hawaii trip with John and Bruce 003.jpg
+Trip to Hawaii with John IMG\_8823.jpg ⇨ Hawaii trip with John and Bruce 001.jpg
+Trip to Hawaii with John IMG\_8824.jpg ⇨ Hawaii trip with John and Bruce 002.jpg
+Trip to Hawaii with John IMG\_8825.jpg ⇨ Hawaii trip with John and Bruce 003.jpg
 ...
-Trip to Hawaii with John IMG\_8899.jpg ? Hawaii trip with John and Bruce 077.jpg
+Trip to Hawaii with John IMG\_8899.jpg ⇨ Hawaii trip with John and Bruce 077.jpg
 {{< /renamep >}}
 
 ### Search & Replace mode
@@ -127,31 +128,31 @@ Trip to Hawaii with John IMG\_8899.jpg ? Hawaii trip with John and Bruce 077.jpg
 To change all file extensions from DAT to RAW, set *replace from* field to ***\*.dat*** and set *replace to* field to ***\*.raw***. Click preview and you get:
 
 {{< renamep >}}
-file01.dat ? file01.raw 
-file02.dat ? file02.raw
-file03.dat ? file03.raw
-file04.dat ? file04.raw
-file05.dat ? file05.raw
+file01.dat ⇨ file01.raw 
+file02.dat ⇨ file02.raw
+file03.dat ⇨ file03.raw
+file04.dat ⇨ file04.raw
+file05.dat ⇨ file05.raw
 {{< /renamep >}}
 
 To change the prefix of picture files, set *replace from* to ***IMG\_*** (including underscore character) and set *replace to* to ***Circus*** (including a space character). Click preview and you get:
 
 {{< renamep >}}
-IMG\_8823.jpg ? Circus 8823.jpg
-IMG\_8824.jpg ? Circus 8824.jpg
-IMG\_8825.jpg ? Circus 8825.jpg
+IMG\_8823.jpg ⇨ Circus 8823.jpg
+IMG\_8824.jpg ⇨ Circus 8824.jpg
+IMG\_8825.jpg ⇨ Circus 8825.jpg
 ...
-IMG\_8899.jpg ? Circus 8899.jpg
+IMG\_8899.jpg ⇨ Circus 8899.jpg
 {{< /renamep >}}
 
 To remove the artist and album name from MP3 files, set *replace from* field to ***Linkin\_Park\_album\_Living\_Things\_*** and leave *replace to* empty. Click preview and you get:
 
 {{< renamep >}}
-Linkin\_Park\_album\_Living\_Things\_01\_Lost in the Echo.mp3 ? 01\_Lost in the Echo.mp3
-Linkin\_Park\_album\_Living\_Things\_02\_In My Remains.mp3 ? 02\_In My Remains.mp3
-Linkin\_Park\_album\_Living\_Things\_03\_Burn\_It\_Down.mp3 ? 03\_Burn\_It\_Down.mp3
+Linkin\_Park\_album\_Living\_Things\_01\_Lost in the Echo.mp3 ⇨ 01\_Lost in the Echo.mp3
+Linkin\_Park\_album\_Living\_Things\_02\_In My Remains.mp3 ⇨ 02\_In My Remains.mp3
+Linkin\_Park\_album\_Living\_Things\_03\_Burn\_It\_Down.mp3 ⇨ 03\_Burn\_It\_Down.mp3
 ...
-Linkin\_Park\_album\_Living\_Things\_12\_Powerless.mp3 ? 12\_Powerless.mp3
+Linkin\_Park\_album\_Living\_Things\_12\_Powerless.mp3 ⇨ 12\_Powerless.mp3
 {{< /renamep >}}
 
 ## extSearch
@@ -258,7 +259,6 @@ extFileSplitter is really useful for splitting a huge file on multiple medias (C
 {{< pleasenote >}}
   **Note:** extFileSplitter does not support splitting a file into more than 999 parts.
 {{< /pleasenote >}}
-
 
 ##  extImageEncoder
 
