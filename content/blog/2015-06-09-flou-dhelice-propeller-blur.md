@@ -22,13 +22,13 @@ Il existe deux moyen de faire un flou d'hélice. Le premier étant un peu plus t
 
 ![](/wp-content/uploads/2015/06/Aviat_Aircraft_Pitts_S-2C_306919-300x188.png)
 
-Le deuxième moyen est de capturer une image avec une très courte exposition. L’objectif de cette méthode est d’essayer de “geler” le mouvement de l’hélice. Une fois que l’on arrive à figer son mouvement, il suffit de ralentir un peu le temps d’exposition pour obtenir un flou du mouvement partiel de l’hélice.
+Le deuxième moyen est de capturer une image avec une très courte exposition. L’objectif de cette méthode est d’essayer de "geler" le mouvement de l’hélice. Une fois que l’on arrive à figer son mouvement, il suffit de ralentir un peu le temps d’exposition pour obtenir un flou du mouvement partiel de l’hélice.
 
 ![](/wp-content/uploads/2015/06/P-51_Mustang-300x169.jpg)
 
 # Ça tourne vite!
 
-La vitesse moyenne de rotation du moteur est de 2300 à 2400 tour/min lorsque le moteur est “idle”. Malheureusement, ma caméra n’est pas assez rapide pour essayer de “geler” l’image au delà de cette vitesse.
+La vitesse moyenne de rotation du moteur est de 2300 à 2400 tour/min lorsque le moteur est "idle". Malheureusement, ma caméra n’est pas assez rapide pour essayer de "geler" l’image au delà de cette vitesse.
 
 ![IMG_1896_2370_rpm](/wp-content/uploads/2015/06/IMG_1896_2370_rpm-300x225.jpg)](https://www.flickr.com/photos/154618444@N05/37279895100/in/album-72157687655209073/)
 
