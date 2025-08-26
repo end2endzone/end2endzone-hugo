@@ -1,5 +1,5 @@
 ---
-title: La Fête nationale du Québec – Soyez fier d’être Québécois!
+title: La Fête nationale du Québec – Soyez fier d'être Québécois!
 author: end2end
 date: 2015-06-24T03:06:54+00:00
 url: /la-fete-nationale-du-quebec-soyez-fier-detre-quebecois/

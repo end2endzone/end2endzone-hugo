@@ -40,7 +40,7 @@ During my encounter with the trees, one of the servo got loose in its socket and
 
 # The damage
 
-As I said earlier in [The Hobby Zone Super Cub LP RTF. A good beginner’s RC plane](/the-hobby-zone-super-cub-lp-rtf-a-good-beginners-rc-plane/), the plane can be repaired easily. As long as your electronics are still working, it is hard to damage the plane beyond repair.
+As I said earlier in [The Hobby Zone Super Cub LP RTF. A good beginner's RC plane](/the-hobby-zone-super-cub-lp-rtf-a-good-beginners-rc-plane/), the plane can be repaired easily. As long as your electronics are still working, it is hard to damage the plane beyond repair.
 
 Here the description of the damage:
 

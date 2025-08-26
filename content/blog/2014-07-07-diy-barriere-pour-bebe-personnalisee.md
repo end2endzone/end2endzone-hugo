@@ -66,7 +66,7 @@ Le plus facile est de commencer par les poteaux. Au total, 11 poteaux sont néce
 
 [![IMG_9277](/wp-content/uploads/2014/07/IMG_9277-300x200.jpg)](/wp-content/uploads/2014/07/IMG_9277.jpg)
 
-Ensuite couper 2 planches d'une longueur de 50 pouces pour le haut et le bas de la barrière. Couper une planche de 2x4 d'une longueur de 33½ pouces pour la fixation à la rampe. Ce morceau sert à éviter d’abîmer la rampe d'escalier pour fixer le loquet de la barrière. Une entaille d'environ 1 pouce de large (la largeur de la rampe d'escalier) doit être fait dans la planche afin de la coincer par une légère pression à la rampe d'escalier. Une entaille à 45 degrés est aussi fait afin de bien accueillir la barrière lorsque celle-ci est fermée. La photo explique en détail le raisonnement:
+Ensuite couper 2 planches d'une longueur de 50 pouces pour le haut et le bas de la barrière. Couper une planche de 2x4 d'une longueur de 33½ pouces pour la fixation à la rampe. Ce morceau sert à éviter d'abîmer la rampe d'escalier pour fixer le loquet de la barrière. Une entaille d'environ 1 pouce de large (la largeur de la rampe d'escalier) doit être fait dans la planche afin de la coincer par une légère pression à la rampe d'escalier. Une entaille à 45 degrés est aussi fait afin de bien accueillir la barrière lorsque celle-ci est fermée. La photo explique en détail le raisonnement:
 
 [![IMG_9303](/wp-content/uploads/2014/07/IMG_9303-200x300.jpg)](/wp-content/uploads/2014/07/IMG_9303.jpg)
 

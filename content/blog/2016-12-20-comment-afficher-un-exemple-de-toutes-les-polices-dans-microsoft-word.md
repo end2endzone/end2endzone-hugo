@@ -132,7 +132,7 @@ Procédez avec les étapes suivantes pour installer le module téléchargé:
     <ol>
       * Ouvrir _**Microsoft Word**_.
       * Naviguer au menu _**Affichage**_ du _**ruban**_.
-      * Cliquer sur le bouton _**Macros**_. L'éditeur de macro Microsoft Visual Basic s’ouvrira.
+      * Cliquer sur le bouton _**Macros**_. L'éditeur de macro Microsoft Visual Basic s'ouvrira.
       <li>
         Sélectionner la macro _**ListInstalledFonts**_. <p>
           <div id="attachment_2357" style="width: 560px" class="wp-caption alignnone">

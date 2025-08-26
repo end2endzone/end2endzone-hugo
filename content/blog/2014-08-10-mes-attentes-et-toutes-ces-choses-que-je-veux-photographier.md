@@ -87,7 +87,7 @@ Je n'ai pas eu le temps de débuté avec la photographie macro, mais je pense qu
 
 C'est quelque chose que je voudrais d'abord essayer pour briser la glace avec mon appareil. Je pourrais aussi faire quelques sujet cliché comme les fleurs et les insectes! haha
 
-# Gouttelette d’eau
+# Gouttelette d'eau
 
 C'est quelque chose qui m'interpelle beaucoup! Je pense que je pourrais être intéressé par le défi technique derrière tout cela. Pour obtenir de joli gouttes d'eau, vous devez synchroniser le temps où vous libérer une goutte d'eau, déclencher l'obturateur de caméra et puis finalement déclencher le flash de l'appareil photo de façon adéquate pour obtenir l'image que vous voulez. Je pourrais aussi envisager de faire une plateforme de test avec un [Raspberry Pi](http://www.raspberrypi.org/) ou simplement naviguer sur le Web pour obtenir un contrôleur existant et travailler à partir de là. Le problème que je pourrais avoir est d'essayer devenir vraiment artistique avec la photographie de gouttelette d'eau parce que je n'ai vraiment pas beaucoup d'imagination (je veux dire l'imagination artistique)
 

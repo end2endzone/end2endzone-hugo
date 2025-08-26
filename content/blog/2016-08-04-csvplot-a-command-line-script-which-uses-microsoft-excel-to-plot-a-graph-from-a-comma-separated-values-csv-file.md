@@ -16,7 +16,7 @@ tags:
 
 ---
 {{< postedit >}}
-  Please note that **csvplot** source code is now moved to GitHub. Source code can be downloaded from the project’s [GitHub page](http://github.com/end2endzone/csvplot).
+  Please note that **csvplot** source code is now moved to GitHub. Source code can be downloaded from the project's [GitHub page](http://github.com/end2endzone/csvplot).
 {{< /postedit >}}
 
 
@@ -126,7 +126,7 @@ C:\Temp\csvplotdemo&gt;
 The code below can be downloaded by clicking on the following link:
 
 {{< pleasenote >}}
-  Please note that download links are now deprecated. Binary version of **csvplot** can be downloaded from the project’s [Release page](http://github.com/end2endzone/csvplot/releases/latest).
+  Please note that download links are now deprecated. Binary version of **csvplot** can be downloaded from the project's [Release page](http://github.com/end2endzone/csvplot/releases/latest).
 {{< /pleasenote >}}
 
 
@@ -185,6 +185,6 @@ This software is furnished "as is", without technical support, and with no warra
 You can download **_csvplot_** by clicking on the following link:
 
 {{< pleasenote >}}
-  Please note that download links are now deprecated. Binary version of **csvplot** can be downloaded from the project’s [Release page](http://github.com/end2endzone/csvplot/releases/latest).
+  Please note that download links are now deprecated. Binary version of **csvplot** can be downloaded from the project's [Release page](http://github.com/end2endzone/csvplot/releases/latest).
 {{< /pleasenote >}}
 

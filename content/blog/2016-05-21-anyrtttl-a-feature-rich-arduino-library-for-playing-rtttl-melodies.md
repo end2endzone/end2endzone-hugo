@@ -73,7 +73,7 @@ With AnyRtttl non-blocking mode, your program can read/write IOs pins while play
 
 The AnyRtttl library is also flexible by allowing you to use the build-in arduino `tone()` and `noTone()` functions or an implementation from any external library which makes it compatible with any _Tone library_ in the market.
 
-The library also supports custom `delay()` and `millis()` functions. If a projects requires modification to the microcontroller’s build-in Timer #0, the `millis()` function may be impacted and behave incorrectly. To maximize compatibility, one can supply a custom function which behaves like the original to prevent altering playback.
+The library also supports custom `delay()` and `millis()` functions. If a projects requires modification to the microcontroller's build-in Timer #0, the `millis()` function may be impacted and behave incorrectly. To maximize compatibility, one can supply a custom function which behaves like the original to prevent altering playback.
 
 ## Binary RTTTL
 

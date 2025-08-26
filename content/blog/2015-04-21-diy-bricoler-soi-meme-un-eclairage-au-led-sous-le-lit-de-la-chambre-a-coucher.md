@@ -30,7 +30,7 @@ Dans cet article, je vais vous expliquer comment j'ai créé moi-même un éclai
 
 Après avoir terminé mon projet de [bricoler soi-même un éclairage au DEL sous les armoires de cuisine](/diy-bricoler-soi-meme-un-eclairage-au-led-sous-les-armoires-de-cuisine/), j'avais encore quelque pièces de rechange pour ce projet qui traînaient ici et là. J'ai compris que j'avais tout le matériel nécessaire pour mettre en œuvre quelque chose de similaire pour la chambre à coucher.
 
-La raison pour laquelle je commencé ce projet était que je voulais être en mesure d'allumer une lumière de faible luminosité pendant la nuit afin que je puisse voir où je vais. Dans un même ordre d'idée, je ne vais pas toujours au lit en même temps que ma partenaire. Avoir une lumière qui peut éclairer la chambre lorsqu'elle va se coucher et qui peut être laissée allumée sans l’empêcher de s'endormir est une caractéristique très intéressante.
+La raison pour laquelle je commencé ce projet était que je voulais être en mesure d'allumer une lumière de faible luminosité pendant la nuit afin que je puisse voir où je vais. Dans un même ordre d'idée, je ne vais pas toujours au lit en même temps que ma partenaire. Avoir une lumière qui peut éclairer la chambre lorsqu'elle va se coucher et qui peut être laissée allumée sans l'empêcher de s'endormir est une caractéristique très intéressante.
 
 Le circuit électrique est presque identique à celui de [l'éclairage aux DEL sous les armoires de cuisine](/diy-bricoler-soi-meme-un-eclairage-au-led-sous-les-armoires-de-cuisine/). Cependant, cette conception utilise deux commutateurs au lieu d'un seul. Ce changement est nécessaire afin que chaque partenaire ait le contrôle pour allumer ou éteindre les lumières depuis son chevet.
 
@@ -58,7 +58,7 @@ Les matériaux nécessaires pour ce projet sont les suivants:
 * Une bande d'éclairage DEL de 5 mètres.
 * Connecteur à 2 broches (1 seule couleur) pour bande DEL SMD 3528 (5 fois)
 * Une alimentation 36 Watts (12 volts, 3 ampères).
-* Un cordon d’alimentation avec une prise murale à 3 broches.
+* Un cordon d'alimentation avec une prise murale à 3 broches.
 * Un module gradateur pour DEL.
 * 2 interrupteurs mural à 3 voies (à 3 positions).
 * 2 à 3 mètres de fil de couleur (rouge et noir).
@@ -89,7 +89,7 @@ Voici le prix détaillée de chacun des éléments:
 * $8.13 - Bande d'éclairage DEL achetée sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/LED-strip.png).
 * $2.29 - Connecteur à 2 broches (1 seule couleur) pour bande DEL SMD 3528 acheté sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Connectors.png).
 * $7.15 - Alimentation 36 Watts achetée sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Power-supply.png).
-* $0.00 - Cordon d’alimentation avec une prise murale à 3 broches. (J'en ai souvent plusieurs à la maison. Je récupère souvent plusieurs pièce et morceau avant de jeter un appareil aux ordures.
+* $0.00 - Cordon d'alimentation avec une prise murale à 3 broches. (J'en ai souvent plusieurs à la maison. Je récupère souvent plusieurs pièce et morceau avant de jeter un appareil aux ordures.
 * $6.02 - Module gradateur pour DEL acheté sur eBay. Voir la [capture d'écran ici](/wp-content/uploads/2014/08/Dimmer.png).
 * $3.98 - Deux interrupteurs mural à 3 voies acheté à la quincaillerie.
 * $4.00 - Fil électrique de couleur (j'ai utilisé du calibre 18) du magasin à un dollar.
