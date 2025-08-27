@@ -1,5 +1,5 @@
 ---
-title: svnpropertylog – A script which finds all revisions where a specific subversion property has changed
+title: svnpropertylog - A script which finds all revisions where a specific subversion property has changed
 author: end2end
 date: 2016-05-03T16:52:00+00:00
 url: /svnpropertylog-a-script-which-finds-all-revisions-where-a-specific-subversion-property-has-changed/

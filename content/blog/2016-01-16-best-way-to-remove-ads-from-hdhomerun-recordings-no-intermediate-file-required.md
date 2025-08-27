@@ -107,7 +107,7 @@ The basic principle in this procedure is to chain application one after the othe
 The process is as follows:
 
 {{< renamep >}}
-MPEG2 recording ? VirtualDub ? Editing ? VirtualDub \*.vdscript file (Editing backup) ? VirtualDub frame serving (\*.vdr file) ? Avisynth script (\*.avs) ? AVSF ? Virtual \*.AVI file ? Handbrake encoding.
+MPEG2 recording ⇨ VirtualDub ⇨ Editing ⇨ VirtualDub \*.vdscript file (Editing backup) ⇨ VirtualDub frame serving (\*.vdr file) ⇨ Avisynth script (\*.avs) ⇨ AVSF ⇨ Virtual \*.AVI file ⇨ Handbrake encoding.
 {{< /renamep >}}
 
 ## Open video file in Virtualdub
