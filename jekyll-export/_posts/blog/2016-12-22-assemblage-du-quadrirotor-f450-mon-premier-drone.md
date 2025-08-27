@@ -51,9 +51,9 @@ Temps d'assemblage: 4h55m
 
 # Musique
 
-Auteur: Ash O'Connor
-Titre: Vibe
-Label: NoCopyrightSounds
+Auteur: Ash O'Connor  
+Titre: Vibe  
+Label: NoCopyrightSounds  
 Reférence: <https://www.youtube.com/watch?v=B2p-jLTmFJ0>
 
 # Vidéo
