@@ -9,3 +9,4 @@
 - Fix table header color from `RGB(253,160,47)` to `rgb(255, 192, 0)`.
 - Fix `**DISCLAIMER:**` licenses in pages to be properly rendered in HTML (add double-space newline characters)
 - Reduce height if tables lines to minimum.
+- <code> brackets such as `<code>^</code>` should be displayed with black text over a grey background.
