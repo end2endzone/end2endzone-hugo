@@ -24,14 +24,21 @@ tags:
   - open source
 
 ---
-
 # Introduction
 
-The following article is about my new c++ library: libVariant. The library allows one to easily store/encapsulate a value of any c++ type into an instance of type Variant. The library is useful for declaring objects, interfaces, APIs or plugins to be type-independent. Skip to the [download section](#Download) for quick download.
+The following article is about my new c++ library: libVariant. The library allows one to easily store/encapsulate a value of any c++ type into an instance of type Variant. The library is useful for declaring objects, interfaces, APIs or plugins to be type-independent.
+
+Skip to the [download section](#Download) for quick download.
 
 # Purpose
 
-The libVariant library allows one to create an instance of Variant class. The class is a type safe and value safe union between all known basic c++ types. An instance of a Variant class encapsulates a single value of any c++ type: signed and unsigned integers, floating points & strings. The class can easily convert between any type of data when required and automatically handles all conversion combinations and minimizes lost of data. The library is useful for declaring objects, interfaces, plugins or APIs to be type-independent. The need for a Variant type is mostly required in designs where one does not want to implement conversion of c++ types using templates in every situation. Programmers can use the same procedures and functions to process variables with different internal representations (integers, strings, ...) without converting any data. Without the Variant class, a copy of the same procedures and functions would have to be implemented, each with their different types of data.
+The libVariant library allows one to create an instance of Variant class. The class is a type safe and value safe union between all known basic c++ types. An instance of a Variant class encapsulates a single value of any c++ type: signed and unsigned integers, floating points & strings.
+
+The class can easily convert between any type of data when required and automatically handles all conversion combinations and minimizes lost of data.
+
+The library is useful for declaring objects, interfaces, plugins or APIs to be type-independent.
+
+The need for a Variant type is mostly required in designs where one does not want to implement conversion of c++ types using templates in every situation. Programmers can use the same procedures and functions to process variables with different internal representations (integers, strings, ...) without converting any data. Without the Variant class, a copy of the same procedures and functions would have to be implemented, each with their different types of data.
 
 # Usage scenarios
 
@@ -47,7 +54,9 @@ The Variant class can be used to implement a similar fashion of C# properties wh
 
 ## Implementing change-independent plugins
 
-By defining plugin APIs with Variant class, the plugin author or the application can change their data-type requirements without affecting each other. Plugin developers can change how they process variables with different internal representations (integers, strings, ...) and reuse the same API without doing any changes to the application which uses the plugin. The same applies to users of the plugin which feeds the plugin with data to process.
+By defining plugin APIs with Variant class, the plugin author or the application can change their data-type requirements without affecting each other. Plugin developers can change how they process variables with different internal representations (integers, strings, ...) and reuse the same API without doing any changes to the application which uses the plugin.
+
+The same applies to users of the plugin which feeds the plugin with data to process.
 
 ## Parsing values from text file
 
@@ -73,31 +82,86 @@ Possible use are:
 
 ## Signed to Unsigned value clamping
 
-The class is designed to prevent erroneous conversion issues which could lead to incorrect memory access or out of bounds issues. This method is considered safer on multiple scenarios. It is also different from static casting which would keep all bits identical to the originals resulting in value 65533.
+The class is designed to prevent erroneous conversion issues which could lead to incorrect memory access or out of bounds issues.
 
-For instance, if a Variant class with an internal type set to `SINT16` with a value of -3, is then retrieved as an `UINT16` the class will "clamp" the returned value to 0 since -3 cannot be represented as an `UINT16`. Variant var; var.setSInt16(-3); var.getUInt16() ⇒ clamped to minimum value of uint16 (0)
+{{< pleasenote >}}
+  This method is considered safer on multiple scenarios. It is also different from static casting which would keep all bits identical to the originals resulting in value 65533.
+{{< /pleasenote >}}
 
-The same is also true for the other way around: if a Variant is set to value 65500 (`UINT16`) and is retrieved as a `SINT16`, then the returned value would be 32767 which is the maximum value of a `SINT16`. Variant var; var.setUInt16(65500); var.getSInt16() ⇒ clamped to maximum value of sint16 (32767 )
+For instance, if a Variant class with an internal type set to `SINT16` with a value of -3, is then retrieved as an `UINT16` the class will "clamp" the returned value to 0 since -3 cannot be represented as an `UINT16`.
 
-To prevent any data loss and conversion clamping, it is suggested to retrieve the internal value of a Variant using the same type as its internal type. Keep in mind that for most other scenarios, keeping the internal value of a Variant to be restricted to positive signed integers is largely enough for most scenarios allowing values ranging from 0 to +2147483647.
+```cpp
+Variant var;
+var.setSInt16(-3);
+var.getUInt16(); // ⇒ clamped to minimum value of uint16 (0)
+```
+
+The same is also true for the other way around: if a Variant is set to value 65500 (`UINT16`) and is retrieved as a `SINT16`, then the returned value would be 32767 which is the maximum value of a `SINT16`.
+
+```cpp
+Variant var;
+var.setUInt16(65500);
+var.getSInt16(); // ⇒ clamped to maximum value of sint16 (32767 )
+```
+
+To prevent any data loss and conversion clamping, it is suggested to retrieve the internal value of a Variant using the same type as its internal type.
+
+Keep in mind that for most other scenarios, keeping the internal value of a Variant to be restricted to positive signed integers is largely enough for most scenarios allowing values ranging from 0 to +2147483647.
 
 ## Out of range value clamping
 
-The Variant class is also build to automatically prevent loss of data when applying mathematical operations. For instance, if a Variant class with an internal type set to `SINT16` and a value of 32000 is multiplied by 10 (`SINT16`) then the internal type of the class will automatically be promoted to `SINT32` to be able to hold a value of 320000. However, if the user still requests the internal value as `SINT16`, then the returned value will be clamped to 32767 which is the maximum value of a `SINT16`. Variant var; var.setSInt16(32000); var = var \* 10; var ⇒ sint32 with a value of 320000
+The Variant class is also build to automatically prevent loss of data when applying mathematical operations.
+
+For instance, if a Variant class with an internal type set to `SINT16` and a value of 32000 is multiplied by 10 (`SINT16`) then the internal type of the class will automatically be promoted to `SINT32` to be able to hold a value of 320000.
+
+However, if the user still requests the internal value as `SINT16`, then the returned value will be clamped to 32767 which is the maximum value of a `SINT16`.
+
+```cpp
+Variant var;
+var.setSInt16(32000);
+var = var * 10; // var ⇒ sint32 with a value of 320000
+```
 
 ## Unsigned to signed automatic conversions
 
-If the internal value of a Variant is set to any unsigned value and a mathematical operator is applied to the Variant using a signed value then the internal type of the Variant will change from unsigned to signed. Note that the expected value from the mathematical operation is always preserved. The only change that may be unnoticed is the internal type changing from unsigned to signed.
+If the internal value of a Variant is set to any unsigned value and a mathematical operator is applied to the Variant using a signed value then the internal type of the Variant will change from unsigned to signed.
 
-For example, having a Variant set to value 16 `(UINT16)` is multiplied by value 2 `(SINT16)`, then the internal type will automatically change to `SINT16` with a value of 32. Variant var; var.setUInt16(16); var = var \* 2; var ⇒ internal type is now sint16
+{{< pleasenote >}}
+  Note that the expected value from the mathematical operation is always preserved. The only change that may be unnoticed is the internal type changing from unsigned to signed.
+{{< /pleasenote >}}
+
+For example, having a Variant set to value 16 `(UINT16)` is multiplied by value 2 `(SINT16)`, then the internal type will automatically change to `SINT16` with a value of 32.
+
+```cpp
+Variant var;
+var.setUInt16(16);
+var = var * 2; // var ⇒ internal type is now sint16
+```
 
 ## Automatic conversions to floating point
 
-The class can also do automatic conversions of the internal type to floating point in order to minimize the loss of data. If a Variant class with an internal type set to `SINT16` and a value of 5 is divided by 2 (`SINT16`) then the internal value of the class will automatically convert to `FLOAT64` to be able to hold a value of 2.5. However, if the user still requests the internal value as `SINT16`, then the returned value will be rounded down to 2 which is the same result as if the division would have been processed using the native c++ type `SINT16`. Variant var; var.setSInt16(5); var = var / 2; var.getFloat64() ⇒ returns 2.5 var.getSInt16() ⇒ returns 2
+The class can also do automatic conversions of the internal type to floating point in order to minimize the loss of data.
+
+If a Variant class with an internal type set to `SINT16` and a value of 5 is divided by 2 (`SINT16`) then the internal value of the class will automatically convert to `FLOAT64` to be able to hold a value of 2.5. However, if the user still requests the internal value as `SINT16`, then the returned value will be rounded down to 2 which is the same result as if the division would have been processed using the native c++ type `SINT16`.
+
+```cpp
+Variant var;
+var.setSInt16(5);
+var = var / 2;
+var.getFloat64(); // ⇒ returns 2.5, var.getSInt16() ⇒ returns 2
+```
 
 ## Handling value overflows
 
-The class is protected against unintentional overflows. Here is the process of computing intentional overflows: Variant::uint8 value = 250; Variant::sint8 addition = 10; Variant var; var.set(value); var += addition; // promotes to value 260 instead of overflow value 4. Variant::uint8 overflowValue = var.getUInt64(); // results in value 4
+The class is protected against unintentional overflows. Here is the process of computing intentional overflows:
+
+```cpp
+Variant::uint8 value = 250;
+Variant::sint8 addition = 10;
+Variant var; var.set(value);
+var += addition; // promotes to value 260 instead of overflow value 4.
+Variant::uint8 overflowValue = var.getUInt64(); // results in value 4
+```
 
 # Requirements
 
@@ -108,9 +172,21 @@ The library has some compilation requirements and library dependencies which are
 
 # License
 
-libVariant Copyright (C) 2016 Antoine Beauchamp The code & updates for the library can be found on http://end2endzone.com **AUTHOR/LICENSE:** This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+libVariant  
+Copyright (C) 2016 Antoine Beauchamp  
+The code & updates for the library can be found on http://end2endzone.com
 
-**DISCLAIMER:** This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+**AUTHOR/LICENSE:**  
+This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of  
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU  Lesser General Public License (LGPL-3.0) for more details.
+
+You should have received a copy of the GNU Lesser General Public  
+License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+**DISCLAIMER:**  
+This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 

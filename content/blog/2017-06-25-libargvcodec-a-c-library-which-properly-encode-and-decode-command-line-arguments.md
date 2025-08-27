@@ -28,13 +28,14 @@ tags:
 # Introduction
 
 This post is about a decade old problem: how to properly encode command line arguments. Properly encoding string arguments into a long command line should not be a complicated issue. However, I have seen multiple situations where people wrongfully assume that wrapping each argument with double quotes is 'safe enough' for most situations. That is simply not true.
+
 This article is about the C++ library libArgvCodec which properly encodes and decodes command line parameters.
 
 Skip to the [download section](#Download) for quick download.
 
 # Purpose
 
-The purpose of the library is not to handle _Argument Parsing_ and _Argument Validation_ : there are already multiple libraries that can do that and most of them does it pretty well.
+The purpose of the library is not to handle *Argument Parsing* and *Argument Validation* : there are already multiple libraries that can do that and most of them does it pretty well.
 
 However, few of them are actually developed to help a user passing arguments from one application to another. The libArgvCodec library includes arguments and command line encoder and decoder (codecs) that are designed for this particular purpose.
 
@@ -47,7 +48,7 @@ Here is a list of all library features:
 * Supports `int argc, char* argv[]` argument parsing.
 * Supports case sensitive and case insensitive searches within lists of arguments.
 * Quickly identify unknown arguments.
-* Supports any type of argument prefixes like: slashes, single dash,  double dash, etc.
+* Supports any type of argument prefixes like: slashes, single dash, double dash, etc.
 * Encodes multiple single arguments into a full command line.
 * Decodes a command line into individual arguments.
 * Supports both Windows shell (command prompt) and Windows [CreateProcess()](http://msdn.microsoft.com/en-us/library/windows/desktop/ms682425(v=vs.85).aspx) encoding/decoding.
@@ -61,13 +62,13 @@ Parsing the list of arguments for validation is easy with the libArgvCodec. Crea
 
 Browse through the list of arguments using the `getArgument()` method or search for a specific parameter using the `findIndex()` or `contains()` methods.
 
-Searching for _**options**_ (argument of the type _**/p**_ or **_-help_** or **_start_**) is easily done with the class using the `findOption()` method.
+Searching for ***options*** (argument of the type ***/p*** or ***--help*** or ***start***) is easily done with the class using the `findOption()` method.
 
-Search for **_arguments with values_** for patterns likes _**/name=foo**_ or **_-count=5_**) using the `findValue()` method.
+Search for ***arguments with values*** for patterns likes ***/name=foo*** or ***--count=5***) using the `findValue()` method.
 
-Search for _**name and value pairs**_ (arguments whose value is following as another argument) for patterns like **_/product foo_** or **_-repeat 5_** using the `findNextValue()` method.
+Search for ***name and value pairs*** (arguments whose value is following as another argument) for patterns like ***/product foo*** or ***--repeat 5*** using the `findNextValue()` method.
 
-To quickly identify unknown arguments, the class supports **_extract methods_** (one for each find method). Extract method removes the argument from the `ArgumentList`. Once all know arguments are removed from the list, the remaining ones are considered unknown.
+To quickly identify unknown arguments, the class supports ***extract methods*** (one for each find method). Extract method removes the argument from the `ArgumentList`. Once all know arguments are removed from the list, the remaining ones are considered unknown.
 
 ## Manipulating an argument list
 
@@ -80,7 +81,7 @@ The `ArgumentList` class is used as a container for arguments. It supports all C
 
 ## Encoding arguments and decoding command line
 
-The encoding and decoding of command line arguments is  with `&lt;span style="font-size: medium;">IArgumentEncoder&lt;/span>` and `&lt;span style="font-size: medium;">IArgumentDecoder&lt;/span>` interfaces. To interact with the interfaces, the `ArgumentList` class is used as input data or output data.
+The encoding and decoding of command line arguments is with `IArgumentEncoder` and `IArgumentDecoder` interfaces. To interact with the interfaces, the `ArgumentList` class is used as input data or output data.
 
 The library provides the following classes which implements both interfaces:
 
@@ -104,11 +105,7 @@ This software is furnished "as is", without technical support, and with no warra
 
 # Download
 
-You can download the libArgvCodec library by clicking on the following link:  
+You can download the libArgvCodec library by clicking on the following link:
 
-
-
-		[ Download "libArgvCodec v1.0.104 (source code)" libArgvCodec-x86-v1.0.104-src.zip - Downloaded 526 times - 99 KB ](http://www.end2endzone.com/download/2480/)
-
-
-		[ Download "libArgvCodec v1.0.104 binaries (vs2008, x86, portable)" libArgvCodec-x86-v1.0.104-portable.zip - Downloaded 518 times - 204 KB ](http://www.end2endzone.com/download/2482/)
+* {{% download old-id="2480" href="https://github.com/end2endzone/libArgvCodec/archive/refs/tags/1.1.0.zip" %}}libArgvCodec v1.1.0.zip{{% /download %}}
+* {{% download old-id="2482" href="https://github.com/end2endzone/libArgvCodec/releases/download/1.1.0/libArgvCodec-1.1.0-win32-portable.zip" %}}libArgvCodec-1.1.0-win32-portable.zip{{% /download %}}

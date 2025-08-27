@@ -16,10 +16,11 @@ tags:
   - rtttl
 
 ---
-
 # Introduction
 
-The following article is written in order to demonstrate how my arduino libraries [libRtttl ](/librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/)& [AnyRtttl ](/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/)can be used to convert arduino code (`tone()` and `delay()` functions calls) into actual RTTTL melodies. This article shows how to convert '*Game of Throne theme*', '*Star Wars - The imperial March*' and most *Super Mario Bros. sound themes* (Main theme, 1-up life sound, Flagpole fanfare, Death and Game Over sounds) into actual playable RTTTL melodies.
+The following article is written in order to demonstrate how my arduino libraries [libRtttl](/librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format/) & [AnyRtttl](/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) can be used to convert arduino code (`tone()` and `delay()` functions calls) into actual RTTTL melodies.
+
+This article shows how to convert '*Game of Throne theme*', '*Star Wars - The imperial March*' and most *Super Mario Bros. sound themes* (Main theme, 1-up life sound, Flagpole fanfare, Death and Game Over sounds) into actual playable RTTTL melodies.
 
 # Methodology
 
@@ -27,9 +28,13 @@ The basic idea is to convert the code to their lowest common denominator which i
 
 ## Handling structured or logical code
 
-Some programs are written in an optimized fashion where reapeated sections of a melody are extracted into a function. ie: `playRefrain()`. The function is then called multiple times to play the whole melody. This method is an effective way to reduce code size but [libRtttl]({{< relref "blog/2016-05-28-librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format.md" >}}) gui is unable to parse this code. Other programs could also use `tone()` or `delay()` calls using `Constants`. A typical usage of this method is to use predefined note names for frequencies which makes the code easier to read. However, constants are also hard to extract by [libRtttl]({{< relref "blog/2016-05-28-librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format.md" >}}) gui which does not yet support this feature. The following code shows the usage of note names as arguments to the `tone()` function:
+Some programs are written in an optimized fashion where reapeated sections of a melody are extracted into a function. ie: `playRefrain()`. The function is then called multiple times to play the whole melody. This method is an effective way to reduce code size but [libRtttl]({{< relref "blog/2016-05-28-librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format.md" >}}) gui is unable to parse this code.
 
-```
+Other programs could also use `tone()` or `delay()` calls using `Constants`. A typical usage of this method is to use predefined note names for frequencies which makes the code easier to read. However, constants are also hard to extract by [libRtttl]({{< relref "blog/2016-05-28-librtttl-a-c-library-with-ui-for-compressingoptimizing-the-rtttl-audio-format.md" >}}) gui which does not yet support this feature.
+
+The following code shows the usage of note names as arguments to the `tone()` function:
+
+```cpp
 tone(8,LA4,Q);
 delay(1+Q);
 tone(8,LA3,E+S);
@@ -40,7 +45,9 @@ To hande these kind of program, the following code can be added at the beginning
 
 {{< hightlight-static-file file="/static/wp-content/uploads/2016/10/Arduino-tone-and-delay-functions-overrides.ino" lang="cpp" >}}
 
-Note that the code above is later refered to as "*Arduino tone and delay functions overrides*".
+{{< pleasenote >}}
+  Note that the code above is later refered to as "*Arduino tone and delay functions overrides*".
+{{< /pleasenote >}}
 
 # Samples
 
@@ -60,9 +67,13 @@ Modify the code by adding the *"Arduino tone and delay functions overrides"* to 
 
 which result in the following data outputted on the serial port when executed:
 
-{{< hightlight-static-file file="/static/wp-content/uploads/2016/05/FULL-Game-of-Thrones-Theme-Song-on-Arduino-serial-output.txt" lang="cpp" >}}
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/05/FULL-Game-of-Thrones-Theme-Song-on-Arduino-serial-output.txt" lang="" >}}
 
-Using libRtttl gui, the above code can be converted to the following RTTTL melody: Settings: force default, enable tone() octave offsetting.
+Using libRtttl gui, the above code can be converted to the following RTTTL melody:
+
+{{< pleasenote >}}
+  Settings: force default, enable tone() octave offsetting.
+{{< /pleasenote >}}
 
 Game of Throne RTTTL:
 
@@ -92,7 +103,11 @@ which result in the following data outputted on the serial port:
 
 {{< hightlight-static-file file="/static/wp-content/uploads/2016/05/Star_Wars_-_The_imperial_March-function-calls.txt" lang="cpp" >}}
 
-Using libRtttl gui, the above code can be converted to the following RTTTL melody: Settings: force default, enable tone() octave offsetting
+Using libRtttl gui, the above code can be converted to the following RTTTL melody:
+
+{{< pleasenote >}}
+  Settings: force default, enable tone() octave offsetting
+{{< /pleasenote >}}
 
 Star Wars - The imperial March RTTTL:
 
@@ -122,9 +137,15 @@ which result in the following data outputted on the serial port:
 
 {{< hightlight-static-file file="/static/wp-content/uploads/2016/11/Super-Mario-Bros.-themes-function-calls.txt" lang="cpp" >}}
 
-Note that output contains the following function calls: `tone(12,0,something);`. Unfortunately, the libRtttl does not properly identify these lines as "silence pin 12" but they can safely be removed from the output without any issue.
+{{< pleasenote >}}
+  Note that output contains the following function calls: `tone(12,0,something);`. Unfortunately, the libRtttl does not properly identify these lines as "silence pin 12" but they can safely be removed from the output without any issue.
+{{< /pleasenote >}}
 
-Using libRtttl gui, the above code can be converted to the following RTTTL melodies: Settings: force default, enable tone() octave offsetting
+Using libRtttl gui, the above code can be converted to the following RTTTL melodies:
+
+{{< pleasenote >}}
+  Settings: force default, enable tone() octave offsetting
+{{< /pleasenote >}}
 
 Super Mario Bros. themes RTTTL:
 

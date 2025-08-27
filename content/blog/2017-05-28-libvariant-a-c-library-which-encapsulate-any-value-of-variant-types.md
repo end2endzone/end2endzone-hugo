@@ -28,7 +28,6 @@ tags:
 
 The following article is about my new c++ library: libVariant. The library allows one to easily store/encapsulate a value of any c++ type into an instance of type Variant. The library is useful for declaring objects, interfaces, APIs or plugins to be type-independent.
 
-
 Skip to the [download section](#Download) for quick download.
 
 # Purpose
@@ -61,7 +60,7 @@ The same applies to users of the plugin which feeds the plugin with data to proc
 
 ## Parsing values from text file
 
-Parsing an *.ini files always used to return string values. Parsing something like `numChild=3` would return a `const char*` with the value `"3"` instead of `int value = 3;`. Text parsers can be designed to always return a Variant when querying for a named variable in a file. In the example above, the method allows the application to read `numChild` value as a string or directly as an integer.
+Parsing an \*.ini files always used to return string values. Parsing something like `numChild=3` would return a `const char*` with the value `"3"` instead of `int value = 3;`. Text parsers can be designed to always return a Variant when querying for a named variable in a file. In the example above, the method allows the application to read `numChild` value as a string or directly as an integer.
 
 ## Implementing [reflection-like](http://en.wikipedia.org/wiki/Reflection_(computer_programming)) APIs on classes
 
@@ -89,14 +88,21 @@ The class is designed to prevent erroneous conversion issues which could lead to
   This method is considered safer on multiple scenarios. It is also different from static casting which would keep all bits identical to the originals resulting in value 65533.
 {{< /pleasenote >}}
 
-
 For instance, if a Variant class with an internal type set to `SINT16` with a value of -3, is then retrieved as an `UINT16` the class will "clamp" the returned value to 0 since -3 cannot be represented as an `UINT16`.
 
-Variant var;<br /> var.setSInt16(-3);<br /> var.getUInt16() ⇒ clamped to minimum value of uint16 (0)
+```cpp
+Variant var;
+var.setSInt16(-3);
+var.getUInt16(); // ⇒ clamped to minimum value of uint16 (0)
+```
 
 The same is also true for the other way around: if a Variant is set to value 65500 (`UINT16`) and is retrieved as a `SINT16`, then the returned value would be 32767 which is the maximum value of a `SINT16`.
 
-Variant var;<br /> var.setUInt16(65500);<br /> var.getSInt16() ⇒ clamped to maximum value of sint16 (32767 )
+```cpp
+Variant var;
+var.setUInt16(65500);
+var.getSInt16(); // ⇒ clamped to maximum value of sint16 (32767 )
+```
 
 To prevent any data loss and conversion clamping, it is suggested to retrieve the internal value of a Variant using the same type as its internal type.
 
@@ -110,7 +116,11 @@ For instance, if a Variant class with an internal type set to `SINT16` and a val
 
 However, if the user still requests the internal value as `SINT16`, then the returned value will be clamped to 32767 which is the maximum value of a `SINT16`.
 
-Variant var;<br /> var.setSInt16(32000);<br /> var = var * 10;<br /> var ⇒ sint32 with a value of 320000
+```cpp
+Variant var;
+var.setSInt16(32000);
+var = var * 10; // var ⇒ sint32 with a value of 320000
+```
 
 ## Unsigned to signed automatic conversions
 
@@ -120,10 +130,13 @@ If the internal value of a Variant is set to any unsigned value and a mathematic
   Note that the expected value from the mathematical operation is always preserved. The only change that may be unnoticed is the internal type changing from unsigned to signed.
 {{< /pleasenote >}}
 
-
 For example, having a Variant set to value 16 `(UINT16)` is multiplied by value 2 `(SINT16)`, then the internal type will automatically change to `SINT16` with a value of 32.
 
-Variant var;<br /> var.setUInt16(16);<br /> var = var * 2;<br /> var ⇒ internal type is now sint16
+```cpp
+Variant var;
+var.setUInt16(16);
+var = var * 2; // var ⇒ internal type is now sint16
+```
 
 ## Automatic conversions to floating point
 
@@ -131,13 +144,24 @@ The class can also do automatic conversions of the internal type to floating poi
 
 If a Variant class with an internal type set to `SINT16` and a value of 5 is divided by 2 (`SINT16`) then the internal value of the class will automatically convert to `FLOAT64` to be able to hold a value of 2.5. However, if the user still requests the internal value as `SINT16`, then the returned value will be rounded down to 2 which is the same result as if the division would have been processed using the native c++ type `SINT16`.
 
-Variant var;<br /> var.setSInt16(5);<br /> var = var / 2;<br /> var.getFloat64() ⇒ returns 2.5<br /> var.getSInt16() ⇒ returns 2
+```cpp
+Variant var;
+var.setSInt16(5);
+var = var / 2;
+var.getFloat64(); // ⇒ returns 2.5, var.getSInt16() ⇒ returns 2
+```
 
 ## Handling value overflows
 
 The class is protected against unintentional overflows. Here is the process of computing intentional overflows:
 
-Variant::uint8 value = 250;<br /> Variant::sint8 addition = 10;<br /> Variant var;<br /> var.set(value);<br /> var += addition; // promotes to value 260 instead of overflow value 4.<br /> Variant::uint8 overflowValue = var.getUInt64(); // results in value 4
+```cpp
+Variant::uint8 value = 250;
+Variant::sint8 addition = 10;
+Variant var; var.set(value);
+var += addition; // promotes to value 260 instead of overflow value 4.
+Variant::uint8 overflowValue = var.getUInt64(); // results in value 4
+```
 
 # Requirements
 
@@ -167,6 +191,4 @@ This software is furnished "as is", without technical support, and with no warra
 # Download
 
 You can download the libVariant library by clicking on the following link:
-
-
-		[ Download "libVariant-v2.0.114.zip" libVariant-v2.0.114.zip - Downloaded 526 times - 99 KB ](http://www.end2endzone.com/download/2328/)
+{{% download old-id="2328" href="https://github.com/end2endzone/libVariant/archive/refs/tags/3.0.0.zip" %}}libVariant v3.0.0.zip{{% /download %}}
