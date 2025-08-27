@@ -8,3 +8,4 @@
 - Create a script instead of using `public` directory as a submodule. This workflow is too much complicated.
 - Fix table header color from `RGB(253,160,47)` to `rgb(255, 192, 0)`.
 - Fix `**DISCLAIMER:**` licenses in pages to be properly rendered in HTML (add double-space newline characters)
+- Reduce height if tables lines to minimum.
