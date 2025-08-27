@@ -14,7 +14,6 @@ tags:
   - Raspberry Pi
 
 ---
-
 # About the project
 
 The following project explains how I used a Raspberry Pi 4 to create a personal digital video recorder to record over-the-air tv.
@@ -61,7 +60,7 @@ Follow his instructions available at:
 
 In summary, run the following commands in a terminal:
 
-```
+```sh
 sudo apt update
 sudo apt -y full-upgrade
 sudo apt install -y rpi-eeprom
@@ -79,13 +78,13 @@ Follow his instructions available at:
 
 In summary, connect your ssd drive and run the following commands in a terminal:
 
-```
+```sh
 lsusb -t
 ```
 
 From Jeff Geerling article:
 
-*This command lists all the USB devices in a tree, and for each of the hard drives, you should see a `Driver` listed. If it's `uas` , then your drive supports UASP and you'll get the best speed. If it's `usb-storage` , then it's using the older BOT protocol and you won't see the full potential.*
+> This command lists all the USB devices in a tree, and for each of the hard drives, you should see a `Driver` listed. If it's `uas` , then your drive supports UASP and you'll get the best speed. If it's `usb-storage` , then it's using the older BOT protocol and you won't see the full potential.
 
 ## Enable USB boot on the Raspberry Pi
 
@@ -138,8 +137,8 @@ The following instructions explains how to reduce the size of the OS partition:
 5. Create a partition for the remaining space of the SSD.  
     Format the partition as **ext4**. This is to make sure we get the best read and write performance.  
     For reference, the Rraspberry Pi 4 is capable of the following writing speeds: 
-    - 85 mb/s to an external usb 3.0 SSD with an ext4 partition.
-    - 26 mb/s to an external usb 3.0 SSD with an NTFS partition.
+    * 85 mb/s to an external usb 3.0 SSD with an ext4 partition.
+    * 26 mb/s to an external usb 3.0 SSD with an NTFS partition.
 6. Set the name of the partition to **pidvr**.
 
 ## Boot from the SSD drive
@@ -176,7 +175,7 @@ This is specific to our build since we are using the [Argon One](https://www.arg
 
 In summary, run the following commands in a terminal:
 
-```
+```sh
 curl https://download.argon40.com/argon1.sh | bash
 ```
 
@@ -193,7 +192,7 @@ The following list of programs can be installed manually in the terminal:
 
 The following instructions can install all software mentioned above:
 
-```
+```sh
 sudo apt-get update
 sudo apt-get install hdparm gnome-disk-utility gparted gsmartcontrol qdirstat p7zip-full
 ```
@@ -212,11 +211,13 @@ In directory **/media/pi/pidvr**, create the following directories:
 
 By default, these directories will only be writable (or accessible) for the **pi** user on the Raspberry Pi. This is a problem for our build since tvheadend run as **hts** user and *hts* user won't have access by default to our **recordings** directory. To allow anyone to have read and write access to these directories, enter the following command in a terminal:
 
-```
+```sh
 sudo chmod -R 7777 /media/pi.
 ```
 
-***Note**: by default, a partition permissions are inherited from its parent directory where the partition is mounted. In this case, the partition mounted at **/media/pi/pidvr** inherits the permissions from **/media/pi** directory.*
+{{< pleasenote >}}
+  **Note**: by default, a partition permissions are inherited from its parent directory where the partition is mounted. In this case, the partition mounted at **/media/pi/pidvr** inherits the permissions from **/media/pi** directory.
+{{< /pleasenote >}}
 
 A reboot of the Raspberry Pi may be required for the new partition is show up as writable for everyone.
 
@@ -226,22 +227,24 @@ By default, Raspberry Pi OS does not include CIFS/Samba support, but this can ea
 
 In summary, run the following commands in a terminal:
 
-```
+```sh
 sudo apt update
 sudo apt install -y samba samba-common-bin smbclient cifs-utils
 ```
 
-*Note: During installation, if you have other samba servers on your network, choose no which is the default option.*
+{{< pleasenote >}}
+  Note: During installation, if you have other samba servers on your network, choose no which is the default option.
+{{< /pleasenote >}}
 
 To create shared directories that can be accessed by a Windows computer, edit the configuration file **/etc/samba/smb.conf** with the following command:
 
-```
+```sh
 sudo nano /etc/samba/smb.conf
 ```
 
 and add the following new sections:
 
-```
+```ini
 # Create a read-only shared directory called 'recordings' to
 # easily export recording files outside of the raspberry pi.
 [recordings]
@@ -264,7 +267,7 @@ directory mask = 0777
 
 Restart the samba daemon service for the changes to take effect:
 
-```
+```sh
 sudo systemctl restart smbd
 ```
 
@@ -287,12 +290,14 @@ There are already great guides that explains how to install and configure tvhead
 
 In summary, run the following commands in a terminal to install tvheadend:
 
-```
+```sh
 sudo apt update
 sudo apt install -y tvheadend
 ```
 
-*Note: During installation, you will need to provide a username and password for the tvheadend aministrator. You can use `pidvr` and `pidvr`.*
+{{< pleasenote >}}
+  Note: During installation, you will need to provide a username and password for the tvheadend aministrator. You can use `pidvr` and `pidvr`.
+{{< /pleasenote >}}
 
 ## Tvheadend initial configuration setup
 
@@ -314,7 +319,9 @@ Enter the following values:
 
 Click **Save & Next** to get to the next page.
 
-*Note: Since we actually changed the language of the web interface, the same page may be displayed when you first click* **Save & Next***. Click it again.*
+{{< pleasenote >}}
+  Note: Since we actually changed the language of the web interface, the same page may be displayed when you first click ***Save & Next***. Click it again.
+{{< /pleasenote >}}
 
 ### Welcome (2 of 2)
 
@@ -378,7 +385,7 @@ The initial setup is finished. Click **Finish** to complete the
 
 At this stage we like to reboot the Raspberry Pi. In the terminal use the following command to restart your Raspberry Pi:
 
-```
+```sh
 sudo reboot now
 ```
 
@@ -396,7 +403,7 @@ The following list are specific configuration settings that I like to set for tv
 
 tvheadend runs as user **hts**. To test read and write access from **hts** user perspective, type the following in a terminal:
 
-```
+```sh
 sudo su hts
 cd /media/pi/pidvr/recordings
 touch hts_test_file
@@ -443,15 +450,13 @@ Montreal channels have the EPG encoding using UTF-8. The network character encod
 5. Set *Character set* to value **UTF-8**.
 6. Click on **Save**.
 7. ---
-    
-    Switch to *Muxes* tab.
+   Switch to *Muxes* tab.
 8. Select all available muxes: click on the first mux and press *CTRL+A*.
 9. Click **edit** button.
 10. Check *Character set* in Advanced Settings.
 11. Set *Character set* to value **UTF-8**.
 12. Click on **Save**.
 13. ---
-    
     Switch to *Services* tab.
 14. Select all available services: click on the first service and press *CTRL+A*.
 15. Click **edit** button.

@@ -14,7 +14,6 @@ tags:
   - english
 
 ---
-
 # Introduction
 
 This post explains all the instructions required in order to get started with c++ no macOS 10.15 Catalina.
@@ -31,7 +30,9 @@ Following macOS Catalina 10.15 installation, it is best practice to update the O
 
 At the time of this writing, the latest version of macOS Catalina is version 10.15.7.
 
-*Note: You can install optional updates by clicking on* More info... *and selecting updates that are related to Catalina.*
+{{< pleasenote >}}
+  Note: You can install optional updates by clicking on *More info...* and selecting updates that are related to Catalina.
+{{< /pleasenote >}}
 
 # Set system preferences for developers
 
