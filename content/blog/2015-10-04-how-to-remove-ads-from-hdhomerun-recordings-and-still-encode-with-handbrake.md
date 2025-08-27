@@ -18,12 +18,12 @@ tags:
 # Introduction
 
 I record lots of TV shows using the HDHomeRun. I sometime want to keep recordings on a disk for archiving or to watch later. The following article explains how to remove ads from HDHomeRun recordings and encode the final video with Handbrake without quality loss. The whole process is executed using only FREE tools!
+
 With all TV shows comes a bunch of TV ads that I do not want to keep and waste time and disk space for. I encode all my videos using [Handbrake](https://handbrake.fr/downloads.php) because it supports quality based H264 encoding and 5.1 surround sounds but unfortunately, it does not support removing ads.
 
 {{< postedit >}}
-  Note that this process is now deprecated as I have a new workflow which does not requires an intermediate file. The new workflow is available at the following address: [http://www.end2endzone.com/best-way-to-remove-ads-from-hdhomerun-recordings-no-intermediate-file-required/](http://www.end2endzone.com/best-way-to-remove-ads-from-hdhomerun-recordings-no-intermediate-file-required/).
+  Note that this process is now deprecated as I have a new workflow which does not requires an intermediate file. The new workflow is available at the following address: [Best way to remove ads from HDHomeRun recordings (no intermediate file required)]({{< relref "blog/2016-01-16-best-way-to-remove-ads-from-hdhomerun-recordings-no-intermediate-file-required.md" >}}).
 {{< /postedit >}}
-
 
 # What's the trick ?
 
@@ -48,64 +48,52 @@ This plugin allows reading files that are not AVI and works perfectly with Montr
 
 ## Open video file in Virtualdub
 
-[![VirtualDub default video](/wp-content/uploads/2015/10/VirtualDub-default-video.jpg)](/wp-content/uploads/2015/10/VirtualDub-default-video.jpg)
+[![VirtualDub default video](/wp-content/uploads/2015/10/VirtualDub-default-video.jpg "VirtualDub default video")](/wp-content/uploads/2015/10/VirtualDub-default-video.jpg)
 
-VirtualDub default video
-
-* Click on _File_ menu.
-* Click on _Open video file..._
-* Browse to your MPEG2 video file.
+1. Click on *File* menu.
+2. Click on *Open video file...*
+3. Browse to your MPEG2 video file.
 
 ## Cut ads / video section
 
 Virtualdub is the best video editing application I know. It support video resizing, splitting, joining, filters but mostly removing ADS!
 
-* Move the cursor to the first frame of an ad. Note: you can use your keyboard arrows to move 1 frame forward or backward to set the cursor at the exact desired frame.
-* Click on _Edit_ menu and select _Set Selection Start_ to mark the beginning of the ad. You can also press the [![VirtualDub Set Selection Start](/wp-content/uploads/2015/10/VirtualDub-Set-Selection-Start.jpg)](/wp-content/uploads/2015/10/VirtualDub-Set-Selection-Start.jpg) button.
-* Move the cursor to the last frame of the same ad.
-* Click on _Edit_ menu and select _Set Selection End_ to mark the end of the ad. You can also press the [![VirtualDub Set Selection End](/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg)](/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg) button.
-  1. This will highlight the area that will be cut out of the final video: [![Virtualdub Selection](/wp-content/uploads/2015/10/Virtualdub-Selection.jpg)](/wp-content/uploads/2015/10/Virtualdub-Selection.jpg)
-    
-    Virtualdub Selection
-
-  2. Click on _Edit_ menu and select _Delete_ to remove the selection from the video. You can also press the _Delete_ key on your keyboard.
-  3. Repeat all steps for each ads.
+1. Move the cursor to the first frame of an ad. Note: you can use your keyboard arrows to move 1 frame forward or backward to set the cursor at the exact desired frame.
+2. Click on *Edit* menu and select *Set Selection Start* to mark the beginning of the ad. You can also press the [![VirtualDub Set Selection Start](/wp-content/uploads/2015/10/VirtualDub-Set-Selection-Start.jpg)](/wp-content/uploads/2015/10/VirtualDub-Set-Selection-Start.jpg) button.
+3. Move the cursor to the last frame of the same ad.
+4. Click on *Edit* menu and select *Set Selection End* to mark the end of the ad. You can also press the [![VirtualDub Set Selection End](/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg)](/wp-content/uploads/2015/10/VirtualDub-Set-Selection-End.jpg) button.
+5. This will highlight the area that will be cut out of the final video:
+[![Virtualdub Selection](/wp-content/uploads/2015/10/Virtualdub-Selection.jpg "Virtualdub Selection")](/wp-content/uploads/2015/10/Virtualdub-Selection.jpg)
+6. Click on *Edit* menu and select *Delete* to remove the selection from the video. You can also press the *Delete* key on your keyboard.
+7. Repeat all steps for each ads.
 
 ## Lossless video codec
 
 You need to select an appropriate video codec for saving the temporary file. You may be aware that most video codec makes approximation and even tries to encode "movement" in the stream to maximize compression. However, they loose quality (some less than other) during each encoding. To prevent any quality loss, a lossless video codec must be selected. As it's name implies, the Lagarith video codec is lossless which means that it does not loose quality each time you re-encode a new video.
 
-[![Virtualdub Lagarith Lossless Video Codec Selection](/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg)](/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg)
+[![Virtualdub Lagarith Lossless Video Codec Selection](/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg "Virtualdub Lagarith Lossless Video Codec Selection")](/wp-content/uploads/2015/10/Virtualdub-Video-Codec-Selection.jpg)
 
-Virtualdub Lagarith Lossless Video Codec Selection
-
-* Click on _Video_ menu and select _Compression_...
-<li>
-  Select <em><em>Lagarith Lossless Video Codec:<br /> </em></em>
-</li>
+1. Click on *Video* menu and select *Compression*...
+2. Select **Lagarith Lossless Video Codec:**
 
 ## Audio codec
 
 There is no need to use any compression codec for the audio. A typical TV show is 45 minutes long which only takes ~2.9 GiB (66 MiB / min) for 5.1 Surround sound and ~495 MiB (11 MiB / min) for Stereo sound. With today's disk space, no compression is as good as lossless compression.
 
-  1. Click on _Audio_ menu and select _Full Processing Mode_.
+1. Click on *Audio* menu and select *Full Processing Mode*.
 
 ## Save a temporary file
 
-[![Virtualdub encoding](/wp-content/uploads/2015/10/Virtualdub-encoding.jpg)](/wp-content/uploads/2015/10/Virtualdub-encoding.jpg)
+[![Virtualdub encoding](/wp-content/uploads/2015/10/Virtualdub-encoding.jpg "Virtualdub encoding")](/wp-content/uploads/2015/10/Virtualdub-encoding.jpg)
 
-Virtualdub encoding
-
-* Click on File menu and select Save as AVI...
-* Wait for the process to complete.
+1. Click on File menu and select Save as AVI...
+2. Wait for the process to complete.
 
 ## Encode final video with Handbrake
 
 Now you got a nice TV show episode without any ads. Just open the file in Handbrake and encode using your favorite video parameters.
 
-[![Handbrake video settings](/wp-content/uploads/2015/10/Handbrake-video-settings.jpg)](/wp-content/uploads/2015/10/Handbrake-video-settings.jpg)
-
-Handbrake video settings
+[![Handbrake video settings](/wp-content/uploads/2015/10/Handbrake-video-settings.jpg "Handbrake video settings")](/wp-content/uploads/2015/10/Handbrake-video-settings.jpg)
 
 # What you get
 

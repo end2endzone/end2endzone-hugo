@@ -34,21 +34,20 @@ tags:
 
 The following article is about another library that I have written: libRtttl is a c++ library for manipulating the RTTTL audio format.
 
-
 Skip to the [download section](#Download) for quick download.
 
 See this post for a [quick recall of the RTTTL format](/nonblockingrtttl-a-non-blocking-arduino-library-for-playing-rtttl-melodies/#Quick_recall_of_the_RTTTL_format).
 
 {{< postedit >}}
-  Edit: for a better understanding and examples of what libRTTTL can do, please see this post: **[How to convert arduino code to actual RTTTL melodies using libRtttl and AnyRtttl](http://www.end2endzone.com/how-to-convert-arduino-code-to-actual-rtttl-melodies-using-librtttl-and-anyrtttl/).**
+Edit: for a better understanding and examples of what libRTTTL can do, please see this post:
+[How to convert arduino code to actual RTTTL melodies using libRtttl and AnyRtttl]({{< relref "blog/2016-12-22-how-to-convert-arduino-code-to-actual-rtttl-melodies-using-librtttl-and-anyrtttl.md" >}}).
 {{< /postedit >}}
-
 
 # Purpose
 
 RTTTL songs available on the internet are not optimized for the smallest size. Still they are readable by a human but they are far from optimized for the arduino embedded device. Most RTTTL song can be optimized (without quality loss) and have their size reduced by ~20%. Conversion to binary allows even better compression but it wont be human readable anymore.
 
-The library also allows one to convert an RTTTL song to hardcoded function calls (`tone()` and `delay()` calls). This is really useful if your dynamic memory is almost completely full and you would like to move the load from dynamic memory to program storage space.
+The library also allows one to convert an RTTTL song to hardcoded function calls (`tone()` and `delay()` calls). This is really useful if your _dynamic memory_ is almost completely full and you would like to move the load from _dynamic memory_ to _program storage space_.
 
 The UI (rtttlOptimizerGui) also features a basic RTTTL player. The quality of the playback is limited but it allows one to prove that a compression did not changed the song's melody.
 
@@ -59,15 +58,11 @@ The UI (rtttlOptimizerGui) also features a basic RTTTL player. The quality of th
 Possible use are:
 
 * Optimize an existing RTTTL melodies.
-<li style="text-align: left;">
-  Convert RTTTL melodies to other format: <li>
-      MIDI.
-    </li>
+* Convert RTTTL melodies to other format: 
+    * MIDI.
     * Arduino `tone()` and `delay()` function calls.
     * Binary format (10 bits per note) for maximum compression (minimum size).
     * Binary format (16 bits per note) for quick note offset addressing and minimum code footprint.
-</li>
-
 * Convert arduino `tone()` and `delay()` function calls back to a valid RTTTL melody.
 * Allow relaxed RTTTL settings for easier conversions.
 
@@ -89,9 +84,9 @@ The library has some compilation requirements and library dependencies which are
 ### rtttlOptimizerGui
 
 * Requires the [wxWidgets Cross-Platform GUI Library](http://www.wxwidgets.org/) v2.8.12 for compiling.
-* The UI design files must be edited with [wxFormBuilder](http://sourceforge.net/projects/wxformbuilder/)  v3.0.57 (a RAD tool for wxWidgets GUI design). This tools is not required for compilation.
+* The UI design files must be edited with [wxFormBuilder](http://sourceforge.net/projects/wxformbuilder/) v3.0.57 (a RAD tool for wxWidgets GUI design). This tools is not required for compilation.
 * [NSIS: Nullsoft Scriptable Install System](http://sourceforge.net/projects/nsis/) is required for generating the installation package.
-* The Play RTTTL & RTTTL 2 MIDI functionalities require the Windows platform for runtime.
+* The {{% windows-button3d %}}Play RTTTL{{% /windows-button3d %}} & {{% windows-button3d %}}RTTTL 2 MIDI{{% /windows-button3d %}} functionalities require the Windows platform for runtime.
 * The code uses some compiler-dependent instructions for debugging the UI under Windows.
 * All non-portable code is protected with `#ifdef _WIN32` to be cross-platform friendly.
 
@@ -101,21 +96,19 @@ All functionalities of the library are available through the UI.
 
 Start the UI by launching rtttlOptimizerGui.exe.
 
-[![rtttlOptimizerGui with default options](/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg)](/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg)
+[![rtttlOptimizerGui with default options](/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg "rtttlOptimizerGui with default options")](/wp-content/uploads/2016/04/rtttlOptimizerGui-with-default-options.jpg)
 
-rtttlOptimizerGui with default options
-
-Copy & paste the input data in the Command Input text area. Click on one of the available command buttons. The output result will be displayed in the Command Output area.
+Copy & paste the input data in the _Command Input_ text area. Click on one of the available command buttons. The output result will be displayed in the _Command Output_ area.
 
 ## Optimize
 
-Copy & paste a valid song in RTTTL format in the Command Input section.  
-Press the Optimize button to compress the RTTTL code to its shortest form.
+Copy & paste a valid song in RTTTL format in the _Command Input_ section.
 
-During optimization, the library will convert the input RTTTL song to "_raw_" data and re-encode the result back to RTTTL using all possible combinations of default duration, default octave and BPM (Beats per minute).
+Press the {{% windows-button3d %}}Optimize{{% /windows-button3d %}} button to compress the RTTTL code to its shortest form.
 
-From all combination possibilities, the library will select the shortest one. For example, the following RTTTL code from _The Legend of Zelda _:
+During optimization, the library will convert the input RTTTL song to "*raw*" data and re-encode the result back to RTTTL using all possible combinations of default duration, default octave and BPM (Beats per minute).
 
+From all combination possibilities, the library will select the shortest one. For example, the following RTTTL code from *The Legend of Zelda* :
 
 ```
 Zelda1:d=4,o=5,b=125:a#,f.,8a#,16a#,16c6,16d6,16d#6,2f6,
@@ -129,9 +122,7 @@ f#6,f6,2c#6,a#,c6,16d6,2e6,g6,8f6,16f,16f,8f,16f,16f,
 8f,16f,16f,8f,8f
 ```
 
-
 can be optimized to the following code:
-
 
 ```
 Zelda1:d=8,o=6,b=250:2a#5,2f.5,4a#5,a#5,c,d,d#,1f,4p,4f,f.,2p,
@@ -142,13 +133,13 @@ Zelda1:d=8,o=6,b=250:2a#5,2f.5,4a#5,a#5,c,d,d#,1f,4p,4f,f.,2p,
 2f,1c#,2a#5,2c,d,1e,2g,4f,f5,f5,4f5,2p,1f5,f5,4f5,f5,f5,4f5,4f5
 ```
 
-
 which reduces the original code length by 89 bytes (from 446 bytes to 357 bytes), that is a 19.95% size reduction.
 
 ## Play RTTTL
 
-Copy & paste a valid song in RTTTL format in the Command Input section.  
-Press the Play RTTTL button to play the melody.
+Copy & paste a valid song in RTTTL format in the _Command Input_ section.
+
+Press the {{% windows-button3d %}}Play RTTTL{{% /windows-button3d %}} button to play the melody.
 
 {{< pleasenote >}}
   Note that application will momentary freeze during the playback. The application will respond again once the melody is done playing.
@@ -157,8 +148,9 @@ Press the Play RTTTL button to play the melody.
 
 ## RTTTL to MIDI
 
-Copy & paste a valid song in RTTTL format in the Command Input section.  
-Press the RTTTL 2 MIDI button to convert the melody to the MIDI sound format and automatically play the melody.
+Copy & paste a valid song in RTTTL format in the _Command Input_ section.
+
+Press the {{% windows-button3d %}}RTTTL 2 MIDI{{% /windows-button3d %}} button to convert the melody to the MIDI sound format and automatically play the melody.
 
 {{< pleasenote >}}
   Note that MIDI sound format offers much better playback capabilities and sound quality than beeping each tone. See my post about my MIDI library for more details: [libMIDI - A C++ open-source library for generating single tone melodies in MIDI format](/libmidi-a-c-open-source-library-for-generating-single-tone-melodies-in-midi-format/).
@@ -167,11 +159,11 @@ Press the RTTTL 2 MIDI button to convert the melody to the MIDI sound format and
 
 ## tone() to RTTTL
 
-Copy & paste a valid song in arduino code (`tone()` and `delay()` function calls) in the Command Input section.  
-Press the tone() 2 RTTTL button to encode the melody into RTTTL.
+Copy & paste a valid song in arduino code (`tone()` and `delay()` function calls) in the _Command Input_ section.
+
+Press the {{% windows-button3d %}}tone() 2 RTTTL{{% /windows-button3d %}} button to encode the melody into RTTTL.
 
 For example, the following arduino code:
-
 
 ```
 void playArkanoid(int pin) {
@@ -197,30 +189,29 @@ void playArkanoid(int pin) {
 }
 ```
 
-
 is encoded into the following RTTTL code:
-
 
 ```
 unknown:d=8,o=6,b=140:g,16p,16g.,2a#,32p,a,g,f,a,2g
 ```
 
-
-This feature is useful for moving data from program storage space to dynamic memory.
+This feature is useful for moving data from _program storage space_ to _dynamic memory_.
 
 ## RTTTL to tone()
 
-Copy & paste a valid song in RTTTL format in the Command Input section.  
-Press the RTTTL 2 tone() button to decode the input song to "_raw_" data (note with frequency and duration) and generate the arduino code required to play the song.
+Copy & paste a valid song in RTTTL format in the _Command Input_ section.
 
-This process is really useful if your dynamic memory is almost completely full and you would like to move the load from dynamic memory to program storage space.
+Press the {{% windows-button3d %}}RTTTL 2 tone(){{% /windows-button3d %}} button to decode the input song to "*raw*" data (note with frequency and duration) and generate the arduino code required to play the song.
 
-For instance, the RTTTL code from _Super Mario Bros. - 1-up sound_ :
+This process is really useful if your _dynamic memory_ is almost completely full and you would like to move the load from _dynamic memory_ to _program storage space_.
 
-`mario1up:d=16,o=7,b=180:e.6,g.6,e.,c.,d.,g.`
+For instance, the RTTTL code from *Super Mario Bros. - 1-up sound* :
+
+```
+mario1up:d=16,o=7,b=180:e.6,g.6,e.,c.,d.,g.
+```
 
 generates the following arduino code:
-
 
 ```cpp
 void playMario1up(int pin) {
@@ -240,23 +231,21 @@ void playMario1up(int pin) {
 }
 ```
 
-
 ## RTTTL to Binary (10 bits)
 
-Copy & paste a valid song in RTTTL format in the Command Input section.  
-Press the RTTTL 2 Binary (10 bits) button to decode the input RTTTL song and encode the same melody into a binary RTTTL format where each note is encoded into 10 bits. The bits definition is already documented in section [RTTTL binary format definition](http://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/#Binary_RTTTL_format_definition) of [AnyRtttl library](http://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) post.
+Copy & paste a valid song in RTTTL format in the _Command Input_ section.
 
-The [AnyRtttl](/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) library can be used to play the compressed RTTTL data.
+Press the {{% windows-button3d %}}RTTTL 2 Binary (10 bits){{% /windows-button3d %}} button to decode the input RTTTL song and encode the same melody into a binary RTTTL format where each note is encoded into 10 bits. The bits definition is already documented in section [RTTTL binary format definition]({{< relref "blog/2016-05-21-anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies.md" >}}#Binary_RTTTL_format_definition) of [AnyRtttl library]({{< relref "blog/2016-05-21-anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies.md" >}}) post.
 
-For example, the RTTTL code for playing _Tetris_ theme song:
+The [AnyRtttl]({{< relref "blog/2016-05-21-anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies.md" >}}) library can be used to play the compressed RTTTL data.
 
+For example, the RTTTL code for playing *Tetris* theme song:
 
 ```
 tetris:d=4,o=5,b=160:e6,8b,8c6,8d6,16e6,16d6,8c6,8b,a,8a,
 8c6,e6,8d6,8c6,b,8b,8c6,d6,e6,c6,a,2a,8p,d6,8f6,a6,8g6,
 8f6,e6,8e6,8c6,e6,8d6,8c6,b,8b,8c6,d6,e6,c6,a,a
 ```
-
 
 is compressed to the following :
 
@@ -266,20 +255,19 @@ which reduces the original code length by 104 bytes (from 159 bytes to 55 bytes)
 
 ## RTTTL to Binary (16 bits)
 
-Copy & paste a valid song in RTTTL format in the Command Input section.  
-Press the RTTTL 2 Binary (16 bits) button to decode the input RTTTL song and encode the same melody into a binary RTTTL format where each note is encoded into 16 bits. The bits definition is already documented in section [RTTTL binary format definition](http://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/#Binary_RTTTL_format_definition) of [AnyRtttl library](http://www.end2endzone.com/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) post.
+Copy & paste a valid song in RTTTL format in the _Command Input_ section.
 
-The [AnyRtttl](/anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies/) library can be used to play the compressed RTTTL data.
+Press the {{% windows-button3d %}}RTTTL 2 Binary (16 bits){{% /windows-button3d %}} button to decode the input RTTTL song and encode the same melody into a binary RTTTL format where each note is encoded into 16 bits. The bits definition is already documented in section [RTTTL binary format definition]({{< relref "blog/2016-05-21-anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies.md" >}}#Binary_RTTTL_format_definition) of [AnyRtttl library]({{< relref "blog/2016-05-21-anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies.md" >}}) post.
 
-For example, the same RTTTL code for playing _Tetris_ theme song:
+The [AnyRtttl]({{< relref "blog/2016-05-21-anyrtttl-a-feature-rich-arduino-library-for-playing-rtttl-melodies.md" >}}) library can be used to play the compressed RTTTL data.
 
+For example, the same RTTTL code for playing *Tetris* theme song:
 
 ```
 tetris:d=4,o=5,b=160:e6,8b,8c6,8d6,16e6,16d6,8c6,8b,a,8a,
 8c6,e6,8d6,8c6,b,8b,8c6,d6,e6,c6,a,2a,8p,d6,8f6,a6,8g6,
 8f6,e6,8e6,8c6,e6,8d6,8c6,b,8b,8c6,d6,e6,c6,a,a
 ```
-
 
 is compressed to the following :
 
@@ -289,37 +277,28 @@ which reduces the original code length by 73 bytes (from 159 bytes to 86 bytes),
 
 # License
 
-libRTTTL Library / rtttlOptimizer  
-Copyright (C) 2016 Antoine Beauchamp  
+libRTTTL Library / rtttlOptimizer
+Copyright (C) 2016 Antoine Beauchamp
 The code & updates for the library can be found on http://end2endzone.com
 
-**AUTHOR/LICENSE:**  
+**AUTHOR/LICENSE:**
 This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version.
 
-This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of  
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU  Lesser General Public License (LGPL-3.0) for more details.
+This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details.
 
-You should have received a copy of the GNU Lesser General Public  
+You should have received a copy of the GNU Lesser General Public
 License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
-**DISCLAIMER:**  
+**DISCLAIMER:**
 This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 
 You can download the libRTTTL library / rtttlOptimizer by clicking on the following links:
 
-
-		[ Download "rtttlOptimizer v1.2.195 Source Code" rtttlOptimizer-v1.2.195-src.zip - Downloaded 343 times - 186 KB ](http://www.end2endzone.com/download/2035/)
-
-
-		[ Download "rtttlOptimizer v1.2.195 win32 portable" rtttlOptimizer-v1.2.195-win32-portable.zip - Downloaded 350 times - 720 KB ](http://www.end2endzone.com/download/1863/)
-
-
-		[ Download "rtttlOptimizer v1.2.195 win32 Setup" rtttlOptimizer-v1.2.195-win32-Setup.exe - Downloaded 453 times - 834 KB ](http://www.end2endzone.com/download/1861/)
-
-
-		[ Download "rtttlOptimizer v1.2.195 x64 portable" rtttlOptimizer-v1.2.195-x64-portable.zip - Downloaded 350 times - 847 KB ](http://www.end2endzone.com/download/1859/)
-
-
-		[ Download "rtttlOptimizer v1.2.195 x64 Setup" rtttlOptimizer-v1.2.195-x64-Setup.exe - Downloaded 482 times - 969 KB ](http://www.end2endzone.com/download/1857/)
+* {{% download old-id="2035" href="/wp-content/uploads/2016/05/rtttlOptimizer-v1.2.195-src.zip" %}}rtttlOptimizer-v1.2.195-src.zip{{% /download %}}
+* {{% download old-id="1863" href="/wp-content/uploads/2016/05/rtttlOptimizer-v1.2.195-win32-portable.zip" %}}rtttlOptimizer-v1.2.195-win32-portable.zip{{% /download %}}
+<!-- - {{% download old-id="1861" href="" %}}{{% /download %}} -->
+* {{% download old-id="1859" href="/wp-content/uploads/2016/05/rtttlOptimizer-v1.2.195-x64-portable.zip" %}}rtttlOptimizer-v1.2.195-x64-portable.zip{{% /download %}}
+<!-- - {{% download old-id="1857" href="" %}}{{% /download %}} -->

@@ -15,14 +15,15 @@ tags:
   - tv
 
 ---
-
 # Introduction
 
-I record lots of TV shows using the HDHomeRun. I sometime want to keep recordings on a disk for archiving or to watch later. The following article explains how to remove ads from HDHomeRun recordings and encode the final video with Handbrake without quality loss. The whole process is executed using only FREE tools! With all TV shows comes a bunch of TV ads that I do not want to keep and waste time and disk space for. I encode all my videos using [Handbrake](https://handbrake.fr/downloads.php) because it supports quality based H264 encoding and 5.1 surround sounds but unfortunately, it does not support removing ads.
+I record lots of TV shows using the HDHomeRun. I sometime want to keep recordings on a disk for archiving or to watch later. The following article explains how to remove ads from HDHomeRun recordings and encode the final video with Handbrake without quality loss. The whole process is executed using only FREE tools!
 
-{{< pleasenote >}}
-Note that this process is now deprecated as I have a new workflow which does not requires an intermediate file. The new workflow is available at the following address: [Best way to remove ads from HDHomeRun recordings (no intermediate file required)]({{< relref "blog/2016-01-16-best-way-to-remove-ads-from-hdhomerun-recordings-no-intermediate-file-required.md" >}}).
-{{< /pleasenote >}}
+With all TV shows comes a bunch of TV ads that I do not want to keep and waste time and disk space for. I encode all my videos using [Handbrake](https://handbrake.fr/downloads.php) because it supports quality based H264 encoding and 5.1 surround sounds but unfortunately, it does not support removing ads.
+
+{{< postedit >}}
+  Note that this process is now deprecated as I have a new workflow which does not requires an intermediate file. The new workflow is available at the following address: [Best way to remove ads from HDHomeRun recordings (no intermediate file required)]({{< relref "blog/2016-01-16-best-way-to-remove-ads-from-hdhomerun-recordings-no-intermediate-file-required.md" >}}).
+{{< /postedit >}}
 
 # What's the trick ?
 
@@ -39,7 +40,9 @@ The following software must be downloaded and installed:
 
 # Virtualdub FFMpeg Input Plugin
 
-By default, VirtualDub is only able to read AVI files which is not helpful because my local channels are broadcasting in MPEG2 format. For instance, Montreal's CBFT-DT is broadcasting in HDV 720p, MPEG layer 2, with two AC-3 audio channels. Full [NFO available here](/wp-content/uploads/2015/10/Montreal-CBFT-DT-Codec-NFO.nfo). This plugin allows reading files that are not AVI and works perfectly with Montreal's CBFT-DT MPEG 2 files.
+By default, VirtualDub is only able to read AVI files which is not helpful because my local channels are broadcasting in MPEG2 format. For instance, Montreal's CBFT-DT is broadcasting in HDV 720p, MPEG layer 2, with two AC-3 audio channels. Full [NFO available here](/wp-content/uploads/2015/10/Montreal-CBFT-DT-Codec-NFO.nfo).
+
+This plugin allows reading files that are not AVI and works perfectly with Montreal's CBFT-DT MPEG 2 files.
 
 # Instructions
 

@@ -14,8 +14,9 @@ tags:
   - RC
 
 ---
+This article is about how I did the maintenance on my Hobbico Torqmaster 90 deluxe which is a 12 Volt starter for remote controlled (RC) aircraft. I wanted to change the rubber nose to get a better grip on my [Avistar Elite](/tag/avistar-elite/) spinner. I ended up disassembling the whole unit before understanding what I should have done.
 
-This article is about how I did the maintenance on my Hobbico Torqmaster 90 deluxe which is a 12 Volt starter for remote controlled (RC) aircraft. I wanted to change the rubber nose to get a better grip on my [Avistar Elite](/tag/avistar-elite/) spinner. I ended up disassembling the whole unit before understanding what I should have done. This guide documents the steps and tricks I used to reassemble the unit. I hope it may help someone that have the same issue. If not, then I shall use this article as a way for me to remember how I did the maintenance on the starter and which tool I used...
+This guide documents the steps and tricks I used to reassemble the unit. I hope it may help someone that have the same issue. If not, then I shall use this article as a way for me to remember how I did the maintenance on the starter and which tool I used...
 
 # General information
 
@@ -30,7 +31,7 @@ This is a Hobbico Torqmaster 90 Deluxe 12 Volt Starter. It is designed for start
 # Maintenance
 
 ## Replace the rubber insert adapter for aircraft
-
+ 
 [![Hobbico TorqMaster Rubber Insert (Air)](/wp-content/uploads/2015/07/Hobbico-TorqMaster-Rubber-Insert-Air-150x132.jpg "Hobbico TorqMaster Rubber Insert (Air)")](/wp-content/uploads/2015/07/Hobbico-TorqMaster-Rubber-Insert-Air.jpg)
 
 [![Hobbico TorqMaster Rubber Insert (Air)](/wp-content/uploads/2015/09/IMG_6803_LR5-150x100.jpg "Hobbico TorqMaster Rubber Insert (Air)")](/wp-content/uploads/2015/09/IMG_6803_LR5.jpg)
@@ -43,7 +44,9 @@ Another way is to try to unscrew the Drive Cone from the shaft of the unit. Use 
 
 ## Opening the case
 
-The case is held in place by 2 screws. Both screws are 4 inches long (goes through the whole body) and have a 8 mm hexadecimal head. To open the case, remove the 2 screws then pull out the back cover. **Warning**: removing the back cover will disconnect the [brushes ](https://en.wikipedia.org/wiki/Brush_(electric))from the [rotor ](https://en.wikipedia.org/wiki/Rotor_(electric))and you will need to [assemble the unit again](#Reassembling_the_unit).
+The case is held in place by 2 screws. Both screws are 4 inches long (goes through the whole body) and have a 8 mm hexadecimal head. To open the case, remove the 2 screws then pull out the back cover.
+
+**Warning**: removing the back cover will disconnect the [brushes](https://en.wikipedia.org/wiki/Brush_(electric)) from the [rotor](https://en.wikipedia.org/wiki/Rotor_(electric)) and you will need to [assemble the unit again](#Reassembling_the_unit).
 
 ## A fixed front cover
 
@@ -93,4 +96,6 @@ The Driver Cone does not require any explanation. Simply push the cone on the mo
 
 [![Hobbico TorqMaster Shaft without Driver Cone](/wp-content/uploads/2015/09/IMG_6770_LR5-300x200.jpg "Hobbico TorqMaster Shaft without Driver Cone")](/wp-content/uploads/2015/09/IMG_6770_LR5.jpg)
 
-Note: If you actually changed the rubber insert, it is much wiser to screw the Driver Cone in place **before** installing a new rubber insert.
+{{< pleasenote >}}
+  Note: If you actually changed the rubber insert, it is much wiser to screw the Driver Cone in place **before** installing a new rubber insert.
+{{< /pleasenote >}}

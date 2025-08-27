@@ -24,10 +24,18 @@ tags:
   - scripts
 
 ---
-
 # Purpose
 
-The subversion application does not offer native support for identifying changes to subversion properties as easily as changes to files. The purpose of this script is to allows a subversion user to find all revisions where a change to a specific property occurred. In other words, it's a "*show log for subversion properties*". Skip to the [download section](#Download) for quick download. Note that ***svnpropertylog*** is only available for Windows and has been tested on Windows 7 only.
+The subversion application does not offer native support for identifying changes to subversion properties as easily as changes to files.
+
+The purpose of this script is to allows a subversion user to find all revisions where a change to a specific property occurred. In other words, it's a "*show log for subversion properties*".
+
+Skip to the [download section](#Download) for quick download.
+
+{{< pleasenote >}}
+  Note that ***svnpropertylog*** is only available for Windows and has been tested on Windows 7 only.
+{{< /pleasenote >}}
+
 
 # Usage
 
@@ -43,7 +51,7 @@ The script has 5 command line arguments which are:
 
 The script is written in [VBScript](http://en.wikipedia.org/wiki/VBScript). Use the following to execute the script from a batch file (\*.bat) :
 
-```
+```batch
 @echo off
 cscript //nologo "%~dp0svnpropertylog.vbs" 9 13 "http://localhost/svn/svnpropertylog/tests/folder" "svn:externals" 1
 pause
@@ -88,7 +96,14 @@ Press any key to continue . . .
 
 # License
 
-This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **DISCLAIMER:**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details.
+
+You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+**DISCLAIMER:**
+This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 

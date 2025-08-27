@@ -16,7 +16,7 @@ Snippet:
     * [Multiplexing 2-position switches](/download/1486/)
     * [Multiplexing 2-position + 3-position switches](/download/1482/)
     * [Multiplexing 3-position switches](/download/1484/)
-    * [Multiplexing analog & switches](/download/1510/)
+    * [Multiplexing analog &amp; switches](/download/1510/)
     Code samples:
     * [[download id="2071" template="title"]](/download/2071/)
     * [[download id="2069" template="title"]](/download/2069/)
@@ -31,7 +31,6 @@ tags:
   - RC transmitter
 
 ---
-
 # Introduction
 
 In a personal project, I wanted to add 2 new devices to an existing quadcopter. The quadcopter was equipped with a 6-channel receiver meaning I only had 1 spare channel to control the 2 devices:
@@ -47,13 +46,22 @@ In a personal project, I wanted to add 2 new devices to an existing quadcopter. 
 | CH 6 | : | ??? |
 {{< /rc-channels >}}
 
-The following article explains how I manage to solve the issue: *How can I control more than one device using a single channel*. EDIT: To make all mixing pre-calculations easier, do not hesitate to use my [Mixing Calculator for R/C Transmitter](/rc-transmitter-mix-calculator/) (it's an Excel Sheet!)
+The following article explains how I manage to solve the issue: *How can I control more than one device using a single channel*.
+
+{{< postedit >}}
+  EDIT: To make all mixing pre-calculations easier, do not hesitate to use my [Mixing Calculator for R/C Transmitter](/rc-transmitter-mix-calculator/) (it's an Excel Sheet!)
+{{< /postedit >}}
 
 I could have used an 8-channel receiver to solve this but I did not had a free receiver that I could spare. This guide will show you how to multiplex RC transmitter switches (inputs) into a **single** channel.
 
 # Use a microcontroller
 
-For this type of project, 7 channels is usually required. The easiest method would have been to replace the receiver but since I like the DIY way, I decided to multiplex two switches into the 6th channel and use a microcontroller to read the signal and demultiplex each switches states. **Note:** This is only valid if there is a microcontroller connected with the receiver that  ***you***  can program to demultiplex the signal. Do not expect your proprietary flight controller to be able to understand your signal.
+For this type of project, 7 channels is usually required. The easiest method would have been to replace the receiver but since I like the DIY way, I decided to multiplex two switches into the 6th channel and use a microcontroller to read the signal and demultiplex each switches states.
+
+{{< pleasenote >}}
+  **Note:** This is only valid if there is a microcontroller connected with the receiver that  ***you***  can program to demultiplex the signal. Do not expect your proprietary flight controller to be able to understand your signal.
+{{< /pleasenote >}}
+
 
 # Multiplexing switches (only)
 
@@ -99,7 +107,9 @@ To multiplex two 2-position and one 3-position switches, 12 blocks are required 
 | 10 | 1 | 1 | 1 |
 | 11 | 1 | 1 | 2 |
 
-Note that each switch also requires a mix for working. The amount of switches you can multiplex is then also limited by the amount of mixes you can define in your transmitter.
+{{< pleasenote >}}
+  Note that each switch also requires a mix for working. The amount of switches you can multiplex is then also limited by the amount of mixes you can define in your transmitter.
+{{< /pleasenote >}}
 
 ## Supporting 3-position switches
 
@@ -145,7 +155,12 @@ Based on my observation, the best values for block size and dead zone size are a
 
 ## Mixes
 
-The following section defines mix that are required to implement two basic scenarios. Note that you can easily calculate the effect of a given mix by using my [RC Transmitter Mix Calculator](/rc-transmitter-mix-calculator/) to identify the minimum, middle and maximum values of a mix.
+The following section defines mix that are required to implement two basic scenarios.
+
+{{< pleasenote >}}
+  Note that you can easily calculate the effect of a given mix by using my [RC Transmitter Mix Calculator](/rc-transmitter-mix-calculator/) to identify the minimum, middle and maximum values of a mix.
+{{< /pleasenote >}}
+
 
 ### Four 2-position switches
 
@@ -182,7 +197,9 @@ The following mixes must be created to multiplex all switches unique configurati
 | 3 | C | 0 | -40 | 0 | 0 | 40 |
 | 4 | D | 0 | -80 | 0 | 0 | 80 |
 
-Note that first 2 mix are mapped to switch A. This is required since the minimum value of a High rate mix is -125% which gives a final mix value of -125% at Position 0. The only way to get a lower value (ie -146) would be to offset the mix (by -17) but then the Low rate value would have the same issue.
+{{< pleasenote >}}
+  Note that first 2 mix are mapped to switch A. This is required since the minimum value of a High rate mix is -125% which gives a final mix value of -125% at Position 0. The only way to get a lower value (ie -146) would be to offset the mix (by -17) but then the Low rate value would have the same issue.
+{{< /pleasenote >}}
 
 As you can see, the sum of all combined mixes matches the middle section of each effective block:
 
@@ -252,7 +269,9 @@ The following mixes must be created to multiplex all switches unique configurati
 | 4 | C | 0 | -60 | 0 | 0 |  | 60 |
 | 5 | D | 0 | -120 | 0 | 0 |  | 120 |
 
-Note that first 3 mix are mapped to switch A which is the 3-position switch. The first 2 mix are use to get a constant -136 on all positions. Then the 3rd mix moves the signal value over the first 3 blocks (to the previous, current or next block). As far as I know, there is no way to achieve the same result with only 2 mixes.
+{{< pleasenote >}}
+  Note that first 3 mix are mapped to switch A which is the 3-position switch. The first 2 mix are use to get a constant -136 on all positions. Then the 3rd mix moves the signal value over the first 3 blocks (to the previous, current or next block). As far as I know, there is no way to achieve the same result with only 2 mixes.
+{{< /pleasenote >}}
 
 As you can see, the sum of all combined mixes matches the middle section of each effective block:
 
@@ -330,7 +349,9 @@ The following mixes must be created to multiplex all switches unique configurati
 | 1 | B | -30 | -30 | 0 | -30 | 0 | 30 |
 | 2 | C | -90 | -90 | 0 | -90 | 0 | 90 |
 
-Note that only 3 mix is required for multiplexing three 3-position switches. Mixes are also centered around 0 (instead of starting at -150).
+{{< pleasenote >}}
+  Note that only 3 mix is required for multiplexing three 3-position switches. Mixes are also centered around 0 (instead of starting at -150).
+{{< /pleasenote >}}
 
 As you can see, the sum of all combined mixes matches the middle section of each effective block:
 
@@ -369,7 +390,11 @@ Use the {{% download old-id="1484" href="/wp-content/uploads/2016/02/Multiplexin
 
 ## Decoding
 
-Decoding the switches configuration is relatively easy: First identify the block number matching the signal's value using a sequence of "*if*" statements. Then, update switches state based on the currently selected block. Refer to tables above for offsets & switches states for each selected block. Note that if you get a signal value that is within the dead zone, it probably means that you have an issue with your transmitter mixes. Verify your mixes and try again.
+Decoding the switches configuration is relatively easy: First identify the block number matching the signal's value using a sequence of "*if*" statements. Then, update switches state based on the currently selected block. Refer to tables above for offsets & switches states for each selected block.
+
+{{< pleasenote >}}
+  Note that if you get a signal value that is within the dead zone, it probably means that you have an issue with your transmitter mixes. Verify your mixes and try again.
+{{< /pleasenote >}}
 
 Since reading switches states does not imply any analog value, you do not really care if the signal value is within the effective area (or not) so clamping is not necessary beside detecting instability issue in the signal. However, in the low probability that you get a signal within a dead zone, then the first dead zone should be considered as if you read the first value of the effective area and the last dead zone as the last value of the effective area.
 
@@ -377,7 +402,7 @@ Since reading switches states does not imply any analog value, you do not really
 
 [PinChangeInt ](https://github.com/GreyGnome/PinChangeInt)
 
-This library allows the arduino to attach interrupts on multiple pins. [eRCaGuy\_Timer2\_Counter ](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html) (optional)
+This library allows the arduino to attach interrupts on multiple pins. [eRCaGuy\_Timer2\_Counter ](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html) (optional).
 
 This library configures the arduino's timer2 to 0.5µs precision. It is used for a *micros()* function replacement and allows times calculations that are far more precise (8 times!) than the default's 4µs resolution.
 
@@ -385,7 +410,7 @@ This library configures the arduino's timer2 to 0.5µs precision. It is used for
 
 The following arduino code (\*.ino) can be used to demultiplex the three scenarios above:
 
-{{< hightlight-static-file file="/static/wp-content/uploads/2016/03/MultiplexDemultiplexDiscrete.ino" lang="" >}}
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/03/MultiplexDemultiplexDiscrete.ino" lang="cpp" >}}
 
 ### Sample data
 
@@ -400,7 +425,11 @@ The following arduino code (\*.ino) can be used to demultiplex the three scenari
 
 ## Design
 
-Including an analog value (usually a rotating knob) into the multiplexed signal is also possible. However, only a single analog value can be multiplexed. Please note that including an analog value reduces the number of switches that can be multiplexed into the signal.
+Including an analog value (usually a rotating knob) into the multiplexed signal is also possible. However, only a single analog value can be multiplexed.
+
+{{< pleasenote >}}
+  Please note that including an analog value reduces the number of switches that can be multiplexed into the signal.
+{{< /pleasenote >}}
 
 ## Define resolution
 
@@ -447,7 +476,9 @@ When multiplexing an analog value, mixes do not have to target the middle of the
 | 2 | A | 0 | -69 | 100 | 0 |  | 138 |
 | 3 | B | 0 | -46 | 100 | 0 | 46 | 92 |
 
-Note that first 2 mix are mapped to the right knob to reach the effective range of the first block (-147% to -108%). Switch B is a 3-position switch and offsets the analog range between block 0 to 2. Then the 3rd mix, assigned to Switch A (2-position), offsets the 3 effective block of switch B to block 0-2 or 3-5.
+{{< pleasenote >}}
+  Note that first 2 mix are mapped to the right knob to reach the effective range of the first block (-147% to -108%). Switch B is a 3-position switch and offsets the analog range between block 0 to 2. Then the 3rd mix, assigned to Switch A (2-position), offsets the 3 effective block of switch B to block 0-2 or 3-5.
+{{< /pleasenote >}}
 
 As you can see, the sum of all combined mixes matches the middle section of each effective block:
 
@@ -471,7 +502,15 @@ Use the {{% download old-id="1510" href="/wp-content/uploads/2016/02/Multiplexin
 
 ## Decoding
 
-Decoding an analog value with switches configuration is different: First identify the block number matching the signal's value using a sequence of "if" statements. Then [clamp](https://www.google.com/?q=clamp+integer+c%2B%2B) the value within the effective block area. This is required since the signal can get close to a dead zone (or even reach a dead zone!). To get the actual analog value, you must also offset the block's effective range to get a constant 0-39 range. Finally, update switches state based on the currently selected block. Refer to tables above for offsets & switches states for each selected block. Note that reading a value (with the micro-controller) that is outside the analog effective area should be considered the same as reading an analog value of 0 or 39 depending on the closest dead zone.
+Decoding an analog value with switches configuration is different:
+
+* First identify the block number matching the signal's value using a sequence of "if" statements.
+* Then [clamp](https://www.google.com/?q=clamp+integer+c%2B%2B) the value within the effective block area. This is required since the signal can get close to a dead zone (or even reach a dead zone!). To get the actual analog value, you must also offset the block's effective range to get a constant 0-39 range.
+* Finally, update switches state based on the currently selected block. Refer to tables above for offsets & switches states for each selected block.
+
+{{< pleasenote >}}
+  Note that reading a value (with the micro-controller) that is outside the analog effective area should be considered the same as reading an analog value of 0 or 39 depending on the closest dead zone.
+{{< /pleasenote >}}
 
 ### Code sample
 

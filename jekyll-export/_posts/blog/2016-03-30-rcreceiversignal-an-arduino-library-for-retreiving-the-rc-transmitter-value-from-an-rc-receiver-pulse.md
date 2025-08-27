@@ -30,14 +30,21 @@ tags:
   - RC transmitter
 
 ---
-
 # Introduction
 
-The following arduino library was written to use the findings found during the ***[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/)*** article. All results were wrapped into a library for ease of use. The RcReceiverSignal is an arduino library that allows one to read a signal sent from a Remote Controlled (RC) receiver. Skip to the [download section](#Download) for quick download.
+The following arduino library was written to use the findings found during the ***[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/)*** article. All results were wrapped into a library for ease of use.
+
+The RcReceiverSignal is an arduino library that allows one to read a signal sent from a Remote Controlled (RC) receiver.
+
+Skip to the [download section](#Download) for quick download.
 
 # Purpose
 
-The RcReceiverSignal library allows one to easily configure an input pin to read a PWM signal sent from a RC receiver by attaching a RcReceiverSignal instance to a pin connected the receiver and automatically monitor each pulse sent by the receiver. It allows the main loop to retrieve the latest received pulse length (PWM) and convert the pulse length back to the actual transmitter signal value (ranging from -150% to 150%). The library supports automatic PWM signal change detection. The library's ability to convert a PWM value to the actual transmitter numeric value is based on empirical tests available at ***[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/).***
+The RcReceiverSignal library allows one to easily configure an input pin to read a PWM signal sent from a RC receiver by attaching a RcReceiverSignal instance to a pin connected the receiver and automatically monitor each pulse sent by the receiver.
+
+It allows the main loop to retrieve the latest received pulse length (PWM) and convert the pulse length back to the actual transmitter signal value (ranging from -150% to 150%).
+
+The library supports automatic PWM signal change detection. The library's ability to convert a PWM value to the actual transmitter numeric value is based on empirical tests available at ***[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/).***
 
 # Library features
 
@@ -68,7 +75,7 @@ This library allows the arduino to attach interrupts on multiple pins.
 
 Use the DECLARE\_RECEIVER\_SIGNAL macro to declare an instance of RcReceiverSignal. ie:
 
-```
+```cpp
 DECLARE_RECEIVER_SIGNAL(receiver_aux1_handler);
 DECLARE_RECEIVER_SIGNAL(receiver_throttle_handler);
 ```
@@ -81,7 +88,7 @@ Each macro will automatically declare the following:
 
 In the *setup()* function, you need to configure each instance by calling the *receiver\_aux1\_handler\_setup()* function with the interrupt pin as argument. ie:
 
-```
+```cpp
 receiver_aux1_handler_setup(RECEIVER_AUX1_IN_PIN);
 receiver_throttle_handler_setup(RECEIVER_THROTTLE_IN_PIN);
 ```
@@ -90,7 +97,7 @@ In the loop function, one can call the *hasChanged()* method to know if the PWM 
 
 From a PWM value, one can call the *getSignalValue()* or *getDeviceSignalValue()* methods to convert a given PWM signal from a known device combination to a transmitter value (within -150% to +150%).
 
-# Demo
+## Demo
 
 The following demo show how to use the library:
 {{% download old-id="1794" href="/wp-content/uploads/2016/03/RcReceiverSignal-v1.0.124-LedUpdate.ino" %}}RcReceiverSignal-v1.0.124-LedUpdate.ino{{% /download %}}
@@ -99,7 +106,14 @@ The following demo show how to use the library:
 
 # License
 
-This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **DISCLAIMER:**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details.
+
+You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+**DISCLAIMER:**
+This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 

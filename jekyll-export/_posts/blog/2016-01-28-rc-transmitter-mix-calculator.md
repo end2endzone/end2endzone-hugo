@@ -15,8 +15,13 @@ tags:
   - RC transmitter
 
 ---
+This is an Excel worksheet I created based on the calculations I found for calculating most R/C Transmitter mixes. It is designed to help you identify the effective range of a mix (finding the low, medium and high values).
 
-This is an Excel worksheet I created based on the calculations I found for calculating most R/C Transmitter mixes. It is designed to help you identify the effective range of a mix (finding the low, medium and high values). See my post on [Demystifying RC Transmitter Mixing](/demystifying-rc-transmitter-mixing/) for more details. Please note the following calculator is valid on Spektrum Transmitters. I did not verified it's validity or accuracy on other transmitters.
+See my post on [Demystifying RC Transmitter Mixing](/demystifying-rc-transmitter-mixing/) for more details.
+
+{{< pleasenote >}}
+  Please note the following calculator is valid on Spektrum Transmitters. I did not verified it's validity or accuracy on other transmitters.
+{{< /pleasenote >}}
 
 # RC Transmitter Mix Calculator
 
@@ -39,4 +44,6 @@ Only white cells should be modified. Cells in light blue are the final mix value
 
 ## Download
 
-{{% download old-id="1255" href="/wp-content/uploads/2016/01/Mixing-Calculator-2.xlsx" %}}Mixing Calculator for R/C Transmitter{{% /download %}} Enjoy!
+{{% download old-id="1255" href="/wp-content/uploads/2016/01/Mixing-Calculator-2.xlsx" %}}Mixing Calculator for R/C Transmitter{{% /download %}}
+
+Enjoy!

@@ -27,14 +27,25 @@ tags:
   - open source
 
 ---
-
 # Introduction
 
-Here is another arduino library that I have written. As a desktop developer, I am not used to have memory (or even CPU) requirements as most developers will not look at memory consumption as an arduino developer would. Memory & CPU is cheap. If your application is struggling to run on today's computer, it will run smoothly in 1-2 years. As most arduino developers have faced, the amount of memory available on embedded devices is pretty limited. Having a way to save bits or our precious memory is interesting. BitReader is an arduino library that allows one to read or write data as chunks of bits. Skip to the [download section](#Download) for quick download.
+Here is another arduino library that I have written.
+
+As a desktop developer, I am not used to have memory (or even CPU) requirements as most developers will not look at memory consumption as an arduino developer would. Memory & CPU is cheap. If your application is struggling to run on today's computer, it will run smoothly in 1-2 years.
+
+As most arduino developers have faced, the amount of memory available on embedded devices is pretty limited. Having a way to save bits or our precious memory is interesting.
+
+BitReader is an arduino library that allows one to read or write data as chunks of bits.
+
+Skip to the [download section](#Download) for quick download.
 
 # Purpose
 
-This BitReader library allows one to read data which is not necessarily aligned on 8, 16 or 32 bits structures. Note that since you are encoding data in binary format (bits), the trade-off is that more code is required to process/decode the data and there is a small performance delay required for decoding the data
+This BitReader library allows one to read data which is not necessarily aligned on 8, 16 or 32 bits structures.
+
+{{< pleasenote >}}
+  Note that since you are encoding data in binary format (bits), the trade-off is that more code is required to process/decode the data and there is a small performance delay required for decoding the data
+{{< /pleasenote >}}
 
 The library is useful for storing or decoding data in binary format using the minimum amount of bits. For examples...
 
@@ -58,17 +69,21 @@ Create an instance of *BitReader*, *BitWriter* or *BitAddress* depending on the 
 * USE\_SINGLEBIT\_MACROS
 * USE\_BITADDRESS\_READ\_WRITE
 
-Then assign a reading or writing buffer using the *setBuffer()* method.Then call the *write()* method for writing bits to the assigned buffer or call the *read()* method for reading bits from the assigned buffer. Each method allows one to specify the amount of bits to read or write.
+Then assign a reading or writing buffer using the *setBuffer()* method.
+
+Then call the *write()* method for writing bits to the assigned buffer or call the *read()* method for reading bits from the assigned buffer. Each method allows one to specify the amount of bits to read or write.
 
 ## Making text strings shorter
 
-Storing words composed of only lower case letters, spaces and dots requires only 5 bits per characters instead of 8 bits (which saves 3 bits per character). The phase "*hello my name is antoine. i wrote the bitreader library.*" takes 56 bytes as an array of char but uses 35 bytes as 5 bits chunks. Allow 6 bits per characters and you can also include capital letters and numbers: "*Hello my name is Antoine. I wrote the BitReader library when I was 34 years old.*" takes 80 bytes as an array of char but only requires 60 bytes as 6 bits chunks.
+Storing words composed of only lower case letters, spaces and dots requires only 5 bits per characters instead of 8 bits (which saves 3 bits per character). The phase `hello my name is antoine. i wrote the bitreader library.` takes 56 bytes as an array of char but uses 35 bytes as 5 bits chunks.
+
+Allow 6 bits per characters and you can also include capital letters and numbers: `Hello my name is Antoine. I wrote the BitReader library when I was 34 years old.` takes 80 bytes as an array of char but only requires 60 bytes as 6 bits chunks.
 
 ## Shorter structures definition
 
 The library is particularly useful for dealing with [bit-field structures](http://en.cppreference.com/w/cpp/language/bit_field). Consider the following:
 
-```
+```cpp
 struct Person {
   char name[10];
   char birthDay;
@@ -81,7 +96,7 @@ struct Person {
 
 The *Person* structure requires 16 bytes in memory (10+1+1+2+1+1) or 128 bits. However, using bit-field structure, the *Person* structure can be defined as the following:
 
-```
+```cpp
 struct Person2 {
  uint8_t name[10]; //keep 8 bits per letters for compatibility.
  union
@@ -105,9 +120,11 @@ struct Person2 {
 };
 ```
 
-The *Person2* structure contains the same information as the *Person* structure but instead of using 128 bits in memory it only requires 105 bits (80+5+3+4+1+12). A *Person* could also be defined with masks:
+The *Person2* structure contains the same information as the *Person* structure but instead of using 128 bits in memory it only requires 105 bits (80+5+3+4+1+12)
 
-```
+A *Person* could also be defined with masks:
+
+```cpp
 struct Person3 {
   uint8_t name[10];
   uint32_t buffer;
@@ -124,7 +141,9 @@ In the last 2 scenarios (*Person2* and *Person3*), the BitReader library allows 
 
 ## Make data arrays much shorter
 
-Consider an algorithm that plays a [Morse code](https://en.wikipedia.org/wiki/Morse_code). Morse code defines 3 symbols that can be played: dots, dashes and pauses. For example, the following string "*Hello my name is Antoine. I wrote the BitReader library when I was 34 years old.*" (56 bytes) translate into Morse code as
+Consider an algorithm that plays a [Morse code](https://en.wikipedia.org/wiki/Morse_code). Morse code defines 3 symbols that can be played: dots, dashes and pauses.
+
+For example, the following string `Hello my name is Antoine. I wrote the BitReader library when I was 34 years old.` (56 bytes) translate into Morse code as
 
 ```
 .... . .-.. .-.. --- / -- -.-- / -. .- -- . / .. ... / .- -. 
@@ -146,7 +165,14 @@ The following demo show how to use the library:
 
 # License
 
-This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **DISCLAIMER:**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details.
+
+You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+**DISCLAIMER:**
+This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 

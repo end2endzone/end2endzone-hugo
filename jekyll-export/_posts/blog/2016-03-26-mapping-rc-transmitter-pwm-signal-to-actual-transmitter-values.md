@@ -13,9 +13,9 @@ Snippet:
   - |
     |
         Data capture sessions:
-        * [Spektrum DX9 Tx & Orange R620X Rx](/download/1618/)
-        * [Spektrum DX9 Tx & Spektrum AR8000 Rx](/download/1620/)
-        * [Tactic TTX600 Tx & Tactic TR624 Rx](/download/1614/)
+        * [Spektrum DX9 Tx &amp; Orange R620X Rx](/download/1618/)
+        * [Spektrum DX9 Tx &amp; Spektrum AR8000 Rx](/download/1620/)
+        * [Tactic TTX600 Tx &amp; Tactic TR624 Rx](/download/1614/)
         * [CCPM Servo Tester](/download/1616/)
         
 categories:
@@ -27,7 +27,6 @@ tags:
   - RC transmitter
 
 ---
-
 # Introduction
 
 If you ever need to use an RC Transmitter & receiver for a personal project, an easy way to retrieve the signal is to connect the receiver to a micro-controller.
@@ -85,7 +84,9 @@ Theoretical values is never as good as real world observations.
 
 For the data capture, I used an [Arduino Nano V3](https://www.arduino.cc/en/Main/ArduinoBoardNano) micro-controller. With the help of multiple libraries, I created a program to capture each pulse length of critical target point for a given amount of time. Since the length of each pulse is not perfectly constant, I extracted the average pulse length. Matching different points, I calculated multiple trend line formulas in [polynomial](https://en.wikipedia.org/wiki/Polynomial) format. I then calculate each formula performance against all other points. Finally, I identify the best formula to be used in real projects.
 
-Note that all raw data capture are available for download as Excel files (\*.xlsx) in sections below.
+{{< pleasenote >}}
+  Note that all raw data capture are available for download as Excel files (\*.xlsx) in sections below.
+{{< /pleasenote >}}
 
 ## Required Libraries
 
@@ -123,13 +124,17 @@ The following section show the results of all my data capture sessions. Each dev
 
 Table 2 shows selected control points and the polynomial function for the selected points. Multiple polynomial functions are found using different control points.
 
-Note that pulse length from most devices are not perfectly linear. This means that most of the time, more than 2 control points are required to get a polynomial function that is accurate.
+{{< pleasenote >}}
+  Note that pulse length from most devices are not perfectly linear. This means that most of the time, more than 2 control points are required to get a polynomial function that is accurate.
+{{< /pleasenote >}}
 
 **Table 3**
 
 Table 3 shows each function's performance trying to properly predict a transmitter value from a pulse length. The function that offers the best performance is selected as the final function.
 
-Note that some devices are low quality products and are not always constant or does not provide constant transmitter value.
+{{< pleasenote >}}
+  Note that some devices are low quality products and are not always constant or does not provide constant transmitter value.
+{{< /pleasenote >}}
 
 # Devices
 
@@ -315,7 +320,9 @@ The TTX600 transmitter is not digital. This means that it is hard to reproduce t
 
 For extracting the data, I assumed that moving ***any*** sticks to the top, bottom, left and right position would always match a perfect 100% (or -100%). Other values (+60%, -60%) are based on the documentation manual which states that high and low dual rates are based on a 100% and 60% ratio.
 
-Note that each channel section are identified by a unique color which helps to identify the source of each Polynomial Equation.
+{{< pleasenote >}}
+  Note that each channel section are identified by a unique color which helps to identify the source of each Polynomial Equation.
+{{< /pleasenote >}}
 
 **Table 1**
 
@@ -387,7 +394,10 @@ The two tables above shows two polynomial functions (see highlighted columns) th
 * Function #8 (which has an order of 2) and a sum of 7.21.
 * All polynomial function which has an order of 1 shows terrible prediction performance.
 
-Note that best function for channel 1 (function #7) shows terrible results when used in calculations of channel 2. That is also for function 8. This means that there is no generic function that can be used for all channel situations. As a proof, function #6 which is based on all observed values for all channels shows terrible results.
+{{< pleasenote >}}
+  Note that best function for channel 1 (function #7) shows terrible results when used in calculations of channel 2. That is also for function 8. This means that there is no generic function that can be used for all channel situations. As a proof, function #6 which is based on all observed values for all channels shows terrible results.
+{{< /pleasenote >}}
+
 
 In other words, reading the PWM length or the *Tactic TTX600 Tx & Tactic TR624 Rx combination* can only be used for detecting if the sticks are "up", "centered" or "down" but not really "how much up or down".
 
@@ -420,7 +430,9 @@ The CCPM Servo Tester shows a PWM range from **900 µs** to **2210 µs**. The fo
 | 0 | 1504.75 | 1501 | 1511 | 10 | 1506 | CENTER |
 | -100 | 903.77 | 900 | 909 | 9 | 904.5 | CCW |
 
-Note that values for the CCPM Server Tester (100, -100) are assumptions and represents clockwise and counterclockwise positions of the potentiometer. In fact, based on the observed PWM values, the values should be more in the (133, -133) range according the *[Spektrum DX9 Tx & Orange R620X Rx](#Spektrum_DX9_Tx_Orange_R620X_Rx)* results or in (150, -150) range according the *[Spektrum DX9 Tx & Spektrum AR8000 Rx](#Spektrum_DX9_Tx_Spektrum_AR8000_Rx)* results.
+{{< pleasenote >}}
+  Note that values for the CCPM Server Tester (100, -100) are assumptions and represents clockwise and counterclockwise positions of the potentiometer. In fact, based on the observed PWM values, the values should be more in the (133, -133) range according the *[Spektrum DX9 Tx & Orange R620X Rx](#Spektrum_DX9_Tx_Orange_R620X_Rx)* results or in (150, -150) range according the *[Spektrum DX9 Tx & Spektrum AR8000 Rx](#Spektrum_DX9_Tx_Spektrum_AR8000_Rx)* results.
+{{< /pleasenote >}}
 
 **Table 2**  
 From these values, I extracted the following polynomial functions:
@@ -442,7 +454,9 @@ The following table shows details for calculating the performance of each polyno
 | -100 | 903.77 | -100 | 0 | -100 | 0.32 | -100 | 0 | -100 | 0.06 |
 |  |  |  | 0.16 |  | 0.32 |  | 0.32 |  | 0.45 |
 
-Note that only 3 control points are available which means that all performance calculations will always match 2/3 controls points (since the equation is derived from these 2 points). Performance calculations are irrelevant in this particular situation.
+{{< pleasenote >}}
+  Note that only 3 control points are available which means that all performance calculations will always match 2/3 controls points (since the equation is derived from these 2 points). Performance calculations are irrelevant in this particular situation.
+{{< /pleasenote >}}
 
 Even if the performance of function #3 seem to be the worst, it seems like it is the one that is the most promising since it takes into account all control points.
 

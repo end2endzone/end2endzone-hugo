@@ -15,12 +15,25 @@ tags:
   - scripts
 
 ---
-
-Please note that **csvplot** source code is now moved to GitHub. Source code can be downloaded from the project's [GitHub page](http://github.com/end2endzone/csvplot).
+{{< postedit >}}
+  Please note that **csvplot** source code is now moved to GitHub. Source code can be downloaded from the project's [GitHub page](http://github.com/end2endzone/csvplot).
+{{< /postedit >}}
 
 # Purpose
 
-I do software prototyping using a wide range of programming language. I often have to generate data that changes over time which is mostly displayed in a grid format. However, that's not the best way to understand how the data changes over time compared to plotting the data to a graph. Most programming language I know does not offer a native library for plotting data to a graph. It is not an easy task. Most programming language often require external libraries for implementing the process and each library does not work the same way. Excel is a native platform for parsing Comma-separated values (CSV) files and can be scripted to plot the result into an image. The purpose of this script is to allows any programming language which generates data to plot the data into an image by saving the raw data to a CSV file and then using the power of Excel to plot the result into an image. Skip to the [download section](#Download) for quick download. Note that ***csvplot*** is only available for Windows and has been tested on Windows 7 only.
+I do software prototyping using a wide range of programming language. I often have to generate data that changes over time which is mostly displayed in a grid format. However, that's not the best way to understand how the data changes over time compared to plotting the data to a graph.
+
+Most programming language I know does not offer a native library for plotting data to a graph. It is not an easy task. Most programming language often require external libraries for implementing the process and each library does not work the same way.
+
+Excel is a native platform for parsing Comma-separated values (CSV) files and can be scripted to plot the result into an image.
+
+The purpose of this script is to allows any programming language which generates data to plot the data into an image by saving the raw data to a CSV file and then using the power of Excel to plot the result into an image.
+
+Skip to the [download section](#Download) for quick download.
+
+{{< pleasenote >}}
+  Note that ***csvplot*** is only available for Windows and has been tested on Windows 7 only.
+{{< /pleasenote >}}
 
 # Features
 
@@ -37,7 +50,9 @@ The script has some limitations which are explained here.
 
 ## Output image
 
-The resolution of the output image may be +- 1 pixels different than what is requested on command line. This is a limitation of how Excel processes image dimensions since it uses "points" as base unit and not actual pixels. A conversion from pixels to points must be calculated which may contains small accuracy error. The only supported image format is PNG. It is still unknown if Excel actually support JPG for exporting graphs but PNG seems to be the perfect candidate since its a lossless compressed format.
+The resolution of the output image may be +- 1 pixels different than what is requested on command line. This is a limitation of how Excel processes image dimensions since it uses "points" as base unit and not actual pixels. A conversion from pixels to points must be calculated which may contains small accuracy error.
+
+The only supported image format is PNG. It is still unknown if Excel actually support JPG for exporting graphs but PNG seems to be the perfect candidate since its a lossless compressed format.
 
 ## Column Titles
 
@@ -60,13 +75,15 @@ The command for launching the script is as follows. The script must be called wi
 | Serie #n, X column | ... |
 | Serie #n, Y column | ... |
 
-Note that column indice are 1-based and not 0-based. This means that column A is column 1 and not column 0.
+{{< pleasenote >}}
+  Note that column indice are 1-based and not 0-based. This means that column A is column 1 and not column 0.
+{{< /pleasenote >}}
 
 ## Execution (command line)
 
 The script is written in [VBScript](http://en.wikipedia.org/wiki/VBScript). Use the following to execute the script from a batch file (\*.bat) :
 
-```
+```batch
 @echo off
 cscript //nologo "%~dp0csvplot.vbs" path\to\demo.csv path\to\demo.png 800 600 1 2
 pause
@@ -78,7 +95,7 @@ On execution, the following output is produced by the script:
 
 [![csvplot Command Line Output](/wp-content/uploads/2016/07/csvplot-command-line-output.png "csvplot Command Line Output")](/wp-content/uploads/2016/07/csvplot-command-line-output.png)
 
-```
+```sh
 Microsoft Windows [Version 6.1.7601]
 Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
 
@@ -97,7 +114,11 @@ C:\Temp\csvplotdemo>
 
 # Code
 
-The code below can be downloaded by clicking on the following link: Please note that download links are now deprecated. Binary version of **csvplot** can be downloaded from the project's [Release page](http://github.com/end2endzone/csvplot/releases/latest).
+The code below can be downloaded by clicking on the following link:
+
+{{< pleasenote >}}
+  Please note that download links are now deprecated. Binary version of **csvplot** can be downloaded from the project's [Release page](http://github.com/end2endzone/csvplot/releases/latest).
+{{< /pleasenote >}}
 
 # Samples
 
@@ -105,26 +126,44 @@ The following section shows some example of using cvsplot to plot a series
 
 ## Apple Share Prices
 
-The following example show the Apple Share Prices closing value over the year 2015. The data is provided by Nasdaq at the following address: <http://www.nasdaq.com/symbol/aapl/historical>. The CSV data can be downloaded here: {{% download old-id="2212" href="/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.csv" %}}Apple-Share-Prices-over-time-2015.csv{{% /download %}}
+The following example show the Apple Share Prices closing value over the year 2015. The data is provided by Nasdaq at the following address: <http://www.nasdaq.com/symbol/aapl/historical>.
+
+The CSV data can be downloaded here: {{% download old-id="2212" href="/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.csv" %}}Apple-Share-Prices-over-time-2015.csv{{% /download %}}
 
 [![Apple Share Prices over time (2015) plot using cvsplot](/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png "Apple Share Prices over time (2015) plot using cvsplot")](/wp-content/uploads/2016/08/Apple-Share-Prices-over-time-2015.png)
 
 ## Car Engine Model
 
-The following show a hypothetical car engine model which speed increase of decrease over time based on the feedback of the gas pedal. The CSV data can be downloaded here: {{% download old-id="2214" href="/wp-content/uploads/2016/08/CarEngineModel.csv" %}}CarEngineModel.csv{{% /download %}}
+The following show a hypothetical car engine model which speed increase of decrease over time based on the feedback of the gas pedal.
+
+The CSV data can be downloaded here: {{% download old-id="2214" href="/wp-content/uploads/2016/08/CarEngineModel.csv" %}}CarEngineModel.csv{{% /download %}}
 
 [![Car Engine Model plot using cvsplot](/wp-content/uploads/2016/07/csvplot.CarEngineModel.png "Car Engine Model plot using cvsplot")](/wp-content/uploads/2016/07/csvplot.CarEngineModel.png)
 
 ## Sin(x), Cos(x) and Log(x)
 
-The following show a graph of sin(), cos() and log() function in Excel. The CSV data can be downloaded here: {{% download old-id="2216" href="/wp-content/uploads/2016/08/sinxcosxlogx.csv" %}}sinxcosxlogx.csv{{% /download %}}
+The following show a graph of sin(), cos() and log() function in Excel.
+
+The CSV data can be downloaded here:
+{{% download old-id="2216" href="/wp-content/uploads/2016/08/sinxcosxlogx.csv" %}}sinxcosxlogx.csv{{% /download %}}
 
 [![sin(x), cos(x) & log(x) plot using cvsplot](/wp-content/uploads/2016/08/sinxcosxlogx.png "sin(x), cos(x) & log(x) plot using cvsplot")](/wp-content/uploads/2016/08/sinxcosxlogx.png)
 
 # License
 
-This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA **DISCLAIMER:**This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details.
+
+You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+**DISCLAIMER:**
+This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 
-You can download ***csvplot*** by clicking on the following link: Please note that download links are now deprecated. Binary version of **csvplot** can be downloaded from the project's [Release page](http://github.com/end2endzone/csvplot/releases/latest).
+You can download ***csvplot*** by clicking on the following link:
+
+{{< pleasenote >}}
+  Please note that download links are now deprecated. Binary version of **csvplot** can be downloaded from the project's [Release page](http://github.com/end2endzone/csvplot/releases/latest).
+{{< /pleasenote >}}

@@ -31,14 +31,27 @@ tags:
   - RC
 
 ---
-
 # Introduction
 
-The reason I started this project is because I recently had a bad experience flying a quadcopter too far from me until I was not able to distinguish if the quad was facing me or not. It does not require much distance before a quadcopter looks like a tiny black dot in the sky. Basically, I lost orientation of the quad and I had to land way too far from my takeoff location. I was in need of more tools (or more ways) to help myself when I will inevitably get into this situation again. The following project explains how I build a DIY solution to help a pilot know a quadcopter orientation when its far away from the point of view and easily locate the quadcopter in case of emergency landing.
+The reason I started this project is because I recently had a bad experience flying a quadcopter too far from me until I was not able to distinguish if the quad was facing me or not. It does not require much distance before a quadcopter looks like a tiny black dot in the sky. Basically, I lost orientation of the quad and I had to land way too far from my takeoff location.
+
+I was in need of more tools (or more ways) to help myself when I will inevitably get into this situation again. The following project explains how I build a DIY solution to help a pilot know a quadcopter orientation when its far away from the point of view and easily locate the quadcopter in case of emergency landing.
 
 # Background story
 
-I have been flying planes for many years now and over time, I learned to increase my skills and I became a nice pilot. I am still new to the RC hobby and I got pulled into flying quadcopters. Quadcopters are not piloted the same way as planes. They look safer or easier to pilot since you can always slow down and hover if anything gets out of control. Recently, I had an interesting experience. I was flying my quad for around 3 months and I felt too much confident: I wanted to try doing flips. Coming from a plane world, I though that climbing to a safe altitude would be the best strategy in case something went wrong. I got carried away and I ended up to a much higher altitude and further away than I was used to. I tried to drop height and drive the quadcopter back to me but it was too late. The wind was so strong that it moved the quad further away and made the quadcopter swirl. I quickly lost orientation of the quad and had no way to bring it back. Luckily, a more experienced pilot help me get the quadcopter back to a safe landing zone which was 615 meters away from my takeoff location. It took me 3 hours to locate the landing site and find the quad which was still intact! I learn multiple things this day:
+I have been flying planes for many years now and over time, I learned to increase my skills and I became a nice pilot. I am still new to the RC hobby and I got pulled into flying quadcopters.
+
+Quadcopters are not piloted the same way as planes. They look safer or easier to pilot since you can always slow down and hover if anything gets out of control.
+
+Recently, I had an interesting experience. I was flying my quad for around 3 months and I felt too much confident: I wanted to try doing flips. Coming from a plane world, I though that climbing to a safe altitude would be the best strategy in case something went wrong.
+
+I got carried away and I ended up to a much higher altitude and further away than I was used to. I tried to drop height and drive the quadcopter back to me but it was too late. The wind was so strong that it moved the quad further away and made the quadcopter swirl. I quickly lost orientation of the quad and had no way to bring it back.
+
+Luckily, a more experienced pilot help me get the quadcopter back to a safe landing zone which was 615 meters away from my takeoff location.
+
+It took me 3 hours to locate the landing site and find the quad which was still intact!
+
+I learn multiple things this day:
 
 1. I was lacking experience and I need much more practice before attempting stupid aerobatics.
 2. Getting altitude for quadcopters is not as safe as for planes.
@@ -55,7 +68,11 @@ The DIY solution consist of adding two devices on the quadcopter each device for
 
 [![10 Watt LEDs](/wp-content/uploads/2016/07/10-Watt-LEDs-300x169.jpg "10 Watt LEDs")](/wp-content/uploads/2016/07/10-Watt-LEDs.jpg)
 
-The first device is a 10 watts light-emitting diode (LED) mounted to the front of the quadcopter. This option adds to existing visual aids and help the pilot to develop his situation awareness. The front LED allows the pilot to know when the quadcopter is facing him and help the pilot recover in case of lost orientation. This type of LED is quite bright and provides 900 to 1000 lumens of light which makes it a good candidate to be seen from far away. As an example, here is a picture of the LED mounted to the quadcopter seen from 333 meters away.
+The first device is a 10 watts light-emitting diode (LED) mounted to the front of the quadcopter. This option adds to existing visual aids and help the pilot to develop his situation awareness. The front LED allows the pilot to know when the quadcopter is facing him and help the pilot recover in case of lost orientation.
+
+This type of LED is quite bright and provides 900 to 1000 lumens of light which makes it a good candidate to be seen from far away.
+
+As an example, here is a picture of the LED mounted to the quadcopter seen from 333 meters away.
 
 [![Quadcopter 10 watts LED seen from 333 meters away](/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-on-from-333-meters.png "Quadcopter 10 watts LED seen from 333 meters away")](/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-on-from-333-meters.png)
 
@@ -63,25 +80,45 @@ To help locate the LED location, here is the same point of view with the LED tur
 
 [![Quadcopter 10 watts LED OFF](/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-off-from-333-meters.png "Quadcopter 10 watts LED OFF")](/wp-content/uploads/2016/06/10w-Quadcopter-LED-turned-off-from-333-meters.png)
 
-Note that both images are cropped version of [the original image](/wp-content/uploads/2016/07/10w-Quadcopter-LED-full-image.jpg) which have a much bigger field-of-view.
+{{< pleasenote >}}
+  Note that both images are cropped version of [the original image](/wp-content/uploads/2016/07/10w-Quadcopter-LED-full-image.jpg) which have a much bigger field-of-view.
+{{< /pleasenote >}}
 
 ## Lost plane alarm finder
 
 [![Piezoelectric Buzzer - Audible Alarm Sound Buzzers](/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers-300x169.jpg "Piezoelectric Buzzer - Audible Alarm Sound Buzzers")](/wp-content/uploads/2016/07/Piezoelectric-Buzzer-Audible-Alarm-Sound-Buzzers.jpg)
 
-The second device is a 95 decibel (dB) [piezoelectric speaker](http://en.wikipedia.org/wiki/Piezoelectric_speaker). This allows the quadcopter to be easily found in case of a crash or an emergency landing. For example, if one enter [Failsafe mode](http://wiki.dji.com/en/index.php/Naza-M_Enhanced_Failsafe), the quadcopter can land immediately (or [Return To Home](http://wiki.dji.com/en/index.php/Inspire_1_Pro-Return_to_Home_(RTH)) but that is out of scope) and there is a good chance that it will be far from your takeoff location. Tracking a beep-beep-beep sound is much more easier than estimating the landing location 1 km away. There are already tons of existing options for a search alarm buzzer on the market, each with their own pros and cons. [Some buzzer](http://www.hobbyking.com/hobbyking/store/__14521__HobbyKing_174_Discovery_Buzzer.html) must be connected to a dedicated channel and make sound when flipping a switch on your controller. [Others](http://www.hobbyking.com/hobbyking/store/__13064__Signal_loss_Alarm_Lost_Plane_Finder.html) must be connected in series with the throttle channel and rings if the throttle signal has not changed for more than 60 seconds. However, I prefer the [DIY way](/tag/diy/) since it gives more personal satisfaction and the selected option is always the preferred one for my personal needs. With the DIY route, the piezo buzzer is much louder reaching peaks of 96 dB instead of 60-70 dB since the piezo is powered by the LiPo battery (in my case a 3S 11.1 volts) instead of a poor 5 volts. The sound volume for piezo buzzer is proportional to the voltage used to power the device meaning that a 4S LiPo battery (14.8v) would make it louder than a 3S LiPo.
+The second device is a 95 decibel (dB) [piezoelectric speaker](http://en.wikipedia.org/wiki/Piezoelectric_speaker). This allows the quadcopter to be easily found in case of a crash or an emergency landing. For example, if one enter [Failsafe mode](http://wiki.dji.com/en/index.php/Naza-M_Enhanced_Failsafe), the quadcopter can land immediately (or [Return To Home](http://wiki.dji.com/en/index.php/Inspire_1_Pro-Return_to_Home_(RTH)) but that is out of scope) and there is a good chance that it will be far from your takeoff location. Tracking a beep-beep-beep sound is much more easier than estimating the landing location 1 km away.
+
+There are already tons of existing options for a search alarm buzzer on the market, each with their own pros and cons. [Some buzzer](http://www.hobbyking.com/hobbyking/store/__14521__HobbyKing_174_Discovery_Buzzer.html) must be connected to a dedicated channel and make sound when flipping a switch on your controller. [Others](http://www.hobbyking.com/hobbyking/store/__13064__Signal_loss_Alarm_Lost_Plane_Finder.html) must be connected in series with the throttle channel and rings if the throttle signal has not changed for more than 60 seconds.
+
+However, I prefer the [DIY way](/tag/diy/) since it gives more personal satisfaction and the selected option is always the preferred one for my personal needs.
+
+With the DIY route, the piezo buzzer is much louder reaching peaks of 96 dB instead of 60-70 dB since the piezo is powered by the LiPo battery (in my case a 3S 11.1 volts) instead of a poor 5 volts. The sound volume for piezo buzzer is proportional to the voltage used to power the device meaning that a 4S LiPo battery (14.8v) would make it louder than a 3S LiPo.
 
 ## Microcontroller
 
 [![Arduino Nano v3](/wp-content/uploads/2016/07/Arduino-Nano-v3-300x169.jpg "Arduino Nano v3")](/wp-content/uploads/2016/07/Arduino-Nano-v3.jpg)
 
-What is different about this project is that it includes an [arduino nano v3](http://www.arduino.cc/en/Main/ArduinoBoardNano), which is a microcontroller. The arduino act as the brain between the pilot and the on-board devices. It allows control of both the LED and the piezo buzzer by reading the quadcopter's receiver signal and forwarding the pilot commands to each device. This configuration offers much more possibilities. The most obvious is that each device is controlled by the microcontroller instead of a direct channel. This allows advanced logic to be used to implement more features. As an example, I don't want the LED always turned ON and certainly don't need to have the alarm buzzing during the flight when everything is going well. So I had to come up with a way to control both devices with the transmitter. The big innovation about this project is that **both devices** are controlled by the quadcopter transmitter using only a **single** channel. As bonus points, with the help of the arduino, the piezo buzzer can be used as a "cellphone ringtone player" to ring the geekiest melodies...
+What is different about this project is that it includes an [arduino nano v3](http://www.arduino.cc/en/Main/ArduinoBoardNano), which is a microcontroller. The arduino act as the brain between the pilot and the on-board devices. It allows control of both the LED and the piezo buzzer by reading the quadcopter's receiver signal and forwarding the pilot commands to each device.
+
+This configuration offers much more possibilities. The most obvious is that each device is controlled by the microcontroller instead of a direct channel. This allows advanced logic to be used to implement more features.
+
+As an example, I don't want the LED always turned ON and certainly don't need to have the alarm buzzing during the flight when everything is going well. So I had to come up with a way to control both devices with the transmitter.
+
+The big innovation about this project is that **both devices** are controlled by the quadcopter transmitter using only a **single** channel.
+
+As bonus points, with the help of the arduino, the piezo buzzer can be used as a "cellphone ringtone player" to ring the geekiest melodies...
 
 # Project data
 
 ## Components and Supplies
 
-All the hardware components required for this project are available for purchase on eBay. Note that this project assumes that the arduino will be connected to a Remote Controlled (RC) 6-channels Receiver. This part for the project is then not listed as a 'required' component.
+All the hardware components required for this project are available for purchase on eBay.
+
+{{< pleasenote >}}
+  Note that this project assumes that the arduino will be connected to a Remote Controlled (RC) 6-channels Receiver. This part for the project is then not listed as a 'required' component.
+{{< /pleasenote >}}
 
 The material for this project is as follows:
 
@@ -105,23 +142,35 @@ The material for this project is as follows:
 
 [![MR16 12v 10w LED Driver](/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver-300x169.jpg "MR16 12v 10w LED Driver")](/wp-content/uploads/2016/07/MR16-12v-10w-LED-Driver.jpg)
 
-The MR16 Constant Current LED Driver is used to drive the 10w LED. It can easily be found on eBay and light stores since the driver is used to power LED lamps which happens to use 10w LEDs. The controller is not cheap but looks like the best logical choice. On a quadcopter, every grams counts and this driver is very light and it is the smallest form factor circuit that I could find. I am not that much concerned about power efficiency of the driver since the project is to be mounted to a quadcopter. The small 10w LED is not significant when compared to the 4 brushless motors.
+The MR16 Constant Current LED Driver is used to drive the 10w LED. It can easily be found on eBay and light stores since the driver is used to power LED lamps which happens to use 10w LEDs.
+
+The controller is not cheap but looks like the best logical choice. On a quadcopter, every grams counts and this driver is very light and it is the smallest form factor circuit that I could find.
+
+I am not that much concerned about power efficiency of the driver since the project is to be mounted to a quadcopter. The small 10w LED is not significant when compared to the 4 brushless motors.
 
 ### N-Channel Power Mosfet
 
 [![IRF630N N-Channel 200V, 9.3A, 0.30-Ohm TO-220AB Power Mosfet](/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet-300x169.jpg "IRF630N N-Channel 200V, 9.3A, 0.30-Ohm TO-220AB Power Mosfet")](/wp-content/uploads/2016/07/IRF630N-N-Channel-200V-9.3A-0.30-Ohm-TO-220AB-Power-Mosfet.jpg)
 
-My original design only required a single mosfet and was used as a switch to trigger the MR16 LED driver and a simple NPN Transistor (like the 2N2222A) which was also used as a switch to trigger the piezo buzzer. This setup was working fine on the arduino development board which provides 5 volts. However, once I connected the board to my 3S LiPo battery, which is 11.1 volts, the gate of the 2N2222A started leaking from collector to emitter without a signal sent to the base (in other words, the switch was always closed). The piezo buzzer started ringing without me understanding why. Please note that your wife may get mad at you if you let the piezo buzzer ring for too long. Better use higher rated transistor!
+My original design only required a single mosfet and was used as a switch to trigger the MR16 LED driver and a simple NPN Transistor (like the 2N2222A) which was also used as a switch to trigger the piezo buzzer. This setup was working fine on the arduino development board which provides 5 volts. However, once I connected the board to my 3S LiPo battery, which is 11.1 volts, the gate of the 2N2222A started leaking from collector to emitter without a signal sent to the base (in other words, the switch was always closed). The piezo buzzer started ringing without me understanding why.
+
+{{< pleasenote >}}
+  Please note that your wife may get mad at you if you let the piezo buzzer ring for too long. Better use higher rated transistor!
+{{< /pleasenote >}}
 
 I used the IRF630N mosfet for driving both the LED and the piezo buzzer. The mosfet is rated for much higher current and voltage (200V, 9.3A) for this scenario but it is relatively cheap and I had plenty of those at home.
 
 ## Payload
 
-I didn't take the time to calculate the weight of each component individually. Anyway that would not be really helpful since I do not expect anyone to actually try to optimize the circuit by replacing some components by lightweight version. The total weight of the package is 37.5 grams. This is calculated using a high precision scale and it includes everything that is required for using the controller in the field. In other words, it also includes the wrapping foam the BBQ sticks and wires.
+I didn't take the time to calculate the weight of each component individually. Anyway that would not be really helpful since I do not expect anyone to actually try to optimize the circuit by replacing some components by lightweight version.
+
+The total weight of the package is 37.5 grams. This is calculated using a high precision scale and it includes everything that is required for using the controller in the field. In other words, it also includes the wrapping foam the BBQ sticks and wires.
 
 ## Total cost of the project
 
-This project is really cheap and can be completed with less than 30$. Here is the detailed price of each items:
+This project is really cheap and can be completed with less than 30$.
+
+Here is the detailed price of each items:
 
 | Item | Link | Quantity | Total |
 |---|---|---|---|
@@ -142,7 +191,11 @@ Notes:
 2. Lowest price is for 2 pieces.
 3. For a pack of 50 pieces.
 
-Total cost: $20.40 Note that cost of usual items such as solder paste, soldering iron, multimeter and base material like wrapping foam is not included in the cost of the project.
+Total cost: $20.40
+
+{{< pleasenote >}}
+  Note that cost of usual items such as solder paste, soldering iron, multimeter and base material like wrapping foam is not included in the cost of the project.
+{{< /pleasenote >}}
 
 ## Preparation time
 
@@ -152,7 +205,9 @@ The whole project can be completed in 5 to 8 hours. This is actually a rough est
 * You have basic soldering skills. The duration of this project may change depending on how much you are comfortable with a soldering iron.
 * You are familiar with the arduino prototyping platform. This guide will not cover how to compile the code/libraries and upload it to the arduino. There are plenty of guides and tutorials on the internet that can help you on this matter.
 
-To make this project a reality, I had to invest much more time. Actually, from beginning to the end, it took somewhere between 50 to 80 hours. I had to learn new skills like basic electronics, designing circuits, using Fritzing software and the arduino platform but most of the time was spent on documenting and debugging the code!(there are still improvements, [see below](#Made_anything_differently)). I decided to post this project so that others may benefit from my experience. The project can be used as a proof of concept, all issues that I encountered are already documented and the code for the project is released to the public.
+To make this project a reality, I had to invest much more time. Actually, from beginning to the end, it took somewhere between 50 to 80 hours. I had to learn new skills like basic electronics, designing circuits, using Fritzing software and the arduino platform but most of the time was spent on documenting and debugging the code!(there are still improvements, [see below](#Made_anything_differently)).
+
+I decided to post this project so that others may benefit from my experience. The project can be used as a proof of concept, all issues that I encountered are already documented and the code for the project is released to the public.
 
 # Schematics
 
@@ -162,7 +217,9 @@ The following section shows the drawings and the schematics used by the controll
 
 [![Fritzing - Open-Source Hardware Initiative Tool](/wp-content/uploads/2016/10/fritzing_logo_new-1024x410.png "Fritzing - Open-Source Hardware Initiative Tool")](/wp-content/uploads/2016/10/fritzing_logo_new.png)
 
-All drawings and diagrams are build using [Fritzing](http://fritzing.org/home/) version 0.9.2b which is an open-source hardware initiative tool that allows developers to document their prototypes and share them with others. The application already features a huge parts library but there is no support for a [Generic Remote Controlled (RC) 6-Channels Receiver](#Components_and_Supplies) and for the [MR16 Constant Current LED Driver](#Components_and_Supplies). The additional parts which are required for rendering the project are available for download:
+All drawings and diagrams are build using [Fritzing](http://fritzing.org/home/) version 0.9.2b which is an open-source hardware initiative tool that allows developers to document their prototypes and share them with others. The application already features a huge parts library but there is no support for a [Generic Remote Controlled (RC) 6-Channels Receiver](#Components_and_Supplies) and for the [MR16 Constant Current LED Driver](#Components_and_Supplies).
+
+The additional parts which are required for rendering the project are available for download:
 
 * {{% download old-id="2237" href="/wp-content/uploads/2016/08/MR16-Constant-Current-LED-Driver.fzpz" %}}/MR16-Constant-Current-LED-Driver.fzpz{{% /download %}}
 * {{% download old-id="2235" href="/wp-content/uploads/2016/08/Generic-2.4Ghz-RC-6ch-Receiver-OCRA.fzpz" %}}Generic-2.4Ghz-RC-6ch-Receiver-OCRA.fzpz{{% /download %}}
@@ -211,15 +268,25 @@ Click the following to download the example below:
 
 # Building steps
 
-[![building-steps](/wp-content/uploads/2016/10/Building-steps.png)](/wp-content/uploads/2016/10/Building-steps.png)The following section explains all the different steps on how to build my DIY quadcopter visual aids controller.
+[![building-steps](/wp-content/uploads/2016/10/Building-steps.png)](/wp-content/uploads/2016/10/Building-steps.png)
+
+The following section explains all the different steps on how to build my DIY quadcopter visual aids controller.
 
 ## Install code on arduino
 
-Before attempting run the given code on the arduino, you must first install the required libraries. Please follow the [How to Install a Library](http://www.arduino.cc/en/Guide/Libraries#toc2) guide available on the arduino web site. Download links for required libraries are available in the [External Libraries](#External_libraries) or [References](#References) sections. Upload the main arduino sketch to the arduino and proceed with the next step.
+Before attempting run the given code on the arduino, you must first install the required libraries. Please follow the [How to Install a Library](http://www.arduino.cc/en/Guide/Libraries#toc2) guide available on the arduino web site.
+
+Download links for required libraries are available in the [External Libraries](#External_libraries) or [References](#References) sections.
+
+Upload the main arduino sketch to the arduino and proceed with the next step.
 
 ## Setup transmitter (Tx) mixes
 
-As explained [above](#Microcontroller), this project innovation relies on the fact that **both devices** are controlled by the quadcopter transmitter using only a **single channel**. This is achieved by configuring custom mixes on the transmitter. To know more about how mixes can be used to control more than one device with the help of a microcontroller, read the following article: [How to multiplex RC Transmitter switches into a single channel](/how-to-multiplex-rc-transmitter-switches-into-a-single-channel/). As a reference, here are the mixes that I use for my Spektrum DX9 transmitter:
+As explained [above](#Microcontroller), this project innovation relies on the fact that **both devices** are controlled by the quadcopter transmitter using only a **single channel**. This is achieved by configuring custom mixes on the transmitter.
+
+To know more about how mixes can be used to control more than one device with the help of a microcontroller, read the following article: [How to multiplex RC Transmitter switches into a single channel](/how-to-multiplex-rc-transmitter-switches-into-a-single-channel/).
+
+As a reference, here are the mixes that I use for my Spektrum DX9 transmitter:
 
 | AUX1 Mix info | Mix Output |
 |---|---|
@@ -230,7 +297,9 @@ As explained [above](#Microcontroller), this project innovation relies on the fa
 | 2 | H | 0 | -69 | 100 | 0 | - | 138 |
 | 3 | G | 0 | -46 | 100 | 0 | 46 | 92 |
 
-Note that the following mixes must match the [demultiplexing code](#Arduino_sketch) running on the arduino. If you do not use the code "as is", then you must also adjust your transmitter mixes to reflect the change.
+{{< pleasenote >}}
+  Note that the following mixes must match the [demultiplexing code](#Arduino_sketch) running on the arduino. If you do not use the code "as is", then you must also adjust your transmitter mixes to reflect the change.
+{{< /pleasenote >}}
 
 ## Build a prototype
 
@@ -242,15 +311,27 @@ The purpose of these steps is to evaluate the feasibility of the project by impl
 
 [![QuadCtrl - Testing the code in Arduino IDE](/wp-content/uploads/2016/10/QuadCtrl-Arduino-IDE-transparency.png "QuadCtrl - Testing the code in Arduino IDE")](/wp-content/uploads/2016/10/QuadCtrl-Arduino-IDE-transparency.png)
 
-The purpose of this step is to quickly identify issue with the code as no other parts (besides the arduino itself) of the final circuit is used. Code issues are the one that should be addressed first. This step confirms that the arduino is able to read an arbitrary PWM signal and process it. Build the circuit as showed by the picture above. For reference, the yellow and blue wires matches the blue and orange wire of the breadboard layout. These wires are connected to pins which drives low LEDs instead of high current mosfets. The prototype uses a simple CCPM Servo Tester for emulating the 6-ch receiver. In this configuration, the red LED matches the 10W front LED and the green LED matches the buzzing state. Power the arduino using USB power. By changing the position of the CCPM Servo tester potentiometer, you should observe different behavior of each LEDs for each position of CCPM tester. Note that since the code is already debugged, I do not expect anything to go wrong and things should be addressed easily. If you do observe issues, please verify your connections or the version used by each library dependencies.
+The purpose of this step is to quickly identify issue with the code as no other parts (besides the arduino itself) of the final circuit is used. Code issues are the one that should be addressed first. This step confirms that the arduino is able to read an arbitrary PWM signal and process it.
+
+Build the circuit as showed by the picture above. For reference, the yellow and blue wires matches the blue and orange wire of the breadboard layout. These wires are connected to pins which drives low LEDs instead of high current mosfets. The prototype uses a simple CCPM Servo Tester for emulating the 6-ch receiver. In this configuration, the red LED matches the 10W front LED and the green LED matches the buzzing state.
+
+Power the arduino using USB power. By changing the position of the CCPM Servo tester potentiometer, you should observe different behavior of each LEDs for each position of CCPM tester.
+
+{{< pleasenote >}}
+  Note that since the code is already debugged, I do not expect anything to go wrong and things should be addressed easily. If you do observe issues, please verify your connections or the version used by each library dependencies.
+{{< /pleasenote >}}
 
 ### Tx/Rx prototype integration
 
-For a greater testing, connect your receiver and use your transmitter to change the PWM signal sent to the microcontroller. This step verifies the quality (or precision of the signal) of the transmitter/receiver pair. It also helps validating that you configured the right mixes in your transmitter to independently control the LED and the buzzer.
+For a greater testing, connect your receiver and use your transmitter to change the PWM signal sent to the microcontroller.
+
+This step verifies the quality (or precision of the signal) of the transmitter/receiver pair. It also helps validating that you configured the right mixes in your transmitter to independently control the LED and the buzzer.
 
 ### Test each component (optional)
 
-Now that you know that the code is working as expected, you may want to test each components before [soldering them](#Solderingcomponents_on_thestripboard) on the breadboard. The final step is to integrate all real components to the breadboard prototype and use external 12v power supply (to mimic a 3S LiPo battery).
+Now that you know that the code is working as expected, you may want to test each components before [soldering them](#Solderingcomponents_on_thestripboard) on the breadboard.
+
+The final step is to integrate all real components to the breadboard prototype and use external 12v power supply (to mimic a 3S LiPo battery).
 
 [![Quadcopter Controller Project - Breadboard view](/wp-content/uploads/2016/07/Quad_Controller_breadboard-300x171.png)](/wp-content/uploads/2016/07/Quad_Controller_breadboard.png)
 
@@ -260,13 +341,27 @@ Complete the actual circuit as defined in [Breadboard Layout](#Breadboard_Layout
 
 [![QuadCtrl - Soldering components to the stripboard](/wp-content/uploads/2016/10/IMG_4566.jpg "QuadCtrl - Soldering components to the stripboard")](/wp-content/uploads/2016/10/IMG_4566.jpg)
 
-Define the position of every components on the prototyping stripboard. You should have enough room for all components and if you plan correctly, you may still have space left and be able to cut 1 or 2 cm from the sides to save additional size and weight. Note that both mosfet do not require a heat sink. However, you may want to fold both mosfet so that the height of the total package is as low as possible so that it may fit properly inside a small cavity of the quadcopter. Position the arduino's USB port facing outside so that when you need to update the software, you can simply connect the package to a computer without having to disassemble or disconnect the unit from the quadcopter. For the same reason, solder the male servo extension lead and the JST battery connector to the other side since those will require to be as close as possible to the quadcopter's controller and battery. Solder each component carefully following the schematics and head to the final step.
+Define the position of every components on the prototyping stripboard. You should have enough room for all components and if you plan correctly, you may still have space left and be able to cut 1 or 2 cm from the sides to save additional size and weight.
+
+Note that both mosfet do not require a heat sink. However, you may want to fold both mosfet so that the height of the total package is as low as possible so that it may fit properly inside a small cavity of the quadcopter.
+
+Position the arduino's USB port facing outside so that when you need to update the software, you can simply connect the package to a computer without having to disassemble or disconnect the unit from the quadcopter.
+
+For the same reason, solder the male servo extension lead and the JST battery connector to the other side since those will require to be as close as possible to the quadcopter's controller and battery.
+
+Solder each component carefully following the schematics and head to the final step.
 
 ## Secure the unit on the quadcopter
 
 [![QuadCtrl - Securing components with wrapping foam](/wp-content/uploads/2016/10/IMG_4557.jpg "QuadCtrl - Securing components with wrapping foam")](/wp-content/uploads/2016/10/IMG_4557.jpg)
 
-Once everything is ready for flight, attach the package on the quadcopter. Connect JST battery connector and each signal wire cable. Since I was planning on removing the device for maintenance, I didn't used glue (or anything permanent) for securing the package to the frame. Instead I used zip ties which are used for both wrapping the foam around the stripboard and attaching to the frame's front grooves. I also used zip ties to attach the wood BBQ skewers to the pre-drilled holes in the fuselage. For best result, position the 10w LED below the propeller's wind blast. This will greatly increase the lifespan of the LED since it will always be properly cooled while turned on.
+Once everything is ready for flight, attach the package on the quadcopter. Connect JST battery connector and each signal wire cable.
+
+Since I was planning on removing the device for maintenance, I didn't used glue (or anything permanent) for securing the package to the frame. Instead I used zip ties which are used for both wrapping the foam around the stripboard and attaching to the frame's front grooves.
+
+I also used zip ties to attach the wood BBQ skewers to the pre-drilled holes in the fuselage.
+
+For best result, position the 10w LED below the propeller's wind blast. This will greatly increase the lifespan of the LED since it will always be properly cooled while turned on.
 
 ## Final Result
 
@@ -278,31 +373,55 @@ Here is the final result:
 
 # Made anything differently?
 
-The features of the device are fulfilling the main objectives and there is no actual need to change anything. However, there are lots of aspect of the design that could be improved. After completing this project, I though of multiple ideas that could bring the design to a higher quality level. At the beginning of the project, I was not much concerned about weight since I was evaluating the feasibility of the project and I didn't design the device to be something that would actually be flying. Now that it is completed, I would like to put more effort trying to reduce the total weight. Here are most aspects that I would like to improve:
+The features of the device are fulfilling the main objectives and there is no actual need to change anything. However, there are lots of aspect of the design that could be improved. After completing this project, I though of multiple ideas that could bring the design to a higher quality level.
+
+At the beginning of the project, I was not much concerned about weight since I was evaluating the feasibility of the project and I didn't design the device to be something that would actually be flying. Now that it is completed, I would like to put more effort trying to reduce the total weight.
+
+Here are most aspects that I would like to improve:
 
 ## Better signal wires
 
-Signal wires could be much improved. First, they are way too big. The wires for the receiver signal between the 6-ch receiver (Rx) and the arduino could be made smaller. Only a small current is used to carry the signal so there is no need for not using the smallest wires available. Second, not all wires are actually used. At the beginning of the design, I though of using the arduino to read multiple channels. In the picture above, the red and blue wires were designed to read 2 more PWM signals which would make the arduino able to decode 3 different channels. The blue and red wires are wasted grams I could save. Finally, the length of the wires is 3-4 times longer than they actually need. When I was prototyping, it was actually convenient to have longer cable that could connect the receiver but once the unit is attached to the quadcopter, the device is almost next to the receiver and the need for longer wires is not much required anymore. The same also applies for the LED wires which had to be folded many times because they were too long.
+Signal wires could be much improved.
+
+First, they are way too big. The wires for the receiver signal between the 6-ch receiver (Rx) and the arduino could be made smaller. Only a small current is used to carry the signal so there is no need for not using the smallest wires available.
+
+Second, not all wires are actually used. At the beginning of the design, I though of using the arduino to read multiple channels. In the picture above, the red and blue wires were designed to read 2 more PWM signals which would make the arduino able to decode 3 different channels. The blue and red wires are wasted grams I could save.
+
+Finally, the length of the wires is 3-4 times longer than they actually need. When I was prototyping, it was actually convenient to have longer cable that could connect the receiver but once the unit is attached to the quadcopter, the device is almost next to the receiver and the need for longer wires is not much required anymore. The same also applies for the LED wires which had to be folded many times because they were too long.
 
 ## Other LED options?
 
-I still doubt that a single super strong LED is the way to go. In the near future, I might consider having multiple on-board middle-range LED and I am curious to see if multiple LEDs would produce more lumens than a single one. In the idea, having 2 or 3 smaller LED may make the whole thing more visible at greater distance. I may investigate other LED options which offers a better watt-to-lumens ratio. If I ever choose to go with 2 or 3 smaller LED instead of a single super strong LED, I may also get rid of the current limiting circuit. The circuit is not particularly heavy but using smaller LED (which consumes less power), would allow me to replace the circuit by smaller/lighter resistance connected to each LED. I know that each resistance might not be super efficient (lots of heat dissipation) but it is negligible when compared to the enormous amount of energy consumed by the motors. A linear voltage regulator like the [LM317 ](https://www.google.ca/search?q=lm317&source=lnms&tbm=isch)might also simplify the circuit and prevent too much heat dissipation.
+I still doubt that a single super strong LED is the way to go. In the near future, I might consider having multiple on-board middle-range LED and I am curious to see if multiple LEDs would produce more lumens than a single one. In the idea, having 2 or 3 smaller LED may make the whole thing more visible at greater distance. I may investigate other LED options which offers a better watt-to-lumens ratio.
+
+If I ever choose to go with 2 or 3 smaller LED instead of a single super strong LED, I may also get rid of the current limiting circuit. The circuit is not particularly heavy but using smaller LED (which consumes less power), would allow me to replace the circuit by smaller/lighter resistance connected to each LED. I know that each resistance might not be super efficient (lots of heat dissipation) but it is negligible when compared to the enormous amount of energy consumed by the motors. A linear voltage regulator like the [LM317](https://www.google.ca/search?q=lm317&source=lnms&tbm=isch) might also simplify the circuit and prevent too much heat dissipation.
 
 ## Smaller form factor
 
-Getting rid of the stripboard would also be in my plans. Now that I know the whole circuit does not required too much connections, I am now thinking of completely removing the stripboard. This would require to hot glue both the mosfets and the current limiting circuit directly to the arduino. If done properly, the amount of hot glue required should be lighter than the stripboard. At the same time, the device would be smaller which could make it usable on other platforms like ones with a hard shell cover.
+Getting rid of the stripboard would also be in my plans. Now that I know the whole circuit does not required too much connections, I am now thinking of completely removing the stripboard. This would require to hot glue both the mosfets and the current limiting circuit directly to the arduino. If done properly, the amount of hot glue required should be lighter than the stripboard.
+
+At the same time, the device would be smaller which could make it usable on other platforms like ones with a hard shell cover.
 
 ## Signal (de)multiplexing nessesary?
 
-Short answer, no. Actually, I do not require to have an on-board arduino on the quad. There was no actual need to implement signal multiplexing and demultiplexing. To get the same functionality, I could have simply used an 8-channels receiver and the need for multiplexing/demultiplexing would be gone. The main reason for this project was fun. ***'All work and no play makes Antoine a dull boy'***. The project turned out more complicated than I first through and I had to invest a lot of my free time to code, test and to make it up to this point. Without the 'fun' part, this project would never went further than ideas on a sheet of paper. If I ever have to rebuild this project, the fun part would still be the first and primary goal of the project!
+Short answer, no.
+
+Actually, I do not require to have an on-board arduino on the quad. There was no actual need to implement signal multiplexing and demultiplexing. To get the same functionality, I could have simply used an 8-channels receiver and the need for multiplexing/demultiplexing would be gone.
+
+The main reason for this project was fun. ***'All work and no play makes Antoine a dull boy'***. The project turned out more complicated than I first through and I had to invest a lot of my free time to code, test and to make it up to this point. Without the 'fun' part, this project would never went further than ideas on a sheet of paper. If I ever have to rebuild this project, the fun part would still be the first and primary goal of the project!
 
 ## Modular design
 
-For maintainability, portability and reusability reasons, it might be interesting to subdivide the device into modules (smaller reusable parts). For instance the demultiplexor could be a perfect candidate for reusability. It could be reused on other platforms like airplanes to control non-critical flight accessories like landing lights where front, wings and tail lights could be controlled by a single channel. The LED and buzzer could also be made into modules. Each or both could be modified to be directly connected to a dedicated channel on the receiver. If I ever upgrade the quadcopter to a 8-channels (or more) receiver, I could still use the LED and the buzzer without requiring the demultiplexor part.
+For maintainability, portability and reusability reasons, it might be interesting to subdivide the device into modules (smaller reusable parts).
+
+For instance the demultiplexor could be a perfect candidate for reusability. It could be reused on other platforms like airplanes to control non-critical flight accessories like landing lights where front, wings and tail lights could be controlled by a single channel.
+
+The LED and buzzer could also be made into modules. Each or both could be modified to be directly connected to a dedicated channel on the receiver. If I ever upgrade the quadcopter to a 8-channels (or more) receiver, I could still use the LED and the buzzer without requiring the demultiplexor part.
 
 # References
 
-Here is the list of all sub-articles that made this project a reality: Documentation:
+Here is the list of all sub-articles that made this project a reality:
+
+Documentation:
 
 1. [How to multiplex RC Transmitter switches into a single channel]({{< relref "blog/2016-03-30-how-to-multiplex-rc-transmitter-switches-into-a-single-channel.md" >}}).
 2. [Mapping RC Transmitter PWM signal to actual transmitter values]({{< relref "blog/2016-03-26-mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values.md" >}}).

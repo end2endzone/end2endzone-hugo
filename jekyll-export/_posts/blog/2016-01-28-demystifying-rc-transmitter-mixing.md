@@ -24,12 +24,20 @@ tags:
   - RC transmitter
 
 ---
-
 # Introduction
 
-If you look on the internet for "mixing", you will usually find posts and articles of people asking for things like "what is the best mix I should use for this or that" which I think is not helpful. I think it is far more helpful to actually understand what mixing is and how it can help you improve your skills as a pilot. Lately I wanted to understand how mixing could help me in a personal project. I took this opportunity to learn something new and try to demystifying RC Transmitter Mixing. EDIT: To make all mixing pre-calculations easier, do not hesitate to use my [Mixing Calculator for R/C Transmitter](/rc-transmitter-mix-calculator/) (it's an Excel Sheet!)
+If you look on the internet for "mixing", you will usually find posts and articles of people asking for things like "what is the best mix I should use for this or that" which I think is not helpful. I think it is far more helpful to actually understand what mixing is and how it can help you improve your skills as a pilot. Lately I wanted to understand how mixing could help me in a personal project. I took this opportunity to learn something new and try to demystifying RC Transmitter Mixing.
 
-I am really new to mixing. I have flown all my planes without ever used any mix. This is mostly because I have never had the need to use some (I've always been trying to make adjustment manually with the sticks to improve my skills). As a side note, I have never touch anything related to helicopter mixing which looks more complicated and is not covered here.
+{{< postedit >}}
+  EDIT: To make all mixing pre-calculations easier, do not hesitate to use my [Mixing Calculator for R/C Transmitter](/rc-transmitter-mix-calculator/) (it's an Excel Sheet!)
+{{< /postedit >}}
+
+I am really new to mixing. I have flown all my planes without ever used any mix. This is mostly because I have never had the need to use some (I've always been trying to make adjustment manually with the sticks to improve my skills).
+
+{{< pleasenote >}}
+  As a side note, I have never touch anything related to helicopter mixing which looks more complicated and is not covered here.
+{{< /pleasenote >}}
+
 
 # What is mixing ?
 
@@ -173,7 +181,9 @@ This feature may be required if a transmitter does not support native inverting 
 
 ## The equation
 
-**Note:** The following is an extract of how the Spektrum transmitters calculate mixes. Please note that your mileage could vary if you use a different kind of transmitter.
+{{< pleasenote >}}
+  **Note:** The following is an extract of how the Spektrum transmitters calculate mixes. Please note that your mileage could vary if you use a different kind of transmitter.
+{{< /pleasenote >}}
 
 A 3-position switch will define 3 values for a given mix: Position 0, Position 1 and Position 2 while a 2-position switch will define 2 values for a mix: Position 0 and Position 1. Position 0 of a 2-position switch matches Position 0 of a 3-position switch and Position 1 of a 2-position switch matches Position 2 of a 3-position switch.
 
@@ -188,13 +198,13 @@ The following table list position matches:
 
 The following equation will help you solve an endless issue which is "How to calculate a mix boundaries":
 
-<pre>
+```
 OffsetTravel = (switch default travel (see below)) - Offset
-if OffsetTravel &lt; 0
-  SwitchMixValue = OffsetTravel / 100 \* Low rate
+if OffsetTravel < 0
+  SwitchMixValue = OffsetTravel / 100 * Low rate
 else
-  SwitchMixValue = OffsetTravel / 100 \* High rate
-</pre>
+  SwitchMixValue = OffsetTravel / 100 * High rate
+```
 
 A 3-position switch has the following default travel values:
 

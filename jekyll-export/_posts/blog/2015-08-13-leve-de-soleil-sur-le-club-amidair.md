@@ -23,10 +23,11 @@ tags:
   - photography
 
 ---
+Il est 5 heures du matin. Tout est calme et on entend quelque fois le crie d'un oiseau. Au loin, un nuage de brume surplombe le champ de légumes lui donnant l'aspect d'un lac en mouvement. Le soleil colore au ciel avec un teint rosé puis orangé.
 
-Il est 5 heures du matin. Tout est calme et on entend quelque fois le crie d'un oiseau. Au loin, un nuage de brume surplombe le champ de légumes lui donnant l'aspect d'un lac en mouvement. Le soleil colore au ciel avec un teint rosé puis orangé. Une belle journée de vol s'annonce.
+Une belle journée de vol s'annonce.
 
 {{< image-gallery >}}
-  [![](/wp-content/uploads/2015/08/IMG_6162_LR5-1024x683.jpg)](/wp-content/uploads/2015/08/IMG_6162_LR5-1620x1080.jpg)
-  [![](/wp-content/uploads/2015/08/IMG_6159_LR5-1024x683.jpg)](/wp-content/uploads/2015/08/IMG_6159_LR5-1620x1080.jpg)
+  [![](/wp-content/uploads/2015/08/IMG_6162_LR5-1024x683.jpg)](/wp-content/uploads/2015/08/IMG_6162_LR5.jpg)
+  [![](/wp-content/uploads/2015/08/IMG_6159_LR5-1024x683.jpg)](/wp-content/uploads/2015/08/IMG_6159_LR5.jpg)
 {{< /image-gallery >}}

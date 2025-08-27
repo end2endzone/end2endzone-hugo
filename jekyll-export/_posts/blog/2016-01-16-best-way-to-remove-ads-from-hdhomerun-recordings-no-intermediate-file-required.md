@@ -15,10 +15,13 @@ tags:
   - tv
 
 ---
-
 # Introduction
 
-This guide is a follow up to the post called [How to remove ads from HDHomeRun recordings and still encode with Handbrake](/how-to-remove-ads-from-hdhomerun-recordings-and-still-encode-with-handbrake/). I record lots of TV shows using the HDHomeRun. I sometime want to keep recordings on a disk for archiving or to watch later. The following article explains how to remove ads from HDHomeRun recordings and encode the final video with Handbrake without quality loss. The whole process is executed using only FREE tools! With all TV shows comes a bunch of TV ads that I do not want to keep and waste time and disk space for. I encode all my videos using [Handbrake](https://handbrake.fr/downloads.php) because it supports quality based H264 encoding and 5.1 surround sounds but unfortunately, it does not support removing ads.
+This guide is a follow up to the post called [How to remove ads from HDHomeRun recordings and still encode with Handbrake](/how-to-remove-ads-from-hdhomerun-recordings-and-still-encode-with-handbrake/).
+
+I record lots of TV shows using the HDHomeRun. I sometime want to keep recordings on a disk for archiving or to watch later. The following article explains how to remove ads from HDHomeRun recordings and encode the final video with Handbrake without quality loss. The whole process is executed using only FREE tools!
+
+With all TV shows comes a bunch of TV ads that I do not want to keep and waste time and disk space for. I encode all my videos using [Handbrake](https://handbrake.fr/downloads.php) because it supports quality based H264 encoding and 5.1 surround sounds but unfortunately, it does not support removing ads.
 
 # What's the trick ?
 
@@ -39,21 +42,21 @@ The following software must be downloaded and installed:
 
 For the process to work, you must register the AVIFile handler on your computer. After installing VirtualDub, run the following file:
 
-![VirtualDub auxsetup.exe icon](/wp-content/uploads/2015/12/auxsetup-exe-icon.png) *auxsetup.exe*.
+![VirtualDub auxsetup.exe icon](/wp-content/uploads/2015/12/auxsetup-exe-icon.png) _auxsetup.exe_.
 
 The following dialog will be displayed:
 
 [![VirtualDub auxsetup.exe Dialog](/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg "VirtualDub auxsetup.exe Dialog")](/wp-content/uploads/2015/12/VirtualDub-auxsetup.exe-Dialog.jpg)
 
-Click on the *Install handler* button and the following dialog will be displayed:
+Click on the _Install handler_ button and the following dialog will be displayed:
 
 [![VirtualDub Installing AVIFile frameclient](/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg "VirtualDub Installing AVIFile frameclient")](/wp-content/uploads/2015/12/VirtualDub-Installing-AVIFile-frameclient.jpg)
 
-Click on *OK* button and you should get the following confirmation message: *AVIFile frameclient install successful*.
+Click on _OK_ button and you should get the following confirmation message: _AVIFile frameclient install successful_.
 
 ## VirtualDub FFMpeg Input Plugin
 
-By default, VirtualDub is only able to read AVI files which is not helpful because my local channels are broadcasting in MPEG2 format. For instance, Montreal's CBFT-DT is broadcasting in HDV 720p, MPEG layer 2, with two AC-3 audio channels. Full [NFO available here](/wp-content/uploads/2015/10/Montreal-CBFT-DT-Codec-NFO.nfo). This plugin allows reading files that are not AVI and works perfectly with Montreal's CBFT-DT MPEG 2 files. The installation is pretty strait forward, simply run the installer and select the location of where VirtualDub is installed. Once the process is completed, you should see the plugin available (\*.vdf) within the *plugins32* folder.
+By default, VirtualDub is only able to read AVI files which is not helpful because my local channels are broadcasting in MPEG2 format. For instance, Montreal's CBFT-DT is broadcasting in HDV 720p, MPEG layer 2, with two AC-3 audio channels. Full [NFO available here](/wp-content/uploads/2015/10/Montreal-CBFT-DT-Codec-NFO.nfo). This plugin allows reading files that are not AVI and works perfectly with Montreal's CBFT-DT MPEG 2 files. The installation is pretty strait forward, simply run the installer and select the location of where VirtualDub is installed. Once the process is completed, you should see the plugin available (\*.vdf) within the _plugins32_ folder.
 
 ## Avisynth
 
@@ -87,7 +90,9 @@ To uninstall, run the following commands:
 
 ### Installing version 1.0.0.6 (and previous versions)
 
-AVSF 1.0.0.6 is not compatible with build 173 of Pismo File Mount. Build 178 must be downloaded to be able to create a virtual file. Version 1.0.0.6 (and future versions) are released with *avfs.exe*. To install, run the following commands:
+AVSF 1.0.0.6 is not compatible with build 173 of Pismo File Mount. Build 178 must be downloaded to be able to create a virtual file. Version 1.0.0.6 (and future versions) are released with *avfs.exe*.
+
+To install, run the following commands:
 
 1. Copy *avfs.exe* to a folder of your choosing. The *c:\\windows* folder will work or use any other folder.
 
