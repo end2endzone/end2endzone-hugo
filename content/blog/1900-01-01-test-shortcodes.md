@@ -43,10 +43,6 @@ These are other buttons:
 Click on the {{% windows-button3d %}}Play{{% /windows-button3d %}} button then on the {{% windows-button3d %}}Scan{{% /windows-button3d %}} button to activate the process.
 
 
-### image captions
-
-{{% image-caption %}}[![HDHomeRun Tv Dump - Main Window showing channels](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png)](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png) HDHomeRun Tv Dump - Main Window showing channels{{% /image-caption %}}
-
 ### image gallery
 
 {{< image-gallery >}}
