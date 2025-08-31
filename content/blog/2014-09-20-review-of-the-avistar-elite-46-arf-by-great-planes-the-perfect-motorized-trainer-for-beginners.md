@@ -16,8 +16,7 @@ tags:
 ---
 # Introduction
 
-At the beginning of the 2014 season, I decided to join a local RC club to get to know good experienced people that would give me advices on the best practices for flying. I also decided to find a flight instructor that would assist me and help me with all the technical details that I am still lacking. When we met, he strongly suggested that I leave the [Hobby Zone Super Cub](/tag/super-cub/) behind and get to a wooden motorized trainer plane like the Avistar Elite .46 ARF by Great Planes, which I did.  
-<!--more-->
+At the beginning of the 2014 season, I decided to join a local RC club to get to know good experienced people that would give me advices on the best practices for flying. I also decided to find a flight instructor that would assist me and help me with all the technical details that I am still lacking. When we met, he strongly suggested that I leave the [Hobby Zone Super Cub](/tag/super-cub/) behind and get to a wooden motorized trainer plane like the Avistar Elite .46 ARF by Great Planes, which I did.
 
 I have flown the Avistar Elite .46 for the whole season and I would like to say that my flight instructor was right. It is a wonderful plane for beginners.
 
@@ -87,7 +86,7 @@ Overall, I think the Avistar Elite is a really nice beginner plane. It fits my n
 
 I you want deeper analysis, here are two good reviews that cover much more than I did:
 
-  * [Great Planes Avistar Elite GP .46 ARF - RC Groups](http://www.rcgroups.com/forums/showthread.php?t=1739507)
-  * [Great Planes Avistar Elite .46 RTF - RC Universe](http://www.rcuniverse.com/magazine/article_display.cfm?article_id=1469)
+* [Great Planes Avistar Elite GP .46 ARF - RC Groups](http://www.rcgroups.com/forums/showthread.php?t=1739507)
+* [Great Planes Avistar Elite .46 RTF - RC Universe](http://www.rcuniverse.com/magazine/article_display.cfm?article_id=1469)
 
 Great Planes have made quite a good trainer for beginners. Get yours and see you flying in a private club north of Montreal!

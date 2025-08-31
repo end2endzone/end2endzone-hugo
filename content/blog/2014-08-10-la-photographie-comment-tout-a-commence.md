@@ -22,8 +22,7 @@ tags:
   - photography gears
 
 ---
-Salut tout le monde. Ceci est mon premier post concernant la photographie. J'ai récemment débuté ce passe-temps, mais j'ai toujours eu un intérêt pour la photographie depuis longtemps, mais jamais poussé plus loin ce passe-temps parce que j'ai toujours cru que de devenir bon en photographie n'était pas de mon ressort ou simplement parce que vous avez besoin de beaucoup trop d'équipement coûteux pour arriver à faire quelque chose de bon. Heureusement, j'ai changé d'avis et redécouvert la photographie.  
-<!--more-->
+Salut tout le monde. Ceci est mon premier post concernant la photographie. J'ai récemment débuté ce passe-temps, mais j'ai toujours eu un intérêt pour la photographie depuis longtemps, mais jamais poussé plus loin ce passe-temps parce que j'ai toujours cru que de devenir bon en photographie n'était pas de mon ressort ou simplement parce que vous avez besoin de beaucoup trop d'équipement coûteux pour arriver à faire quelque chose de bon. Heureusement, j'ai changé d'avis et redécouvert la photographie.
 
 # Les idées fausses
 
@@ -41,12 +40,12 @@ Rapidement, j'ai commencé à aimer l'aspect artistique de la photographie et je
 
 Voici un ensemble des équipements que je possède actuellement:
 
-  * Canon EOS Rebel SL1
-  * Canon EF-S 18-55 mm f / 3,5-5,6 IS STM
-  * Trépied Manfrotto 190XPROB avec tête 3D 804RC2
-  * Tubes d'extension macro: 13mm, 21mm et 31mm
-  * De nombreux filtres: ND2, ND4, ND8, UV, CPL, et FDL
-  * Adaptateur AC Canon EOS avec coupleur DR-E15
-  * Un intervallomètre TC-80N3 sans nom pour Canon
+* Canon EOS Rebel SL1
+* Canon EF-S 18-55 mm f / 3,5-5,6 IS STM
+* Trépied Manfrotto 190XPROB avec tête 3D 804RC2
+* Tubes d'extension macro: 13mm, 21mm et 31mm
+* De nombreux filtres: ND2, ND4, ND8, UV, CPL, et FDL
+* Adaptateur AC Canon EOS avec coupleur DR-E15
+* Un intervallomètre TC-80N3 sans nom pour Canon
 
 N'hésitez pas à regarder ce que j'ai réussi à photographier et n'hésiter pas à donner des commentaires positifs.

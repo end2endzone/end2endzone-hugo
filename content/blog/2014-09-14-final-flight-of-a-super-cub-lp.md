@@ -18,10 +18,9 @@ tags:
 ---
 # The Good
 
-After 1½ month of flying the plane, I was feeling a little more confident and I trusted enough myself for doing loops.  So at the end of the 2013 season, I went flying with a friend with my Super Cub LP. I wasn't expecting any disaster...  
-<!--more-->
+After 1½ month of flying the plane, I was feeling a little more confident and I trusted enough myself for doing loops. So at the end of the 2013 season, I went flying with a friend with my Super Cub LP. I wasn't expecting any disaster...
 
-It was a little cloudy & windy but I went flying anyway because I was too much confident that nothing could happen since I had 6-7 flights of experience!<br /> 
+It was a little cloudy & windy but I went flying anyway because I was too much confident that nothing could happen since I had 6-7 flights of experience!
 
 # The Bad
 
@@ -33,7 +32,7 @@ After a minute of flying, the elevator stopped responding and violently crashed 
 
 Here is the video of the crash:
 
-
+{{< youtube Sy1FgYUYZB4 >}}
 
 # The explanation
 
@@ -41,29 +40,23 @@ During my encounter with the trees, one of the servo got loose in its socket and
 
 # The damage
 
-As I said earlier in [The Hobby Zone Super Cub LP RTF. A good beginner’s RC plane](/the-hobby-zone-super-cub-lp-rtf-a-good-beginners-rc-plane/), the plane can be repaired easily. As long as your electronics are still working, it is hard to damage the plane beyond repair.
+As I said earlier in [The Hobby Zone Super Cub LP RTF. A good beginner's RC plane](/the-hobby-zone-super-cub-lp-rtf-a-good-beginners-rc-plane/), the plane can be repaired easily. As long as your electronics are still working, it is hard to damage the plane beyond repair.
 
 Here the description of the damage:
 
-  * The wings broke in half near the middle.
-  * The nose broke into pieces.
-  * The firewall got smashed.
-  * The engine and motor gears went through the firewall and almost reached the inside of the fuselage.
-  * The fuselage bent near the second window.
+* The wings broke in half near the middle.
+* The nose broke into pieces.
+* The firewall got smashed.
+* The engine and motor gears went through the firewall and almost reached the inside of the fuselage.
+* The fuselage bent near the second window.
 
 Here is some pictures of the wreckage:
 
-[![Super Cub LP Crash (wings)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC034641.jpg)
-
-Super Cub LP Crash (wings)
-
-[![Super Cub LP Crash (nose smashed)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03466.jpg)
-
-Super Cub LP Crash (nose smashed)
-
-[![Super Cub LP Crash (engine smashed)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/09/DSC03468.jpg)
-
-Super Cub LP Crash (engine smashed)
+[![Super Cub LP Crash (wings)](/wp-content/uploads/2014/09/DSC034641-1024x768.jpg "Super Cub LP Crash (wings)")](/wp-content/uploads/2014/09/DSC034641.jpg)
+ 
+[![Super Cub LP Crash (nose smashed)](/wp-content/uploads/2014/09/DSC03466-1024x768.jpg "Super Cub LP Crash (nose smashed)")](/wp-content/uploads/2014/09/DSC03466.jpg)
+ 
+[![Super Cub LP Crash (engine smashed)](/wp-content/uploads/2014/09/DSC03468-1024x768.jpg "Super Cub LP Crash (engine smashed)")](/wp-content/uploads/2014/09/DSC03468.jpg)
 
 # Final note
 

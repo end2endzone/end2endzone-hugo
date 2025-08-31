@@ -24,23 +24,22 @@ tags:
 ---
 # Introduction
 
-There is something missing in most kitchens I have seen in my life and it is not a huge free space or a smart refrigerator. It is much simpler than that. I am talking about good lighting. All kitchen that I have used had decent lighting when used during a bright shiny day but was lacking appropriate lighting during a rainy days or nights. Most of then were also missing under cabinet lighting.  
-<!--more-->
+There is something missing in most kitchens I have seen in my life and it is not a huge free space or a smart refrigerator. It is much simpler than that. I am talking about good lighting. All kitchen that I have used had decent lighting when used during a bright shiny day but was lacking appropriate lighting during a rainy days or nights. Most of then were also missing under cabinet lighting.
 
 It has been a long time since I wanted to get more light available under the kitchen cabinets. However, I never felt ready to install some lights by myself for many reasons. One of them was that I was missing the proper tools and knowledge. I also didn't like the idea of drilling holes in the cabinet or through the kitchen counter to get the electricity and finally, when I was looking at a kitchen with under cabinet lights, the lights that were used was producing too much heat that I could almost burn myself. This project was "on hold" until a super easy to install solution came to my mind: LED strips.
 
 LED strips are an alternative to fluorescent, halogen or xenon lights. LED are becoming more and more popular and are super easy to install and adapt to many situations. Some LED strips can be used outside too but that is for another post! They provide the following benefits in a kitchen:
 
-  * Cheap!
-  * Give a proper lighting.
-  * Can be dimmed to low levels.
-  * Available in multiple colors like warm white or cold/cool white.
-  * Do not produce any heat (almost).
-  * Do not burn or has a much longer life time than normal lights.
-  * Operates at 12 volts. No need for wall AC current which could lead to accidents.
-  * Use less electricity (much fewer current than alternative lighting options).
+* Cheap!
+* Give a proper lighting.
+* Can be dimmed to low levels.
+* Available in multiple colors like warm white or cold/cool white.
+* Do not produce any heat (almost).
+* Do not burn or has a much longer life time than normal lights.
+* Operates at 12 volts. No need for wall AC current which could lead to accidents.
+* Use less electricity (much fewer current than alternative lighting options).
 
-In this post, I will explain how I installed in my kitchen a custom under cabinet LED lighting solution. 
+In this post, I will explain how I installed in my kitchen a custom under cabinet LED lighting solution.
 
 {{< pleasenote >}}
   **Note:** Handling wall electricity can be dangerous. If you do not have basic electricity skills, I strongly recommend that you do not complete this project. Proceed at your own risk.
@@ -53,19 +52,19 @@ In this post, I will explain how I installed in my kitchen a custom under cabine
 
 The material for this project is as follows:
 
-  * A 5 meters LED strip.
-  * 2 pin Connector Wire Cable For 3528 Single Color LED Strips (5 times)
-  * A 36 Watts (12 volts, 3 amps) power supply.
-  * A 3 pins wall outlet power cord.
-  * A LED dimmer module.
-  * A wall switch.
-  * 2-3 meters of colored (red & black) wire.
-  * Double sided tape
-  * Sticker gum
-  * A multimeter (for testing connections and power output)
-  * Screws
-  * A Phillips screwdriver
-  * Flexible measuring tape
+* A 5 meters LED strip.
+* 2 pin Connector Wire Cable For 3528 Single Color LED Strips (5 times)
+* A 36 Watts (12 volts, 3 amps) power supply.
+* A 3 pins wall outlet power cord.
+* A LED dimmer module.
+* A wall switch.
+* 2-3 meters of colored (red & black) wire.
+* Double sided tape
+* Sticker gum
+* A multimeter (for testing connections and power output)
+* Screws
+* A Phillips screwdriver
+* Flexible measuring tape
 
 ### Power supply
 
@@ -92,22 +91,22 @@ You only need 3 LED connectors for this project. You need 2 connectors for linki
 
 ## Total cost of the project
 
-As I said before, this project can be completed at a pretty cheap price. The total cost of the project is less than 30$. I had to say that I bought all major items (strips, dimmer and power supply) from ebay for a ridiculous amount of money.  Don't make the mistake and buy this stuff at an electrical or lighting store because you could easily double or triple the cost of the project!
+As I said before, this project can be completed at a pretty cheap price. The total cost of the project is less than 30$. I had to say that I bought all major items (strips, dimmer and power supply) from ebay for a ridiculous amount of money. Don't make the mistake and buy this stuff at an electrical or lighting store because you could easily double or triple the cost of the project!
 
 Here is the detailed price of each items:
 
-  * $8.13 - LED strips from ebay. See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/LED-strip.png).
-  * $2.29 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips from ebay. See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/Connectors.png).
-  * $7.15 -&nbsp;36 Watts power supply from ebay. See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/Power-supply.png).
-  * $0.00 -&nbsp;Power cord. (I had one lying around. I usually salvage all of them when recycling old appliance.
-  * $6.02 -&nbsp;LED dimmer from ebay. See [screenshot here](http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer.png).
-  * $1.25 - Power switch from the hardware store.
-  * $2.00 - Colored wire (I used gauge 18awg) from dollar store
-  * $1.00 - Double sided tape
+* $8.13 - LED strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/LED-strip.png).
+* $2.29 - 2 pin Connector Wire Cable For 3528 Single Color LED Strips from ebay. See [screenshot here](/wp-content/uploads/2014/08/Connectors.png).
+* $7.15 - 36 Watts power supply from ebay. See [screenshot here](/wp-content/uploads/2014/08/Power-supply.png).
+* $0.00 - Power cord. (I had one lying around. I usually salvage all of them when recycling old appliance.
+* $6.02 - LED dimmer from ebay. See [screenshot here](/wp-content/uploads/2014/08/Dimmer.png).
+* $1.25 - Power switch from the hardware store.
+* $2.00 - Colored wire (I used gauge 18awg) from dollar store
+* $1.00 - Double sided tape
 
 Total cost: $**27.84**
 
-* The cost of usual items such as screws and glue is not included in the cost of the project.
+\* The cost of usual items such as screws and glue is not included in the cost of the project.
 
 ## Preparation time
 
@@ -117,7 +116,27 @@ The preparation time is simple, it requires to test all the circuit before fixin
 
 Construction steps are very simple. Screw, wire everything up and enjoy. Here is a picture of the circuit that you need to assemble:
 
-[![Dimmer2](http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/Dimmer2.jpg)The dimmer has 2 input connections and 2 output connections. The input connections are labeled as "Input V- and Input V+" and output connections are labelled as "Output V+ and Output V-". I think this is pretty obvious and does not requires any explanations.
+[![Circuit](/wp-content/uploads/2014/08/Circuit.png)](/wp-content/uploads/2014/08/Circuit.png)
+
+The design is pretty strait forward. There is only the location of the power switch that could be changed in the circuit. I decided to set the switch on the output side of the power supply instead of on the input side. This is to prevent having 120v going trough the switch and risking electrocuting myself when I switch it on. This option creates a permanent load on the power supply but it is better than the alternative. However, the power supply can last many years before failing.
+
+## Understanding the power supply connections
+
+Understanding the connectors on the power supply left me puzzled. I have to admit that I had to search the internet to identify some connections.
+
+[![IMG_0270](/wp-content/uploads/2014/08/IMG_0270-300x176.jpg)](/wp-content/uploads/2014/08/IMG_0270.jpg)
+
+The first two connections identified in red stands for "Live" (or "Hot") and "Neutral" wires. These are for the input power (120v). The next one is a ground connection for the wall power (if available). As the picture above shows it, the power supply can be powered without a ground connection but it is preferable to protect the unit. The two next connections labels as "COM" and "+V" stand for the 12v output power. The output connection label as "COM" is the negative side of the 12v. This is where you should connect the negative lead of the LED strip. The output "+V" is the positive side of the 12v. The section labeled as "+V ADJ" is the output voltage adjustment. It is important to verify with the multimeter that the output voltage is set to 12v (or close to) to prevent damaging the LED strip when connected. An adjustment screw can be turned to set the output voltage appropriately.
+
+## Connecting the power cord
+
+Connecting the power cord on the power supply is easy. You need to identify the right wires of the cord and screwing the wires on the right connectors on the power supply. The following identification is valid on North American plug only. The narrow prong on the cord is the "Live" (or Hot) wire. The wider prong is the "Neutral". The ground pin on the power cord is the longest one. Use the multimeter to identify the matching wire at the other side.
+
+## Dimmer connections
+
+[![Dimmer2](/wp-content/uploads/2014/08/Dimmer2.jpg)](/wp-content/uploads/2014/08/Dimmer2.jpg)
+
+The dimmer has 2 input connections and 2 output connections. The input connections are labeled as "Input V- and Input V+" and output connections are labelled as "Output V+ and Output V-". I think this is pretty obvious and does not requires any explanations.
 
 ## Testing everything together
 
@@ -133,9 +152,12 @@ Plug the power cord into the wall, turn on the switch and your LED should turn o
 
 ## Deciding where to put your stuff
 
-<center>
-  [![DSC04072](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04072.jpg) [![DSC04068](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04068.jpg)<br /> [![DSC04060](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04060.jpg) [![DSC04062](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04062.jpg)
-</center>
+{{< image-gallery >}}
+  [![DSC04072](/wp-content/uploads/2014/08/DSC04072-300x300.jpg)](/wp-content/uploads/2014/08/DSC04072.jpg)
+  [![DSC04068](/wp-content/uploads/2014/08/DSC04068-300x300.jpg)](/wp-content/uploads/2014/08/DSC04068.jpg)
+  [![DSC04060](/wp-content/uploads/2014/08/DSC04060-300x300.jpg)](/wp-content/uploads/2014/08/DSC04060.jpg)
+  [![DSC04062](/wp-content/uploads/2014/08/DSC04062-300x300.jpg)](/wp-content/uploads/2014/08/DSC04062.jpg)
+{{< /image-gallery >}}
 
 I wanted to position the switch at a location where is can be reached easily with your fingers but I also wanted the switch to be invisible to the eye. I decided to install the switch below the cabinets but hidden behind the front panel under the cabinets. For the same reasons, the dimmer is located at the same location. I used double sided tape to stick the dimmer and the power switch in place. The tape is strong enough to keep the switch in place even when someone is turning the lights on or off.
 
@@ -143,21 +165,42 @@ I also decided to position the power supply below the cabinet, at the back. This
 
 Here is a view from below the cabinet:
 
-[![DSC04092](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04092.png)Since I have 3 kitchen cabinets, I had to cut 3 slices of strip. The strip can be cut safely at every 3 LEDs. Each cut point is identified by the contact points in copper.Simply cut in the middle of the contact points to leave enough copper for the 2-pins connectors.
+[![DSC04070](/wp-content/uploads/2014/08/DSC04070-1024x768.jpg)](/wp-content/uploads/2014/08/DSC04070.jpg)
+
+## LED strip installation
+
+### Cutting
+
+[![DSC04092](/wp-content/uploads/2014/08/DSC04092.png)](/wp-content/uploads/2014/08/DSC04092.png)
+
+Since I have 3 kitchen cabinets, I had to cut 3 slices of strip. The strip can be cut safely at every 3 LEDs. Each cut point is identified by the contact points in copper.Simply cut in the middle of the contact points to leave enough copper for the 2-pins connectors.
 
 Use a flexible measuring tape to calculate the length of each cabinet and cut a section of the strip for each cabinet sections. If the length of the cabinet does not match a cut point, do not hesitate to get a smaller length since 3 missing LEDs wont make a difference. You just have to center the strip into the cabinet for proper lighting.
 
 ### Drilling
 
-<center>
-  [![DSC04085](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04085.jpg) [![DSC04086](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/DSC04086.jpg)
-</center>
+{{< image-gallery >}}
+  [![DSC04085](/wp-content/uploads/2014/08/DSC04085-225x300.jpg)](/wp-content/uploads/2014/08/DSC04085.jpg)
+  [![DSC04086](/wp-content/uploads/2014/08/DSC04086-225x300.jpg)](/wp-content/uploads/2014/08/DSC04086.jpg)
+{{< /image-gallery >}}
 
 In order to get electricity from one cabinet to another, I had to drill holes in the bottom of the cabinet. This is the only intrusive change that I had to do for this project. I had to drill holes to get the wires above the kitchen hood and above the sink.
 
 ### Sticking
 
-[![IMG_6846](http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg)](http://www.end2endzone.com/wp-content/uploads/2014/08/IMG_6846.jpg)
+[![DSC04084](/wp-content/uploads/2014/08/DSC04084-1024x388.jpg)](/wp-content/uploads/2014/08/DSC04084.jpg)
+
+Now is the time to stick the LEDs to the front plate of each cabinet. The opposite side of the LEDs is sticky and can be used to stick the LED to a wall surface. Make sure that the mounting surface is dry and clean since you won't have multiple tries before the surface loose the ability to stick to the wall. If the strip does not exactly match the length of the cabinet, make sure that you center the strip for appropriate lighting.
+
+### Connecting
+
+Use the connectors to link each strip together. The connectors are specifically designed for connecting LED strip together. You just have to open a door, slide the strip in place and close the door which will hold the strip in place. When linking the strip together, make sure that you align the positive (red) and negative (black) leads of the strip with the appropriate color code of the connector. I decided to use mounting putty gum ("sticker gum") for holding the connector in place to reduce the weight of the strip on the adhesive surface. The adhesive gum also helps holding the connector wire on the mounting surface instead of seeing the wire hanging below the cabinet.
+
+# Final Result
+
+Here is the final result:
+
+[![IMG_6846](/wp-content/uploads/2014/08/IMG_6846-1024x683.jpg)](/wp-content/uploads/2014/08/IMG_6846.jpg)
 
 # Made anything differently?
 

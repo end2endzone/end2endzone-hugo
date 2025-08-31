@@ -22,33 +22,33 @@ The following project explains how I used a Raspberry Pi 4 to create a personal 
 
 This project requires the following hardware:
 
-  * Raspberry Pi 4 (with the required parts) 
-      * 4GB of ram
-      * A 16GB SD card
-      * A micro HDMI cable
-      * Monitor with HDMI input
-      * A 15.3W USB-C Power Supply (3A @ 5v power supply)
-      * Raspberry Pi 4 case. Preferably a passive cooling case for noise consideration.  
+* Raspberry Pi 4 (with the required parts) 
+    * 4GB of ram
+    * A 16GB SD card
+    * A micro HDMI cable
+    * Monitor with HDMI input
+    * A 15.3W USB-C Power Supply (3A @ 5v power supply)
+    * Raspberry Pi 4 case. Preferably a passive cooling case for noise consideration.  
         I used the [Argon One](https://www.argon40.com/argon-one-raspberry-pi-4-case.html) case.
-  * An HDHomeRun Dual tuner from [Silicondust](https://www.silicondust.com/). The oldest model will do. For this build, I used the [_HDHR3-US_](https://www.google.com/search?q=HDHR3-US&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjquKyuvsbuAhWkrFkKHXbmCLMQ_AUoA3oECAEQBQ&amp;biw=1920&amp;bih=927) which dates back to 2012-2013.
-  * An over-the-air tv antenna for ATSC signals. For this build I use the [Clearstream 4](https://www.google.com/search?q=Antennas+Direct+Clearstream+4+antenna) antenna by Antennas Direct.
-  * 50ft to 100ft Coaxial Cable, 18AWG, 75 Ohm to connect the antenna to the HDHomeRun.
-  * External Solid State Drive (SSD) with about 500Gb in size.
-  * USB 3.0 to SATA Converter Adapter - Look for one that has UASP support.
+* An HDHomeRun Dual tuner from [Silicondust](https://www.silicondust.com/). The oldest model will do. For this build, I used the [*HDHR3-US*](https://www.google.com/search?q=HDHR3-US&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjquKyuvsbuAhWkrFkKHXbmCLMQ_AUoA3oECAEQBQ&biw=1920&bih=927) which dates back to 2012-2013.
+* An over-the-air tv antenna for ATSC signals. For this build I use the [Clearstream 4](https://www.google.com/search?q=Antennas+Direct+Clearstream+4+antenna) antenna by Antennas Direct.
+* 50ft to 100ft Coaxial Cable, 18AWG, 75 Ohm to connect the antenna to the HDHomeRun.
+* External Solid State Drive (SSD) with about 500Gb in size.
+* USB 3.0 to SATA Converter Adapter - Look for one that has UASP support.
 
 # Software list
 
 This section defines the list of required software for the project. Follow the instructions in the next section to know when and how to install them.
 
-  1. Download  _**Raspberry Pi OS with desktop and recommended software**_ from <https://www.raspberrypi.org/software/operating-systems/>
-  2. Download the  _**Raspberry Pi Imager**_ to write the  _**Raspberry Pi OS**_ image to an SD card.
+1. Download  ***Raspberry Pi OS with desktop and recommended software***  from <https://www.raspberrypi.org/software/operating-systems/>
+2. Download the  ***Raspberry Pi Imager***  to write the  ***Raspberry Pi OS***  image to an SD card.
 
 # Instructions
 
 ## Write Raspberry Pi OS image file to your SD card
 
-  1. Launch the  _**Raspberry Pi Imager**_ for writing the  _**Raspberry Pi OS**_ image file to your SD card. There are plenty of online tutorial for this operation
-  2. Turn on the Raspberry Pi and follow "first launch" instructions on screen.
+1. Launch the  ***Raspberry Pi Imager***  for writing the  ***Raspberry Pi OS***  image file to your SD card. There are plenty of online tutorial for this operation
+2. Turn on the Raspberry Pi and follow "first launch" instructions on screen.
 
 ## Update the Raspberry Pi firmware
 
@@ -60,11 +60,13 @@ Follow his instructions available at:
 
 In summary, run the following commands in a terminal:
 
-    sudo apt update
-    sudo apt -y full-upgrade
-    sudo apt install -y rpi-eeprom
-    sudo rpi-eeprom-update
-    sudo reboot
+```sh
+sudo apt update
+sudo apt -y full-upgrade
+sudo apt install -y rpi-eeprom
+sudo rpi-eeprom-update
+sudo reboot
+```
 
 ## Check that USB 3.0 to SATA adaptor has UASP support
 
@@ -76,11 +78,13 @@ Follow his instructions available at:
 
 In summary, connect your ssd drive and run the following commands in a terminal:
 
-    lsusb -t
+```sh
+lsusb -t
+```
 
 From Jeff Geerling article:
 
-_This command lists all the USB devices in a tree, and for each of the hard drives, you should see a `Driver` listed. If it's `uas` , then your drive supports UASP and you'll get the best speed. If it's `usb-storage` , then it's using the older BOT protocol and you won't see the full potential._
+> This command lists all the USB devices in a tree, and for each of the hard drives, you should see a `Driver` listed. If it's `uas` , then your drive supports UASP and you'll get the best speed. If it's `usb-storage` , then it's using the older BOT protocol and you won't see the full potential.
 
 ## Enable USB boot on the Raspberry Pi
 
@@ -90,10 +94,10 @@ On the Raspberry Pi4, you can specify whether to boot from USB or network if the
 
 The **raspi-config** utility can enable USB Booting on the Raspberry Pi 4:
 
-  1. Launch the application in a terminal.
-  2. Enter **Advanced Options** section.
-  3. Enter **Boot Order** section.
-  4. Select **USB Boot** option.
+1. Launch the application in a terminal.
+2. Enter **Advanced Options** section.
+3. Enter **Boot Order** section.
+4. Select **USB Boot** option.
 
 See [raspi-config.md](https://www.raspberrypi.org/documentation/configuration/raspi-config.md) documentation and [bcm2711\_bootloader\_config.md](https://www.raspberrypi.org/documentation/hardware/raspberrypi/bcm2711_bootloader_config.md) documentation on <https://www.raspberrypi.org/> for more details.
 
@@ -107,37 +111,35 @@ The **SD Card Copier** application, which can be found on the **Accessories** me
 
 Follow the following instruction for moving the Raspberry Pi OS from SD card to SSD drive:
 
-  1. Connect the SSD drive to a USB 3.0 port on the Raspberry Pi.
-  2. Launch the **SD Card Copier** application, which can be found on the **Accessories** menu of the Raspberry Pi Desktop.
-  3. Select your SD card device in the **Copy From Device** dropbown. It should probably be labeled **/dev/mmcblk0**.
-  4. Select your SSD device in the **Copy To Device** dropbown. It should probably be labeled **/dev/sda**.
-  5. Click on **Start** button.
-  6. Wait for the process to complete.
-  7. Close the application.
+1. Connect the SSD drive to a USB 3.0 port on the Raspberry Pi.
+2. Launch the **SD Card Copier** application, which can be found on the **Accessories** menu of the Raspberry Pi Desktop.
+3. Select your SD card device in the **Copy From Device** dropbown. It should probably be labeled **/dev/mmcblk0**.
+4. Select your SSD device in the **Copy To Device** dropbown. It should probably be labeled **/dev/sda**.
+5. Click on **Start** button.
+6. Wait for the process to complete.
+7. Close the application.
 
 ## Shrink the Operating System partition
 
 Following the copy of the Raspberry Pi OS from the SD card to the SSD, the **SD Card Copier** application has automatically increased the size of the last partition to the total size of the SSD. This is a problem for the following reasons:
 
-  1. If we have a single huge partition, we are not able to backup the operating system on our disk. This is because a backup destination image cannot be stored on the same partition that it is backuping from. We need at least 2 partitions to backup the operating system to the same disk.
-  2. To allow quick backup of the operating system, we need the partition to be reasonably small. On a 16GB card, the operating system partition is 14.58 GB of which about half is in use. This gives us plenty of additional space if we need to install other software.
-  3. For our build, we want to store our tv recordings and the operating system on different partitions. TV recordings should be stored in the largest partition of the disk.
-  4. In many cases, it is better to store operational data (in our case: recordings, backups, etc) on a separate partition (other than the OS). This configuration allows to restore the OS from a backup or install a fresh new operating system without having to erase the operational data. In other words, we get to keep our recordings in case of an OS corruption or a boot failure.
+1. If we have a single huge partition, we are not able to backup the operating system on our disk. This is because a backup destination image cannot be stored on the same partition that it is backuping from. We need at least 2 partitions to backup the operating system to the same disk.
+2. To allow quick backup of the operating system, we need the partition to be reasonably small. On a 16GB card, the operating system partition is 14.58 GB of which about half is in use. This gives us plenty of additional space if we need to install other software.
+3. For our build, we want to store our tv recordings and the operating system on different partitions. TV recordings should be stored in the largest partition of the disk.
+4. In many cases, it is better to store operational data (in our case: recordings, backups, etc) on a separate partition (other than the OS). This configuration allows to restore the OS from a backup or install a fresh new operating system without having to erase the operational data. In other words, we get to keep our recordings in case of an OS corruption or a boot failure.
 
 The following instructions explains how to reduce the size of the OS partition:
 
-  1. Open **GParted.**
-  2. Switch to the SSD device (probably **/dev/sda**)
-  3. Select the last partition. This is the partition of the Operating System.
-  4. Resize the partition to the original size of the SD card.
-  5. Create a partition for the remaining space of the SSD.  
+1. Open **GParted.**
+2. Switch to the SSD device (probably **/dev/sda**)
+3. Select the last partition. This is the partition of the Operating System.
+4. Resize the partition to the original size of the SD card.
+5. Create a partition for the remaining space of the SSD.  
     Format the partition as **ext4**. This is to make sure we get the best read and write performance.  
     For reference, the Rraspberry Pi 4 is capable of the following writing speeds: 
-     
-    
-      * 85 mb/s to an external usb 3.0 SSD with an ext4 partition.
-      * 26 mb/s to an external usb 3.0 SSD with an NTFS partition.
-  6. Set the name of the partition to **pidvr**.
+    * 85 mb/s to an external usb 3.0 SSD with an ext4 partition.
+    * 26 mb/s to an external usb 3.0 SSD with an NTFS partition.
+6. Set the name of the partition to **pidvr**.
 
 ## Boot from the SSD drive
 
@@ -145,10 +147,10 @@ At this point, our SSD is now properly configured to be used as our boot device.
 
 Follow these instructions to boot from the SSD:
 
-  1. Shutdown the device
-  2. Disconnect the power cable.
-  3. Remove the SD card from the SD card slot.
-  4. Connect the power cable to the Raspberry Pi.
+1. Shutdown the device
+2. Disconnect the power cable.
+3. Remove the SD card from the SD card slot.
+4. Connect the power cable to the Raspberry Pi.
 
 ## Uninstall nonessential software
 
@@ -156,12 +158,12 @@ Since we installed the **Raspberry Pi OS with desktop and recommended software**
 
 Uninstall the following unneeded software:
 
-  1. Open **Recommended Software** manager, which can be found in **Preferences** menu.
-  2. Uncheck the following software 
-      1. In **Education**, uncheck SmartSim
-      2. In **Games**, uncheck them all
-      3. In **Programming**, Uncheck Mathematica, Scratch, Scratch 3, Sense HAT emulator, Sonic Pi
-  3. Click **Apply** button to uninstall
+1. Open **Recommended Software** manager, which can be found in **Preferences** menu.
+2. Uncheck the following software 
+    1. In **Education**, uncheck SmartSim
+    2. In **Games**, uncheck them all
+    3. In **Programming**, Uncheck Mathematica, Scratch, Scratch 3, Sense HAT emulator, Sonic Pi
+3. Click **Apply** button to uninstall
 
 ## Install additional software
 
@@ -173,23 +175,27 @@ This is specific to our build since we are using the [Argon One](https://www.arg
 
 In summary, run the following commands in a terminal:
 
-    curl https://download.argon40.com/argon1.sh | bash
+```sh
+curl https://download.argon40.com/argon1.sh | bash
+```
 
 ### Other
 
 The following list of programs can be installed manually in the terminal:
 
-  * [hdparm](https://en.wikipedia.org/wiki/Hdparm), to perform read and write performance tests
-  * [GNOME Disks](https://en.wikipedia.org/wiki/GNOME_Disks), to get information about disks and partitions
-  * [GNOME Partition Editor](https://en.wikipedia.org/wiki/GParted) (gparted), to resize and format partions.
-  * [GSmartControl](https://gsmartcontrol.sourceforge.io/home/), to get SMART information about our disks.
-  * [QDirStat](https://github.com/shundhammer/qdirstat), to calculate disk usage per directories.
-  * [7-zip](https://www.7-zip.org/), to add support for *.7z archives in [Archiver](https://magpi.raspberrypi.org/articles/unzip-and-uncompress-files-on-a-raspberry-pi) software.
+* [hdparm](https://en.wikipedia.org/wiki/Hdparm), to perform read and write performance tests
+* [GNOME Disks](https://en.wikipedia.org/wiki/GNOME_Disks), to get information about disks and partitions
+* [GNOME Partition Editor](https://en.wikipedia.org/wiki/GParted) (gparted), to resize and format partions.
+* [GSmartControl](https://gsmartcontrol.sourceforge.io/home/), to get SMART information about our disks.
+* [QDirStat](https://github.com/shundhammer/qdirstat), to calculate disk usage per directories.
+* [7-zip](https://www.7-zip.org/), to add support for \*.7z archives in [Archiver](https://magpi.raspberrypi.org/articles/unzip-and-uncompress-files-on-a-raspberry-pi) software.
 
 The following instructions can install all software mentioned above:
 
-    sudo apt-get update
-    sudo apt-get install hdparm gnome-disk-utility gparted gsmartcontrol qdirstat p7zip-full
+```sh
+sudo apt-get update
+sudo apt-get install hdparm gnome-disk-utility gparted gsmartcontrol qdirstat p7zip-full
+```
 
 ## Create storage directories for our recordings
 
@@ -199,15 +205,19 @@ As discussed above, we want tv recordings to be stored on the SSD in the **pidvr
 
 In directory **/media/pi/pidvr**, create the following directories:
 
-  * **backup**, for storing backup images of the raspberry pi os
-  * **recordings**, for storing our recordings, obviously
-  * **shared**, for creating a Windows shared directory for easily transferring files from/to the raspberry pi. See next section below.
+* **backup**, for storing backup images of the raspberry pi os
+* **recordings**, for storing our recordings, obviously
+* **shared**, for creating a Windows shared directory for easily transferring files from/to the raspberry pi. See next section below.
 
-By default, these directories will only be writable (or accessible) for the **pi** user on the Raspberry Pi. This is a problem for our build since tvheadend run as **hts** user and _hts_ user won't have access by default to our **recordings** directory. To allow anyone to have read and write access to these directories, enter the following command in a terminal:
+By default, these directories will only be writable (or accessible) for the **pi** user on the Raspberry Pi. This is a problem for our build since tvheadend run as **hts** user and *hts* user won't have access by default to our **recordings** directory. To allow anyone to have read and write access to these directories, enter the following command in a terminal:
 
-    sudo chmod -R 7777 /media/pi.
+```sh
+sudo chmod -R 7777 /media/pi.
+```
 
-_**Note**: by default, a partition permissions are inherited from its parent directory where the partition is mounted. In this case, the partition mounted at **/media/pi/pidvr** inherits the permissions from **/media/pi** directory._
+{{< pleasenote >}}
+  **Note**: by default, a partition permissions are inherited from its parent directory where the partition is mounted. In this case, the partition mounted at **/media/pi/pidvr** inherits the permissions from **/media/pi** directory.
+{{< /pleasenote >}}
 
 A reboot of the Raspberry Pi may be required for the new partition is show up as writable for everyone.
 
@@ -217,39 +227,49 @@ By default, Raspberry Pi OS does not include CIFS/Samba support, but this can ea
 
 In summary, run the following commands in a terminal:
 
-    sudo apt update
-    sudo apt install -y samba samba-common-bin smbclient cifs-utils
+```sh
+sudo apt update
+sudo apt install -y samba samba-common-bin smbclient cifs-utils
+```
 
-_Note: During installation, if you have other samba servers on your network, choose no which is the default option._
+{{< pleasenote >}}
+  Note: During installation, if you have other samba servers on your network, choose no which is the default option.
+{{< /pleasenote >}}
 
 To create shared directories that can be accessed by a Windows computer, edit the configuration file **/etc/samba/smb.conf** with the following command:
 
-    sudo nano /etc/samba/smb.conf
+```sh
+sudo nano /etc/samba/smb.conf
+```
 
 and add the following new sections:
 
-    # Create a read-only shared directory called 'recordings' to
-    # easily export recording files outside of the raspberry pi.
-    [recordings]
-    comment = DVR recordings
-    path = /media/pi/pidvr/recordings
-    force user = pi
-    public = yes
-    writable = no
-    
-    # Create a read ans write shared directory called 'shared' to
-    # easily transferring files from/to the raspberry pi.
-    [shared]
-    path = /media/pi/pidvr/shared
-    force user = pi
-    public = yes
-    writable = yes
-    create mask = 0777
-    directory mask = 0777
+```ini
+# Create a read-only shared directory called 'recordings' to
+# easily export recording files outside of the raspberry pi.
+[recordings]
+comment = DVR recordings
+path = /media/pi/pidvr/recordings
+force user = pi
+public = yes
+writable = no
+
+# Create a read ans write shared directory called 'shared' to
+# easily transferring files from/to the raspberry pi.
+[shared]
+path = /media/pi/pidvr/shared
+force user = pi
+public = yes
+writable = yes
+create mask = 0777
+directory mask = 0777
+```
 
 Restart the samba daemon service for the changes to take effect:
 
-    sudo systemctl restart smbd
+```sh
+sudo systemctl restart smbd
+```
 
 ## Run Raspberry Pi Configuration utility
 
@@ -259,8 +279,8 @@ For example, the default hostname for the raspberry pi is **raspberrypi** which 
 
 The **Raspberry Pi Configuration** application, which can be found on the **Preferences** menu of the Raspberry Pi Desktop, will allow you to change the required settings. Please change the following settings accordingly:
 
-  1. In **System** tab, change the hostname to **pidvr**.
-  2. In **Interfaces** tab, enable **SSH** and **VNC**.
+1. In **System** tab, change the hostname to **pidvr**.
+2. In **Interfaces** tab, enable **SSH** and **VNC**.
 
 ## Install Tvheadend
 
@@ -270,10 +290,14 @@ There are already great guides that explains how to install and configure tvhead
 
 In summary, run the following commands in a terminal to install tvheadend:
 
-    sudo apt update
-    sudo apt install -y tvheadend
+```sh
+sudo apt update
+sudo apt install -y tvheadend
+```
 
-_Note: During installation, you will need to provide a username and password for the tvheadend aministrator. You can use `pidvr` and `pidvr`._
+{{< pleasenote >}}
+  Note: During installation, you will need to provide a username and password for the tvheadend aministrator. You can use `pidvr` and `pidvr`.
+{{< /pleasenote >}}
 
 ## Tvheadend initial configuration setup
 
@@ -282,28 +306,28 @@ After installation, connect to the tvheadend web interface to configure the appl
 
 ### Welcome (1 of 2)
 
-[![tvheadend - welcome page (1 or 2)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot01.png)
+[![tvheadend - welcome page (1 or 2)](/wp-content/uploads/2021/03/tvheadend_screenshot01-1.png "tvheadend - welcome page (1 or 2)")](/wp-content/uploads/2021/03/tvheadend_screenshot01-1.png)
 
-tvheadend - welcome page (1 or 2)
+![](RackMultipart20210314-4-ej0w6x_html_69043a9e7dd44345.png)
 
-![](RackMultipart20210314-4-ej0w6x_html_69043a9e7dd44345.png) This first screen will require you to select a language the web interface and the electronic program guide (EPG):
+This first screen will require you to select a language the web interface and the electronic program guide (EPG):
 
 Enter the following values:
 
-  * English
-  * French
+* English
+* French
 
 Click **Save & Next** to get to the next page.
 
-_Note: Since we actually changed the language of the web interface, the same page may be displayed when you first click_ **Save & Next**_. Click it again._
+{{< pleasenote >}}
+  Note: Since we actually changed the language of the web interface, the same page may be displayed when you first click ***Save & Next***. Click it again.
+{{< /pleasenote >}}
 
 ### Welcome (2 of 2)
 
-![](RackMultipart20210314-4-ej0w6x_html_8ff4b1990405bb00.png) 
+![](RackMultipart20210314-4-ej0w6x_html_8ff4b1990405bb00.png)
 
-[![tvheadend - welcome page (2 or 2)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot02.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot02.png)
-
-tvheadend - welcome page (2 or 2)
+[![tvheadend - welcome page (2 or 2)](/wp-content/uploads/2021/03/tvheadend_screenshot02-1.png "tvheadend - welcome page (2 or 2)")](/wp-content/uploads/2021/03/tvheadend_screenshot02-1.png)
 
 The next page allows you to configure the network access.
 
@@ -315,23 +339,21 @@ Click **Save & Next** to get to the next page.
 
 ### Network settings
 
-[![tvheadend - network settings](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot03.png)
+[![tvheadend - network settings](/wp-content/uploads/2021/03/tvheadend_screenshot03-1.png "tvheadend - network settings")](/wp-content/uploads/2021/03/tvheadend_screenshot03-1.png)
 
-tvheadend - network settings
+![](RackMultipart20210314-4-ej0w6x_html_40136d095fe9be97.png)
 
-![](RackMultipart20210314-4-ej0w6x_html_40136d095fe9be97.png) The next screen configures the tuners.
+The next screen configures the tuners.
 
-Leave the _IPTV_ fields from _Network 1_ blank.
+Leave the *IPTV* fields from *Network 1* blank.
 
-At this point, tbheadend should have already discovered both _HDHomeRun ATSC-T Tuner #0 and #1_ identified in "**Network 2**" and "**Network 3**" sections. Select **ATSC-T Network** in the _Network type_ fields for each network.
+At this point, tbheadend should have already discovered both *HDHomeRun ATSC-T Tuner #0 and #1* identified in "**Network 2**" and "**Network 3**" sections. Select **ATSC-T Network** in the *Network type* fields for each network.
 
 Click **Save & Next** to get to the next page.
 
 ### Assign predefined muxes to networks
 
-[![tvheadend - muxes](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot04.png)
-
-tvheadend - muxes
+[![tvheadend - muxes](/wp-content/uploads/2021/03/tvheadend_screenshot04-1.png "tvheadend - muxes")](/wp-content/uploads/2021/03/tvheadend_screenshot04-1.png)
 
 We now have to set the "muxes". To save you from manually entering muxes, Tvheadend includes predefined mux lists. For best results in Montreal area, select the following muxes: **United States: us-ATSC-center-frequencies-8VSB**
 
@@ -339,23 +361,17 @@ Click **Save & Next** to get to the next page.
 
 ### Scan status
 
-[![tvheadend - scan status](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05a.png)
-
-tvheadend - scan status
+[![tvheadend - scan status](/wp-content/uploads/2021/03/tvheadend_screenshot05a-1.png "tvheadend - scan status")](/wp-content/uploads/2021/03/tvheadend_screenshot05a-1.png)
 
 The scan will now commence. It will search for "muxes" and "services" that are distributed via those muxes. Note, a service is a TV channel. When the scan hits 100% you'll be able to see how many muxes and services it's picked up.
 
-[![tvheadend - scan status (100% completed)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot05b.png)
-
-tvheadend - scan status (100% completed)
+[![tvheadend - scan status (100% completed)](/wp-content/uploads/2021/03/tvheadend_screenshot05b-1.png "tvheadend - scan status (100% completed)")](/wp-content/uploads/2021/03/tvheadend_screenshot05b-1.png)
 
 Click **Save & Next** to get to the next page
 
 ### Service mapping
 
-[![tvheadend - service mapping](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot06.png)
-
-tvheadend - service mapping
+[![tvheadend - service mapping](/wp-content/uploads/2021/03/tvheadend_screenshot06-1.png "tvheadend - service mapping")](/wp-content/uploads/2021/03/tvheadend_screenshot06-1.png)
 
 Next on the wizard is service mapping. This step maps the services that your scan discovered to channels. If you are interested in adding all channels in your area, do not tick any checkbox. Otherwise, tick the three check boxes.
 
@@ -363,15 +379,15 @@ Click **Save & Next** to get to the next page.
 
 ### Finished
 
-[![tvheadend - setup finished](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/tvheadend_screenshot07.png)
-
-tvheadend - setup finished
+[![tvheadend - setup finished](/wp-content/uploads/2021/03/tvheadend_screenshot07-1.png "tvheadend - setup finished")](/wp-content/uploads/2021/03/tvheadend_screenshot07-1.png)
 
 The initial setup is finished. Click **Finish** to complete the
 
 At this stage we like to reboot the Raspberry Pi. In the terminal use the following command to restart your Raspberry Pi:
 
-    sudo reboot now
+```sh
+sudo reboot now
+```
 
 ## Tvheadend additional configuration
 
@@ -379,73 +395,75 @@ The following list are specific configuration settings that I like to set for tv
 
 ### Set web interface level to Advanced by default
 
-  1. Go to _Configuration_, _General_, _Base_ tab.
-  2. Set _User interface level_ to value **Advanced**.
-  3. Click on **Save** when done.
+1. Go to *Configuration*, *General*, *Base* tab.
+2. Set *User interface level* to value **Advanced**.
+3. Click on **Save** when done.
 
 ### Test for tvheadend has access to 'recordings' directory
 
 tvheadend runs as user **hts**. To test read and write access from **hts** user perspective, type the following in a terminal:
 
-    sudo su hts
-    cd /media/pi/pidvr/recordings
-    touch hts_test_file
-    rm hts_test_file
+```sh
+sudo su hts
+cd /media/pi/pidvr/recordings
+touch hts_test_file
+rm hts_test_file
+```
 
 The commands specified above should **not** output any error like the following:
 
-    touch: cannot touch 'hts_test_file': Permission denied
+```
+touch: cannot touch 'hts_test_file': Permission denied
+```
 
 ### Setup preferred recordings settings
 
-  1. Go to _Configuration_, _Recording_, _Digital Video Recorder Profiles_ tab.
-  2. Click on the _Default profile_.
-  3. Set _Recording system path_ to value **/media/pi/pidvr/recordings**.
-  4. Set **Pre-recording padding** to 1 min.
-  5. Set **Post-recording padding** to 3 min.
-  6. Uncheck **Skip commercials** options.
-  7. Check **Include date in filename**, **Include time in filename** and **Use Windows-compatible filenames** options.
-  8. Click on **Save** when done.
+1. Go to *Configuration*, *Recording*, *Digital Video Recorder Profiles* tab.
+2. Click on the *Default profile*.
+3. Set *Recording system path* to value **/media/pi/pidvr/recordings**.
+4. Set **Pre-recording padding** to 1 min.
+5. Set **Post-recording padding** to 3 min.
+6. Uncheck **Skip commercials** options.
+7. Check **Include date in filename**, **Include time in filename** and **Use Windows-compatible filenames** options.
+8. Click on **Save** when done.
 
 ### Enable Timeshift
 
 Timeshift is disabled by default and needs to be enabled to get the maximum out of tvheadend.
 
-  1. Go to _Configuration_, _Recording_, _Timeshift_ tab.
-  2. Switch to **Expert mode**. This is to work around a bug explained [here](https://tvheadend.org/boards/5/topics/29304) and [here](https://forum.kodi.tv/showthread.php?tid=314837).
-  3. Check **enabled**.
-  4. Set _Storage path_ to value **/media/pi/pidvr/recordings**.
-  5. Set _Maximum size (MB)_ to value **4096**.
-  6. Check _**On-demand (no first rewind)**_ and _**Fit to RAM (cut rewind)**_.
-  7. Click on **Save** when done.
+1. Go to *Configuration*, *Recording*, *Timeshift* tab.
+2. Switch to **Expert mode**. This is to work around a bug explained [here](https://tvheadend.org/boards/5/topics/29304) and [here](https://forum.kodi.tv/showthread.php?tid=314837).
+3. Check **enabled**.
+4. Set *Storage path* to value **/media/pi/pidvr/recordings**.
+5. Set *Maximum size (MB)* to value **4096**.
+6. Check ***On-demand (no first rewind)*** and ***Fit to RAM (cut rewind)***.
+7. Click on **Save** when done.
 
 ### Set Network Character set
 
 Montreal channels have the EPG encoding using UTF-8. The network character encoding must be specified manually.
 
-  1. Go to _Configuration_, _DVB Inputs_, _Networks_ tab.
-  2. Select the default network created by the first scan (named _ATSC-T Network_).
-  3. Click **edit** button.
-  4. Change the name of the network (i.e. _My ATSC Network_)
-  5. Set _Character set_ to value **UTF-8**.
-  6. Click on **Save**.
-  7. * * *Switch to 
-    
-    _Muxes_ tab.
-  8. Select all available muxes: click on the first mux and press _CTRL+A_.
-  9. Click **edit** button.
- 10. Check _Character set_ in Advanced Settings.
- 11. Set _Character set_ to value **UTF-8**.
- 12. Click on **Save**.
- 13. * * *Switch to 
-    
-    _Services_ tab.
- 14. Select all available services: click on the first service and press _CTRL+A_.
- 15. Click **edit** button.
- 16. Switch to _Export_ view level.
- 17. Check _Character set_ in Advanced Settings.
- 18. Set _Character set_ to value **UTF-8**.
- 19. Click on **Save**.
+1. Go to *Configuration*, *DVB Inputs*, *Networks* tab.
+2. Select the default network created by the first scan (named *ATSC-T Network*).
+3. Click **edit** button.
+4. Change the name of the network (i.e. *My ATSC Network*)
+5. Set *Character set* to value **UTF-8**.
+6. Click on **Save**.
+7. ---
+   Switch to *Muxes* tab.
+8. Select all available muxes: click on the first mux and press *CTRL+A*.
+9. Click **edit** button.
+10. Check *Character set* in Advanced Settings.
+11. Set *Character set* to value **UTF-8**.
+12. Click on **Save**.
+13. ---
+    Switch to *Services* tab.
+14. Select all available services: click on the first service and press *CTRL+A*.
+15. Click **edit** button.
+16. Switch to *Export* view level.
+17. Check *Character set* in Advanced Settings.
+18. Set *Character set* to value **UTF-8**.
+19. Click on **Save**.
 
 ### Map desired services as channels
 
@@ -453,43 +471,45 @@ If you did not mapped all services as channels during first configuration, now i
 
 For Montreal area, here is the list of French channels:
 
-  * Radio-Canada CBFT-DT
-  * TVA CFTM-DT
-  * Noovo CFJP-DT
-  * Télé-Québec CJNT
+* Radio-Canada CBFT-DT
+* TVA CFTM-DT
+* Noovo CFJP-DT
+* Télé-Québec CJNT
 
-  1. Go to _Configuration_, _DVB Inputs_, _Services_ tab.
-  2. Select all available services: click on the first service and press _CTRL+A_.
-  3. Click **edit** button.
-  4. Check _Enabled_ setting in _Basic Settings_ and **uncheck** the value.
-  5. Click on **Save**.
-  6. Check only the your desired channels that you want to map
-  7. Click on **Save**.
-  8. Click on **Map Selected** then **Map selected services**, a new window will open
-  9. Uncheck **Create type-based tags**.
- 10. Click on **Map sercices**.
- 11. Wait for the mapping process to end.
+1. Go to *Configuration*, *DVB Inputs*, *Services* tab.
+2. Select all available services: click on the first service and press *CTRL+A*.
+3. Click **edit** button.
+4. Check *Enabled* setting in *Basic Settings* and **uncheck** the value.
+5. Click on **Save**.
+6. Check only the your desired channels that you want to map
+7. Click on **Save**.
+8. Click on **Map Selected** then **Map selected services**, a new window will open
+9. Uncheck **Create type-based tags**.
+10. Click on **Map sercices**.
+11. Wait for the mapping process to end.
 
 ### Change channel identifiers to meaningful names
 
 This is for changing the name of the channels from CBFT (or something) to the actual name of the tv network that owns these channels.
 
-  1. Go to _Configuration_, _Channel / EPG_, _Channels_ tab.
-  2. Double click the name of each channel that you need to rename
-  3. Click on **Save** when done.
+1. Go to *Configuration*, *Channel / EPG*, *Channels* tab.
+2. Double click the name of each channel that you need to rename
+3. Click on **Save** when done.
 
 For example:
 
-  * Radio-Canada - CBFT-DT
-  * TVA - CFTM-DT
-  * Noovo - CFJP-DT
-  * Télé-Québec - CJNT
+* Radio-Canada - CBFT-DT
+* TVA - CFTM-DT
+* Noovo - CFJP-DT
+* Télé-Québec - CJNT
 
 ### UTF-8 characters in Electronic Program Guide (EPG) - bug
 
-![](RackMultipart20210314-4-ej0w6x_html_16af1b06ba9c6ad8.png) The tv guide seems to be still using non-utf8 characters. This is still an open issue and I have not yet figured out a way to solve the issue:
+![](RackMultipart20210314-4-ej0w6x_html_16af1b06ba9c6ad8.png)
 
-[![](http://www.end2endzone.com/wp-content/uploads/2021/03/EPG-utf-8-bug.png)](http://www.end2endzone.com/wp-content/uploads/2021/03/EPG-utf-8-bug.png)&nbsp;
+The tv guide seems to be still using non-utf8 characters. This is still an open issue and I have not yet figured out a way to solve the issue:
+
+[![](/wp-content/uploads/2021/03/EPG-utf-8-bug.png)](/wp-content/uploads/2021/03/EPG-utf-8-bug.png)
 
 ## Configure Kodi to connect to tvheadend
 
@@ -497,14 +517,14 @@ The following instructions defines how to connect Kodi with tvheadend to view re
 
 ### Install tvheadend add-on
 
-  1. Open _Kodi_.
-  2. Go to **Settings**.
-  3. Select **Add-ons**.
-  4. Select **Install from repository**.
-  5. Select **PVR Clients** category.
-  6. Select **Tvheadend HTSP Client**.
-  7. Select **Install** and wait for the add-on to install.
-  8. Select **Tvheadend HTSP Client** (again).
-  9. Select **Configure**.
- 10. Set _tvheadend hostname_ to **pidvr**.
- 11. Click on **OK** when done.
+1. Open *Kodi*.
+2. Go to **Settings**.
+3. Select **Add-ons**.
+4. Select **Install from repository**.
+5. Select **PVR Clients** category.
+6. Select **Tvheadend HTSP Client**.
+7. Select **Install** and wait for the add-on to install.
+8. Select **Tvheadend HTSP Client** (again).
+9. Select **Configure**.
+10. Set *tvheadend hostname* to **pidvr**.
+11. Click on **OK** when done.

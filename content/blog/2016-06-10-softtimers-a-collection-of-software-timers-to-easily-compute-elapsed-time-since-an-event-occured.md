@@ -31,11 +31,11 @@ tags:
 ---
 # Introduction
 
-The following article is about my simplest library that I wrote for the arduino: _SoftTimers_. The _SoftTimers_ arduino library allows one to properly time multiple events and know when each "timer" expires meaning that an action is required.<!--more-->
+The following article is about my simplest library that I wrote for the arduino: *SoftTimers*. The *SoftTimers* arduino library allows one to properly time multiple events and know when each "timer" expires meaning that an action is required.
 
 Skip to the [download section](#Download) for quick download.
 
-When I first learned programming the arduino, I learned the "_hello world_" of the arduino: turning a LED on and off.  As expected, I used `delay()` to define how long the LED should be on and off.
+When I first learned programming the arduino, I learned the "*hello world*" of the arduino: turning a LED on and off. As expected, I used `delay()` to define how long the LED should be on and off.
 
 However, this approach is bad since it break the "realtime" property of the software to react to other event. If I want to make the LED instantly turn off when pressing a button, I had to wait for the delay to complete before processing the button. (I know you could use interrupts and update with LED pin within the interrupt but that is out of scope for now.)
 
@@ -72,7 +72,7 @@ Call `setTimeOutTime()` to setup the non-blocking SoftTimer then call `reset()` 
 
 Within the `loop()`, use `hasTimedOut()` to know if the timer has expired.
 
-At any moment, call `getElapsedTime()`&nbsp;to get the absolute elapsed time since the last `reset()`.
+At any moment, call `getElapsedTime()` to get the absolute elapsed time since the last `reset()`.
 
 ## Fade a LED
 
@@ -80,11 +80,11 @@ Fading a LED like [arduino's Built-in Fade Example](https://www.arduino.cc/en/Tu
 
 The following example increases the intensity of a LED from OFF to ON in 1 second and then decreases the intensity of the LED back to OFF in 1 second.
 
-Demo
+Demo:
 
-Click the following to download the example below:  
-(download 
-	[ Fade a LED example.ino](http://www.end2endzone.com/download/2109/ "Version 1.2.219"))
+Click the following to download the example below:
+
+{{% download old-id="2109" href="/wp-content/uploads/2016/06/SoftTimers-v1.1.219-FadeLed-demo.ino" %}}SoftTimers-v1.1.219-FadeLed-demo.ino{{% /download %}}
 
 {{< hightlight-static-file file="/static/wp-content/uploads/2016/06/SoftTimers-v1.1.219-FadeLed-demo.ino" lang="cpp" >}}
 
@@ -94,13 +94,13 @@ Any program that need to display a countdown or compute the elapsed time between
 
 The following example runs a countdown of 5 seconds and then turns a LED on.
 
-Demo
+Demo:
 
-Click the following to download the example below:  
-(download 
-	[ Countdown example.ino](http://www.end2endzone.com/download/2105/ "Version 1.2.219"))
+Click the following to download the example below:
 
-{{< hightlight-static-file file="/static/wp-content/uploads/2016/06/SoftTimers-v1.1.219-Countdown-demo.ino" lang="" >}}
+{{% download old-id="2105" href="/wp-content/uploads/2016/06/SoftTimers-v1.1.219-Countdown-demo.ino" %}}SoftTimers-v1.1.219-Countdown-demo.ino{{% /download %}}
+
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/06/SoftTimers-v1.1.219-Countdown-demo.ino" lang="cpp" >}}
 
 ## Timed repetitive cycles
 
@@ -113,11 +113,11 @@ The following example implements a system where a single HIGH pin must be cycled
 * set pin 8, 9 and 13 to LOW, HIGH and LOW respectively and then wait 1 second.
 * repeat the cycle forever...
 
-Demo
+Demo:
 
-Click the following to download the example below:  
-(download 
-	[ Cycle a High pin example.ino](http://www.end2endzone.com/download/2107/ "Version 1.2.219"))
+Click the following to download the example below:
+
+{{% download old-id="2107" href="/wp-content/uploads/2016/06/SoftTimers-v1.1.219-CycleHighPin-demo.ino" %}}SoftTimers-v1.1.219-CycleHighPin-demo.ino{{% /download %}}
 
 {{< hightlight-static-file file="/static/wp-content/uploads/2016/06/SoftTimers-v1.1.219-CycleHighPin-demo.ino" lang="cpp" >}}
 
@@ -133,11 +133,11 @@ The following example implement an hypothetical state machine where each state h
 * State #4 - UPDATING (300 ms)
 * State #1 ....
 
-Demo
+Demo:
 
-Click the following to download the example below:  
-(download 
-	[ State Machine example.ino](http://www.end2endzone.com/download/2111/ "Version 1.2.219"))
+Click the following to download the example below:
+
+{{% download old-id="2111" href="/wp-content/uploads/2016/06/SoftTimers-v1.1.219-StateMachine-demo.ino" %}}SoftTimers-v1.1.219-StateMachine-demo.ino{{% /download %}}
 
 {{< hightlight-static-file file="/static/wp-content/uploads/2016/06/SoftTimers-v1.1.219-StateMachine-demo.ino" lang="cpp" >}}
 
@@ -149,13 +149,11 @@ This library is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
-**DISCLAIMER:**  
+**DISCLAIMER:**
 This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 
-You can download the SoftTimers arduino library by clicking on the following link:  
+You can download the SoftTimers arduino library by clicking on the following link:
 
-
-
-		[ Download "SoftTimers arduino library v1.1.219" SoftTimers-v1.1.219.zip - Downloaded 430 times - 41 KB ](http://www.end2endzone.com/download/2089/)
+{{% download old-id="2089" href="https://github.com/end2endzone/SoftTimers/archive/refs/tags/2.1.0.zip" %}}SoftTimers v2.1.0.zip{{% /download %}}

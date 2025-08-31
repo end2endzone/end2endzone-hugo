@@ -1,0 +1,56 @@
+{{- /* Default render-table for hugo as per documentation at https://gohugo.io/render-hooks/tables/ */ -}}
+{{- /* Modified to do the following: */ -}}
+{{- /* - Checks if the first row exists and has any non-empty cells. */ -}}
+{{- /* - If there is content, it generates a <thead> using that first row. */ -}}
+{{- /* - Otherwise, all rows go into the <tbody>, skipping the <thead> entirely. */ -}}
+{{- /* In other words... */ -}}
+{{- /* It only emit <thead> when there's at least one header row */ -}}
+<table
+  {{- range $k, $v := .Attributes }}
+    {{- if $v }}
+      {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+    {{- end }}
+  {{- end }}>
+  {{- /* scan each header cell for non-empty text */ -}}
+  {{- $hasHeaderRowContent := false }}
+  {{- range $row := .THead }}
+    {{- range $cell := $row }}
+      {{- $trimmed := trim $cell.Text " " }}
+      {{- if ne $trimmed "" }}
+        {{- $hasHeaderRowContent = true }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+  {{ if $hasHeaderRowContent }}
+    <thead>
+      {{- range .THead }}
+        <tr>
+          {{- range . }}
+            <th
+              {{- with .Alignment }}
+                {{- printf " style=%q" (printf "text-align: %s" .) | safeHTMLAttr }}
+              {{- end -}}
+            >
+              {{- .Text -}}
+            </th>
+          {{- end }}
+        </tr>
+      {{- end }}
+    </thead>
+  {{- end }}
+  <tbody>
+    {{- range .TBody }}
+      <tr>
+        {{- range . }}
+          <td
+            {{- with .Alignment }}
+              {{- printf " style=%q" (printf "text-align: %s" .) | safeHTMLAttr }}
+            {{- end -}}
+          >
+            {{- .Text -}}
+          </td>
+        {{- end }}
+      </tr>
+    {{- end }}
+  </tbody>
+</table>

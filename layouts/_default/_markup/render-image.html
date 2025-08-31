@@ -1,0 +1,13 @@
+{{- /* Custom render hook to modify how markdown images are rendered. */ -}}
+{{- /* This script add support for markdown images with a title. */ -}}
+{{- /* For example: `![Alt text](image-url "Optional title")` */ -}}
+{{- /* If no title is specified, hugo renders images with the normal <img> tag. */ -}}
+{{- /* If a title is specified, hugo outputs a <figure> tag instead of an <img> tag. */ -}}
+{{ if .Title }}
+<figure>
+  <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+  <figcaption>{{ .Title }}</figcaption>
+</figure>
+{{ else }}
+<img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+{{ end }}

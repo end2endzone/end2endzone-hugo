@@ -32,9 +32,9 @@ tags:
 ---
 # Introduction
 
-The following arduino library was written to use the findings found during the _**[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/ "Edit “Mapping RC Transmitter PWM signal to actual transmitter values”"){.row-title}**_&nbsp;article. All results were wrapped into a library for ease of use.
+The following arduino library was written to use the findings found during the ***[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/)*** article. All results were wrapped into a library for ease of use.
 
-The RcReceiverSignal is an arduino library that allows one to read a signal sent from a Remote Controlled (RC) receiver.<!--more-->
+The RcReceiverSignal is an arduino library that allows one to read a signal sent from a Remote Controlled (RC) receiver.
 
 Skip to the [download section](#Download) for quick download.
 
@@ -44,7 +44,7 @@ The RcReceiverSignal library allows one to easily configure an input pin to read
 
 It allows the main loop to retrieve the latest received pulse length (PWM) and convert the pulse length back to the actual transmitter signal value (ranging from -150% to 150%).
 
-The library supports automatic PWM signal change detection. The library's ability to convert a PWM value to the actual transmitter numeric value is based on empirical tests available at _**[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/ "Edit “Mapping RC Transmitter PWM signal to actual transmitter values”"){.row-title}.**_
+The library supports automatic PWM signal change detection. The library's ability to convert a PWM value to the actual transmitter numeric value is based on empirical tests available at ***[Mapping RC Transmitter PWM signal to actual transmitter values](/mapping-rc-transmitter-pwm-signal-to-actual-transmitter-values/).***
 
 # Library features
 
@@ -54,16 +54,12 @@ Possible use are:
 * Automatically handles interrupt protection.
 * Automatic ISR handling. All required code automatically generated.
 * Allows one to convert a pulse length (PWM) back to the original transmitter value.
-<li>
-  Supports multiple Transmitter/Receiver combination: <li>
-      Spektrum DX9 tx + Spektrum AR8000 rx
-    </li>
-    * Spektrum DX9 tx +&nbsp;Orange R620X rx
-    * Tactic TTX600 tx +&nbsp;Tactic TR624 rx
+* Supports multiple Transmitter/Receiver combination: 
+    * Spektrum DX9 tx + Spektrum AR8000 rx
+    * Spektrum DX9 tx + Orange R620X rx
+    * Tactic TTX600 tx + Tactic TR624 rx
     * CCPM Servo Tester
-</li>
-
-* Supports [eRCaGuy_Timer2_Counter](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html)&nbsp;0.5µs (or the native _micros()_ function)&nbsp;for timing calculations.
+* Supports [eRCaGuy\_Timer2\_Counter](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html) 0.5µs (or the native *micros()* function) for timing calculations.
 
 # Library dependencies
 
@@ -71,48 +67,42 @@ Possible use are:
 
 This library allows the arduino to attach interrupts on multiple pins.
 
-## [eRCaGuy_Timer2_Counter](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html)
+## [eRCaGuy\_Timer2\_Counter](http://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html)
 
-(optional)  
-This library configures the arduino's timer2 to 0.5µs precision. It is used for a _micros()_&nbsp;function replacement and allows times calculations that are far more precise (8 times!) than the default's 4µs resolution.
+(optional) This library configures the arduino's timer2 to 0.5µs precision. It is used for a *micros()* function replacement and allows times calculations that are far more precise (8 times!) than the default's 4µs resolution.
 
 # Usage
 
-Use the DECLARE_RECEIVER_SIGNAL macro to declare an instance of RcReceiverSignal. ie:
-
+Use the DECLARE\_RECEIVER\_SIGNAL macro to declare an instance of RcReceiverSignal. ie:
 
 ```cpp
 DECLARE_RECEIVER_SIGNAL(receiver_aux1_handler);
 DECLARE_RECEIVER_SIGNAL(receiver_throttle_handler);
 ```
 
-
 Each macro will automatically declare the following:
 
-* RcReceiverSignal receiver_aux1_handler;
-* receiver_aux1_handler_setup() function.
-* receiver_aux1_handler_pin_change() ISR function.
+* RcReceiverSignal receiver\_aux1\_handler;
+* receiver\_aux1\_handler\_setup() function.
+* receiver\_aux1\_handler\_pin\_change() ISR function.
 
-In the _setup()_ function, you need to configure each instance by calling the _receiver_aux1_handler_setup()_ function with the interrupt pin as argument. ie:
-
+In the *setup()* function, you need to configure each instance by calling the *receiver\_aux1\_handler\_setup()* function with the interrupt pin as argument. ie:
 
 ```cpp
 receiver_aux1_handler_setup(RECEIVER_AUX1_IN_PIN);
 receiver_throttle_handler_setup(RECEIVER_THROTTLE_IN_PIN);
 ```
 
+In the loop function, one can call the *hasChanged()* method to know if the PWM value has changed since the last call or call the *getPwmValue()* function to get the last PWM value observed by the *RcReceiverSignal* instance.
 
-In the loop function, one can call the _hasChanged() m_ethod to know if the PWM value has changed since the last call or call the _getPwmValue()_ function to get the last PWM value observed by the _RcReceiverSignal_ instance.
-
-From a PWM value, one can call the _getSignalValue()_ or _getDeviceSignalValue()_ methods to convert a given PWM signal from a known device combination to a transmitter value (within -150% to +150%).
+From a PWM value, one can call the *getSignalValue()* or *getDeviceSignalValue()* methods to convert a given PWM signal from a known device combination to a transmitter value (within -150% to +150%).
 
 ## Demo
 
-The following demo show how to use the library:  
-(download the 
-	[ RcReceiverSignal v1.1.203 LedUpdate demo.ino (572 downloads) ](http://www.end2endzone.com/download/1794/ "Version 1.1.203"))
+The following demo show how to use the library:
+{{% download old-id="1794" href="/wp-content/uploads/2016/03/RcReceiverSignal-v1.0.124-LedUpdate.ino" %}}RcReceiverSignal-v1.0.124-LedUpdate.ino{{% /download %}}
 
-{{< hightlight-static-file file="/static/wp-content/uploads/2016/03/RcReceiverSignal-v1.1.203-LedUpdate.ino" lang="" >}}
+{{< hightlight-static-file file="/static/wp-content/uploads/2016/03/RcReceiverSignal-v1.1.203-LedUpdate.ino" lang="cpp" >}}
 
 # License
 
@@ -122,12 +112,10 @@ This library is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
-**DISCLAIMER:**  
+**DISCLAIMER:**
 This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
 
 # Download
 
 You can download the RcReceiverSignal arduino library by clicking on the following link:
-
-
-		[ Download "RcReceiverSignal arduino library v1.1.203" RcReceiverSignal-v1.1.203.zip - Downloaded 664 times - 59 KB ](http://www.end2endzone.com/download/1792/)
+{{% download old-id="1792" href="/wp-content/uploads/2016/03/RcReceiverSignal-v1.0.124.zip" %}}RcReceiverSignal-v1.0.124.zip{{% /download %}}

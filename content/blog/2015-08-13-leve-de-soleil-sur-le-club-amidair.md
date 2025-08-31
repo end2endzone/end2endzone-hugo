@@ -27,11 +27,7 @@ Il est 5 heures du matin. Tout est calme et on entend quelque fois le crie d'un 
 
 Une belle journée de vol s'annonce.
 
-<!--more-->
-
 {{< image-gallery >}}
-| <!-- -->                                                                                                                                                                                                                                 |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6162_LR5.jpg)](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6162_LR5.jpg)[1620x1080](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6162_LR5.jpg) |
-| [![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6159_LR5.jpg)](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6159_LR5.jpg)[1620x1080](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_6159_LR5.jpg) |
+  [![](/wp-content/uploads/2015/08/IMG_6162_LR5-1024x683.jpg)](/wp-content/uploads/2015/08/IMG_6162_LR5.jpg)
+  [![](/wp-content/uploads/2015/08/IMG_6159_LR5-1024x683.jpg)](/wp-content/uploads/2015/08/IMG_6159_LR5.jpg)
 {{< /image-gallery >}}

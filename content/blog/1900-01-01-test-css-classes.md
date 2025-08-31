@@ -13,8 +13,12 @@ hey this is my text default color
 
 [this is a link to google.com](http://google.com)
 
-this is another line of text{#id .pleasenote}
+this is another line of text
 
+&nbsp;
+&nbsp;
+
+**Heading:**
 
 # h1
 Text in header 1 [this is a link to google.com](http://google.com)
@@ -34,23 +38,41 @@ Text in header 5 [this is a link to google.com](http://google.com)
 ###### h6
 Text in header 6 [this is a link to google.com](http://google.com)
 
-![Flowers](/wp-content/uploads/2015/01/MSBuildReorder-How-to-reorder-a-Visual-Studio-build-log-for-easy-reading.png){.callout}
-
-## heading ## {#id .className attrName=attrValue class="class1 class2"}
+![Flowers](/wp-content/uploads/2015/01/MSBuildReorder-How-to-reorder-a-Visual-Studio-build-log-for-easy-reading.png)
 
 # Custom css classes
 
+### postedit
 {{< postedit >}}
   EDIT: Source code is now moved to GitHub. Source code can be downloaded from [the project's GitHub page](http://github.com/end2endzone/msbuildreorder).
 {{< /postedit >}}
 
+
+### pleasenote
 {{< pleasenote >}}
   NOTE: Please note that download links are now deprecated. Binary version of msbuildreorder can be downloaded directly from [the project's GitHub page](http://github.com/end2endzone/msbuildreorder/releases).
 {{< /pleasenote >}}
 
+
+### renamep
 {{< renamep >}}
   IMG_8823.jpg  Trip to Hawaii with John (2007) 01.jpg</br> IMG_8824.jpg  Trip to Hawaii with John (2007) 02.jpg<br /> IMG_8825.jpg  Trip to Hawaii with John (2007) 03.jpg<br /> ...<br /> IMG_8899.jpg  Trip to Hawaii with John (2007) 77.jpg
 {{< /renamep >}}
+
+
+### buttons
+Click on the {{% windows-button3d %}}Play{{% /windows-button3d %}} button then on the {{% windows-button3d %}}Scan{{% /windows-button3d %}} button to activate the process.
+
+
+### image captions
+
+[![HDHomeRun Tv Dump - Main Window showing channels](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png "HDHomeRun Tv Dump - Main Window showing channels")](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png)
+
+
+### image gallery
+{{% image-gallery %}}
+[![HDHomeRun Tv Dump - Main Window showing channels](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png "HDHomeRun Tv Dump - Main Window showing channels")](https://www.end2endzone.com/wp-content/uploads/2015/02/HDHomeRun-Tv-Dump-Main-Window-showing-channels.png)
+{{% /image-gallery %}}
 
 # Forms
 
@@ -80,12 +102,33 @@ HTML 5 table:
 | Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy    |
 
 
-Plain html table:
-| <!-- --> | <!-- --> | <!-- --> |
-|----------|----------|----------|
-| john     | $20,000  | $10,000  |
-| david    | $30,000  | $15,000  |
-| marry    | $40,000  | $15,000  |
+Table with no header (all first row has empty cells):
+|||||
+|----------|----------|----------|----------|
+| First    | john     | $20,000  | $10,000  |
+| Second   | david    | $30,000  | $15,000  |
+| Last     | marry    | $40,000  | $15,000  |
+
+RC transmitter channels:
+
+{{< rc-channels >}}
+||||
+|---|---|---|
+| CH 1 | : | Throttle |
+| CH 2 | : | Rudder |
+| CH 3 | : | Ailerons |
+| CH 4 | : | Elevator |
+| CH 5 | : | Flight mode |
+| CH 6 | : | ??? |
+{{< /rc-channels >}}
+
+{{< rc-channels >}}
+||||
+|---|---|---|
+| High | = | 100% |
+| Low | = | -100% |
+| Offset | = | 0% |
+{{< /rc-channels >}}
 
 
 # Image Galleries (as tables)
@@ -93,9 +136,9 @@ Plain html table:
 {{< image-gallery >}}
 | <!-- -->                                                                                                                                                                                  | <!-- -->                                                                                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<br /> ![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2446_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/37538053182/in/album-72157686816329321/) | [<br /> ![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2488_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/37538049222/in/album-72157686816329321/) |
-| [<br /> ![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2526_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/37538046922/in/album-72157686816329321/) | [<br /> ![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2549_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/36900405873/in/album-72157686816329321/) |
-| [<br /> ![](http://www.end2endzone.com/wp-content/uploads/2015/08/IMG_2567_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/37538045602/in/album-72157686816329321/) |                                                                                                                                                                                           |
+| [<br /> ![](/wp-content/uploads/2015/08/IMG_2446_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/37538053182/in/album-72157686816329321/) | [<br /> ![](/wp-content/uploads/2015/08/IMG_2488_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/37538049222/in/album-72157686816329321/) |
+| [<br /> ![](/wp-content/uploads/2015/08/IMG_2526_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/37538046922/in/album-72157686816329321/) | [<br /> ![](/wp-content/uploads/2015/08/IMG_2549_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/36900405873/in/album-72157686816329321/) |
+| [<br /> ![](/wp-content/uploads/2015/08/IMG_2567_e2ez-672x448.jpg)<br /> ](https://www.flickr.com/photos/154618444@N05/37538045602/in/album-72157686816329321/) |                                                                                                                                                                                           |
 {{< /image-gallery >}}
 
 
