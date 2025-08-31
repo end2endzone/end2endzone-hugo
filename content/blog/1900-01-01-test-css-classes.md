@@ -92,7 +92,7 @@ Click on the {{% windows-button3d %}}Play{{% /windows-button3d %}} button then o
 # Tables
 
 HTML 5 table:
-| <!-- -->                     | <!-- -->         | <!-- --> |
+| Company                      | Contact          | Country  |
 |------------------------------|------------------|----------|
 | Alfreds Futterkiste          | Maria Anders     | Germany  |
 | Centro comercial Moctezuma   | Francisco Chang  | Mexico   |

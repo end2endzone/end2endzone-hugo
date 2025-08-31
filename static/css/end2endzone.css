@@ -552,7 +552,7 @@ input:focus, select:focus, textarea:focus {
 }
 .content>table:not(pre>code>table) thead {
   font-weight: bold;
-  background: RGB(253,160,47); /* orange-like */
+  background: RGB(255,192,0); /* light-orange-like */
 }
 .content>table:not(pre>code>table) tbody {
   font-weight: normal;
