@@ -151,14 +151,13 @@ The CSV data can be downloaded here:
 
 # License
 
-This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3.0 of the License, or (at your option) any later version.
+Copyright (C) 2016 Antoine Beauchamp  
 
-This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License (LGPL-3.0) for more details.
+This library is licensed under the MIT License:
 
-You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-**DISCLAIMER:**
-This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
+The full license is available [here](https://github.com/end2endzone/bin2cpp/blob/master/LICENSE).
 
 # Download
 

@@ -6,7 +6,6 @@
   - https://www.youtube.com/watch?v=K0WJRApcKCA
   - https://www.youtube.com/watch?v=jvgtbgQBjlM
 - Create a script instead of using `public` directory as a submodule. This workflow is too much complicated.
-- Fix `**DISCLAIMER:**` licenses in pages to be properly rendered in HTML (add double-space newline characters)
 - Reduce height if tables lines to minimum.
 - <code> brackets such as `<code>^</code>` should be displayed with black text over a grey background.
 - Consider setting ToC (Table of contents) open by default.

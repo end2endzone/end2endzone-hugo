@@ -235,9 +235,11 @@ bin2cpp is only available for the Windows platform and has been tested with the 
 
 # License
 
-bin2cpp is being distributed as Freeware for personal, commercial use, non-profit organization, and educational purpose. It may be included with CD-ROM/DVD-ROM distributions. You are NOT allowed to make a charge for distributing this Software (either for profit or merely to recover your media and distribution costs) whether as a stand-alone product, or as part of a compilation or anthology, nor to use it for supporting your business or customers. It may be distributed freely on any website or through any other distribution mechanism, as long as no part of it is changed in any way.
+bin2cpp is licensed under the MIT License:
 
-The full license is available [here](/wp-content/uploads/2015/01/bin2cpp-EULA.htm).
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+The full license is available [here](https://github.com/end2endzone/bin2cpp/blob/master/LICENSE).
 
 # History of changes
 
