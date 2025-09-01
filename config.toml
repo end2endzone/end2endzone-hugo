@@ -102,6 +102,17 @@ enableRobotsTXT = true
     guessSyntax = false
     noClasses = false
 
+    # Hugo uses [chroma](https://github.com/alecthomas/chroma) as a compile-time syntax highlighter by default.
+    # To configure chroma, the following attributes are available:
+    # (note that these attributes have no impact because the site is rendered with highlight.js which does client-side syntax highlighting)
+    #
+    # codeFences = true
+    # hl_Lines = ""
+    # lineNoStart = 1
+    # lineNos = false
+    # lineNumbersInTable = true
+    # style = "monokai"
+    # tabWidth = 4
 
   
 [module]
@@ -115,7 +126,7 @@ enableRobotsTXT = true
 [params]
   enableCDN             = false
   cssFiles              = ["default", "css/end2endzone.css", "css/button.css"]
-  jsFiles               = ["default"]
+  jsFiles               = ["default", "js/linenumbers.js"]
   highlightjs           = true
 
   #highlightjsTheme      = "github-dark"
@@ -124,6 +135,9 @@ enableRobotsTXT = true
   highlightjsTheme      = "a11y-dark"
 
   highlightjsLang       = []
+
+  highlightjsLineNos = false
+
   viewMorePostsLink     = "blog"
   readingTime           = true
   imageStretch          = "vertical"
