@@ -546,6 +546,7 @@ input:focus, select:focus, textarea:focus {
   background: black; /* space between space is the table background */
   color: black;
   border: 0; /* border around the whole table */
+  line-height: 0.6;
 }
 .content>table:not(pre>code>table) thead {
   font-weight: bold;

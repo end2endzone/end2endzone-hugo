@@ -6,5 +6,4 @@
   - https://www.youtube.com/watch?v=K0WJRApcKCA
   - https://www.youtube.com/watch?v=jvgtbgQBjlM
 - Create a script instead of using `public` directory as a submodule. This workflow is too much complicated.
-- Reduce height if tables lines to minimum.
 - Consider setting ToC (Table of contents) open by default.
