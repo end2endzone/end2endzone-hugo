@@ -685,24 +685,25 @@ article, .post {
 
 /* Single line code references excluding inlined code blocks or hightlited inlined files */
 .prettycode,
-code:not(.highlight > pre > code) {
+code:not(.hljs) {
   background: RGB(200,200,200);
-    border: 1px solid;
-    border-color: #222222;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    margin: 0px;
-    color: black !important;
-    box-shadow: 1px 1px 0px #c8c8c8,-1px 1px 0px #c8c8c8,-1px -1px 0px #c8c8c8, 1px -1px 0px #c8c8c8;
-    font-family: monospace, serif;
-    font-size: 15px;
-    -webkit-hyphens: none;
-    -moz-hyphens: none;
-    -ms-hyphens: none;
-    hyphens: none;
-    line-height: 1.6;
+  border: 1px solid;
+  border-color: #222222;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin: 0px;
+  color: black;
+  box-shadow: 1px 1px 0px #c8c8c8,-1px 1px 0px #c8c8c8,-1px -1px 0px #c8c8c8, 1px -1px 0px #c8c8c8;
+  font-family: monospace, serif;
+  font-size: 15px;
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+  line-height: 1.6;
+  text-align: left;
 }
 
 
