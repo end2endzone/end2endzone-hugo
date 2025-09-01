@@ -9,7 +9,7 @@ tags:
 draft: true
 ---
 
-## Tables
+# Tables
 
 Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
 
@@ -19,18 +19,20 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
   Alice | 23
 
 
-#### Inline Markdown within tables
+## Inline Markdown within tables
 
 | Inline     | Markdown  | In                | Table      |
 | ---------- | --------- | ----------------- | ---------- |
 | *italics*  | **bold**  | ~~strikethrough~~ | `code`     |
 
 
-# cpp - code fences
+# Code fences
+
+## cpp
 ```cpp
 // Simple C++ program to display "Hello World"
 // Header file for input output functions
-#include<iostream>
+#include <iostream>
 using namespace std;
 // main function - where the execution of program begins
 int main()
@@ -41,7 +43,7 @@ int main()
 }
 ```
 
-# txt - code fences
+## txt
 ```txt
 Roses are red,
 Violets are blue,
@@ -49,7 +51,7 @@ Sugar is sweet,
 And so are you.
 ```
 
-# html - code fences
+## html
 ```html
 <html>
  <head>
@@ -60,7 +62,7 @@ And so are you.
 </html>
 ```
 
-# unspecified - code fences
+## unspecified
 ```
 The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela
 The way to get started is to quit talking and begin doing. -Walt Disney
@@ -70,6 +72,90 @@ If you look at what you have in life, you'll always have more. If you look at wh
 If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -James Cameron
 Life is what happens when you're busy making other plans. -John Lennon
 ```
+
+## hardcoded HTML pre tags
+<pre>
+OffsetTravel = (switch default travel (see below)) - Offset
+if OffsetTravel &lt; 0
+  SwitchMixValue = OffsetTravel / 100 * Low rate
+else
+  SwitchMixValue = OffsetTravel / 100 * High rate
+</pre>
+
+
+## static file with 'hightlight-static-file' shortcode
+{{< hightlight-static-file file="/static/wp-content/hello-world.cpp" lang="cpp" >}}
+
+
+## highlight shortcode (rendered by Hugo at build-time / compile-time)
+{{< highlight go "linenos=table,hl_lines=3 5-7,linenostart=199" >}}
+// Simple C++ program to display "Hello World"
+// Header file for input output functions
+#include <iostream>
+using namespace std;
+// main function - where the execution of program begins
+int main()
+{
+    // prints hello world
+    cout<<"Hello World";
+    return 0;
+}
+{{< /highlight >}}
+
+
+## with additional custom css classes (ie: 'postedit')
+```cpp {.postedit}
+// Simple C++ program to display "Hello World"
+// Header file for input output functions
+#include <iostream>
+using namespace std;
+// main function - where the execution of program begins
+int main()
+{
+    // prints hello world
+    cout<<"Hello World";
+    return 0;
+}
+```
+
+
+## wrapped in linenumbers shortcode
+{{< linenumbers >}}
+```cpp
+// Simple C++ program to display "Hello World"
+// Header file for input output functions
+#include <iostream>
+using namespace std;
+// main function - where the execution of program begins
+int main()
+{
+    // prints hello world
+    cout<<"Hello World";
+    return 0;
+}
+```
+{{< /linenumbers >}}
+
+{{< linenumbers >}}
+```js
+console.log("Hello, World!");
+```
+{{< /linenumbers >}}
+
+{{< linenumbers >}}
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hello World Page</title>
+</head>
+<body>
+  <h1>Hello, World!</h1>
+  <p>This is my first HTML page.</p>
+</body>
+</html>
+```
+{{< /linenumbers >}}
 
 
 # Image Galleries (as tables)
@@ -108,13 +194,3 @@ According to the [User Manual of the Spektrum DX9 Instruction Manual](http://www
 > - Linking primary to secondary trim.
 
 > These mixes are available for each model memory. Select a channel for master and slave. Inputs for the Master Channel control both the master and Slave Channels. For example, Elevator to Flap makes elevator the Master Channel and flap the Slave Channel. Change the offset value to move the effective center position of the Slave Channel. Positive or negative value determines the direction of the offset. Offset is not available for curve mixes.
-
-# Hardcoded HTML pre:
-
-<pre>
-OffsetTravel = (switch default travel (see below)) - Offset
-if OffsetTravel &lt; 0
-  SwitchMixValue = OffsetTravel / 100 \* Low rate
-else
-  SwitchMixValue = OffsetTravel / 100 \* High rate
-</pre>

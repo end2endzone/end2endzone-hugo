@@ -1,0 +1,20 @@
+{{- /* Initialize or bump a counter stored in .Page.Scratch */}}
+{{-  $scratch := .Page.Scratch -}}
+{{-  $scratch.Add "codeBlockCounter" 1 -}}
+{{-  $idx := $scratch.Get "codeBlockCounter" -}}
+
+{{- /* Build a stable, unique ID based on that counter */ -}}
+{{- $id := printf "code-block-%d" $idx -}}
+<div class="highlight">
+  <pre tabindex="0" class="chroma">
+    <code id="{{ $id }}" class="line-numbers">
+      {{- /* .Inner | htmlEscape */ -}}
+      {{- .Inner | markdownify -}}
+    </code>
+  </pre>
+</div>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    insertLineNumbersInCodeBlock('{{ $id }}');
+  });
+</script>
