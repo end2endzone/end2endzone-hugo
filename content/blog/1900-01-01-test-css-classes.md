@@ -42,6 +42,19 @@ Text in header 6 [this is a link to google.com](http://google.com)
 
 # Custom css classes
 
+### code blocks
+
+```cpp
+#include <iostream> // Include the iostream library for input/output operations
+
+int main() { // The main function, where program execution begins
+    std::cout << "Hello, World!" << std::endl; // Output "Hello, World!" to the console
+    return 0; // Indicate successful program execution
+}
+```
+
+`#include` is a preprocessor directive that tells the compiler to include a standard library.
+
 ### postedit
 {{< postedit >}}
   EDIT: Source code is now moved to GitHub. Source code can be downloaded from [the project's GitHub page](http://github.com/end2endzone/msbuildreorder).

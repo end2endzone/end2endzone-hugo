@@ -7,5 +7,4 @@
   - https://www.youtube.com/watch?v=jvgtbgQBjlM
 - Create a script instead of using `public` directory as a submodule. This workflow is too much complicated.
 - Reduce height if tables lines to minimum.
-- <code> brackets such as `<code>^</code>` should be displayed with black text over a grey background.
 - Consider setting ToC (Table of contents) open by default.
