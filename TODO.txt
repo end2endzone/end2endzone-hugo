@@ -7,3 +7,4 @@
   - https://www.youtube.com/watch?v=jvgtbgQBjlM
 - Create a script instead of using `public` directory as a submodule. This workflow is too much complicated.
 - Consider setting ToC (Table of contents) open by default.
+- Openning the hamburger when the blog window is too narrow shows a white background section.
