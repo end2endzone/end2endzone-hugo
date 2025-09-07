@@ -1,7 +1,8 @@
 {{/*
    Inspired from https://github.com/matcornic/hugo-theme-learn/blob/master/layouts/shortcodes/expand.html
    License: MIT License
-*/}}{{ $_hugo_config := `{ "version": 1 }` }}
+*/}}
+{{- $_hugo_config := `{ "version": 1 }` -}}
 <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
         <i style="font-size:x-small;" class="fas fa-chevron-right"></i>
@@ -9,7 +10,19 @@
           Table of contents
         </span>
     </div>
-    <div class="expand-content" style="display: none;">
+
+    {{- /* end2endzone: Display ToC visible by default */ -}}
+    {{- $tocDisplayValue := print "block" -}}
+
+    {{/* end2endzone: check if a default value is set for showing/hiding the ToC on page front matter */}}
+    {{- $tocForceClose := cond (isset .Params "toc_default_close") .Params.toc_default_close "false" -}}
+
+    {{- /* end2endzone: Change div's display CSS property if required */ -}}
+    {{- if eq $tocForceClose true -}}
+      {{- $tocDisplayValue = print "none" -}}
+    {{- end -}}
+
+    <div class="expand-content" style="display: {{ $tocDisplayValue }};">
       <aside>
         {{ .Page.TableOfContents }}
       </aside>

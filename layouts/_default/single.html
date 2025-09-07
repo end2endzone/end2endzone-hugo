@@ -13,7 +13,7 @@
       <div class="content">
         {{ .Render "featured" }}
 		
-        {{/* end2endzone override: enable or disable share buttons on a per page setting */}}
+        {{/* end2endzone override: enable or disable table-of-contents on a per page setting */}}
         {{ if not ( eq .Params.toc false) }}
           {{ partial "toc" . }}
         {{ end }}

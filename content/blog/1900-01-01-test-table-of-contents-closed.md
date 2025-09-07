@@ -1,5 +1,5 @@
 ---
-title: 'Test Table of Contents'
+title: 'Test Table of Contents (closed)'
 author: end2end
 date: 1900-01-01
 categories:
@@ -8,6 +8,9 @@ tags:
   - test
   - toc
 draft: true
+
+toc: true
+toc_default_close: true
 ---
 
 # Level 1
