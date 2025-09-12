@@ -42,9 +42,10 @@ jobs:
           workingDirectory: public
           args: >
             --verbose
-            --base "https://yourdomain.com"
+            --base-url "https://end2endzone.github.io/"
             --include-fragments
-            --filter "https://yourdomain.com"
+            --exclude '.*'
+            --include '^https?://end2endzone\.github\.io'
             "**/*.md" "**/*.html"
         # by default a non-zero exit here will fail the job
 
@@ -55,9 +56,9 @@ jobs:
           workingDirectory: public
           args: >
             --verbose
-            --base "https://yourdomain.com"
+            --base-url "https://end2endzone.github.io/"
             --include-fragments
-            --filter "!https://yourdomain.com"
+            --exclude '^https?://end2endzone\.github\.io'
             "**/*.md" "**/*.html"
         continue-on-error: true
 
