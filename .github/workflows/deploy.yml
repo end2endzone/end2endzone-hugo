@@ -39,16 +39,26 @@ jobs:
       - name: Check internal links
         uses: lycheeverse/lychee-action@v2
         with:
-          directory: public
-          args: --only-internal
+          workingDirectory: public
+          args: >
+            --verbose
+            --base "https://yourdomain.com"
+            --include-fragments
+            --filter "https://yourdomain.com"
+            "**/*.md" "**/*.html"
         # by default a non-zero exit here will fail the job
 
       # Check external links, emit warnings but don't fail
       - name: Check external links (warnings only)
         uses: lycheeverse/lychee-action@v2
         with:
-          directory: public
-          args: --only-external
+          workingDirectory: public
+          args: >
+            --verbose
+            --base "https://yourdomain.com"
+            --include-fragments
+            --filter "!https://yourdomain.com"
+            "**/*.md" "**/*.html"
         continue-on-error: true
 
       # Copy .gitignore and .gitattributes into public/
