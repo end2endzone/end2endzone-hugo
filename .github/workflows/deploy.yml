@@ -1,0 +1,87 @@
+name: Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout your Hugo source
+      - name: Checkout source repo
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # We'll use a custom token below
+
+      # Install Hugo extended v0.147.9
+      - name: Setup Hugo extended
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.147.9'
+          extended: true
+
+      # Build the site
+      - name: Build site
+        run: hugo --minify build
+
+      # Ensure public/ exists
+      - name: Verify public directory
+        run: |
+          if [ ! -d public ]; then
+            echo "ERROR: public/ directory not found. Hugo build failed."
+            exit 1
+          fi
+
+      # Check only internal links, fail on any broken link
+      - name: Check internal links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          directory: public
+          args: --only-internal
+        # by default a non-zero exit here will fail the job
+
+      # Check external links, emit warnings but don't fail
+      - name: Check external links (warnings only)
+        uses: lycheeverse/lychee-action@v2
+        with:
+          directory: public
+          args: --only-external
+        continue-on-error: true
+
+      # Copy .gitignore and .gitattributes into public/
+      - name: Copy manual files
+        run: cp .gitattributes public/
+
+      # 7. Checkout the deployment repo under /tmp
+      - name: Checkout end2endzone.github.io
+        uses: actions/checkout@v3
+        with:
+          repository: end2endzone/end2endzone.github.io
+          token: ${{ secrets.DEPLOY_TOKEN }}
+          path: /tmp/end2endzone.github.io
+          persist-credentials: false  # We'll use a custom token below
+
+      # 8. Sync public/ to the deployment checkout (preserves .git)
+      - name: Sync generated site to deployment repo
+        run: |
+          rsync -av --delete public/ /tmp/end2endzone.github.io/
+
+      # 9. Commit & push changes back to origin
+      - name: Commit and push
+        env:
+          GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+        run: |
+          cd /tmp/end2endzone.github.io
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.DEPLOY_TOKEN }}@github.com/end2endzone/end2endzone.github.io.git
+          git add -A
+          if git diff-index --quiet HEAD; then
+            echo "No changes detected, skipping commit."
+          else
+            git commit -m "Deploy updated site via GitHub Actions"
+            git push origin HEAD:main
+          fi
