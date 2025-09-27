@@ -25,7 +25,7 @@ jobs:
 
       # Build the site
       - name: Build site
-        run: hugo --minify build
+        run: ./ci/linux/build.sh
 
       # Ensure public/ exists
       - name: Verify public directory
@@ -37,17 +37,7 @@ jobs:
 
       # Check only internal links, fail on any broken link
       - name: Check internal links
-        uses: lycheeverse/lychee-action@v2
-        with:
-          workingDirectory: public
-          args: >
-            --verbose
-            --base-url "https://end2endzone.github.io/"
-            --include-fragments
-            --exclude '.*'
-            --include '^https?://end2endzone\.github\.io'
-            "**/*.md" "**/*.html"
-        # by default a non-zero exit here will fail the job
+        run: ./ci/linux/scan-local.sh
 
       # Check external links, emit warnings but don't fail
       - name: Check external links (warnings only)
