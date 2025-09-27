@@ -14,7 +14,7 @@ tags:
   - time lapse
 
 ---
-J'ai fait l'acquisition de mon premier quadrirotor. Puisque je préfère de loin [les options DIY](/tag/diy/), j'ai décidé de ne pas acheter un modèle RTF (ready-to-fly) et de plutôt opter pour un modèle livré à la maison en pièce détachée.
+J'ai fait l'acquisition de mon premier quadrirotor. Puisque je préfère de loin [les options DIY](/tags/diy/), j'ai décidé de ne pas acheter un modèle RTF (ready-to-fly) et de plutôt opter pour un modèle livré à la maison en pièce détachée.
 
 Tous comme avec mon [Avistar Elite](/deballage-du-avistar-elite-46-un-video-timelapse/), j'ai capturé le déballage et l'assemblage de l'engin sur photos afin de réaliser un vidéo time lapse.
 

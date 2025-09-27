@@ -92,7 +92,7 @@ The second device is a 95 decibel (dB) [piezoelectric speaker](http://en.wikiped
 
 There are already tons of existing options for a search alarm buzzer on the market, each with their own pros and cons. [Some buzzer](http://www.hobbyking.com/hobbyking/store/__14521__HobbyKing_174_Discovery_Buzzer.html) must be connected to a dedicated channel and make sound when flipping a switch on your controller. [Others](http://www.hobbyking.com/hobbyking/store/__13064__Signal_loss_Alarm_Lost_Plane_Finder.html) must be connected in series with the throttle channel and rings if the throttle signal has not changed for more than 60 seconds.
 
-However, I prefer the [DIY way](/tag/diy/) since it gives more personal satisfaction and the selected option is always the preferred one for my personal needs.
+However, I prefer the [DIY way](/tags/diy/) since it gives more personal satisfaction and the selected option is always the preferred one for my personal needs.
 
 With the DIY route, the piezo buzzer is much louder reaching peaks of 96 dB instead of 60-70 dB since the piezo is powered by the LiPo battery (in my case a 3S 11.1 volts) instead of a poor 5 volts. The sound volume for piezo buzzer is proportional to the voltage used to power the device meaning that a 4S LiPo battery (14.8v) would make it louder than a 3S LiPo.
 

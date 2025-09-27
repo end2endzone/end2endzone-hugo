@@ -10,13 +10,7 @@ hits:
 Snippet Title:
   - Downloadable content
 Snippet:
-  - |
-    |
-        Downloads available in this article:
-        Source code:
-        * [[download id="2480" template="title"]](/download/2480/)
-        * [[download id="2482" template="title"]](/download/2482/)
-        
+  - 
 categories:
   - Development
 tags:

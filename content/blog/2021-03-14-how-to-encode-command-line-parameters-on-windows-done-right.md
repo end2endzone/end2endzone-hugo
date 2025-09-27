@@ -21,7 +21,7 @@ This post is about the list of rules that the library implements for encoding an
 
 # Using libArgvCodec library
 
-The [libArgvCodec](/libargvcodec-a-c-library-which-properly-encode-and-decode-command-line-arguments/) library can be used for free and is released as Open Source. The code is available [here](/download/2480/). Feel free to download the library to use it in your own projects.
+The [libArgvCodec](/libargvcodec-a-c-library-which-properly-encode-and-decode-command-line-arguments/) library can be used for free and is released as Open Source. The code is available [here](https://github.com/end2endzone/libArgvCodec/archive/refs/tags/1.1.0.zip). Feel free to download the library to use it in your own projects.
 
 # Encoding and Decoding rules
 
