@@ -27,13 +27,17 @@ jobs:
       - name: Build site
         run: ./ci/linux/build.sh
 
-      # Ensure public/ exists
+      # Ensure build output directory exists
       - name: Verify public directory
         run: |
           if [ ! -d public ]; then
             echo "ERROR: public/ directory not found. Hugo build failed."
             exit 1
           fi
+
+      # Build the site
+      - name: Install lychee
+        run: ./ci/linux/install_lychee.sh
 
       # Check only internal links, fail on any broken link
       - name: Check internal links
