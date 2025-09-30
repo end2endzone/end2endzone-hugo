@@ -41,7 +41,7 @@ jobs:
 
       # Check only internal links, fail on any broken link
       - name: Check internal links
-        run: ./ci/linux/scan-local.sh
+        run: ./ci/linux/scan-local-links.sh
 
       # Check external links, emit warnings but don't fail
       - name: Check external links (warnings only)
