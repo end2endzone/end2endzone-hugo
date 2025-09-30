@@ -45,16 +45,7 @@ jobs:
 
       # Check external links, emit warnings but don't fail
       - name: Check external links (warnings only)
-        uses: lycheeverse/lychee-action@v2
-        with:
-          workingDirectory: public
-          args: >
-            --verbose
-            --base-url "https://end2endzone.github.io/"
-            --include-fragments
-            --exclude '^https?://end2endzone\.github\.io'
-            "**/*.md" "**/*.html"
-        continue-on-error: true
+        run: ./ci/linux/scan-external-links.sh || true
 
       # Copy .gitignore and .gitattributes into public/
       - name: Copy manual files
