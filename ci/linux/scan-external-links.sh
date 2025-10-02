@@ -33,7 +33,6 @@ lychee \
 # Capture lychee exit code
 scan_result=$?
 
-echo "done."
 echo "lychee's exit code: $scan_result."
 echo
 

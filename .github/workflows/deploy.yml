@@ -47,10 +47,6 @@ jobs:
       - name: Check external links (warnings only)
         run: ./ci/linux/scan-external-links.sh || true
 
-      # Copy .gitignore and .gitattributes into public/
-      - name: Copy manual files
-        run: cp .gitattributes public/
-
       # 7. Checkout the deployment repo under /tmp
       - name: Checkout end2endzone.github.io
         uses: actions/checkout@v3
