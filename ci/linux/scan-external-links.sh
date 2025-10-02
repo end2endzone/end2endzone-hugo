@@ -11,7 +11,9 @@ cd ../..
 
 # Start python3 web server in a background process
 echo "Starting web server..."
-./ci/linux/run_site.sh & WEBSERVER_PID=$!
+pushd public/ >/dev/null
+python3 -m http.server 8000 & WEBSERVER_PID=$!
+popd >/dev/null
 sleep 5
 echo "done."
 echo "Web server's pid is $WEBSERVER_PID." 
