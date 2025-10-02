@@ -12,7 +12,7 @@ cd ../..
 # Start python3 web server in a background process
 echo "Starting web server..."
 pushd public/ >/dev/null
-python3 -m http.server 8000 & WEBSERVER_PID=$!
+python3 -m http.server 8000 2>/dev/null & WEBSERVER_PID=$!
 popd >/dev/null
 sleep 5
 echo "done."
