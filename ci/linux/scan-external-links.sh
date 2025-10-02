@@ -20,6 +20,8 @@ echo
 # Check that web server is still running.
 ./ci/linux/assert_web_server_is_running.sh
 
+set +e  # Disable exit on error
+
 echo "Validating with lychee..."
 # Checking all links in files.
 # Since we already validated local links,
@@ -32,6 +34,8 @@ lychee \
 
 # Capture lychee exit code
 scan_result=$?
+
+set -e  # Re-enable exit on error
 
 echo "lychee's exit code: $scan_result."
 echo

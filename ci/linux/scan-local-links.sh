@@ -20,6 +20,8 @@ echo
 # Check that web server is still running.
 ./ci/linux/assert_web_server_is_running.sh
 
+set +e  # Disable exit on error
+
 echo "Validating with lychee..."
 # Checking local links in files. We only want to check local links
 # and not look at the links pointing to the internet.
@@ -35,6 +37,8 @@ lychee \
 --include '^https?://end2endzone\.github\.io/' \
 "http://localhost:8000"
 
+set -e  # Re-enable exit on error
+
 # Capture lychee exit code
 scan_result=$?
 
@@ -46,4 +50,5 @@ echo
 echo
 
 # Exit with lychee's exit code
+echo "Exiting with exit code $scan_result."
 exit $scan_result
