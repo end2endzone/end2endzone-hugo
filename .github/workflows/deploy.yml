@@ -35,9 +35,9 @@ jobs:
             exit 1
           fi
 
-      # Build the site
+      # Install dependency: lychee
       - name: Install lychee
-        run: ./ci/linux/install_lychee.sh
+        run: sudo ./ci/linux/install_lychee.sh
 
       # Check only internal links, fail on any broken link
       - name: Check internal links
