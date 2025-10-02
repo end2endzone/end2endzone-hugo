@@ -50,11 +50,21 @@ if kill -0 "$PID" 2>/dev/null; then
     kill -KILL "$PID" 2>/dev/null || true
   fi
 else
-  echo "Process with PID $PID exited gracefully."
+  echo "Process with PID $PID requested to exit gracefully."
 fi
 
 # Attempt to reap if this shell started the process.
 # Ignore errors if not a child.
 wait "$PID" 2>/dev/null || true
 
-exit 0
+# Add a grace period to prevent fast changing states.
+sleep 5
+
+# Check process exists again and we can signal it
+if ! kill -0 "$PID" 2>/dev/null; then
+  echo "Process with PID $PID is terminated." >&2
+  exit 0
+else
+  echo "error: process with PID $PID still exits!" >&2
+  exit 1
+fi
