@@ -45,7 +45,7 @@ jobs:
 
       # Check external links, emit warnings but don't fail
       - name: Check external links (warnings only)
-        run: ./ci/linux/scan-external-links.sh || true
+        run: ./ci/linux/scan-external-links.sh
 
       # 7. Checkout the deployment repo under /tmp
       - name: Checkout end2endzone.github.io
