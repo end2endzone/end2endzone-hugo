@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Exit immediately if a command fails.
+set -e
+
 # cd to project base directory
 cd "$(dirname "$0")"
 cd ../..

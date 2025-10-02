@@ -1,16 +1,24 @@
 #!/bin/bash
+set -euo pipefail
 
 # cd to project base directory
 cd "$(dirname "$0")"
 cd ../..
 
+# Check if a web server is already running on port 8000.
+# Fail if port already listening.
+./ci/linux/assert_web_server_not_running.sh
+
 # Start python3 web server in a background process
 echo "Starting web server..."
-./ci/linux/run_site.sh & BG_PID=$!
+./ci/linux/run_site.sh & WEBSERVER_PID=$!
 sleep 5
 echo "done."
-echo "Web server's pid is $BG_PID." 
+echo "Web server's pid is $WEBSERVER_PID." 
 echo
+
+# Check that web server is still running.
+./ci/linux/assert_web_server_is_running.sh
 
 echo "Validating with lychee..."
 # Checking all links in files.
@@ -30,9 +38,7 @@ echo "lychee's exit code: $scan_result."
 echo
 
 # Terminate running site background process
-echo "Terminating pid $BG_PID..." 
-kill -- -$BG_PID 2>/dev/null || true; kill "$BG_PID" 2>/dev/null || true; wait "$BG_PID" 2>/dev/null || true
-echo "done."
+./ci/linux/terminate_or_kill_pid.sh "$WEBSERVER_PID"
 echo
 
 # Exit disregarding lychess's previous errors.
