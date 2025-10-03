@@ -17,7 +17,7 @@ jobs:
           persist-credentials: false  # We'll use a custom token below
 
       # Checkout submodules
-      - name: Build site
+      - name: Checkout submodules
         run: git submodule update --init
 
       # Install Hugo extended v0.147.9
