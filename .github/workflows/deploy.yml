@@ -16,6 +16,10 @@ jobs:
         with:
           persist-credentials: false  # We'll use a custom token below
 
+      # Checkout submodules
+      - name: Build site
+        run: git submodule update --init
+
       # Install Hugo extended v0.147.9
       - name: Setup Hugo extended
         uses: peaceiris/actions-hugo@v2
@@ -54,24 +58,18 @@ jobs:
         with:
           repository: end2endzone/end2endzone.github.io
           token: ${{ secrets.DEPLOY_TOKEN }}
-          path: tmp/end2endzone.github.io
+          path: end2endzone.github.io
           persist-credentials: false  # We'll use a custom token
 
       # Move previous checkout location.
       - name: Move end2endzone.github.io to /tmp/
         run: |
-          ls -la
-          echo 111
-          ls -la tmp
-          echo 222
-          ls -la tmp/end2endzone.github.io
-          echo 333
-          mv tmp/end2endzone.github.io /tmp/end2endzone.github.io
+          mv end2endzone.github.io /tmp/end2endzone.github.io
 
       # Sync public/ to the deployment checkout (preserves .git)
       - name: Sync generated site to deployment repo
         run: |
-          rsync -av --delete public/ /tmp/end2endzone.github.io/
+          rsync -av --delete --exclude='.git/' public/ /tmp/end2endzone.github.io/
 
       # Commit & push changes back to origin
       - name: Commit and push
