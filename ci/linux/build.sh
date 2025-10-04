@@ -8,5 +8,6 @@ cd ../..
 # Build hugo site
 hugo --minify build
 
-# Copy more files from this project
+# Postbuild.
+# Copy more files to output directory.
 cp .gitattributes public/
