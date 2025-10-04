@@ -68,8 +68,7 @@ jobs:
 
       # Sync public/ to the deployment checkout (preserves .git)
       - name: Sync generated site to deployment repo
-        run: |
-          rsync -av --delete --exclude='.git/' public/ /tmp/end2endzone.github.io/
+        run: ./ci/linux/sync.sh
 
       # Commit & push changes back to origin
       - name: Commit and push
