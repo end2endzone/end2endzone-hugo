@@ -8,7 +8,6 @@ categories:
 tags:
   - Home Assistant
   - Tutorial
-draft: true
 ---
 
 # Contexte
