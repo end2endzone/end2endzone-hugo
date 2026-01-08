@@ -1,5 +1,5 @@
 ---
-title: 'Créer un sensor custom dans Home Assistant provenant d'une valeur MQTT'
+title: Créer un sensor personnalisé dans Home Assistant attachée à une valeur MQTT
 author: end2end
 date: 2026-01-08
 categories:
@@ -77,12 +77,14 @@ mqtt:
       value_template: "{{ value_json.lock_state }}"
 ```
 
-> Note:  
+{{< pleasenote >}}
+Note:  
 Après la modification, il faut redémarer Home Assistant pour que le changement soit disponible.
+{{< /pleasenote >}}
+
 
 # Valider
 
 Vous pouvez ensuite valider que l'état "réel" de la serrure est maintenant disponible via une entité.
 
-Pour ce faire, aller dans le menu [_Developper tools_, onglet _States_](http://homeassistant.local:8123/developer-tools/state) et faite une recherche pour `my serrure`.
-Vous devriez voir l'entité `sensor.my_serrure_porte_avant_advanced_lock_state` avec le State `locked`, `unlocked` ou `not_fully_locked`.
+Pour ce faire, aller dans le menu [_Developper tools_, onglet _States_](http://homeassistant.local:8123/developer-tools/state) et faite une recherche pour `my serrure`. Vous devriez voir l'entité `sensor.my_serrure_porte_avant_advanced_lock_state` avec le State `locked`, `unlocked` ou `not_fully_locked`.
