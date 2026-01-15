@@ -36,4 +36,13 @@
       <a href="{{ .PrevInSection.RelPermalink }}" class="button right"><span>{{ .PrevInSection.Title }}</span></a>
     {{ end }}
   </div>
+
+  {{/* end2endzone override: Add support for mermaid as per https://gohugo.io/content-management/diagrams/ */}}
+  {{ if .Store.Get "hasMermaid" }}
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({ startOnLoad: true, theme: 'dark' });
+    </script>
+  {{ end }}
+
 {{ end }}

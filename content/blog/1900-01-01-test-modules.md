@@ -9,7 +9,9 @@ tags:
 draft: true
 ---
 
-### Mermaid
+## Mermaid
+
+### sequenceDiagram
 
 ```mermaid
 sequenceDiagram
@@ -18,6 +20,22 @@ sequenceDiagram
     John-->>-Alice: Hi Alice, I can hear you!
     John-->>-Alice: I feel great!
 ```
+
+```mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail!
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+```
+
+### flowchart
 
 ```mermaid
 flowchart TD

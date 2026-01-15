@@ -1,0 +1,5 @@
+{{/* end2endzone override: Add support for mermaid as per https://gohugo.io/content-management/diagrams/ */}}
+<pre class="mermaid">
+  {{ .Inner | htmlEscape | safeHTML }}
+</pre>
+{{ .Page.Store.Set "hasMermaid" true }}
