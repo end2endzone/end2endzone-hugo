@@ -5,6 +5,9 @@ set -e
 cd "$(dirname "$0")"
 cd ../..
 
+# Update go modules
+hugo mod get -u
+
 # Build hugo site
 hugo --minify build
 

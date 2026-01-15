@@ -2,7 +2,7 @@
   <article>
     <div class="post">
       {{ .Render "header" }}
-	  
+
       {{/* end2endzone override: enable or disable share buttons on a per page setting */}}
       {{ if not ( eq .Params.share_buttons false) }}
         <div id="socnet-share">
@@ -36,4 +36,24 @@
       <a href="{{ .PrevInSection.RelPermalink }}" class="button right"><span>{{ .PrevInSection.Title }}</span></a>
     {{ end }}
   </div>
+
+  {{/* end2endzone override: Add support for mermaid as per https://hugomods.com/docs/content/mermaid/ */}}
+  {{/* Documentation of https://hugomods.com/docs/content/mermaid/ states to load 
+      the following partial: `{{ partial "mermaid/assets/js" . }}`.
+      But there is a bug in https://github.com/hugomods/mermaid/blob/main/layouts/partials/mermaid/assets/js.html
+      which do not render .Site.Params.mermaid.js_url. It tries to escape the input string.
+      The result is the following output:
+      ```
+      import mermaid from "https:\/\/cdn.jsdelivr.net\/npm\/mermaid@latest\/dist\/mermaid.esm.min.mjs";
+      ```
+  */}}
+
+  {{/* end2endzone override: Add support for mermaid as per https://gohugo.io/content-management/diagrams/ */}}
+  {{ if .Store.Get "hasMermaid" }}
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({ startOnLoad: true, theme: 'dark' });
+    </script>
+  {{ end }}
+
 {{ end }}
