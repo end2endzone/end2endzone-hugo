@@ -901,3 +901,48 @@ code:not(.hljs) {
   background: url(http://www.free-icons-download.net/images/warning-icon-52425.png) no-repeat 10px 50%;
   padding-left: 50px;
 }
+
+
+
+
+/*
+  Overrides for Mermaid rendered svg graphs.
+  Colors are designed to match mermaid's forest theme.
+*/
+.mermaid svg {
+  /*background-color: #535353;*/
+}
+
+.mermaid svg text {
+  fill: #d3d3d3 !important;
+}
+.mermaid svg line {
+  stroke: #d3d3d3 !important;
+}
+.mermaid svg marker path {
+  fill: #d3d3d3 !important;
+  stroke: #d3d3d3 !important;
+}
+
+/* Overrides for specific types of graphs */
+.mermaid svg[aria-roledescription="xychart"] .main .background {
+  fill: #666666;
+}
+.mermaid .flowchart .root .edgePaths {
+  stroke: #d3d3d3 !important;
+}
+.mermaid .classDiagram .root .edgePaths path {
+  stroke: #d3d3d3 !important;
+}
+.mermaid svg[aria-roledescription="sequence"] text.loopText > tspan {
+  fill: #d3d3d3 !important;
+}
+.mermaid .statediagram .root .edgePaths path {
+  stroke: #d3d3d3 !important;
+}
+.mermaid svg[aria-roledescription="pie"] text.slice {
+  fill: #000000 !important;
+}
+.mermaid svg[aria-roledescription="timeline"] text > tspan {
+  fill: #000000 !important;
+}
