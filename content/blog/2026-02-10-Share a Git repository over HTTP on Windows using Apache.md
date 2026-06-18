@@ -72,7 +72,7 @@ The architecture is straightforward:
 4. Configure Git HTTP Backend.  
    Append the following configuration at the end of `httpd.conf`:
 
-   ```conf
+   ```
    SetEnv GIT_PROJECT_ROOT D:/dev/repositories
    SetEnv GIT_HTTP_EXPORT_ALL
    
@@ -108,7 +108,7 @@ The architecture is straightforward:
 
 ### Create usernames and password file
 
-```
+```bat
 htpasswd -c ".\conf\git-users.htpasswd" john
 ```
 
@@ -122,7 +122,7 @@ A bare repository is a cloned repo without the working copy files (only the data
 It "matches" the content of the `.git` directory of a normal cloned repository.
 
 To clone a bare repository:
-```
+```bat
 cd /d D:\dev\repositories
 git clone --bare https://github.com/quartzquark/chess.git
 ```
@@ -134,7 +134,7 @@ You can also convert a normal repository to a bare repository. This will only ke
 
 For example:
 
-```
+```bat
 git clone --bare chess chess.git
 ```
 
@@ -143,11 +143,11 @@ git clone --bare chess chess.git
 The `git-daemon-export-ok` file is a crucial component of the Git daemon, serving as a whitelist to prevent accidental exposure of repositories. It is an empty file that can be created in the .git directory of a Git repository. This file is not committed with the repository's code but is created to allow the Git daemon to export the repository. The presence of this file is necessary for the Git daemon to function correctly and for clients to clone or fetch from the repository.
 
 
-From https://git-scm.com/docs/git-daemon:
+From https://git-scm.com/docs/git-daemon :
 > It verifies that the directory has the magic file "git-daemon-export-ok", and it will refuse to export any Git directory that hasn’t explicitly been marked for export this way (unless the --export-all parameter is specified). If you pass some directory paths as git daemon arguments, the offers are limited to repositories within those directories.
 
 The following command to creates the file:
-```
+```bat
 type nul > D:\dev\repositories\chess.git\git-daemon-export-ok
 ```
 
