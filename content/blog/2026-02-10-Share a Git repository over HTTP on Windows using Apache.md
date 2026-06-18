@@ -180,20 +180,13 @@ The repository should clone successfully.
 
 ## warning: remote HEAD refers to nonexistent ref, unable to checkout
 
-When cloning a repository, you may end up with the following warning:
+When you clone a reposotory, you may encounter the following warning:
 
 ```txt
-Cloning into 'FooBar'...
-remote: Enumerating objects: 57987, done.
-remote: Counting objects: 100% (57987/57987), done.
-remote: Compressing objects: 100% (14980/14980), done.
-remote: Total 57987 (delta 40789), reused 57987 (delta 40789), pack-reused 0 (from 0)
-Receiving objects: 100% (57987/57987), 27.15 MiB | 4.03 MiB/s, done.
-Resolving deltas: 100% (40789/40789), done.
 warning: remote HEAD refers to nonexistent ref, unable to checkout
 ```
 
-This is because the bare repository on the server has HEAD configured to a reference that does not exists. One of the reason is because the default branch configured is `master` instead of `main`. The default branch for a repository is stored in file `HEAD`. To check the default branch value, print the content of the `HEAD` file with the command `cat HEAD`. It should output something similar to `refs/heads/master`. If there is no branch named `master` in this repository, then you shall get the warning message above when cloning the repository.
+This occurs when the bare repository's `HEAD` points to a branch that does not exist. A common example is when HEAD refers to `refs/heads/master` when the repository actually uses `refs/heads/main`. This occurs when the repository's default branch configured is `master` instead of `main`. The default branch for a repository is stored in file `HEAD`. Print the content of `HEAD` file with the command `cat HEAD` to validate. It should output something similar to `refs/heads/master`. If there is no branch named `master` in this repository, then you shall get the warning message above when cloning the repository.
 
 To fix it, do the following:
 
